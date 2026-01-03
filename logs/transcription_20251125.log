@@ -1,0 +1,1748 @@
+[2025-11-25 01:37:02] ============================================================
+[2025-11-25 01:37:02] 📻 Batch WAV Transcription Service
+[2025-11-25 01:37:02] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 01:37:02] ============================================================
+[2025-11-25 01:37:02] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 01:37:02] ✅ Connected successfully
+[2025-11-25 01:37:02] ============================================================
+[2025-11-25 01:37:02] 📻 Processing RJR
+[2025-11-25 01:37:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 01:37:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 01:37:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 01:37:02] ------------------------------------------------------------
+[2025-11-25 01:37:02] 📋 Found 429 WAV file(s)
+[2025-11-25 01:37:02] 📝 Files to transcribe: 428
+[2025-11-25 01:37:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 01:37:02] ------------------------------------------------------------
+[2025-11-25 01:37:02] [1/30] Processing...
+[2025-11-25 01:37:02] 🎤 Transcribing: RJR_recording_20251124_115942_seg059.wav
+[2025-11-25 01:37:27]    ✅ Saved to: RJR_recording_20251124_115942_seg059_transcript.txt
+[2025-11-25 01:37:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_115942_seg059.wav
+[2025-11-25 01:37:27] [2/30] Processing...
+[2025-11-25 01:37:27] 🎤 Transcribing: RJR_recording_20251124_120003_seg000.wav
+[2025-11-25 01:40:11]    ✅ Saved to: RJR_recording_20251124_120003_seg000_transcript.txt
+[2025-11-25 01:40:11]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_120003_seg000.wav
+[2025-11-25 01:40:11] [3/30] Processing...
+[2025-11-25 01:40:11] 🎤 Transcribing: RJR_recording_20251124_120103_seg001.wav
+[2025-11-25 01:42:10]    ✅ Saved to: RJR_recording_20251124_120103_seg001_transcript.txt
+[2025-11-25 01:42:10]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_120103_seg001.wav
+[2025-11-25 01:42:10] [4/30] Processing...
+[2025-11-25 01:42:10] 🎤 Transcribing: RJR_recording_20251124_120205_seg002.wav
+[2025-11-25 01:44:50]    ✅ Saved to: RJR_recording_20251124_120205_seg002_transcript.txt
+[2025-11-25 01:44:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_120205_seg002.wav
+[2025-11-25 01:44:50] [5/30] Processing...
+[2025-11-25 01:44:50] 🎤 Transcribing: RJR_recording_20251124_130002_seg000.wav
+[2025-11-25 01:47:24]    ✅ Saved to: RJR_recording_20251124_130002_seg000_transcript.txt
+[2025-11-25 01:47:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130002_seg000.wav
+[2025-11-25 01:47:24] [6/30] Processing...
+[2025-11-25 01:47:24] 🎤 Transcribing: RJR_recording_20251124_130103_seg001.wav
+[2025-11-25 01:50:36]    ✅ Saved to: RJR_recording_20251124_130103_seg001_transcript.txt
+[2025-11-25 01:50:36]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130103_seg001.wav
+[2025-11-25 01:50:36] [7/30] Processing...
+[2025-11-25 01:50:36] 🎤 Transcribing: RJR_recording_20251124_130203_seg002.wav
+[2025-11-25 01:52:50]    ✅ Saved to: RJR_recording_20251124_130203_seg002_transcript.txt
+[2025-11-25 01:52:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130203_seg002.wav
+[2025-11-25 01:52:50] [8/30] Processing...
+[2025-11-25 01:52:50] 🎤 Transcribing: RJR_recording_20251124_130304_seg003.wav
+[2025-11-25 01:54:46]    ✅ Saved to: RJR_recording_20251124_130304_seg003_transcript.txt
+[2025-11-25 01:54:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130304_seg003.wav
+[2025-11-25 01:54:46] [9/30] Processing...
+[2025-11-25 01:54:46] 🎤 Transcribing: RJR_recording_20251124_130404_seg004.wav
+[2025-11-25 01:57:56]    ✅ Saved to: RJR_recording_20251124_130404_seg004_transcript.txt
+[2025-11-25 01:57:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130404_seg004.wav
+[2025-11-25 01:57:56] [10/30] Processing...
+[2025-11-25 01:57:56] 🎤 Transcribing: RJR_recording_20251124_130505_seg005.wav
+[2025-11-25 02:00:57]    ✅ Saved to: RJR_recording_20251124_130505_seg005_transcript.txt
+[2025-11-25 02:00:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130505_seg005.wav
+[2025-11-25 02:00:57] [11/30] Processing...
+[2025-11-25 02:00:57] 🎤 Transcribing: RJR_recording_20251124_130605_seg006.wav
+[2025-11-25 02:02:57]    ✅ Saved to: RJR_recording_20251124_130605_seg006_transcript.txt
+[2025-11-25 02:02:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130605_seg006.wav
+[2025-11-25 02:02:57] [12/30] Processing...
+[2025-11-25 02:02:57] 🎤 Transcribing: RJR_recording_20251124_130707_seg007.wav
+[2025-11-25 02:05:44]    ✅ Saved to: RJR_recording_20251124_130707_seg007_transcript.txt
+[2025-11-25 02:05:44]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130707_seg007.wav
+[2025-11-25 02:05:44] [13/30] Processing...
+[2025-11-25 02:05:44] 🎤 Transcribing: RJR_recording_20251124_130807_seg008.wav
+[2025-11-25 02:08:04]    ✅ Saved to: RJR_recording_20251124_130807_seg008_transcript.txt
+[2025-11-25 02:08:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130807_seg008.wav
+[2025-11-25 02:08:04] [14/30] Processing...
+[2025-11-25 02:08:04] 🎤 Transcribing: RJR_recording_20251124_130908_seg009.wav
+[2025-11-25 02:12:27]    ✅ Saved to: RJR_recording_20251124_130908_seg009_transcript.txt
+[2025-11-25 02:12:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_130908_seg009.wav
+[2025-11-25 02:12:27] [15/30] Processing...
+[2025-11-25 02:12:27] 🎤 Transcribing: RJR_recording_20251124_131008_seg010.wav
+[2025-11-25 02:14:07]    ✅ Saved to: RJR_recording_20251124_131008_seg010_transcript.txt
+[2025-11-25 02:14:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131008_seg010.wav
+[2025-11-25 02:14:07] [16/30] Processing...
+[2025-11-25 02:14:07] 🎤 Transcribing: RJR_recording_20251124_131109_seg011.wav
+[2025-11-25 02:16:16]    ✅ Saved to: RJR_recording_20251124_131109_seg011_transcript.txt
+[2025-11-25 02:16:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131109_seg011.wav
+[2025-11-25 02:16:16] [17/30] Processing...
+[2025-11-25 02:16:16] 🎤 Transcribing: RJR_recording_20251124_131209_seg012.wav
+[2025-11-25 02:18:31]    ✅ Saved to: RJR_recording_20251124_131209_seg012_transcript.txt
+[2025-11-25 02:18:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131209_seg012.wav
+[2025-11-25 02:18:31] [18/30] Processing...
+[2025-11-25 02:18:31] 🎤 Transcribing: RJR_recording_20251124_131309_seg013.wav
+[2025-11-25 02:19:49]    ✅ Saved to: RJR_recording_20251124_131309_seg013_transcript.txt
+[2025-11-25 02:19:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131309_seg013.wav
+[2025-11-25 02:19:49] [19/30] Processing...
+[2025-11-25 02:19:49] 🎤 Transcribing: RJR_recording_20251124_131410_seg014.wav
+[2025-11-25 02:21:58]    ✅ Saved to: RJR_recording_20251124_131410_seg014_transcript.txt
+[2025-11-25 02:21:58]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131410_seg014.wav
+[2025-11-25 02:21:58] [20/30] Processing...
+[2025-11-25 02:21:58] 🎤 Transcribing: RJR_recording_20251124_131512_seg015.wav
+[2025-11-25 02:24:42]    ✅ Saved to: RJR_recording_20251124_131512_seg015_transcript.txt
+[2025-11-25 02:24:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131512_seg015.wav
+[2025-11-25 02:24:42] [21/30] Processing...
+[2025-11-25 02:24:42] 🎤 Transcribing: RJR_recording_20251124_131613_seg016.wav
+[2025-11-25 02:26:57]    ✅ Saved to: RJR_recording_20251124_131613_seg016_transcript.txt
+[2025-11-25 02:26:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131613_seg016.wav
+[2025-11-25 02:26:57] [22/30] Processing...
+[2025-11-25 02:26:57] 🎤 Transcribing: RJR_recording_20251124_131714_seg017.wav
+[2025-11-25 02:29:06]    ✅ Saved to: RJR_recording_20251124_131714_seg017_transcript.txt
+[2025-11-25 02:29:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131714_seg017.wav
+[2025-11-25 02:29:06] [23/30] Processing...
+[2025-11-25 02:29:06] 🎤 Transcribing: RJR_recording_20251124_131815_seg018.wav
+[2025-11-25 02:30:46]    ✅ Saved to: RJR_recording_20251124_131815_seg018_transcript.txt
+[2025-11-25 02:30:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131815_seg018.wav
+[2025-11-25 02:30:46] [24/30] Processing...
+[2025-11-25 02:30:46] 🎤 Transcribing: RJR_recording_20251124_131917_seg019.wav
+[2025-11-25 02:33:16]    ✅ Saved to: RJR_recording_20251124_131917_seg019_transcript.txt
+[2025-11-25 02:33:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_131917_seg019.wav
+[2025-11-25 02:33:16] [25/30] Processing...
+[2025-11-25 02:33:16] 🎤 Transcribing: RJR_recording_20251124_132017_seg020.wav
+[2025-11-25 02:34:56]    ✅ Saved to: RJR_recording_20251124_132017_seg020_transcript.txt
+[2025-11-25 02:34:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132017_seg020.wav
+[2025-11-25 02:34:56] [26/30] Processing...
+[2025-11-25 02:34:56] 🎤 Transcribing: RJR_recording_20251124_132118_seg021.wav
+[2025-11-25 02:36:17]    ✅ Saved to: RJR_recording_20251124_132118_seg021_transcript.txt
+[2025-11-25 02:36:17]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132118_seg021.wav
+[2025-11-25 02:36:17] [27/30] Processing...
+[2025-11-25 02:36:17] 🎤 Transcribing: RJR_recording_20251124_132219_seg022.wav
+[2025-11-25 02:38:37]    ✅ Saved to: RJR_recording_20251124_132219_seg022_transcript.txt
+[2025-11-25 02:38:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132219_seg022.wav
+[2025-11-25 02:38:37] [28/30] Processing...
+[2025-11-25 02:38:37] 🎤 Transcribing: RJR_recording_20251124_132319_seg023.wav
+[2025-11-25 02:40:12]    ✅ Saved to: RJR_recording_20251124_132319_seg023_transcript.txt
+[2025-11-25 02:40:12]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132319_seg023.wav
+[2025-11-25 02:40:12] [29/30] Processing...
+[2025-11-25 02:40:12] 🎤 Transcribing: RJR_recording_20251124_132420_seg024.wav
+[2025-11-25 02:41:47]    ✅ Saved to: RJR_recording_20251124_132420_seg024_transcript.txt
+[2025-11-25 02:41:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132420_seg024.wav
+[2025-11-25 02:41:47] [30/30] Processing...
+[2025-11-25 02:41:47] 🎤 Transcribing: RJR_recording_20251124_132520_seg025.wav
+[2025-11-25 02:43:30]    ✅ Saved to: RJR_recording_20251124_132520_seg025_transcript.txt
+[2025-11-25 02:43:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132520_seg025.wav
+[2025-11-25 02:43:30] ------------------------------------------------------------
+[2025-11-25 02:43:30] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-25 02:43:30] ============================================================
+[2025-11-25 02:43:30] ============================================================
+[2025-11-25 02:43:30] 📻 Processing Power106
+[2025-11-25 02:43:30] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-25 02:43:30] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-25 02:43:30] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-25 02:43:30] ------------------------------------------------------------
+[2025-11-25 02:43:30] 📋 Found 568 WAV file(s)
+[2025-11-25 02:43:31] 📝 Files to transcribe: 568
+[2025-11-25 02:43:31] ⚠️  Limiting to 30 files per run
+[2025-11-25 02:43:31] ------------------------------------------------------------
+[2025-11-25 02:43:31] [1/30] Processing...
+[2025-11-25 02:43:31] 🎤 Transcribing: Power106_recording_20251124_103528_seg034.wav
+[2025-11-25 02:45:56]    ✅ Saved to: Power106_recording_20251124_103528_seg034_transcript.txt
+[2025-11-25 02:45:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_103528_seg034.wav
+[2025-11-25 02:45:56] [2/30] Processing...
+[2025-11-25 02:45:56] 🎤 Transcribing: Power106_recording_20251124_103628_seg035.wav
+[2025-11-25 02:49:19]    ✅ Saved to: Power106_recording_20251124_103628_seg035_transcript.txt
+[2025-11-25 02:49:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_103628_seg035.wav
+[2025-11-25 02:49:19] [3/30] Processing...
+[2025-11-25 02:49:19] 🎤 Transcribing: Power106_recording_20251124_103729_seg036.wav
+[2025-11-25 02:52:32]    ✅ Saved to: Power106_recording_20251124_103729_seg036_transcript.txt
+[2025-11-25 02:52:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_103729_seg036.wav
+[2025-11-25 02:52:32] [4/30] Processing...
+[2025-11-25 02:52:32] 🎤 Transcribing: Power106_recording_20251124_103829_seg037.wav
+[2025-11-25 02:54:36]    ✅ Saved to: Power106_recording_20251124_103829_seg037_transcript.txt
+[2025-11-25 02:54:36]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_103829_seg037.wav
+[2025-11-25 02:54:36] [5/30] Processing...
+[2025-11-25 02:54:36] 🎤 Transcribing: Power106_recording_20251124_103930_seg038.wav
+[2025-11-25 02:57:40]    ✅ Saved to: Power106_recording_20251124_103930_seg038_transcript.txt
+[2025-11-25 02:57:40]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_103930_seg038.wav
+[2025-11-25 02:57:40] [6/30] Processing...
+[2025-11-25 02:57:40] 🎤 Transcribing: Power106_recording_20251124_104030_seg039.wav
+[2025-11-25 03:00:06]    ✅ Saved to: Power106_recording_20251124_104030_seg039_transcript.txt
+[2025-11-25 03:00:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104030_seg039.wav
+[2025-11-25 03:00:06] [7/30] Processing...
+[2025-11-25 03:00:06] 🎤 Transcribing: Power106_recording_20251124_104133_seg040.wav
+[2025-11-25 03:02:48]    ✅ Saved to: Power106_recording_20251124_104133_seg040_transcript.txt
+[2025-11-25 03:02:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104133_seg040.wav
+[2025-11-25 03:02:48] [8/30] Processing...
+[2025-11-25 03:02:48] 🎤 Transcribing: Power106_recording_20251124_104233_seg041.wav
+[2025-11-25 03:05:38]    ✅ Saved to: Power106_recording_20251124_104233_seg041_transcript.txt
+[2025-11-25 03:05:38]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104233_seg041.wav
+[2025-11-25 03:05:38] [9/30] Processing...
+[2025-11-25 03:05:38] 🎤 Transcribing: Power106_recording_20251124_104334_seg042.wav
+[2025-11-25 03:07:59]    ✅ Saved to: Power106_recording_20251124_104334_seg042_transcript.txt
+[2025-11-25 03:07:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104334_seg042.wav
+[2025-11-25 03:07:59] [10/30] Processing...
+[2025-11-25 03:07:59] 🎤 Transcribing: Power106_recording_20251124_104435_seg043.wav
+[2025-11-25 03:10:08]    ✅ Saved to: Power106_recording_20251124_104435_seg043_transcript.txt
+[2025-11-25 03:10:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104435_seg043.wav
+[2025-11-25 03:10:08] [11/30] Processing...
+[2025-11-25 03:10:08] 🎤 Transcribing: Power106_recording_20251124_104535_seg044.wav
+[2025-11-25 03:12:46]    ✅ Saved to: Power106_recording_20251124_104535_seg044_transcript.txt
+[2025-11-25 03:12:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104535_seg044.wav
+[2025-11-25 03:12:46] [12/30] Processing...
+[2025-11-25 03:12:46] 🎤 Transcribing: Power106_recording_20251124_104635_seg045.wav
+[2025-11-25 03:15:26]    ✅ Saved to: Power106_recording_20251124_104635_seg045_transcript.txt
+[2025-11-25 03:15:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104635_seg045.wav
+[2025-11-25 03:15:26] [13/30] Processing...
+[2025-11-25 03:15:26] 🎤 Transcribing: Power106_recording_20251124_104736_seg046.wav
+[2025-11-25 03:17:41]    ✅ Saved to: Power106_recording_20251124_104736_seg046_transcript.txt
+[2025-11-25 03:17:41]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104736_seg046.wav
+[2025-11-25 03:17:41] [14/30] Processing...
+[2025-11-25 03:17:41] 🎤 Transcribing: Power106_recording_20251124_104839_seg047.wav
+[2025-11-25 03:20:20]    ✅ Saved to: Power106_recording_20251124_104839_seg047_transcript.txt
+[2025-11-25 03:20:20]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_104839_seg047.wav
+[2025-11-25 03:20:20] [15/30] Processing...
+[2025-11-25 03:20:20] 🎤 Transcribing: Power106_recording_20251124_110001_seg000.wav
+[2025-11-25 03:23:48]    ✅ Saved to: Power106_recording_20251124_110001_seg000_transcript.txt
+[2025-11-25 03:23:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110001_seg000.wav
+[2025-11-25 03:23:48] [16/30] Processing...
+[2025-11-25 03:23:48] 🎤 Transcribing: Power106_recording_20251124_110103_seg001.wav
+[2025-11-25 03:25:31]    ✅ Saved to: Power106_recording_20251124_110103_seg001_transcript.txt
+[2025-11-25 03:25:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110103_seg001.wav
+[2025-11-25 03:25:31] [17/30] Processing...
+[2025-11-25 03:25:31] 🎤 Transcribing: Power106_recording_20251124_110204_seg002.wav
+[2025-11-25 03:26:44]    ✅ Saved to: Power106_recording_20251124_110204_seg002_transcript.txt
+[2025-11-25 03:26:44]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110204_seg002.wav
+[2025-11-25 03:26:44] [18/30] Processing...
+[2025-11-25 03:26:44] 🎤 Transcribing: Power106_recording_20251124_110305_seg003.wav
+[2025-11-25 03:28:33]    ✅ Saved to: Power106_recording_20251124_110305_seg003_transcript.txt
+[2025-11-25 03:28:33]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110305_seg003.wav
+[2025-11-25 03:28:33] [19/30] Processing...
+[2025-11-25 03:28:33] 🎤 Transcribing: Power106_recording_20251124_110406_seg004.wav
+[2025-11-25 03:30:43]    ✅ Saved to: Power106_recording_20251124_110406_seg004_transcript.txt
+[2025-11-25 03:30:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110406_seg004.wav
+[2025-11-25 03:30:43] [20/30] Processing...
+[2025-11-25 03:30:43] 🎤 Transcribing: Power106_recording_20251124_110506_seg005.wav
+[2025-11-25 03:32:25]    ✅ Saved to: Power106_recording_20251124_110506_seg005_transcript.txt
+[2025-11-25 03:32:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110506_seg005.wav
+[2025-11-25 03:32:25] [21/30] Processing...
+[2025-11-25 03:32:25] 🎤 Transcribing: Power106_recording_20251124_110609_seg006.wav
+[2025-11-25 03:34:08]    ✅ Saved to: Power106_recording_20251124_110609_seg006_transcript.txt
+[2025-11-25 03:34:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110609_seg006.wav
+[2025-11-25 03:34:08] [22/30] Processing...
+[2025-11-25 03:34:08] 🎤 Transcribing: Power106_recording_20251124_110710_seg007.wav
+[2025-11-25 03:35:49]    ✅ Saved to: Power106_recording_20251124_110710_seg007_transcript.txt
+[2025-11-25 03:35:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110710_seg007.wav
+[2025-11-25 03:35:49] [23/30] Processing...
+[2025-11-25 03:35:49] 🎤 Transcribing: Power106_recording_20251124_110810_seg008.wav
+[2025-11-25 03:36:42]    ✅ Saved to: Power106_recording_20251124_110810_seg008_transcript.txt
+[2025-11-25 03:36:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110810_seg008.wav
+[2025-11-25 03:36:42] [24/30] Processing...
+[2025-11-25 03:36:42] 🎤 Transcribing: Power106_recording_20251124_110911_seg009.wav
+[2025-11-25 03:38:35]    ✅ Saved to: Power106_recording_20251124_110911_seg009_transcript.txt
+[2025-11-25 03:38:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_110911_seg009.wav
+[2025-11-25 03:38:35] [25/30] Processing...
+[2025-11-25 03:38:35] 🎤 Transcribing: Power106_recording_20251124_111011_seg010.wav
+[2025-11-25 03:41:32]    ✅ Saved to: Power106_recording_20251124_111011_seg010_transcript.txt
+[2025-11-25 03:41:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111011_seg010.wav
+[2025-11-25 03:41:32] [26/30] Processing...
+[2025-11-25 03:41:32] 🎤 Transcribing: Power106_recording_20251124_111113_seg011.wav
+[2025-11-25 03:44:05]    ✅ Saved to: Power106_recording_20251124_111113_seg011_transcript.txt
+[2025-11-25 03:44:05]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111113_seg011.wav
+[2025-11-25 03:44:05] [27/30] Processing...
+[2025-11-25 03:44:05] 🎤 Transcribing: Power106_recording_20251124_111213_seg012.wav
+[2025-11-25 03:47:04]    ✅ Saved to: Power106_recording_20251124_111213_seg012_transcript.txt
+[2025-11-25 03:47:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111213_seg012.wav
+[2025-11-25 03:47:04] [28/30] Processing...
+[2025-11-25 03:47:04] 🎤 Transcribing: Power106_recording_20251124_111315_seg013.wav
+[2025-11-25 03:49:34]    ✅ Saved to: Power106_recording_20251124_111315_seg013_transcript.txt
+[2025-11-25 03:49:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111315_seg013.wav
+[2025-11-25 03:49:34] [29/30] Processing...
+[2025-11-25 03:49:34] 🎤 Transcribing: Power106_recording_20251124_111415_seg014.wav
+[2025-11-25 03:52:59]    ✅ Saved to: Power106_recording_20251124_111415_seg014_transcript.txt
+[2025-11-25 03:52:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111415_seg014.wav
+[2025-11-25 03:52:59] [30/30] Processing...
+[2025-11-25 03:52:59] 🎤 Transcribing: Power106_recording_20251124_111515_seg015.wav
+[2025-11-25 03:56:04]    ✅ Saved to: Power106_recording_20251124_111515_seg015_transcript.txt
+[2025-11-25 03:56:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111515_seg015.wav
+[2025-11-25 03:56:04] ------------------------------------------------------------
+[2025-11-25 03:56:04] 📊 Power106 Results: 30 successful, 0 failed
+[2025-11-25 03:56:04] ============================================================
+[2025-11-25 03:56:04] ============================================================
+[2025-11-25 03:56:04] ✅ Batch transcription complete
+[2025-11-25 03:56:04] 📊 Total successful: 60
+[2025-11-25 03:56:04] ============================================================
+[2025-11-25 03:57:01] ============================================================
+[2025-11-25 03:57:01] 📻 Batch WAV Transcription Service
+[2025-11-25 03:57:01] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 03:57:01] ============================================================
+[2025-11-25 03:57:01] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 03:57:02] ✅ Connected successfully
+[2025-11-25 03:57:02] ============================================================
+[2025-11-25 03:57:02] 📻 Processing RJR
+[2025-11-25 03:57:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 03:57:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 03:57:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 03:57:02] ------------------------------------------------------------
+[2025-11-25 03:57:02] 📋 Found 483 WAV file(s)
+[2025-11-25 03:57:02] 📝 Files to transcribe: 482
+[2025-11-25 03:57:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 03:57:02] ------------------------------------------------------------
+[2025-11-25 03:57:02] [1/30] Processing...
+[2025-11-25 03:57:02] 🎤 Transcribing: RJR_recording_20251124_132622_seg026.wav
+[2025-11-25 03:58:50]    ✅ Saved to: RJR_recording_20251124_132622_seg026_transcript.txt
+[2025-11-25 03:58:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132622_seg026.wav
+[2025-11-25 03:58:50] [2/30] Processing...
+[2025-11-25 03:58:50] 🎤 Transcribing: RJR_recording_20251124_132722_seg027.wav
+[2025-11-25 04:01:06]    ✅ Saved to: RJR_recording_20251124_132722_seg027_transcript.txt
+[2025-11-25 04:01:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132722_seg027.wav
+[2025-11-25 04:01:06] [3/30] Processing...
+[2025-11-25 04:01:06] 🎤 Transcribing: RJR_recording_20251124_132823_seg028.wav
+[2025-11-25 04:03:11]    ✅ Saved to: RJR_recording_20251124_132823_seg028_transcript.txt
+[2025-11-25 04:03:11]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132823_seg028.wav
+[2025-11-25 04:03:11] [4/30] Processing...
+[2025-11-25 04:03:11] 🎤 Transcribing: RJR_recording_20251124_132923_seg029.wav
+[2025-11-25 04:04:42]    ✅ Saved to: RJR_recording_20251124_132923_seg029_transcript.txt
+[2025-11-25 04:04:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_132923_seg029.wav
+[2025-11-25 04:04:42] [5/30] Processing...
+[2025-11-25 04:04:42] 🎤 Transcribing: RJR_recording_20251124_133023_seg030.wav
+[2025-11-25 04:07:02]    ✅ Saved to: RJR_recording_20251124_133023_seg030_transcript.txt
+[2025-11-25 04:07:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133023_seg030.wav
+[2025-11-25 04:07:02] [6/30] Processing...
+[2025-11-25 04:07:02] 🎤 Transcribing: RJR_recording_20251124_133124_seg031.wav
+[2025-11-25 04:09:39]    ✅ Saved to: RJR_recording_20251124_133124_seg031_transcript.txt
+[2025-11-25 04:09:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133124_seg031.wav
+[2025-11-25 04:09:39] [7/30] Processing...
+[2025-11-25 04:09:39] 🎤 Transcribing: RJR_recording_20251124_133224_seg032.wav
+[2025-11-25 04:11:28]    ✅ Saved to: RJR_recording_20251124_133224_seg032_transcript.txt
+[2025-11-25 04:11:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133224_seg032.wav
+[2025-11-25 04:11:28] [8/30] Processing...
+[2025-11-25 04:11:28] 🎤 Transcribing: RJR_recording_20251124_133325_seg033.wav
+[2025-11-25 04:13:08]    ✅ Saved to: RJR_recording_20251124_133325_seg033_transcript.txt
+[2025-11-25 04:13:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133325_seg033.wav
+[2025-11-25 04:13:08] [9/30] Processing...
+[2025-11-25 04:13:08] 🎤 Transcribing: RJR_recording_20251124_133427_seg034.wav
+[2025-11-25 04:15:09]    ✅ Saved to: RJR_recording_20251124_133427_seg034_transcript.txt
+[2025-11-25 04:15:09]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133427_seg034.wav
+[2025-11-25 04:15:09] [10/30] Processing...
+[2025-11-25 04:15:09] 🎤 Transcribing: RJR_recording_20251124_133527_seg035.wav
+[2025-11-25 04:17:26]    ✅ Saved to: RJR_recording_20251124_133527_seg035_transcript.txt
+[2025-11-25 04:17:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133527_seg035.wav
+[2025-11-25 04:17:26] [11/30] Processing...
+[2025-11-25 04:17:26] 🎤 Transcribing: RJR_recording_20251124_133627_seg036.wav
+[2025-11-25 04:19:05]    ✅ Saved to: RJR_recording_20251124_133627_seg036_transcript.txt
+[2025-11-25 04:19:05]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133627_seg036.wav
+[2025-11-25 04:19:05] [12/30] Processing...
+[2025-11-25 04:19:05] 🎤 Transcribing: RJR_recording_20251124_133728_seg037.wav
+[2025-11-25 04:20:41]    ✅ Saved to: RJR_recording_20251124_133728_seg037_transcript.txt
+[2025-11-25 04:20:41]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133728_seg037.wav
+[2025-11-25 04:20:41] [13/30] Processing...
+[2025-11-25 04:20:41] 🎤 Transcribing: RJR_recording_20251124_133828_seg038.wav
+[2025-11-25 04:22:13]    ✅ Saved to: RJR_recording_20251124_133828_seg038_transcript.txt
+[2025-11-25 04:22:13]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133828_seg038.wav
+[2025-11-25 04:22:13] [14/30] Processing...
+[2025-11-25 04:22:13] 🎤 Transcribing: RJR_recording_20251124_133929_seg039.wav
+[2025-11-25 04:23:40]    ✅ Saved to: RJR_recording_20251124_133929_seg039_transcript.txt
+[2025-11-25 04:23:40]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_133929_seg039.wav
+[2025-11-25 04:23:40] [15/30] Processing...
+[2025-11-25 04:23:40] 🎤 Transcribing: RJR_recording_20251124_134029_seg040.wav
+[2025-11-25 04:25:19]    ✅ Saved to: RJR_recording_20251124_134029_seg040_transcript.txt
+[2025-11-25 04:25:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_134029_seg040.wav
+[2025-11-25 04:25:19] [16/30] Processing...
+[2025-11-25 04:25:19] 🎤 Transcribing: RJR_recording_20251124_134129_seg041.wav
+[2025-11-25 04:27:09]    ✅ Saved to: RJR_recording_20251124_134129_seg041_transcript.txt
+[2025-11-25 04:27:09]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_134129_seg041.wav
+[2025-11-25 04:27:09] [17/30] Processing...
+[2025-11-25 04:27:09] 🎤 Transcribing: RJR_recording_20251124_140002_seg000.wav
+[2025-11-25 04:28:57]    ✅ Saved to: RJR_recording_20251124_140002_seg000_transcript.txt
+[2025-11-25 04:28:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140002_seg000.wav
+[2025-11-25 04:28:57] [18/30] Processing...
+[2025-11-25 04:28:57] 🎤 Transcribing: RJR_recording_20251124_140102_seg001.wav
+[2025-11-25 04:32:03]    ✅ Saved to: RJR_recording_20251124_140102_seg001_transcript.txt
+[2025-11-25 04:32:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140102_seg001.wav
+[2025-11-25 04:32:03] [19/30] Processing...
+[2025-11-25 04:32:03] 🎤 Transcribing: RJR_recording_20251124_140202_seg002.wav
+[2025-11-25 04:35:13]    ✅ Saved to: RJR_recording_20251124_140202_seg002_transcript.txt
+[2025-11-25 04:35:13]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140202_seg002.wav
+[2025-11-25 04:35:13] [20/30] Processing...
+[2025-11-25 04:35:13] 🎤 Transcribing: RJR_recording_20251124_140303_seg003.wav
+[2025-11-25 04:37:24]    ✅ Saved to: RJR_recording_20251124_140303_seg003_transcript.txt
+[2025-11-25 04:37:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140303_seg003.wav
+[2025-11-25 04:37:24] [21/30] Processing...
+[2025-11-25 04:37:24] 🎤 Transcribing: RJR_recording_20251124_140403_seg004.wav
+[2025-11-25 04:39:25]    ✅ Saved to: RJR_recording_20251124_140403_seg004_transcript.txt
+[2025-11-25 04:39:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140403_seg004.wav
+[2025-11-25 04:39:25] [22/30] Processing...
+[2025-11-25 04:39:25] 🎤 Transcribing: RJR_recording_20251124_140503_seg005.wav
+[2025-11-25 04:41:07]    ✅ Saved to: RJR_recording_20251124_140503_seg005_transcript.txt
+[2025-11-25 04:41:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140503_seg005.wav
+[2025-11-25 04:41:07] [23/30] Processing...
+[2025-11-25 04:41:07] 🎤 Transcribing: RJR_recording_20251124_140604_seg006.wav
+[2025-11-25 04:42:50]    ✅ Saved to: RJR_recording_20251124_140604_seg006_transcript.txt
+[2025-11-25 04:42:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140604_seg006.wav
+[2025-11-25 04:42:50] [24/30] Processing...
+[2025-11-25 04:42:50] 🎤 Transcribing: RJR_recording_20251124_140704_seg007.wav
+[2025-11-25 04:44:03]    ✅ Saved to: RJR_recording_20251124_140704_seg007_transcript.txt
+[2025-11-25 04:44:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140704_seg007.wav
+[2025-11-25 04:44:03] [25/30] Processing...
+[2025-11-25 04:44:03] 🎤 Transcribing: RJR_recording_20251124_140805_seg008.wav
+[2025-11-25 04:45:37]    ✅ Saved to: RJR_recording_20251124_140805_seg008_transcript.txt
+[2025-11-25 04:45:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140805_seg008.wav
+[2025-11-25 04:45:37] [26/30] Processing...
+[2025-11-25 04:45:37] 🎤 Transcribing: RJR_recording_20251124_140907_seg009.wav
+[2025-11-25 04:47:34]    ✅ Saved to: RJR_recording_20251124_140907_seg009_transcript.txt
+[2025-11-25 04:47:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_140907_seg009.wav
+[2025-11-25 04:47:34] [27/30] Processing...
+[2025-11-25 04:47:34] 🎤 Transcribing: RJR_recording_20251124_141007_seg010.wav
+[2025-11-25 04:49:48]    ✅ Saved to: RJR_recording_20251124_141007_seg010_transcript.txt
+[2025-11-25 04:49:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141007_seg010.wav
+[2025-11-25 04:49:48] [28/30] Processing...
+[2025-11-25 04:49:48] 🎤 Transcribing: RJR_recording_20251124_141108_seg011.wav
+[2025-11-25 04:51:18]    ✅ Saved to: RJR_recording_20251124_141108_seg011_transcript.txt
+[2025-11-25 04:51:18]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141108_seg011.wav
+[2025-11-25 04:51:18] [29/30] Processing...
+[2025-11-25 04:51:18] 🎤 Transcribing: RJR_recording_20251124_141208_seg012.wav
+[2025-11-25 04:52:44]    ✅ Saved to: RJR_recording_20251124_141208_seg012_transcript.txt
+[2025-11-25 04:52:44]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141208_seg012.wav
+[2025-11-25 04:52:44] [30/30] Processing...
+[2025-11-25 04:52:44] 🎤 Transcribing: RJR_recording_20251124_141308_seg013.wav
+[2025-11-25 04:54:06]    ✅ Saved to: RJR_recording_20251124_141308_seg013_transcript.txt
+[2025-11-25 04:54:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141308_seg013.wav
+[2025-11-25 04:54:06] ------------------------------------------------------------
+[2025-11-25 04:54:06] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-25 04:54:06] ============================================================
+[2025-11-25 04:54:06] ============================================================
+[2025-11-25 04:54:06] 📻 Processing Power106
+[2025-11-25 04:54:06] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-25 04:54:06] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-25 04:54:06] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-25 04:54:06] ------------------------------------------------------------
+[2025-11-25 04:54:06] 📋 Found 556 WAV file(s)
+[2025-11-25 04:54:06] 📝 Files to transcribe: 556
+[2025-11-25 04:54:06] ⚠️  Limiting to 30 files per run
+[2025-11-25 04:54:06] ------------------------------------------------------------
+[2025-11-25 04:54:06] [1/30] Processing...
+[2025-11-25 04:54:06] 🎤 Transcribing: Power106_recording_20251124_111615_seg016.wav
+[2025-11-25 04:55:58]    ✅ Saved to: Power106_recording_20251124_111615_seg016_transcript.txt
+[2025-11-25 04:55:58]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111615_seg016.wav
+[2025-11-25 04:55:58] [2/30] Processing...
+[2025-11-25 04:55:58] 🎤 Transcribing: Power106_recording_20251124_111718_seg017.wav
+[2025-11-25 04:58:54]    ✅ Saved to: Power106_recording_20251124_111718_seg017_transcript.txt
+[2025-11-25 04:58:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111718_seg017.wav
+[2025-11-25 04:58:54] [3/30] Processing...
+[2025-11-25 04:58:54] 🎤 Transcribing: Power106_recording_20251124_111818_seg018.wav
+[2025-11-25 05:01:49]    ✅ Saved to: Power106_recording_20251124_111818_seg018_transcript.txt
+[2025-11-25 05:01:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111818_seg018.wav
+[2025-11-25 05:01:49] [4/30] Processing...
+[2025-11-25 05:01:49] 🎤 Transcribing: Power106_recording_20251124_111918_seg019.wav
+[2025-11-25 05:03:55]    ✅ Saved to: Power106_recording_20251124_111918_seg019_transcript.txt
+[2025-11-25 05:03:55]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_111918_seg019.wav
+[2025-11-25 05:03:55] [5/30] Processing...
+[2025-11-25 05:03:55] 🎤 Transcribing: Power106_recording_20251124_112018_seg020.wav
+[2025-11-25 05:07:07]    ✅ Saved to: Power106_recording_20251124_112018_seg020_transcript.txt
+[2025-11-25 05:07:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112018_seg020.wav
+[2025-11-25 05:07:07] [6/30] Processing...
+[2025-11-25 05:07:07] 🎤 Transcribing: Power106_recording_20251124_112119_seg021.wav
+[2025-11-25 05:09:28]    ✅ Saved to: Power106_recording_20251124_112119_seg021_transcript.txt
+[2025-11-25 05:09:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112119_seg021.wav
+[2025-11-25 05:09:28] [7/30] Processing...
+[2025-11-25 05:09:28] 🎤 Transcribing: Power106_recording_20251124_112219_seg022.wav
+[2025-11-25 05:12:22]    ✅ Saved to: Power106_recording_20251124_112219_seg022_transcript.txt
+[2025-11-25 05:12:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112219_seg022.wav
+[2025-11-25 05:12:22] [8/30] Processing...
+[2025-11-25 05:12:22] 🎤 Transcribing: Power106_recording_20251124_112321_seg023.wav
+[2025-11-25 05:15:24]    ✅ Saved to: Power106_recording_20251124_112321_seg023_transcript.txt
+[2025-11-25 05:15:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112321_seg023.wav
+[2025-11-25 05:15:24] [9/30] Processing...
+[2025-11-25 05:15:24] 🎤 Transcribing: Power106_recording_20251124_112422_seg024.wav
+[2025-11-25 05:18:08]    ✅ Saved to: Power106_recording_20251124_112422_seg024_transcript.txt
+[2025-11-25 05:18:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112422_seg024.wav
+[2025-11-25 05:18:08] [10/30] Processing...
+[2025-11-25 05:18:08] 🎤 Transcribing: Power106_recording_20251124_112524_seg025.wav
+[2025-11-25 05:21:26]    ✅ Saved to: Power106_recording_20251124_112524_seg025_transcript.txt
+[2025-11-25 05:21:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112524_seg025.wav
+[2025-11-25 05:21:26] [11/30] Processing...
+[2025-11-25 05:21:26] 🎤 Transcribing: Power106_recording_20251124_112624_seg026.wav
+[2025-11-25 05:24:11]    ✅ Saved to: Power106_recording_20251124_112624_seg026_transcript.txt
+[2025-11-25 05:24:11]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112624_seg026.wav
+[2025-11-25 05:24:11] [12/30] Processing...
+[2025-11-25 05:24:11] 🎤 Transcribing: Power106_recording_20251124_112724_seg027.wav
+[2025-11-25 05:26:28]    ✅ Saved to: Power106_recording_20251124_112724_seg027_transcript.txt
+[2025-11-25 05:26:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112724_seg027.wav
+[2025-11-25 05:26:28] [13/30] Processing...
+[2025-11-25 05:26:28] 🎤 Transcribing: Power106_recording_20251124_112825_seg028.wav
+[2025-11-25 05:28:37]    ✅ Saved to: Power106_recording_20251124_112825_seg028_transcript.txt
+[2025-11-25 05:28:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112825_seg028.wav
+[2025-11-25 05:28:37] [14/30] Processing...
+[2025-11-25 05:28:37] 🎤 Transcribing: Power106_recording_20251124_112925_seg029.wav
+[2025-11-25 05:31:37]    ✅ Saved to: Power106_recording_20251124_112925_seg029_transcript.txt
+[2025-11-25 05:31:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_112925_seg029.wav
+[2025-11-25 05:31:37] [15/30] Processing...
+[2025-11-25 05:31:37] 🎤 Transcribing: Power106_recording_20251124_113026_seg030.wav
+[2025-11-25 05:34:09]    ✅ Saved to: Power106_recording_20251124_113026_seg030_transcript.txt
+[2025-11-25 05:34:09]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113026_seg030.wav
+[2025-11-25 05:34:09] [16/30] Processing...
+[2025-11-25 05:34:09] 🎤 Transcribing: Power106_recording_20251124_113126_seg031.wav
+[2025-11-25 05:38:17]    ✅ Saved to: Power106_recording_20251124_113126_seg031_transcript.txt
+[2025-11-25 05:38:17]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113126_seg031.wav
+[2025-11-25 05:38:17] [17/30] Processing...
+[2025-11-25 05:38:17] 🎤 Transcribing: Power106_recording_20251124_113228_seg032.wav
+[2025-11-25 05:41:00]    ✅ Saved to: Power106_recording_20251124_113228_seg032_transcript.txt
+[2025-11-25 05:41:00]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113228_seg032.wav
+[2025-11-25 05:41:00] [18/30] Processing...
+[2025-11-25 05:41:00] 🎤 Transcribing: Power106_recording_20251124_113330_seg033.wav
+[2025-11-25 05:44:06]    ✅ Saved to: Power106_recording_20251124_113330_seg033_transcript.txt
+[2025-11-25 05:44:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113330_seg033.wav
+[2025-11-25 05:44:06] [19/30] Processing...
+[2025-11-25 05:44:06] 🎤 Transcribing: Power106_recording_20251124_113430_seg034.wav
+[2025-11-25 05:47:01]    ✅ Saved to: Power106_recording_20251124_113430_seg034_transcript.txt
+[2025-11-25 05:47:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113430_seg034.wav
+[2025-11-25 05:47:01] [20/30] Processing...
+[2025-11-25 05:47:01] 🎤 Transcribing: Power106_recording_20251124_113530_seg035.wav
+[2025-11-25 05:51:23]    ✅ Saved to: Power106_recording_20251124_113530_seg035_transcript.txt
+[2025-11-25 05:51:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113530_seg035.wav
+[2025-11-25 05:51:23] [21/30] Processing...
+[2025-11-25 05:51:23] 🎤 Transcribing: Power106_recording_20251124_113631_seg036.wav
+[2025-11-25 05:54:10]    ✅ Saved to: Power106_recording_20251124_113631_seg036_transcript.txt
+[2025-11-25 05:54:10]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113631_seg036.wav
+[2025-11-25 05:54:10] [22/30] Processing...
+[2025-11-25 05:54:10] 🎤 Transcribing: Power106_recording_20251124_113731_seg037.wav
+[2025-11-25 05:58:32]    ✅ Saved to: Power106_recording_20251124_113731_seg037_transcript.txt
+[2025-11-25 05:58:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113731_seg037.wav
+[2025-11-25 05:58:32] [23/30] Processing...
+[2025-11-25 05:58:32] 🎤 Transcribing: Power106_recording_20251124_113833_seg038.wav
+[2025-11-25 06:01:56]    ✅ Saved to: Power106_recording_20251124_113833_seg038_transcript.txt
+[2025-11-25 06:01:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113833_seg038.wav
+[2025-11-25 06:01:56] [24/30] Processing...
+[2025-11-25 06:01:56] 🎤 Transcribing: Power106_recording_20251124_113933_seg039.wav
+[2025-11-25 06:03:51]    ✅ Saved to: Power106_recording_20251124_113933_seg039_transcript.txt
+[2025-11-25 06:03:51]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_113933_seg039.wav
+[2025-11-25 06:03:51] [25/30] Processing...
+[2025-11-25 06:03:51] 🎤 Transcribing: Power106_recording_20251124_114033_seg040.wav
+[2025-11-25 06:06:35]    ✅ Saved to: Power106_recording_20251124_114033_seg040_transcript.txt
+[2025-11-25 06:06:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114033_seg040.wav
+[2025-11-25 06:06:35] [26/30] Processing...
+[2025-11-25 06:06:35] 🎤 Transcribing: Power106_recording_20251124_114134_seg041.wav
+[2025-11-25 06:09:54]    ✅ Saved to: Power106_recording_20251124_114134_seg041_transcript.txt
+[2025-11-25 06:09:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114134_seg041.wav
+[2025-11-25 06:09:54] [27/30] Processing...
+[2025-11-25 06:09:54] 🎤 Transcribing: Power106_recording_20251124_114234_seg042.wav
+[2025-11-25 06:12:25]    ✅ Saved to: Power106_recording_20251124_114234_seg042_transcript.txt
+[2025-11-25 06:12:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114234_seg042.wav
+[2025-11-25 06:12:25] [28/30] Processing...
+[2025-11-25 06:12:25] 🎤 Transcribing: Power106_recording_20251124_114336_seg043.wav
+[2025-11-25 06:15:26]    ✅ Saved to: Power106_recording_20251124_114336_seg043_transcript.txt
+[2025-11-25 06:15:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114336_seg043.wav
+[2025-11-25 06:15:26] [29/30] Processing...
+[2025-11-25 06:15:26] 🎤 Transcribing: Power106_recording_20251124_114436_seg044.wav
+[2025-11-25 06:19:14]    ✅ Saved to: Power106_recording_20251124_114436_seg044_transcript.txt
+[2025-11-25 06:19:14]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114436_seg044.wav
+[2025-11-25 06:19:14] [30/30] Processing...
+[2025-11-25 06:19:14] 🎤 Transcribing: Power106_recording_20251124_114536_seg045.wav
+[2025-11-25 06:21:37]    ✅ Saved to: Power106_recording_20251124_114536_seg045_transcript.txt
+[2025-11-25 06:21:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_114536_seg045.wav
+[2025-11-25 06:21:37] ------------------------------------------------------------
+[2025-11-25 06:21:37] 📊 Power106 Results: 30 successful, 0 failed
+[2025-11-25 06:21:37] ============================================================
+[2025-11-25 06:21:37] ============================================================
+[2025-11-25 06:21:37] ✅ Batch transcription complete
+[2025-11-25 06:21:37] 📊 Total successful: 60
+[2025-11-25 06:21:37] ============================================================
+[2025-11-25 06:22:01] ============================================================
+[2025-11-25 06:22:01] 📻 Batch WAV Transcription Service
+[2025-11-25 06:22:01] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 06:22:01] ============================================================
+[2025-11-25 06:22:01] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 06:22:02] ✅ Connected successfully
+[2025-11-25 06:22:02] ============================================================
+[2025-11-25 06:22:02] 📻 Processing RJR
+[2025-11-25 06:22:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 06:22:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 06:22:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 06:22:02] ------------------------------------------------------------
+[2025-11-25 06:22:02] 📋 Found 453 WAV file(s)
+[2025-11-25 06:22:02] 📝 Files to transcribe: 452
+[2025-11-25 06:22:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 06:22:02] ------------------------------------------------------------
+[2025-11-25 06:22:02] [1/30] Processing...
+[2025-11-25 06:22:02] 🎤 Transcribing: RJR_recording_20251124_141408_seg014.wav
+[2025-11-25 06:23:54]    ✅ Saved to: RJR_recording_20251124_141408_seg014_transcript.txt
+[2025-11-25 06:23:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141408_seg014.wav
+[2025-11-25 06:23:54] [2/30] Processing...
+[2025-11-25 06:23:54] 🎤 Transcribing: RJR_recording_20251124_141509_seg015.wav
+[2025-11-25 06:25:45]    ✅ Saved to: RJR_recording_20251124_141509_seg015_transcript.txt
+[2025-11-25 06:25:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141509_seg015.wav
+[2025-11-25 06:25:45] [3/30] Processing...
+[2025-11-25 06:25:45] 🎤 Transcribing: RJR_recording_20251124_141609_seg016.wav
+[2025-11-25 06:28:35]    ✅ Saved to: RJR_recording_20251124_141609_seg016_transcript.txt
+[2025-11-25 06:28:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141609_seg016.wav
+[2025-11-25 06:28:35] [4/30] Processing...
+[2025-11-25 06:28:35] 🎤 Transcribing: RJR_recording_20251124_141710_seg017.wav
+[2025-11-25 06:30:47]    ✅ Saved to: RJR_recording_20251124_141710_seg017_transcript.txt
+[2025-11-25 06:30:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141710_seg017.wav
+[2025-11-25 06:30:47] [5/30] Processing...
+[2025-11-25 06:30:47] 🎤 Transcribing: RJR_recording_20251124_141810_seg018.wav
+[2025-11-25 06:32:03]    ✅ Saved to: RJR_recording_20251124_141810_seg018_transcript.txt
+[2025-11-25 06:32:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141810_seg018.wav
+[2025-11-25 06:32:03] [6/30] Processing...
+[2025-11-25 06:32:03] 🎤 Transcribing: RJR_recording_20251124_141912_seg019.wav
+[2025-11-25 06:34:03]    ✅ Saved to: RJR_recording_20251124_141912_seg019_transcript.txt
+[2025-11-25 06:34:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_141912_seg019.wav
+[2025-11-25 06:34:03] [7/30] Processing...
+[2025-11-25 06:34:03] 🎤 Transcribing: RJR_recording_20251124_142013_seg020.wav
+[2025-11-25 06:35:36]    ✅ Saved to: RJR_recording_20251124_142013_seg020_transcript.txt
+[2025-11-25 06:35:36]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142013_seg020.wav
+[2025-11-25 06:35:36] [8/30] Processing...
+[2025-11-25 06:35:36] 🎤 Transcribing: RJR_recording_20251124_142113_seg021.wav
+[2025-11-25 06:37:09]    ✅ Saved to: RJR_recording_20251124_142113_seg021_transcript.txt
+[2025-11-25 06:37:09]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142113_seg021.wav
+[2025-11-25 06:37:09] [9/30] Processing...
+[2025-11-25 06:37:09] 🎤 Transcribing: RJR_recording_20251124_142214_seg022.wav
+[2025-11-25 06:39:08]    ✅ Saved to: RJR_recording_20251124_142214_seg022_transcript.txt
+[2025-11-25 06:39:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142214_seg022.wav
+[2025-11-25 06:39:08] [10/30] Processing...
+[2025-11-25 06:39:08] 🎤 Transcribing: RJR_recording_20251124_142314_seg023.wav
+[2025-11-25 06:40:27]    ✅ Saved to: RJR_recording_20251124_142314_seg023_transcript.txt
+[2025-11-25 06:40:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142314_seg023.wav
+[2025-11-25 06:40:27] [11/30] Processing...
+[2025-11-25 06:40:27] 🎤 Transcribing: RJR_recording_20251124_142414_seg024.wav
+[2025-11-25 06:42:37]    ✅ Saved to: RJR_recording_20251124_142414_seg024_transcript.txt
+[2025-11-25 06:42:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142414_seg024.wav
+[2025-11-25 06:42:37] [12/30] Processing...
+[2025-11-25 06:42:37] 🎤 Transcribing: RJR_recording_20251124_142515_seg025.wav
+[2025-11-25 06:44:38]    ✅ Saved to: RJR_recording_20251124_142515_seg025_transcript.txt
+[2025-11-25 06:44:38]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142515_seg025.wav
+[2025-11-25 06:44:38] [13/30] Processing...
+[2025-11-25 06:44:38] 🎤 Transcribing: RJR_recording_20251124_142615_seg026.wav
+[2025-11-25 06:46:11]    ✅ Saved to: RJR_recording_20251124_142615_seg026_transcript.txt
+[2025-11-25 06:46:11]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142615_seg026.wav
+[2025-11-25 06:46:11] [14/30] Processing...
+[2025-11-25 06:46:11] 🎤 Transcribing: RJR_recording_20251124_142717_seg027.wav
+[2025-11-25 06:48:02]    ✅ Saved to: RJR_recording_20251124_142717_seg027_transcript.txt
+[2025-11-25 06:48:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142717_seg027.wav
+[2025-11-25 06:48:02] [15/30] Processing...
+[2025-11-25 06:48:02] 🎤 Transcribing: RJR_recording_20251124_142817_seg028.wav
+[2025-11-25 06:49:39]    ✅ Saved to: RJR_recording_20251124_142817_seg028_transcript.txt
+[2025-11-25 06:49:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142817_seg028.wav
+[2025-11-25 06:49:39] [16/30] Processing...
+[2025-11-25 06:49:39] 🎤 Transcribing: RJR_recording_20251124_142918_seg029.wav
+[2025-11-25 06:51:02]    ✅ Saved to: RJR_recording_20251124_142918_seg029_transcript.txt
+[2025-11-25 06:51:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_142918_seg029.wav
+[2025-11-25 06:51:02] [17/30] Processing...
+[2025-11-25 06:51:02] 🎤 Transcribing: RJR_recording_20251124_143018_seg030.wav
+[2025-11-25 06:54:21]    ✅ Saved to: RJR_recording_20251124_143018_seg030_transcript.txt
+[2025-11-25 06:54:21]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_143018_seg030.wav
+[2025-11-25 06:54:21] [18/30] Processing...
+[2025-11-25 06:54:21] 🎤 Transcribing: RJR_recording_20251124_143118_seg031.wav
+[2025-11-25 06:57:01]    ✅ Saved to: RJR_recording_20251124_143118_seg031_transcript.txt
+[2025-11-25 06:57:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_143118_seg031.wav
+[2025-11-25 06:57:01] [19/30] Processing...
+[2025-11-25 06:57:01] 🎤 Transcribing: RJR_recording_20251124_143218_seg032.wav
+[2025-11-25 06:59:18]    ✅ Saved to: RJR_recording_20251124_143218_seg032_transcript.txt
+[2025-11-25 06:59:18]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_143218_seg032.wav
+[2025-11-25 06:59:18] [20/30] Processing...
+[2025-11-25 06:59:18] 🎤 Transcribing: RJR_recording_20251124_143319_seg033.wav
+[2025-11-25 07:02:33]    ❌ Transcription failed: [Errno 28] No space left on device
+[2025-11-25 07:02:33] [21/30] Processing...
+[2025-11-25 07:02:33] 🎤 Transcribing: RJR_recording_20251124_143419_seg034.wav
+[2025-11-25 07:05:16]    ❌ Transcription failed: [Errno 28] No space left on device
+[2025-11-25 07:05:16] [22/30] Processing...
+[2025-11-25 07:05:16] 🎤 Transcribing: RJR_recording_20251124_143519_seg035.wav
+[2025-11-25 07:07:50]    ❌ Transcription failed: [Errno 28] No space left on device
+[2025-11-25 07:07:50] [23/30] Processing...
+[2025-11-25 07:07:50] 🎤 Transcribing: RJR_recording_20251124_143620_seg036.wav
+[2025-11-25 07:09:22]    ❌ Transcription failed: [Errno 28] No space left on device
+[2025-11-25 07:09:22] [24/30] Processing...
+[2025-11-25 07:09:22] 🎤 Transcribing: RJR_recording_20251124_143720_seg037.wav
+[2025-11-25 07:11:28]    ❌ Transcription failed: [Errno 28] No space [2025-11-25 17:18:02] ============================================================
+[2025-11-25 17:18:02] 📻 Batch WAV Transcription Service
+[2025-11-25 17:18:02] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 17:18:02] ============================================================
+[2025-11-25 17:18:02] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 17:18:02] ✅ Connected successfully
+[2025-11-25 17:18:02] ============================================================
+[2025-11-25 17:18:02] 📻 Processing RJR
+[2025-11-25 17:18:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 17:18:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 17:18:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 17:18:02] ------------------------------------------------------------
+[2025-11-25 17:18:02] 📋 Found 434 WAV file(s)
+[2025-11-25 17:18:02] 📝 Files to transcribe: 422
+[2025-11-25 17:18:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 17:18:02] ------------------------------------------------------------
+[2025-11-25 17:18:02] [1/30] Processing...
+[2025-11-25 17:18:02] 🎤 Transcribing: RJR_recording_20251124_144425_seg044.wav
+[2025-11-25 17:20:57]    ✅ Saved to: RJR_recording_20251124_144425_seg044_transcript.txt
+[2025-11-25 17:20:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144425_seg044.wav
+[2025-11-25 17:20:57] [2/30] Processing...
+[2025-11-25 17:20:57] 🎤 Transcribing: RJR_recording_20251124_144527_seg045.wav
+[2025-11-25 17:23:27]    ✅ Saved to: RJR_recording_20251124_144527_seg045_transcript.txt
+[2025-11-25 17:23:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144527_seg045.wav
+[2025-11-25 17:23:27] [3/30] Processing...
+[2025-11-25 17:23:27] 🎤 Transcribing: RJR_recording_20251124_144628_seg046.wav
+[2025-11-25 17:24:30]    ✅ Saved to: RJR_recording_20251124_144628_seg046_transcript.txt
+[2025-11-25 17:24:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144628_seg046.wav
+[2025-11-25 17:24:30] [4/30] Processing...
+[2025-11-25 17:24:30] 🎤 Transcribing: RJR_recording_20251124_144728_seg047.wav
+[2025-11-25 17:26:16]    ✅ Saved to: RJR_recording_20251124_144728_seg047_transcript.txt
+[2025-11-25 17:26:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144728_seg047.wav
+[2025-11-25 17:26:16] [5/30] Processing...
+[2025-11-25 17:26:16] 🎤 Transcribing: RJR_recording_20251124_144829_seg048.wav
+[2025-11-25 17:28:41]    ✅ Saved to: RJR_recording_20251124_144829_seg048_transcript.txt
+[2025-11-25 17:28:41]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144829_seg048.wav
+[2025-11-25 17:28:41] [6/30] Processing...
+[2025-11-25 17:28:41] 🎤 Transcribing: RJR_recording_20251124_144930_seg049.wav
+[2025-11-25 17:31:08]    ✅ Saved to: RJR_recording_20251124_144930_seg049_transcript.txt
+[2025-11-25 17:31:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_144930_seg049.wav
+[2025-11-25 17:31:08] [7/30] Processing...
+[2025-11-25 17:31:08] 🎤 Transcribing: RJR_recording_20251124_145030_seg050.wav
+[2025-11-25 17:34:02]    ✅ Saved to: RJR_recording_20251124_145030_seg050_transcript.txt
+[2025-11-25 17:34:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145030_seg050.wav
+[2025-11-25 17:34:02] [8/30] Processing...
+[2025-11-25 17:34:02] 🎤 Transcribing: RJR_recording_20251124_145130_seg051.wav
+[2025-11-25 17:36:27]    ✅ Saved to: RJR_recording_20251124_145130_seg051_transcript.txt
+[2025-11-25 17:36:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145130_seg051.wav
+[2025-11-25 17:36:27] [9/30] Processing...
+[2025-11-25 17:36:27] 🎤 Transcribing: RJR_recording_20251124_145230_seg052.wav
+[2025-11-25 17:39:25]    ✅ Saved to: RJR_recording_20251124_145230_seg052_transcript.txt
+[2025-11-25 17:39:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145230_seg052.wav
+[2025-11-25 17:39:25] [10/30] Processing...
+[2025-11-25 17:39:25] 🎤 Transcribing: RJR_recording_20251124_145332_seg053.wav
+[2025-11-25 17:41:26]    ✅ Saved to: RJR_recording_20251124_145332_seg053_transcript.txt
+[2025-11-25 17:41:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145332_seg053.wav
+[2025-11-25 17:41:26] [11/30] Processing...
+[2025-11-25 17:41:26] 🎤 Transcribing: RJR_recording_20251124_145432_seg054.wav
+[2025-11-25 17:43:57]    ✅ Saved to: RJR_recording_20251124_145432_seg054_transcript.txt
+[2025-11-25 17:43:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145432_seg054.wav
+[2025-11-25 17:43:57] [12/30] Processing...
+[2025-11-25 17:43:57] 🎤 Transcribing: RJR_recording_20251124_145532_seg055.wav
+[2025-11-25 17:46:52]    ✅ Saved to: RJR_recording_20251124_145532_seg055_transcript.txt
+[2025-11-25 17:46:52]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145532_seg055.wav
+[2025-11-25 17:46:52] [13/30] Processing...
+[2025-11-25 17:46:52] 🎤 Transcribing: RJR_recording_20251124_145633_seg056.wav
+[2025-11-25 17:50:23]    ✅ Saved to: RJR_recording_20251124_145633_seg056_transcript.txt
+[2025-11-25 17:50:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145633_seg056.wav
+[2025-11-25 17:50:23] [14/30] Processing...
+[2025-11-25 17:50:23] 🎤 Transcribing: RJR_recording_20251124_145733_seg057.wav
+[2025-11-25 17:52:39]    ✅ Saved to: RJR_recording_20251124_145733_seg057_transcript.txt
+[2025-11-25 17:52:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145733_seg057.wav
+[2025-11-25 17:52:39] [15/30] Processing...
+[2025-11-25 17:52:39] 🎤 Transcribing: RJR_recording_20251124_145834_seg058.wav
+[2025-11-25 17:55:03]    ✅ Saved to: RJR_recording_20251124_145834_seg058_transcript.txt
+[2025-11-25 17:55:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145834_seg058.wav
+[2025-11-25 17:55:03] [16/30] Processing...
+[2025-11-25 17:55:03] 🎤 Transcribing: RJR_recording_20251124_145935_seg059.wav
+[2025-11-25 17:56:02]    ✅ Saved to: RJR_recording_20251124_145935_seg059_transcript.txt
+[2025-11-25 17:56:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_145935_seg059.wav
+[2025-11-25 17:56:02] [17/30] Processing...
+[2025-11-25 17:56:02] 🎤 Transcribing: RJR_recording_20251124_150002_seg000.wav
+[2025-11-25 17:58:19]    ✅ Saved to: RJR_recording_20251124_150002_seg000_transcript.txt
+[2025-11-25 17:58:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150002_seg000.wav
+[2025-11-25 17:58:19] [18/30] Processing...
+[2025-11-25 17:58:19] 🎤 Transcribing: RJR_recording_20251124_150102_seg001.wav
+[2025-11-25 18:00:47]    ✅ Saved to: RJR_recording_20251124_150102_seg001_transcript.txt
+[2025-11-25 18:00:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150102_seg001.wav
+[2025-11-25 18:00:47] [19/30] Processing...
+[2025-11-25 18:00:47] 🎤 Transcribing: RJR_recording_20251124_150203_seg002.wav
+[2025-11-25 18:04:04]    ✅ Saved to: RJR_recording_20251124_150203_seg002_transcript.txt
+[2025-11-25 18:04:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150203_seg002.wav
+[2025-11-25 18:04:04] [20/30] Processing...
+[2025-11-25 18:04:04] 🎤 Transcribing: RJR_recording_20251124_150303_seg003.wav
+[2025-11-25 18:06:03]    ✅ Saved to: RJR_recording_20251124_150303_seg003_transcript.txt
+[2025-11-25 18:06:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150303_seg003.wav
+[2025-11-25 18:06:03] [21/30] Processing...
+[2025-11-25 18:06:03] 🎤 Transcribing: RJR_recording_20251124_150404_seg004.wav
+[2025-11-25 18:07:52]    ✅ Saved to: RJR_recording_20251124_150404_seg004_transcript.txt
+[2025-11-25 18:07:52]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150404_seg004.wav
+[2025-11-25 18:07:52] [22/30] Processing...
+[2025-11-25 18:07:52] 🎤 Transcribing: RJR_recording_20251124_150504_seg005.wav
+[2025-11-25 18:09:42]    ✅ Saved to: RJR_recording_20251124_150504_seg005_transcript.txt
+[2025-11-25 18:09:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150504_seg005.wav
+[2025-11-25 18:09:42] [23/30] Processing...
+[2025-11-25 18:09:42] 🎤 Transcribing: RJR_recording_20251124_150605_seg006.wav
+[2025-11-25 18:10:54]    ✅ Saved to: RJR_recording_20251124_150605_seg006_transcript.txt
+[2025-11-25 18:10:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150605_seg006.wav
+[2025-11-25 18:10:54] [24/30] Processing...
+[2025-11-25 18:10:54] 🎤 Transcribing: RJR_recording_20251124_150707_seg007.wav
+[2025-11-25 18:12:16]    ✅ Saved to: RJR_recording_20251124_150707_seg007_transcript.txt
+[2025-11-25 18:12:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150707_seg007.wav
+[2025-11-25 18:12:16] [25/30] Processing...
+[2025-11-25 18:12:16] 🎤 Transcribing: RJR_recording_20251124_150807_seg008.wav
+[2025-11-25 18:14:12]    ✅ Saved to: RJR_recording_20251124_150807_seg008_transcript.txt
+[2025-11-25 18:14:12]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150807_seg008.wav
+[2025-11-25 18:14:12] [26/30] Processing...
+[2025-11-25 18:14:12] 🎤 Transcribing: RJR_recording_20251124_150907_seg009.wav
+[2025-11-25 18:16:02]    ✅ Saved to: RJR_recording_20251124_150907_seg009_transcript.txt
+[2025-11-25 18:16:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_150907_seg009.wav
+[2025-11-25 18:16:02] [27/30] Processing...
+[2025-11-25 18:16:02] 🎤 Transcribing: RJR_recording_20251124_151008_seg010.wav
+[2025-11-25 18:16:46]    ✅ Saved to: RJR_recording_20251124_151008_seg010_transcript.txt
+[2025-11-25 18:16:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151008_seg010.wav
+[2025-11-25 18:16:46] [28/30] Processing...
+[2025-11-25 18:16:46] 🎤 Transcribing: RJR_recording_20251124_151108_seg011.wav
+[2025-11-25 18:18:19]    ✅ Saved to: RJR_recording_20251124_151108_seg011_transcript.txt
+[2025-11-25 18:18:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151108_seg011.wav
+[2025-11-25 18:18:19] [29/30] Processing...
+[2025-11-25 18:18:19] 🎤 Transcribing: RJR_recording_20251124_151208_seg012.wav
+[2025-11-25 18:19:32]    ✅ Saved to: RJR_recording_20251124_151208_seg012_transcript.txt
+[2025-11-25 18:19:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151208_seg012.wav
+[2025-11-25 18:19:32] [30/30] Processing...
+[2025-11-25 18:19:32] 🎤 Transcribing: RJR_recording_20251124_151308_seg013.wav
+[2025-11-25 18:20:25]    ✅ Saved to: RJR_recording_20251124_151308_seg013_transcript.txt
+[2025-11-25 18:20:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151308_seg013.wav
+[2025-11-25 18:20:25] ------------------------------------------------------------
+[2025-11-25 18:20:25] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-25 18:20:25] ============================================================
+[2025-11-25 18:20:25] ============================================================
+[2025-11-25 18:20:25] 📻 Processing Power106
+[2025-11-25 18:20:25] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-25 18:20:25] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-25 18:20:25] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-25 18:20:25] ------------------------------------------------------------
+[2025-11-25 18:20:25] 📋 Found 526 WAV file(s)
+[2025-11-25 18:20:25] 📝 Files to transcribe: 520
+[2025-11-25 18:20:25] ⚠️  Limiting to 30 files per run
+[2025-11-25 18:20:25] ------------------------------------------------------------
+[2025-11-25 18:20:25] [1/30] Processing...
+[2025-11-25 18:20:25] 🎤 Transcribing: Power106_recording_20251124_115240_seg052.wav
+[2025-11-25 18:22:17]    ✅ Saved to: Power106_recording_20251124_115240_seg052_transcript.txt
+[2025-11-25 18:22:17]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115240_seg052.wav
+[2025-11-25 18:22:17] [2/30] Processing...
+[2025-11-25 18:22:17] 🎤 Transcribing: Power106_recording_20251124_115342_seg053.wav
+[2025-11-25 18:24:52]    ✅ Saved to: Power106_recording_20251124_115342_seg053_transcript.txt
+[2025-11-25 18:24:52]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115342_seg053.wav
+[2025-11-25 18:24:52] [3/30] Processing...
+[2025-11-25 18:24:52] 🎤 Transcribing: Power106_recording_20251124_115443_seg054.wav
+[2025-11-25 18:27:33]    ✅ Saved to: Power106_recording_20251124_115443_seg054_transcript.txt
+[2025-11-25 18:27:33]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115443_seg054.wav
+[2025-11-25 18:27:33] [4/30] Processing...
+[2025-11-25 18:27:33] 🎤 Transcribing: Power106_recording_20251124_115543_seg055.wav
+[2025-11-25 18:29:37]    ✅ Saved to: Power106_recording_20251124_115543_seg055_transcript.txt
+[2025-11-25 18:29:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115543_seg055.wav
+[2025-11-25 18:29:37] [5/30] Processing...
+[2025-11-25 18:29:37] 🎤 Transcribing: Power106_recording_20251124_115643_seg056.wav
+[2025-11-25 18:31:49]    ✅ Saved to: Power106_recording_20251124_115643_seg056_transcript.txt
+[2025-11-25 18:31:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115643_seg056.wav
+[2025-11-25 18:31:49] [6/30] Processing...
+[2025-11-25 18:31:49] 🎤 Transcribing: Power106_recording_20251124_115745_seg057.wav
+[2025-11-25 18:33:55]    ✅ Saved to: Power106_recording_20251124_115745_seg057_transcript.txt
+[2025-11-25 18:33:55]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115745_seg057.wav
+[2025-11-25 18:33:55] [7/30] Processing...
+[2025-11-25 18:33:55] 🎤 Transcribing: Power106_recording_20251124_115845_seg058.wav
+[2025-11-25 18:36:35]    ✅ Saved to: Power106_recording_20251124_115845_seg058_transcript.txt
+[2025-11-25 18:36:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115845_seg058.wav
+[2025-11-25 18:36:35] [8/30] Processing...
+[2025-11-25 18:36:35] 🎤 Transcribing: Power106_recording_20251124_115945_seg059.wav
+[2025-11-25 18:36:51]    ✅ Saved to: Power106_recording_20251124_115945_seg059_transcript.txt
+[2025-11-25 18:36:51]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_115945_seg059.wav
+[2025-11-25 18:36:51] [9/30] Processing...
+[2025-11-25 18:36:51] 🎤 Transcribing: Power106_recording_20251124_120003_seg000.wav
+[2025-11-25 18:38:05]    ✅ Saved to: Power106_recording_20251124_120003_seg000_transcript.txt
+[2025-11-25 18:38:05]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_120003_seg000.wav
+[2025-11-25 18:38:05] [10/30] Processing...
+[2025-11-25 18:38:05] 🎤 Transcribing: Power106_recording_20251124_120103_seg001.wav
+[2025-11-25 18:39:53]    ✅ Saved to: Power106_recording_20251124_120103_seg001_transcript.txt
+[2025-11-25 18:39:53]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_120103_seg001.wav
+[2025-11-25 18:39:53] [11/30] Processing...
+[2025-11-25 18:39:53] 🎤 Transcribing: Power106_recording_20251124_120203_seg002.wav
+[2025-11-25 18:42:35]    ✅ Saved to: Power106_recording_20251124_120203_seg002_transcript.txt
+[2025-11-25 18:42:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_120203_seg002.wav
+[2025-11-25 18:42:35] [12/30] Processing...
+[2025-11-25 18:42:35] 🎤 Transcribing: Power106_recording_20251124_120304_seg003.wav
+[2025-11-25 18:44:27]    ✅ Saved to: Power106_recording_20251124_120304_seg003_transcript.txt
+[2025-11-25 18:44:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_120304_seg003.wav
+[2025-11-25 18:44:27] [13/30] Processing...
+[2025-11-25 18:44:27] 🎤 Transcribing: Power106_recording_20251124_130002_seg000.wav
+[2025-11-25 18:47:24]    ✅ Saved to: Power106_recording_20251124_130002_seg000_transcript.txt
+[2025-11-25 18:47:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130002_seg000.wav
+[2025-11-25 18:47:24] [14/30] Processing...
+[2025-11-25 18:47:24] 🎤 Transcribing: Power106_recording_20251124_130103_seg001.wav
+[2025-11-25 18:49:37]    ✅ Saved to: Power106_recording_20251124_130103_seg001_transcript.txt
+[2025-11-25 18:49:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130103_seg001.wav
+[2025-11-25 18:49:37] [15/30] Processing...
+[2025-11-25 18:49:37] 🎤 Transcribing: Power106_recording_20251124_130204_seg002.wav
+[2025-11-25 18:51:45]    ✅ Saved to: Power106_recording_20251124_130204_seg002_transcript.txt
+[2025-11-25 18:51:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130204_seg002.wav
+[2025-11-25 18:51:45] [16/30] Processing...
+[2025-11-25 18:51:45] 🎤 Transcribing: Power106_recording_20251124_130304_seg003.wav
+[2025-11-25 18:54:03]    ✅ Saved to: Power106_recording_20251124_130304_seg003_transcript.txt
+[2025-11-25 18:54:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130304_seg003.wav
+[2025-11-25 18:54:03] [17/30] Processing...
+[2025-11-25 18:54:03] 🎤 Transcribing: Power106_recording_20251124_130404_seg004.wav
+[2025-11-25 18:56:31]    ✅ Saved to: Power106_recording_20251124_130404_seg004_transcript.txt
+[2025-11-25 18:56:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130404_seg004.wav
+[2025-11-25 18:56:31] [18/30] Processing...
+[2025-11-25 18:56:31] 🎤 Transcribing: Power106_recording_20251124_130506_seg005.wav
+[2025-11-25 18:58:50]    ✅ Saved to: Power106_recording_20251124_130506_seg005_transcript.txt
+[2025-11-25 18:58:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130506_seg005.wav
+[2025-11-25 18:58:50] [19/30] Processing...
+[2025-11-25 18:58:50] 🎤 Transcribing: Power106_recording_20251124_130607_seg006.wav
+[2025-11-25 19:01:30]    ✅ Saved to: Power106_recording_20251124_130607_seg006_transcript.txt
+[2025-11-25 19:01:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130607_seg006.wav
+[2025-11-25 19:01:30] [20/30] Processing...
+[2025-11-25 19:01:30] 🎤 Transcribing: Power106_recording_20251124_130707_seg007.wav
+[2025-11-25 19:04:01]    ✅ Saved to: Power106_recording_20251124_130707_seg007_transcript.txt
+[2025-11-25 19:04:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130707_seg007.wav
+[2025-11-25 19:04:01] [21/30] Processing...
+[2025-11-25 19:04:01] 🎤 Transcribing: Power106_recording_20251124_130809_seg008.wav
+[2025-11-25 19:05:48]    ✅ Saved to: Power106_recording_20251124_130809_seg008_transcript.txt
+[2025-11-25 19:05:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130809_seg008.wav
+[2025-11-25 19:05:48] [22/30] Processing...
+[2025-11-25 19:05:48] 🎤 Transcribing: Power106_recording_20251124_130910_seg009.wav
+[2025-11-25 19:07:11]    ✅ Saved to: Power106_recording_20251124_130910_seg009_transcript.txt
+[2025-11-25 19:07:11]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_130910_seg009.wav
+[2025-11-25 19:07:11] [23/30] Processing...
+[2025-11-25 19:07:11] 🎤 Transcribing: Power106_recording_20251124_131012_seg010.wav
+[2025-11-25 19:09:06]    ✅ Saved to: Power106_recording_20251124_131012_seg010_transcript.txt
+[2025-11-25 19:09:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131012_seg010.wav
+[2025-11-25 19:09:06] [24/30] Processing...
+[2025-11-25 19:09:06] 🎤 Transcribing: Power106_recording_20251124_131112_seg011.wav
+[2025-11-25 19:11:19]    ✅ Saved to: Power106_recording_20251124_131112_seg011_transcript.txt
+[2025-11-25 19:11:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131112_seg011.wav
+[2025-11-25 19:11:19] [25/30] Processing...
+[2025-11-25 19:11:19] 🎤 Transcribing: Power106_recording_20251124_131213_seg012.wav
+[2025-11-25 19:13:12]    ✅ Saved to: Power106_recording_20251124_131213_seg012_transcript.txt
+[2025-11-25 19:13:12]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131213_seg012.wav
+[2025-11-25 19:13:12] [26/30] Processing...
+[2025-11-25 19:13:12] 🎤 Transcribing: Power106_recording_20251124_131313_seg013.wav
+[2025-11-25 19:15:25]    ✅ Saved to: Power106_recording_20251124_131313_seg013_transcript.txt
+[2025-11-25 19:15:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131313_seg013.wav
+[2025-11-25 19:15:25] [27/30] Processing...
+[2025-11-25 19:15:25] 🎤 Transcribing: Power106_recording_20251124_131413_seg014.wav
+[2025-11-25 19:17:00]    ✅ Saved to: Power106_recording_20251124_131413_seg014_transcript.txt
+[2025-11-25 19:17:00]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131413_seg014.wav
+[2025-11-25 19:17:00] [28/30] Processing...
+[2025-11-25 19:17:00] 🎤 Transcribing: Power106_recording_20251124_131515_seg015.wav
+[2025-11-25 19:18:51]    ✅ Saved to: Power106_recording_20251124_131515_seg015_transcript.txt
+[2025-11-25 19:18:51]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131515_seg015.wav
+[2025-11-25 19:18:51] [29/30] Processing...
+[2025-11-25 19:18:51] 🎤 Transcribing: Power106_recording_20251124_131615_seg016.wav
+[2025-11-25 19:20:48]    ✅ Saved to: Power106_recording_20251124_131615_seg016_transcript.txt
+[2025-11-25 19:20:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131615_seg016.wav
+[2025-11-25 19:20:48] [30/30] Processing...
+[2025-11-25 19:20:48] 🎤 Transcribing: Power106_recording_20251124_131715_seg017.wav
+[2025-11-25 19:22:10]    ✅ Saved to: Power106_recording_20251124_131715_seg017_transcript.txt
+[2025-11-25 19:22:10]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131715_seg017.wav
+[2025-11-25 19:22:10] ------------------------------------------------------------
+[2025-11-25 19:22:10] 📊 Power106 Results: 30 successful, 0 failed
+[2025-11-25 19:22:10] ============================================================
+[2025-11-25 19:22:10] ============================================================
+[2025-11-25 19:22:10] ✅ Batch transcription complete
+[2025-11-25 19:22:10] 📊 Total successful: 60
+[2025-11-25 19:22:10] ============================================================
+[2025-11-25 19:23:01] ============================================================
+[2025-11-25 19:23:01] 📻 Batch WAV Transcription Service
+[2025-11-25 19:23:01] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 19:23:01] ============================================================
+[2025-11-25 19:23:01] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 19:23:02] ✅ Connected successfully
+[2025-11-25 19:23:02] ============================================================
+[2025-11-25 19:23:02] 📻 Processing RJR
+[2025-11-25 19:23:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 19:23:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 19:23:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 19:23:02] ------------------------------------------------------------
+[2025-11-25 19:23:02] 📋 Found 404 WAV file(s)
+[2025-11-25 19:23:02] 📝 Files to transcribe: 392
+[2025-11-25 19:23:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 19:23:02] ------------------------------------------------------------
+[2025-11-25 19:23:02] [1/30] Processing...
+[2025-11-25 19:23:02] 🎤 Transcribing: RJR_recording_20251124_151409_seg014.wav
+[2025-11-25 19:25:07]    ✅ Saved to: RJR_recording_20251124_151409_seg014_transcript.txt
+[2025-11-25 19:25:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151409_seg014.wav
+[2025-11-25 19:25:07] [2/30] Processing...
+[2025-11-25 19:25:07] 🎤 Transcribing: RJR_recording_20251124_151510_seg015.wav
+[2025-11-25 19:26:22]    ✅ Saved to: RJR_recording_20251124_151510_seg015_transcript.txt
+[2025-11-25 19:26:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151510_seg015.wav
+[2025-11-25 19:26:22] [3/30] Processing...
+[2025-11-25 19:26:22] 🎤 Transcribing: RJR_recording_20251124_151610_seg016.wav
+[2025-11-25 19:28:41]    ✅ Saved to: RJR_recording_20251124_151610_seg016_transcript.txt
+[2025-11-25 19:28:41]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151610_seg016.wav
+[2025-11-25 19:28:41] [4/30] Processing...
+[2025-11-25 19:28:41] 🎤 Transcribing: RJR_recording_20251124_151712_seg017.wav
+[2025-11-25 19:31:00]    ✅ Saved to: RJR_recording_20251124_151712_seg017_transcript.txt
+[2025-11-25 19:31:00]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151712_seg017.wav
+[2025-11-25 19:31:00] [5/30] Processing...
+[2025-11-25 19:31:00] 🎤 Transcribing: RJR_recording_20251124_151812_seg018.wav
+[2025-11-25 19:33:19]    ✅ Saved to: RJR_recording_20251124_151812_seg018_transcript.txt
+[2025-11-25 19:33:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151812_seg018.wav
+[2025-11-25 19:33:19] [6/30] Processing...
+[2025-11-25 19:33:19] 🎤 Transcribing: RJR_recording_20251124_151912_seg019.wav
+[2025-11-25 19:35:22]    ✅ Saved to: RJR_recording_20251124_151912_seg019_transcript.txt
+[2025-11-25 19:35:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_151912_seg019.wav
+[2025-11-25 19:35:22] [7/30] Processing...
+[2025-11-25 19:35:22] 🎤 Transcribing: RJR_recording_20251124_152012_seg020.wav
+[2025-11-25 19:37:34]    ✅ Saved to: RJR_recording_20251124_152012_seg020_transcript.txt
+[2025-11-25 19:37:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152012_seg020.wav
+[2025-11-25 19:37:34] [8/30] Processing...
+[2025-11-25 19:37:34] 🎤 Transcribing: RJR_recording_20251124_152113_seg021.wav
+[2025-11-25 19:39:00]    ✅ Saved to: RJR_recording_20251124_152113_seg021_transcript.txt
+[2025-11-25 19:39:00]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152113_seg021.wav
+[2025-11-25 19:39:00] [9/30] Processing...
+[2025-11-25 19:39:00] 🎤 Transcribing: RJR_recording_20251124_152213_seg022.wav
+[2025-11-25 19:41:46]    ✅ Saved to: RJR_recording_20251124_152213_seg022_transcript.txt
+[2025-11-25 19:41:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152213_seg022.wav
+[2025-11-25 19:41:46] [10/30] Processing...
+[2025-11-25 19:41:46] 🎤 Transcribing: RJR_recording_20251124_152314_seg023.wav
+[2025-11-25 19:43:37]    ✅ Saved to: RJR_recording_20251124_152314_seg023_transcript.txt
+[2025-11-25 19:43:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152314_seg023.wav
+[2025-11-25 19:43:37] [11/30] Processing...
+[2025-11-25 19:43:37] 🎤 Transcribing: RJR_recording_20251124_152415_seg024.wav
+[2025-11-25 19:45:43]    ✅ Saved to: RJR_recording_20251124_152415_seg024_transcript.txt
+[2025-11-25 19:45:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152415_seg024.wav
+[2025-11-25 19:45:43] [12/30] Processing...
+[2025-11-25 19:45:43] 🎤 Transcribing: RJR_recording_20251124_152518_seg025.wav
+[2025-11-25 19:47:21]    ✅ Saved to: RJR_recording_20251124_152518_seg025_transcript.txt
+[2025-11-25 19:47:21]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152518_seg025.wav
+[2025-11-25 19:47:21] [13/30] Processing...
+[2025-11-25 19:47:21] 🎤 Transcribing: RJR_recording_20251124_152618_seg026.wav
+[2025-11-25 19:50:09]    ✅ Saved to: RJR_recording_20251124_152618_seg026_transcript.txt
+[2025-11-25 19:50:09]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152618_seg026.wav
+[2025-11-25 19:50:09] [14/30] Processing...
+[2025-11-25 19:50:09] 🎤 Transcribing: RJR_recording_20251124_152718_seg027.wav
+[2025-11-25 19:53:05]    ✅ Saved to: RJR_recording_20251124_152718_seg027_transcript.txt
+[2025-11-25 19:53:05]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152718_seg027.wav
+[2025-11-25 19:53:05] [15/30] Processing...
+[2025-11-25 19:53:05] 🎤 Transcribing: RJR_recording_20251124_152818_seg028.wav
+[2025-11-25 19:54:47]    ✅ Saved to: RJR_recording_20251124_152818_seg028_transcript.txt
+[2025-11-25 19:54:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152818_seg028.wav
+[2025-11-25 19:54:47] [16/30] Processing...
+[2025-11-25 19:54:47] 🎤 Transcribing: RJR_recording_20251124_152918_seg029.wav
+[2025-11-25 19:56:47]    ✅ Saved to: RJR_recording_20251124_152918_seg029_transcript.txt
+[2025-11-25 19:56:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_152918_seg029.wav
+[2025-11-25 19:56:47] [17/30] Processing...
+[2025-11-25 19:56:47] 🎤 Transcribing: RJR_recording_20251124_153019_seg030.wav
+[2025-11-25 19:59:25]    ✅ Saved to: RJR_recording_20251124_153019_seg030_transcript.txt
+[2025-11-25 19:59:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153019_seg030.wav
+[2025-11-25 19:59:25] [18/30] Processing...
+[2025-11-25 19:59:25] 🎤 Transcribing: RJR_recording_20251124_153120_seg031.wav
+[2025-11-25 20:02:04]    ✅ Saved to: RJR_recording_20251124_153120_seg031_transcript.txt
+[2025-11-25 20:02:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153120_seg031.wav
+[2025-11-25 20:02:04] [19/30] Processing...
+[2025-11-25 20:02:04] 🎤 Transcribing: RJR_recording_20251124_153220_seg032.wav
+[2025-11-25 20:04:28]    ✅ Saved to: RJR_recording_20251124_153220_seg032_transcript.txt
+[2025-11-25 20:04:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153220_seg032.wav
+[2025-11-25 20:04:28] [20/30] Processing...
+[2025-11-25 20:04:28] 🎤 Transcribing: RJR_recording_20251124_153320_seg033.wav
+[2025-11-25 20:07:34]    ✅ Saved to: RJR_recording_20251124_153320_seg033_transcript.txt
+[2025-11-25 20:07:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153320_seg033.wav
+[2025-11-25 20:07:34] [21/30] Processing...
+[2025-11-25 20:07:34] 🎤 Transcribing: RJR_recording_20251124_153422_seg034.wav
+[2025-11-25 20:09:47]    ✅ Saved to: RJR_recording_20251124_153422_seg034_transcript.txt
+[2025-11-25 20:09:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153422_seg034.wav
+[2025-11-25 20:09:47] [22/30] Processing...
+[2025-11-25 20:09:47] 🎤 Transcribing: RJR_recording_20251124_153522_seg035.wav
+[2025-11-25 20:11:31]    ✅ Saved to: RJR_recording_20251124_153522_seg035_transcript.txt
+[2025-11-25 20:11:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153522_seg035.wav
+[2025-11-25 20:11:31] [23/30] Processing...
+[2025-11-25 20:11:31] 🎤 Transcribing: RJR_recording_20251124_153623_seg036.wav
+[2025-11-25 20:14:27]    ✅ Saved to: RJR_recording_20251124_153623_seg036_transcript.txt
+[2025-11-25 20:14:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153623_seg036.wav
+[2025-11-25 20:14:27] [24/30] Processing...
+[2025-11-25 20:14:27] 🎤 Transcribing: RJR_recording_20251124_153723_seg037.wav
+[2025-11-25 20:17:39]    ✅ Saved to: RJR_recording_20251124_153723_seg037_transcript.txt
+[2025-11-25 20:17:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153723_seg037.wav
+[2025-11-25 20:17:39] [25/30] Processing...
+[2025-11-25 20:17:39] 🎤 Transcribing: RJR_recording_20251124_153823_seg038.wav
+[2025-11-25 20:20:34]    ✅ Saved to: RJR_recording_20251124_153823_seg038_transcript.txt
+[2025-11-25 20:20:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153823_seg038.wav
+[2025-11-25 20:20:34] [26/30] Processing...
+[2025-11-25 20:20:34] 🎤 Transcribing: RJR_recording_20251124_153924_seg039.wav
+[2025-11-25 20:24:01]    ✅ Saved to: RJR_recording_20251124_153924_seg039_transcript.txt
+[2025-11-25 20:24:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_153924_seg039.wav
+[2025-11-25 20:24:01] [27/30] Processing...
+[2025-11-25 20:24:01] 🎤 Transcribing: RJR_recording_20251124_154024_seg040.wav
+[2025-11-25 20:26:55]    ✅ Saved to: RJR_recording_20251124_154024_seg040_transcript.txt
+[2025-11-25 20:26:55]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154024_seg040.wav
+[2025-11-25 20:26:55] [28/30] Processing...
+[2025-11-25 20:26:55] 🎤 Transcribing: RJR_recording_20251124_154125_seg041.wav
+[2025-11-25 20:29:08]    ✅ Saved to: RJR_recording_20251124_154125_seg041_transcript.txt
+[2025-11-25 20:29:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154125_seg041.wav
+[2025-11-25 20:29:08] [29/30] Processing...
+[2025-11-25 20:29:08] 🎤 Transcribing: RJR_recording_20251124_154225_seg042.wav
+[2025-11-25 20:32:01]    ✅ Saved to: RJR_recording_20251124_154225_seg042_transcript.txt
+[2025-11-25 20:32:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154225_seg042.wav
+[2025-11-25 20:32:01] [30/30] Processing...
+[2025-11-25 20:32:01] 🎤 Transcribing: RJR_recording_20251124_154327_seg043.wav
+[2025-11-25 20:34:43]    ✅ Saved to: RJR_recording_20251124_154327_seg043_transcript.txt
+[2025-11-25 20:34:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154327_seg043.wav
+[2025-11-25 20:34:43] ------------------------------------------------------------
+[2025-11-25 20:34:43] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-25 20:34:43] ============================================================
+[2025-11-25 20:34:43] ============================================================
+[2025-11-25 20:34:43] 📻 Processing Power106
+[2025-11-25 20:34:43] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-25 20:34:43] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-25 20:34:43] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-25 20:34:43] ------------------------------------------------------------
+[2025-11-25 20:34:43] 📋 Found 496 WAV file(s)
+[2025-11-25 20:34:43] 📝 Files to transcribe: 490
+[2025-11-25 20:34:43] ⚠️  Limiting to 30 files per run
+[2025-11-25 20:34:43] ------------------------------------------------------------
+[2025-11-25 20:34:43] [1/30] Processing...
+[2025-11-25 20:34:43] 🎤 Transcribing: Power106_recording_20251124_131816_seg018.wav
+[2025-11-25 20:36:28]    ✅ Saved to: Power106_recording_20251124_131816_seg018_transcript.txt
+[2025-11-25 20:36:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131816_seg018.wav
+[2025-11-25 20:36:28] [2/30] Processing...
+[2025-11-25 20:36:28] 🎤 Transcribing: Power106_recording_20251124_131916_seg019.wav
+[2025-11-25 20:39:15]    ✅ Saved to: Power106_recording_20251124_131916_seg019_transcript.txt
+[2025-11-25 20:39:15]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_131916_seg019.wav
+[2025-11-25 20:39:15] [3/30] Processing...
+[2025-11-25 20:39:15] 🎤 Transcribing: Power106_recording_20251124_132018_seg020.wav
+[2025-11-25 20:43:18]    ✅ Saved to: Power106_recording_20251124_132018_seg020_transcript.txt
+[2025-11-25 20:43:18]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132018_seg020.wav
+[2025-11-25 20:43:18] [4/30] Processing...
+[2025-11-25 20:43:18] 🎤 Transcribing: Power106_recording_20251124_132119_seg021.wav
+[2025-11-25 20:46:01]    ✅ Saved to: Power106_recording_20251124_132119_seg021_transcript.txt
+[2025-11-25 20:46:01]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132119_seg021.wav
+[2025-11-25 20:46:01] [5/30] Processing...
+[2025-11-25 20:46:01] 🎤 Transcribing: Power106_recording_20251124_132219_seg022.wav
+[2025-11-25 20:48:59]    ✅ Saved to: Power106_recording_20251124_132219_seg022_transcript.txt
+[2025-11-25 20:48:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132219_seg022.wav
+[2025-11-25 20:48:59] [6/30] Processing...
+[2025-11-25 20:48:59] 🎤 Transcribing: Power106_recording_20251124_132319_seg023.wav
+[2025-11-25 20:51:47]    ✅ Saved to: Power106_recording_20251124_132319_seg023_transcript.txt
+[2025-11-25 20:51:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132319_seg023.wav
+[2025-11-25 20:51:47] [7/30] Processing...
+[2025-11-25 20:51:47] 🎤 Transcribing: Power106_recording_20251124_132421_seg024.wav
+[2025-11-25 20:54:15]    ✅ Saved to: Power106_recording_20251124_132421_seg024_transcript.txt
+[2025-11-25 20:54:15]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132421_seg024.wav
+[2025-11-25 20:54:15] [8/30] Processing...
+[2025-11-25 20:54:15] 🎤 Transcribing: Power106_recording_20251124_132521_seg025.wav
+[2025-11-25 20:57:04]    ✅ Saved to: Power106_recording_20251124_132521_seg025_transcript.txt
+[2025-11-25 20:57:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132521_seg025.wav
+[2025-11-25 20:57:04] [9/30] Processing...
+[2025-11-25 20:57:04] 🎤 Transcribing: Power106_recording_20251124_132622_seg026.wav
+[2025-11-25 20:58:30]    ✅ Saved to: Power106_recording_20251124_132622_seg026_transcript.txt
+[2025-11-25 20:58:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132622_seg026.wav
+[2025-11-25 20:58:30] [10/30] Processing...
+[2025-11-25 20:58:30] 🎤 Transcribing: Power106_recording_20251124_132722_seg027.wav
+[2025-11-25 21:00:40]    ✅ Saved to: Power106_recording_20251124_132722_seg027_transcript.txt
+[2025-11-25 21:00:40]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132722_seg027.wav
+[2025-11-25 21:00:40] [11/30] Processing...
+[2025-11-25 21:00:40] 🎤 Transcribing: Power106_recording_20251124_132824_seg028.wav
+[2025-11-25 21:03:25]    ✅ Saved to: Power106_recording_20251124_132824_seg028_transcript.txt
+[2025-11-25 21:03:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132824_seg028.wav
+[2025-11-25 21:03:25] [12/30] Processing...
+[2025-11-25 21:03:25] 🎤 Transcribing: Power106_recording_20251124_132924_seg029.wav
+[2025-11-25 21:06:06]    ✅ Saved to: Power106_recording_20251124_132924_seg029_transcript.txt
+[2025-11-25 21:06:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_132924_seg029.wav
+[2025-11-25 21:06:06] [13/30] Processing...
+[2025-11-25 21:06:06] 🎤 Transcribing: Power106_recording_20251124_133024_seg030.wav
+[2025-11-25 21:07:57]    ✅ Saved to: Power106_recording_20251124_133024_seg030_transcript.txt
+[2025-11-25 21:07:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133024_seg030.wav
+[2025-11-25 21:07:57] [14/30] Processing...
+[2025-11-25 21:07:57] 🎤 Transcribing: Power106_recording_20251124_133125_seg031.wav
+[2025-11-25 21:09:36]    ✅ Saved to: Power106_recording_20251124_133125_seg031_transcript.txt
+[2025-11-25 21:09:36]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133125_seg031.wav
+[2025-11-25 21:09:36] [15/30] Processing...
+[2025-11-25 21:09:36] 🎤 Transcribing: Power106_recording_20251124_133225_seg032.wav
+[2025-11-25 21:12:30]    ✅ Saved to: Power106_recording_20251124_133225_seg032_transcript.txt
+[2025-11-25 21:12:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133225_seg032.wav
+[2025-11-25 21:12:30] [16/30] Processing...
+[2025-11-25 21:12:30] 🎤 Transcribing: Power106_recording_20251124_133327_seg033.wav
+[2025-11-25 21:14:35]    ✅ Saved to: Power106_recording_20251124_133327_seg033_transcript.txt
+[2025-11-25 21:14:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133327_seg033.wav
+[2025-11-25 21:14:35] [17/30] Processing...
+[2025-11-25 21:14:35] 🎤 Transcribing: Power106_recording_20251124_133428_seg034.wav
+[2025-11-25 21:17:19]    ✅ Saved to: Power106_recording_20251124_133428_seg034_transcript.txt
+[2025-11-25 21:17:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133428_seg034.wav
+[2025-11-25 21:17:19] [18/30] Processing...
+[2025-11-25 21:17:19] 🎤 Transcribing: Power106_recording_20251124_133528_seg035.wav
+[2025-11-25 21:18:59]    ✅ Saved to: Power106_recording_20251124_133528_seg035_transcript.txt
+[2025-11-25 21:18:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133528_seg035.wav
+[2025-11-25 21:18:59] [19/30] Processing...
+[2025-11-25 21:18:59] 🎤 Transcribing: Power106_recording_20251124_133630_seg036.wav
+[2025-11-25 21:20:50]    ✅ Saved to: Power106_recording_20251124_133630_seg036_transcript.txt
+[2025-11-25 21:20:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133630_seg036.wav
+[2025-11-25 21:20:50] [20/30] Processing...
+[2025-11-25 21:20:50] 🎤 Transcribing: Power106_recording_20251124_133731_seg037.wav
+[2025-11-25 21:23:07]    ✅ Saved to: Power106_recording_20251124_133731_seg037_transcript.txt
+[2025-11-25 21:23:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133731_seg037.wav
+[2025-11-25 21:23:07] [21/30] Processing...
+[2025-11-25 21:23:07] 🎤 Transcribing: Power106_recording_20251124_133831_seg038.wav
+[2025-11-25 21:25:14]    ✅ Saved to: Power106_recording_20251124_133831_seg038_transcript.txt
+[2025-11-25 21:25:14]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133831_seg038.wav
+[2025-11-25 21:25:14] [22/30] Processing...
+[2025-11-25 21:25:14] 🎤 Transcribing: Power106_recording_20251124_133933_seg039.wav
+[2025-11-25 21:27:49]    ✅ Saved to: Power106_recording_20251124_133933_seg039_transcript.txt
+[2025-11-25 21:27:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_133933_seg039.wav
+[2025-11-25 21:27:49] [23/30] Processing...
+[2025-11-25 21:27:49] 🎤 Transcribing: Power106_recording_20251124_134034_seg040.wav
+[2025-11-25 21:29:26]    ✅ Saved to: Power106_recording_20251124_134034_seg040_transcript.txt
+[2025-11-25 21:29:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_134034_seg040.wav
+[2025-11-25 21:29:26] [24/30] Processing...
+[2025-11-25 21:29:26] 🎤 Transcribing: Power106_recording_20251124_134134_seg041.wav
+[2025-11-25 21:31:08]    ✅ Saved to: Power106_recording_20251124_134134_seg041_transcript.txt
+[2025-11-25 21:31:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_134134_seg041.wav
+[2025-11-25 21:31:08] [25/30] Processing...
+[2025-11-25 21:31:08] 🎤 Transcribing: Power106_recording_20251124_140002_seg000.wav
+[2025-11-25 21:32:57]    ✅ Saved to: Power106_recording_20251124_140002_seg000_transcript.txt
+[2025-11-25 21:32:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140002_seg000.wav
+[2025-11-25 21:32:57] [26/30] Processing...
+[2025-11-25 21:32:57] 🎤 Transcribing: Power106_recording_20251124_140104_seg001.wav
+[2025-11-25 21:33:54]    ✅ Saved to: Power106_recording_20251124_140104_seg001_transcript.txt
+[2025-11-25 21:33:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140104_seg001.wav
+[2025-11-25 21:33:54] [27/30] Processing...
+[2025-11-25 21:33:54] 🎤 Transcribing: Power106_recording_20251124_140204_seg002.wav
+[2025-11-25 21:35:49]    ✅ Saved to: Power106_recording_20251124_140204_seg002_transcript.txt
+[2025-11-25 21:35:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140204_seg002.wav
+[2025-11-25 21:35:49] [28/30] Processing...
+[2025-11-25 21:35:49] 🎤 Transcribing: Power106_recording_20251124_140304_seg003.wav
+[2025-11-25 21:38:03]    ✅ Saved to: Power106_recording_20251124_140304_seg003_transcript.txt
+[2025-11-25 21:38:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140304_seg003.wav
+[2025-11-25 21:38:03] [29/30] Processing...
+[2025-11-25 21:38:03] 🎤 Transcribing: Power106_recording_20251124_140404_seg004.wav
+[2025-11-25 21:38:56]    ✅ Saved to: Power106_recording_20251124_140404_seg004_transcript.txt
+[2025-11-25 21:38:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140404_seg004.wav
+[2025-11-25 21:38:56] [30/30] Processing...
+[2025-11-25 21:38:56] 🎤 Transcribing: Power106_recording_20251124_140506_seg005.wav
+[2025-11-25 21:39:34]    ✅ Saved to: Power106_recording_20251124_140506_seg005_transcript.txt
+[2025-11-25 21:39:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140506_seg005.wav
+[2025-11-25 21:39:34] ------------------------------------------------------------
+[2025-11-25 21:39:34] 📊 Power106 Results: 30 successful, 0 failed
+[2025-11-25 21:39:34] ============================================================
+[2025-11-25 21:39:34] ============================================================
+[2025-11-25 21:39:34] ✅ Batch transcription complete
+[2025-11-25 21:39:34] 📊 Total successful: 60
+[2025-11-25 21:39:34] ============================================================
+[2025-11-25 21:40:01] ============================================================
+[2025-11-25 21:40:01] 📻 Batch WAV Transcription Service
+[2025-11-25 21:40:01] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 21:40:01] ============================================================
+[2025-11-25 21:40:01] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 21:40:02] ✅ Connected successfully
+[2025-11-25 21:40:02] ============================================================
+[2025-11-25 21:40:02] 📻 Processing RJR
+[2025-11-25 21:40:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 21:40:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 21:40:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 21:40:02] ------------------------------------------------------------
+[2025-11-25 21:40:02] 📋 Found 374 WAV file(s)
+[2025-11-25 21:40:02] 📝 Files to transcribe: 362
+[2025-11-25 21:40:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 21:40:02] ------------------------------------------------------------
+[2025-11-25 21:40:02] [1/30] Processing...
+[2025-11-25 21:40:02] 🎤 Transcribing: RJR_recording_20251124_154427_seg044.wav
+[2025-11-25 21:41:25]    ✅ Saved to: RJR_recording_20251124_154427_seg044_transcript.txt
+[2025-11-25 21:41:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154427_seg044.wav
+[2025-11-25 21:41:25] [2/30] Processing...
+[2025-11-25 21:41:25] 🎤 Transcribing: RJR_recording_20251124_154528_seg045.wav
+[2025-11-25 21:42:46]    ✅ Saved to: RJR_recording_20251124_154528_seg045_transcript.txt
+[2025-11-25 21:42:46]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154528_seg045.wav
+[2025-11-25 21:42:46] [3/30] Processing...
+[2025-11-25 21:42:46] 🎤 Transcribing: RJR_recording_20251124_154628_seg046.wav
+[2025-11-25 21:44:27]    ✅ Saved to: RJR_recording_20251124_154628_seg046_transcript.txt
+[2025-11-25 21:44:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154628_seg046.wav
+[2025-11-25 21:44:27] [4/30] Processing...
+[2025-11-25 21:44:27] 🎤 Transcribing: RJR_recording_20251124_154729_seg047.wav
+[2025-11-25 21:46:45]    ✅ Saved to: RJR_recording_20251124_154729_seg047_transcript.txt
+[2025-11-25 21:46:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154729_seg047.wav
+[2025-11-25 21:46:45] [5/30] Processing...
+[2025-11-25 21:46:45] 🎤 Transcribing: RJR_recording_20251124_154829_seg048.wav
+[2025-11-25 21:48:32]    ✅ Saved to: RJR_recording_20251124_154829_seg048_transcript.txt
+[2025-11-25 21:48:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154829_seg048.wav
+[2025-11-25 21:48:32] [6/30] Processing...
+[2025-11-25 21:48:32] 🎤 Transcribing: RJR_recording_20251124_154929_seg049.wav
+[2025-11-25 21:50:31]    ✅ Saved to: RJR_recording_20251124_154929_seg049_transcript.txt
+[2025-11-25 21:50:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_154929_seg049.wav
+[2025-11-25 21:50:31] [7/30] Processing...
+[2025-11-25 21:50:31] 🎤 Transcribing: RJR_recording_20251124_155030_seg050.wav
+[2025-11-25 21:53:12]    ✅ Saved to: RJR_recording_20251124_155030_seg050_transcript.txt
+[2025-11-25 21:53:12]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155030_seg050.wav
+[2025-11-25 21:53:12] [8/30] Processing...
+[2025-11-25 21:53:12] 🎤 Transcribing: RJR_recording_20251124_155130_seg051.wav
+[2025-11-25 21:55:32]    ✅ Saved to: RJR_recording_20251124_155130_seg051_transcript.txt
+[2025-11-25 21:55:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155130_seg051.wav
+[2025-11-25 21:55:32] [9/30] Processing...
+[2025-11-25 21:55:32] 🎤 Transcribing: RJR_recording_20251124_155232_seg052.wav
+[2025-11-25 21:57:16]    ✅ Saved to: RJR_recording_20251124_155232_seg052_transcript.txt
+[2025-11-25 21:57:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155232_seg052.wav
+[2025-11-25 21:57:16] [10/30] Processing...
+[2025-11-25 21:57:16] 🎤 Transcribing: RJR_recording_20251124_155333_seg053.wav
+[2025-11-25 21:59:45]    ✅ Saved to: RJR_recording_20251124_155333_seg053_transcript.txt
+[2025-11-25 21:59:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155333_seg053.wav
+[2025-11-25 21:59:45] [11/30] Processing...
+[2025-11-25 21:59:45] 🎤 Transcribing: RJR_recording_20251124_155433_seg054.wav
+[2025-11-25 22:01:55]    ✅ Saved to: RJR_recording_20251124_155433_seg054_transcript.txt
+[2025-11-25 22:01:55]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155433_seg054.wav
+[2025-11-25 22:01:55] [12/30] Processing...
+[2025-11-25 22:01:55] 🎤 Transcribing: RJR_recording_20251124_155534_seg055.wav
+[2025-11-25 22:04:04]    ✅ Saved to: RJR_recording_20251124_155534_seg055_transcript.txt
+[2025-11-25 22:04:04]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155534_seg055.wav
+[2025-11-25 22:04:04] [13/30] Processing...
+[2025-11-25 22:04:04] 🎤 Transcribing: RJR_recording_20251124_155634_seg056.wav
+[2025-11-25 22:06:25]    ✅ Saved to: RJR_recording_20251124_155634_seg056_transcript.txt
+[2025-11-25 22:06:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155634_seg056.wav
+[2025-11-25 22:06:25] [14/30] Processing...
+[2025-11-25 22:06:25] 🎤 Transcribing: RJR_recording_20251124_155735_seg057.wav
+[2025-11-25 22:08:43]    ✅ Saved to: RJR_recording_20251124_155735_seg057_transcript.txt
+[2025-11-25 22:08:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155735_seg057.wav
+[2025-11-25 22:08:43] [15/30] Processing...
+[2025-11-25 22:08:43] 🎤 Transcribing: RJR_recording_20251124_155837_seg058.wav
+[2025-11-25 22:11:23]    ✅ Saved to: RJR_recording_20251124_155837_seg058_transcript.txt
+[2025-11-25 22:11:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155837_seg058.wav
+[2025-11-25 22:11:23] [16/30] Processing...
+[2025-11-25 22:11:23] 🎤 Transcribing: RJR_recording_20251124_155937_seg059.wav
+[2025-11-25 22:12:02]    ✅ Saved to: RJR_recording_20251124_155937_seg059_transcript.txt
+[2025-11-25 22:12:02]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_155937_seg059.wav
+[2025-11-25 22:12:02] [17/30] Processing...
+[2025-11-25 22:12:02] 🎤 Transcribing: RJR_recording_20251124_160001_seg000.wav
+[2025-11-25 22:14:45]    ✅ Saved to: RJR_recording_20251124_160001_seg000_transcript.txt
+[2025-11-25 22:14:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160001_seg000.wav
+[2025-11-25 22:14:45] [18/30] Processing...
+[2025-11-25 22:14:45] 🎤 Transcribing: RJR_recording_20251124_160102_seg001.wav
+[2025-11-25 22:17:23]    ✅ Saved to: RJR_recording_20251124_160102_seg001_transcript.txt
+[2025-11-25 22:17:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160102_seg001.wav
+[2025-11-25 22:17:23] [19/30] Processing...
+[2025-11-25 22:17:23] 🎤 Transcribing: RJR_recording_20251124_160202_seg002.wav
+[2025-11-25 22:19:55]    ✅ Saved to: RJR_recording_20251124_160202_seg002_transcript.txt
+[2025-11-25 22:19:55]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160202_seg002.wav
+[2025-11-25 22:19:55] [20/30] Processing...
+[2025-11-25 22:19:55] 🎤 Transcribing: RJR_recording_20251124_160303_seg003.wav
+[2025-11-25 22:21:22]    ✅ Saved to: RJR_recording_20251124_160303_seg003_transcript.txt
+[2025-11-25 22:21:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160303_seg003.wav
+[2025-11-25 22:21:22] [21/30] Processing...
+[2025-11-25 22:21:22] 🎤 Transcribing: RJR_recording_20251124_160403_seg004.wav
+[2025-11-25 22:22:51]    ✅ Saved to: RJR_recording_20251124_160403_seg004_transcript.txt
+[2025-11-25 22:22:51]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160403_seg004.wav
+[2025-11-25 22:22:51] [22/30] Processing...
+[2025-11-25 22:22:51] 🎤 Transcribing: RJR_recording_20251124_160503_seg005.wav
+[2025-11-25 22:24:10]    ✅ Saved to: RJR_recording_20251124_160503_seg005_transcript.txt
+[2025-11-25 22:24:10]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160503_seg005.wav
+[2025-11-25 22:24:10] [23/30] Processing...
+[2025-11-25 22:24:10] 🎤 Transcribing: RJR_recording_20251124_160603_seg006.wav
+[2025-11-25 22:25:23]    ✅ Saved to: RJR_recording_20251124_160603_seg006_transcript.txt
+[2025-11-25 22:25:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160603_seg006.wav
+[2025-11-25 22:25:23] [24/30] Processing...
+[2025-11-25 22:25:23] 🎤 Transcribing: RJR_recording_20251124_160703_seg007.wav
+[2025-11-25 22:26:39]    ✅ Saved to: RJR_recording_20251124_160703_seg007_transcript.txt
+[2025-11-25 22:26:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160703_seg007.wav
+[2025-11-25 22:26:39] [25/30] Processing...
+[2025-11-25 22:26:39] 🎤 Transcribing: RJR_recording_20251124_160804_seg008.wav
+[2025-11-25 22:27:59]    ✅ Saved to: RJR_recording_20251124_160804_seg008_transcript.txt
+[2025-11-25 22:27:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160804_seg008.wav
+[2025-11-25 22:27:59] [26/30] Processing...
+[2025-11-25 22:27:59] 🎤 Transcribing: RJR_recording_20251124_160905_seg009.wav
+[2025-11-25 22:28:53]    ✅ Saved to: RJR_recording_20251124_160905_seg009_transcript.txt
+[2025-11-25 22:28:53]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_160905_seg009.wav
+[2025-11-25 22:28:53] [27/30] Processing...
+[2025-11-25 22:28:53] 🎤 Transcribing: RJR_recording_20251124_161007_seg010.wav
+[2025-11-25 22:30:57]    ✅ Saved to: RJR_recording_20251124_161007_seg010_transcript.txt
+[2025-11-25 22:30:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161007_seg010.wav
+[2025-11-25 22:30:57] [28/30] Processing...
+[2025-11-25 22:30:57] 🎤 Transcribing: RJR_recording_20251124_161107_seg011.wav
+[2025-11-25 22:32:35]    ✅ Saved to: RJR_recording_20251124_161107_seg011_transcript.txt
+[2025-11-25 22:32:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161107_seg011.wav
+[2025-11-25 22:32:35] [29/30] Processing...
+[2025-11-25 22:32:35] 🎤 Transcribing: RJR_recording_20251124_161208_seg012.wav
+[2025-11-25 22:34:12]    ✅ Saved to: RJR_recording_20251124_161208_seg012_transcript.txt
+[2025-11-25 22:34:12]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161208_seg012.wav
+[2025-11-25 22:34:12] [30/30] Processing...
+[2025-11-25 22:34:12] 🎤 Transcribing: RJR_recording_20251124_161308_seg013.wav
+[2025-11-25 22:35:19]    ✅ Saved to: RJR_recording_20251124_161308_seg013_transcript.txt
+[2025-11-25 22:35:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161308_seg013.wav
+[2025-11-25 22:35:19] ------------------------------------------------------------
+[2025-11-25 22:35:19] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-25 22:35:19] ============================================================
+[2025-11-25 22:35:19] ============================================================
+[2025-11-25 22:35:19] 📻 Processing Power106
+[2025-11-25 22:35:19] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-25 22:35:19] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-25 22:35:19] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-25 22:35:19] ------------------------------------------------------------
+[2025-11-25 22:35:19] 📋 Found 466 WAV file(s)
+[2025-11-25 22:35:19] 📝 Files to transcribe: 460
+[2025-11-25 22:35:19] ⚠️  Limiting to 30 files per run
+[2025-11-25 22:35:19] ------------------------------------------------------------
+[2025-11-25 22:35:19] [1/30] Processing...
+[2025-11-25 22:35:19] 🎤 Transcribing: Power106_recording_20251124_140606_seg006.wav
+[2025-11-25 22:36:03]    ✅ Saved to: Power106_recording_20251124_140606_seg006_transcript.txt
+[2025-11-25 22:36:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140606_seg006.wav
+[2025-11-25 22:36:03] [2/30] Processing...
+[2025-11-25 22:36:03] 🎤 Transcribing: Power106_recording_20251124_140706_seg007.wav
+[2025-11-25 22:36:57]    ✅ Saved to: Power106_recording_20251124_140706_seg007_transcript.txt
+[2025-11-25 22:36:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140706_seg007.wav
+[2025-11-25 22:36:57] [3/30] Processing...
+[2025-11-25 22:36:57] 🎤 Transcribing: Power106_recording_20251124_140806_seg008.wav
+[2025-11-25 22:38:13]    ✅ Saved to: Power106_recording_20251124_140806_seg008_transcript.txt
+[2025-11-25 22:38:13]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140806_seg008.wav
+[2025-11-25 22:38:13] [4/30] Processing...
+[2025-11-25 22:38:13] 🎤 Transcribing: Power106_recording_20251124_140907_seg009.wav
+[2025-11-25 22:39:21]    ✅ Saved to: Power106_recording_20251124_140907_seg009_transcript.txt
+[2025-11-25 22:39:21]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_140907_seg009.wav
+[2025-11-25 22:39:21] [5/30] Processing...
+[2025-11-25 22:39:21] 🎤 Transcribing: Power106_recording_20251124_141007_seg010.wav
+[2025-11-25 22:40:30]    ✅ Saved to: Power106_recording_20251124_141007_seg010_transcript.txt
+[2025-11-25 22:40:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141007_seg010.wav
+[2025-11-25 22:40:30] [6/30] Processing...
+[2025-11-25 22:40:30] 🎤 Transcribing: Power106_recording_20251124_141109_seg011.wav
+[2025-11-25 22:41:45]    ✅ Saved to: Power106_recording_20251124_141109_seg011_transcript.txt
+[2025-11-25 22:41:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141109_seg011.wav
+[2025-11-25 22:41:45] [7/30] Processing...
+[2025-11-25 22:41:45] 🎤 Transcribing: Power106_recording_20251124_141209_seg012.wav
+[2025-11-25 22:43:24]    ✅ Saved to: Power106_recording_20251124_141209_seg012_transcript.txt
+[2025-11-25 22:43:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141209_seg012.wav
+[2025-11-25 22:43:24] [8/30] Processing...
+[2025-11-25 22:43:24] 🎤 Transcribing: Power106_recording_20251124_141310_seg013.wav
+[2025-11-25 22:44:50]    ✅ Saved to: Power106_recording_20251124_141310_seg013_transcript.txt
+[2025-11-25 22:44:50]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141310_seg013.wav
+[2025-11-25 22:44:50] [9/30] Processing...
+[2025-11-25 22:44:50] 🎤 Transcribing: Power106_recording_20251124_141410_seg014.wav
+[2025-11-25 22:46:40]    ✅ Saved to: Power106_recording_20251124_141410_seg014_transcript.txt
+[2025-11-25 22:46:40]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141410_seg014.wav
+[2025-11-25 22:46:40] [10/30] Processing...
+[2025-11-25 22:46:40] 🎤 Transcribing: Power106_recording_20251124_141512_seg015.wav
+[2025-11-25 22:48:30]    ✅ Saved to: Power106_recording_20251124_141512_seg015_transcript.txt
+[2025-11-25 22:48:30]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141512_seg015.wav
+[2025-11-25 22:48:30] [11/30] Processing...
+[2025-11-25 22:48:30] 🎤 Transcribing: Power106_recording_20251124_141612_seg016.wav
+[2025-11-25 22:50:19]    ✅ Saved to: Power106_recording_20251124_141612_seg016_transcript.txt
+[2025-11-25 22:50:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141612_seg016.wav
+[2025-11-25 22:50:19] [12/30] Processing...
+[2025-11-25 22:50:19] 🎤 Transcribing: Power106_recording_20251124_141714_seg017.wav
+[2025-11-25 22:51:47]    ✅ Saved to: Power106_recording_20251124_141714_seg017_transcript.txt
+[2025-11-25 22:51:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141714_seg017.wav
+[2025-11-25 22:51:47] [13/30] Processing...
+[2025-11-25 22:51:47] 🎤 Transcribing: Power106_recording_20251124_141814_seg018.wav
+[2025-11-25 22:53:49]    ✅ Saved to: Power106_recording_20251124_141814_seg018_transcript.txt
+[2025-11-25 22:53:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141814_seg018.wav
+[2025-11-25 22:53:49] [14/30] Processing...
+[2025-11-25 22:53:49] 🎤 Transcribing: Power106_recording_20251124_141915_seg019.wav
+[2025-11-25 22:54:47]    ✅ Saved to: Power106_recording_20251124_141915_seg019_transcript.txt
+[2025-11-25 22:54:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_141915_seg019.wav
+[2025-11-25 22:54:47] [15/30] Processing...
+[2025-11-25 22:54:47] 🎤 Transcribing: Power106_recording_20251124_142016_seg020.wav
+[2025-11-25 22:56:03]    ✅ Saved to: Power106_recording_20251124_142016_seg020_transcript.txt
+[2025-11-25 22:56:03]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142016_seg020.wav
+[2025-11-25 22:56:03] [16/30] Processing...
+[2025-11-25 22:56:03] 🎤 Transcribing: Power106_recording_20251124_142116_seg021.wav
+[2025-11-25 22:57:42]    ✅ Saved to: Power106_recording_20251124_142116_seg021_transcript.txt
+[2025-11-25 22:57:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142116_seg021.wav
+[2025-11-25 22:57:42] [17/30] Processing...
+[2025-11-25 22:57:42] 🎤 Transcribing: Power106_recording_20251124_142219_seg022.wav
+[2025-11-25 22:59:33]    ✅ Saved to: Power106_recording_20251124_142219_seg022_transcript.txt
+[2025-11-25 22:59:33]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142219_seg022.wav
+[2025-11-25 22:59:33] [18/30] Processing...
+[2025-11-25 22:59:33] 🎤 Transcribing: Power106_recording_20251124_142320_seg023.wav
+[2025-11-25 23:01:31]    ✅ Saved to: Power106_recording_20251124_142320_seg023_transcript.txt
+[2025-11-25 23:01:31]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142320_seg023.wav
+[2025-11-25 23:01:31] [19/30] Processing...
+[2025-11-25 23:01:31] 🎤 Transcribing: Power106_recording_20251124_142421_seg024.wav
+[2025-11-25 23:03:24]    ✅ Saved to: Power106_recording_20251124_142421_seg024_transcript.txt
+[2025-11-25 23:03:24]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142421_seg024.wav
+[2025-11-25 23:03:24] [20/30] Processing...
+[2025-11-25 23:03:24] 🎤 Transcribing: Power106_recording_20251124_142521_seg025.wav
+[2025-11-25 23:05:19]    ✅ Saved to: Power106_recording_20251124_142521_seg025_transcript.txt
+[2025-11-25 23:05:19]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142521_seg025.wav
+[2025-11-25 23:05:19] [21/30] Processing...
+[2025-11-25 23:05:19] 🎤 Transcribing: Power106_recording_20251124_142622_seg026.wav
+[2025-11-25 23:06:45]    ✅ Saved to: Power106_recording_20251124_142622_seg026_transcript.txt
+[2025-11-25 23:06:45]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142622_seg026.wav
+[2025-11-25 23:06:45] [22/30] Processing...
+[2025-11-25 23:06:45] 🎤 Transcribing: Power106_recording_20251124_142722_seg027.wav
+[2025-11-25 23:08:16]    ✅ Saved to: Power106_recording_20251124_142722_seg027_transcript.txt
+[2025-11-25 23:08:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142722_seg027.wav
+[2025-11-25 23:08:16] [23/30] Processing...
+[2025-11-25 23:08:16] 🎤 Transcribing: Power106_recording_20251124_142822_seg028.wav
+[2025-11-25 23:10:42]    ✅ Saved to: Power106_recording_20251124_142822_seg028_transcript.txt
+[2025-11-25 23:10:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142822_seg028.wav
+[2025-11-25 23:10:42] [24/30] Processing...
+[2025-11-25 23:10:42] 🎤 Transcribing: Power106_recording_20251124_142925_seg029.wav
+[2025-11-25 23:13:25]    ✅ Saved to: Power106_recording_20251124_142925_seg029_transcript.txt
+[2025-11-25 23:13:25]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_142925_seg029.wav
+[2025-11-25 23:13:25] [25/30] Processing...
+[2025-11-25 23:13:25] 🎤 Transcribing: Power106_recording_20251124_143025_seg030.wav
+[2025-11-25 23:15:52]    ✅ Saved to: Power106_recording_20251124_143025_seg030_transcript.txt
+[2025-11-25 23:15:52]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143025_seg030.wav
+[2025-11-25 23:15:52] [26/30] Processing...
+[2025-11-25 23:15:52] 🎤 Transcribing: Power106_recording_20251124_143125_seg031.wav
+[2025-11-25 23:18:00]    ✅ Saved to: Power106_recording_20251124_143125_seg031_transcript.txt
+[2025-11-25 23:18:00]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143125_seg031.wav
+[2025-11-25 23:18:00] [27/30] Processing...
+[2025-11-25 23:18:00] 🎤 Transcribing: Power106_recording_20251124_143226_seg032.wav
+[2025-11-25 23:20:15]    ✅ Saved to: Power106_recording_20251124_143226_seg032_transcript.txt
+[2025-11-25 23:20:15]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143226_seg032.wav
+[2025-11-25 23:20:15] [28/30] Processing...
+[2025-11-25 23:20:15] 🎤 Transcribing: Power106_recording_20251124_143327_seg033.wav
+[2025-11-25 23:22:18]    ✅ Saved to: Power106_recording_20251124_143327_seg033_transcript.txt
+[2025-11-25 23:22:18]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143327_seg033.wav
+[2025-11-25 23:22:18] [29/30] Processing...
+[2025-11-25 23:22:18] 🎤 Transcribing: Power106_recording_20251124_143427_seg034.wav
+[2025-11-25 23:24:59]    ✅ Saved to: Power106_recording_20251124_143427_seg034_transcript.txt
+[2025-11-25 23:24:59]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143427_seg034.wav
+[2025-11-25 23:24:59] [30/30] Processing...
+[2025-11-25 23:24:59] 🎤 Transcribing: Power106_recording_20251124_143527_seg035.wav
+[2025-11-25 23:27:37]    ✅ Saved to: Power106_recording_20251124_143527_seg035_transcript.txt
+[2025-11-25 23:27:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143527_seg035.wav
+[2025-11-25 23:27:37] ------------------------------------------------------------
+[2025-11-25 23:27:37] 📊 Power106 Results: 30 successful, 0 failed
+[2025-11-25 23:27:37] ============================================================
+[2025-11-25 23:27:37] ============================================================
+[2025-11-25 23:27:37] ✅ Batch transcription complete
+[2025-11-25 23:27:37] 📊 Total successful: 60
+[2025-11-25 23:27:37] ============================================================
+[2025-11-25 23:28:02] ============================================================
+[2025-11-25 23:28:02] 📻 Batch WAV Transcription Service
+[2025-11-25 23:28:02] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-25 23:28:02] ============================================================
+[2025-11-25 23:28:02] 🤗 Connecting to Hugging Face Space...
+[2025-11-25 23:28:02] ✅ Connected successfully
+[2025-11-25 23:28:02] ============================================================
+[2025-11-25 23:28:02] 📻 Processing RJR
+[2025-11-25 23:28:02] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_RJR/
+[2025-11-25 23:28:02] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_RJR/
+[2025-11-25 23:28:02] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/
+[2025-11-25 23:28:02] ------------------------------------------------------------
+[2025-11-25 23:28:02] 📋 Found 344 WAV file(s)
+[2025-11-25 23:28:02] 📝 Files to transcribe: 332
+[2025-11-25 23:28:02] ⚠️  Limiting to 30 files per run
+[2025-11-25 23:28:02] ------------------------------------------------------------
+[2025-11-25 23:28:02] [1/30] Processing...
+[2025-11-25 23:28:02] 🎤 Transcribing: RJR_recording_20251124_161408_seg014.wav
+[2025-11-25 23:29:29]    ✅ Saved to: RJR_recording_20251124_161408_seg014_transcript.txt
+[2025-11-25 23:29:29]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161408_seg014.wav
+[2025-11-25 23:29:29] [2/30] Processing...
+[2025-11-25 23:29:29] 🎤 Transcribing: RJR_recording_20251124_161509_seg015.wav
+[2025-11-25 23:30:56]    ✅ Saved to: RJR_recording_20251124_161509_seg015_transcript.txt
+[2025-11-25 23:30:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161509_seg015.wav
+[2025-11-25 23:30:56] [3/30] Processing...
+[2025-11-25 23:30:56] 🎤 Transcribing: RJR_recording_20251124_161612_seg016.wav
+[2025-11-25 23:32:37]    ✅ Saved to: RJR_recording_20251124_161612_seg016_transcript.txt
+[2025-11-25 23:32:37]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161612_seg016.wav
+[2025-11-25 23:32:37] [4/30] Processing...
+[2025-11-25 23:32:37] 🎤 Transcribing: RJR_recording_20251124_161712_seg017.wav
+[2025-11-25 23:33:47]    ✅ Saved to: RJR_recording_20251124_161712_seg017_transcript.txt
+[2025-11-25 23:33:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161712_seg017.wav
+[2025-11-25 23:33:47] [5/30] Processing...
+[2025-11-25 23:33:47] 🎤 Transcribing: RJR_recording_20251124_161813_seg018.wav
+[2025-11-25 23:35:06]    ✅ Saved to: RJR_recording_20251124_161813_seg018_transcript.txt
+[2025-11-25 23:35:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161813_seg018.wav
+[2025-11-25 23:35:06] [6/30] Processing...
+[2025-11-25 23:35:06] 🎤 Transcribing: RJR_recording_20251124_161913_seg019.wav
+[2025-11-25 23:36:54]    ✅ Saved to: RJR_recording_20251124_161913_seg019_transcript.txt
+[2025-11-25 23:36:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_161913_seg019.wav
+[2025-11-25 23:36:54] [7/30] Processing...
+[2025-11-25 23:36:54] 🎤 Transcribing: RJR_recording_20251124_162013_seg020.wav
+[2025-11-25 23:38:33]    ✅ Saved to: RJR_recording_20251124_162013_seg020_transcript.txt
+[2025-11-25 23:38:33]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162013_seg020.wav
+[2025-11-25 23:38:33] [8/30] Processing...
+[2025-11-25 23:38:33] 🎤 Transcribing: RJR_recording_20251124_162114_seg021.wav
+[2025-11-25 23:39:48]    ✅ Saved to: RJR_recording_20251124_162114_seg021_transcript.txt
+[2025-11-25 23:39:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162114_seg021.wav
+[2025-11-25 23:39:48] [9/30] Processing...
+[2025-11-25 23:39:48] 🎤 Transcribing: RJR_recording_20251124_162214_seg022.wav
+[2025-11-25 23:41:27]    ✅ Saved to: RJR_recording_20251124_162214_seg022_transcript.txt
+[2025-11-25 23:41:27]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162214_seg022.wav
+[2025-11-25 23:41:27] [10/30] Processing...
+[2025-11-25 23:41:27] 🎤 Transcribing: RJR_recording_20251124_162314_seg023.wav
+[2025-11-25 23:42:51]    ✅ Saved to: RJR_recording_20251124_162314_seg023_transcript.txt
+[2025-11-25 23:42:51]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162314_seg023.wav
+[2025-11-25 23:42:51] [11/30] Processing...
+[2025-11-25 23:42:51] 🎤 Transcribing: RJR_recording_20251124_162414_seg024.wav
+[2025-11-25 23:44:07]    ✅ Saved to: RJR_recording_20251124_162414_seg024_transcript.txt
+[2025-11-25 23:44:07]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162414_seg024.wav
+[2025-11-25 23:44:07] [12/30] Processing...
+[2025-11-25 23:44:07] 🎤 Transcribing: RJR_recording_20251124_162515_seg025.wav
+[2025-11-25 23:46:26]    ✅ Saved to: RJR_recording_20251124_162515_seg025_transcript.txt
+[2025-11-25 23:46:26]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162515_seg025.wav
+[2025-11-25 23:46:26] [13/30] Processing...
+[2025-11-25 23:46:26] 🎤 Transcribing: RJR_recording_20251124_162617_seg026.wav
+[2025-11-25 23:48:38]    ✅ Saved to: RJR_recording_20251124_162617_seg026_transcript.txt
+[2025-11-25 23:48:38]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162617_seg026.wav
+[2025-11-25 23:48:38] [14/30] Processing...
+[2025-11-25 23:48:38] 🎤 Transcribing: RJR_recording_20251124_162717_seg027.wav
+[2025-11-25 23:49:47]    ✅ Saved to: RJR_recording_20251124_162717_seg027_transcript.txt
+[2025-11-25 23:49:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162717_seg027.wav
+[2025-11-25 23:49:47] [15/30] Processing...
+[2025-11-25 23:49:47] 🎤 Transcribing: RJR_recording_20251124_162817_seg028.wav
+[2025-11-25 23:50:47]    ✅ Saved to: RJR_recording_20251124_162817_seg028_transcript.txt
+[2025-11-25 23:50:47]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162817_seg028.wav
+[2025-11-25 23:50:47] [16/30] Processing...
+[2025-11-25 23:50:47] 🎤 Transcribing: RJR_recording_20251124_162918_seg029.wav
+[2025-11-25 23:52:57]    ✅ Saved to: RJR_recording_20251124_162918_seg029_transcript.txt
+[2025-11-25 23:52:57]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_162918_seg029.wav
+[2025-11-25 23:52:57] [17/30] Processing...
+[2025-11-25 23:52:57] 🎤 Transcribing: RJR_recording_20251124_163018_seg030.wav
+[2025-11-25 23:55:23]    ✅ Saved to: RJR_recording_20251124_163018_seg030_transcript.txt
+[2025-11-25 23:55:23]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163018_seg030.wav
+[2025-11-25 23:55:23] [18/30] Processing...
+[2025-11-25 23:55:23] 🎤 Transcribing: RJR_recording_20251124_163119_seg031.wav
+[2025-11-25 23:57:17]    ✅ Saved to: RJR_recording_20251124_163119_seg031_transcript.txt
+[2025-11-25 23:57:17]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163119_seg031.wav
+[2025-11-25 23:57:17] [19/30] Processing...
+[2025-11-25 23:57:17] 🎤 Transcribing: RJR_recording_20251124_163220_seg032.wav
+[2025-11-25 23:58:56]    ✅ Saved to: RJR_recording_20251124_163220_seg032_transcript.txt
+[2025-11-25 23:58:56]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163220_seg032.wav
+[2025-11-25 23:58:56] [20/30] Processing...
+[2025-11-25 23:58:56] 🎤 Transcribing: RJR_recording_20251124_163320_seg033.wav
+[2025-11-26 00:00:39]    ✅ Saved to: RJR_recording_20251124_163320_seg033_transcript.txt
+[2025-11-26 00:00:39]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163320_seg033.wav
+[2025-11-26 00:00:39] [21/30] Processing...
+[2025-11-26 00:00:39] 🎤 Transcribing: RJR_recording_20251124_163422_seg034.wav
+[2025-11-26 00:02:08]    ✅ Saved to: RJR_recording_20251124_163422_seg034_transcript.txt
+[2025-11-26 00:02:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163422_seg034.wav
+[2025-11-26 00:02:08] [22/30] Processing...
+[2025-11-26 00:02:08] 🎤 Transcribing: RJR_recording_20251124_163523_seg035.wav
+[2025-11-26 00:04:18]    ✅ Saved to: RJR_recording_20251124_163523_seg035_transcript.txt
+[2025-11-26 00:04:18]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163523_seg035.wav
+[2025-11-26 00:04:18] [23/30] Processing...
+[2025-11-26 00:04:18] 🎤 Transcribing: RJR_recording_20251124_163623_seg036.wav
+[2025-11-26 00:06:17]    ✅ Saved to: RJR_recording_20251124_163623_seg036_transcript.txt
+[2025-11-26 00:06:17]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163623_seg036.wav
+[2025-11-26 00:06:17] [24/30] Processing...
+[2025-11-26 00:06:17] 🎤 Transcribing: RJR_recording_20251124_163724_seg037.wav
+[2025-11-26 00:07:54]    ✅ Saved to: RJR_recording_20251124_163724_seg037_transcript.txt
+[2025-11-26 00:07:54]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163724_seg037.wav
+[2025-11-26 00:07:54] [25/30] Processing...
+[2025-11-26 00:07:54] 🎤 Transcribing: RJR_recording_20251124_163824_seg038.wav
+[2025-11-26 00:09:28]    ✅ Saved to: RJR_recording_20251124_163824_seg038_transcript.txt
+[2025-11-26 00:09:28]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163824_seg038.wav
+[2025-11-26 00:09:28] [26/30] Processing...
+[2025-11-26 00:09:28] 🎤 Transcribing: RJR_recording_20251124_163925_seg039.wav
+[2025-11-26 00:11:08]    ✅ Saved to: RJR_recording_20251124_163925_seg039_transcript.txt
+[2025-11-26 00:11:08]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_163925_seg039.wav
+[2025-11-26 00:11:08] [27/30] Processing...
+[2025-11-26 00:11:08] 🎤 Transcribing: RJR_recording_20251124_164027_seg040.wav
+[2025-11-26 00:12:29]    ✅ Saved to: RJR_recording_20251124_164027_seg040_transcript.txt
+[2025-11-26 00:12:29]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_164027_seg040.wav
+[2025-11-26 00:12:29] [28/30] Processing...
+[2025-11-26 00:12:29] 🎤 Transcribing: RJR_recording_20251124_164127_seg041.wav
+[2025-11-26 00:13:34]    ✅ Saved to: RJR_recording_20251124_164127_seg041_transcript.txt
+[2025-11-26 00:13:34]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_164127_seg041.wav
+[2025-11-26 00:13:34] [29/30] Processing...
+[2025-11-26 00:13:34] 🎤 Transcribing: RJR_recording_20251124_164227_seg042.wav
+[2025-11-26 00:14:43]    ✅ Saved to: RJR_recording_20251124_164227_seg042_transcript.txt
+[2025-11-26 00:14:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_164227_seg042.wav
+[2025-11-26 00:14:43] [30/30] Processing...
+[2025-11-26 00:14:43] 🎤 Transcribing: RJR_recording_20251124_164328_seg043.wav
+[2025-11-26 00:16:05]    ✅ Saved to: RJR_recording_20251124_164328_seg043_transcript.txt
+[2025-11-26 00:16:05]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_RJR/RJR_recording_20251124_164328_seg043.wav
+[2025-11-26 00:16:05] ------------------------------------------------------------
+[2025-11-26 00:16:05] 📊 RJR Results: 30 successful, 0 failed
+[2025-11-26 00:16:05] ============================================================
+[2025-11-26 00:16:05] ============================================================
+[2025-11-26 00:16:05] 📻 Processing Power106
+[2025-11-26 00:16:05] 📂 Recordings: /root/speech2text/stream_onlineradio/transcribewave/recordings_power106/
+[2025-11-26 00:16:05] 📄 Transcripts: /root/speech2text/stream_onlineradio/transcribewave/transcripts_power106/
+[2025-11-26 00:16:05] 📦 Completed: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/
+[2025-11-26 00:16:05] ------------------------------------------------------------
+[2025-11-26 00:16:05] 📋 Found 436 WAV file(s)
+[2025-11-26 00:16:05] 📝 Files to transcribe: 430
+[2025-11-26 00:16:05] ⚠️  Limiting to 30 files per run
+[2025-11-26 00:16:05] ------------------------------------------------------------
+[2025-11-26 00:16:05] [1/30] Processing...
+[2025-11-26 00:16:05] 🎤 Transcribing: Power106_recording_20251124_143629_seg036.wav
+[2025-11-26 00:18:22]    ✅ Saved to: Power106_recording_20251124_143629_seg036_transcript.txt
+[2025-11-26 00:18:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143629_seg036.wav
+[2025-11-26 00:18:22] [2/30] Processing...
+[2025-11-26 00:18:22] 🎤 Transcribing: Power106_recording_20251124_143729_seg037.wav
+[2025-11-26 00:20:49]    ✅ Saved to: Power106_recording_20251124_143729_seg037_transcript.txt
+[2025-11-26 00:20:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143729_seg037.wav
+[2025-11-26 00:20:49] [3/30] Processing...
+[2025-11-26 00:20:49] 🎤 Transcribing: Power106_recording_20251124_143830_seg038.wav
+[2025-11-26 00:23:22]    ✅ Saved to: Power106_recording_20251124_143830_seg038_transcript.txt
+[2025-11-26 00:23:22]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143830_seg038.wav
+[2025-11-26 00:23:22] [4/30] Processing...
+[2025-11-26 00:23:22] 🎤 Transcribing: Power106_recording_20251124_143931_seg039.wav
+[2025-11-26 00:25:52]    ✅ Saved to: Power106_recording_20251124_143931_seg039_transcript.txt
+[2025-11-26 00:25:52]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_143931_seg039.wav
+[2025-11-26 00:25:52] [5/30] Processing...
+[2025-11-26 00:25:52] 🎤 Transcribing: Power106_recording_20251124_144032_seg040.wav
+[2025-11-26 00:28:35]    ✅ Saved to: Power106_recording_20251124_144032_seg040_transcript.txt
+[2025-11-26 00:28:35]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144032_seg040.wav
+[2025-11-26 00:28:35] [6/30] Processing...
+[2025-11-26 00:28:35] 🎤 Transcribing: Power106_recording_20251124_144134_seg041.wav
+[2025-11-26 00:30:48]    ✅ Saved to: Power106_recording_20251124_144134_seg041_transcript.txt
+[2025-11-26 00:30:48]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144134_seg041.wav
+[2025-11-26 00:30:48] [7/30] Processing...
+[2025-11-26 00:30:48] 🎤 Transcribing: Power106_recording_20251124_144234_seg042.wav
+[2025-11-26 00:33:32]    ✅ Saved to: Power106_recording_20251124_144234_seg042_transcript.txt
+[2025-11-26 00:33:32]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144234_seg042.wav
+[2025-11-26 00:33:32] [8/30] Processing...
+[2025-11-26 00:33:32] 🎤 Transcribing: Power106_recording_20251124_144334_seg043.wav
+[2025-11-26 00:35:49]    ✅ Saved to: Power106_recording_20251124_144334_seg043_transcript.txt
+[2025-11-26 00:35:49]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144334_seg043.wav
+[2025-11-26 00:35:49] [9/30] Processing...
+[2025-11-26 00:35:49] 🎤 Transcribing: Power106_recording_20251124_144434_seg044.wav
+[2025-11-26 00:38:16]    ✅ Saved to: Power106_recording_20251124_144434_seg044_transcript.txt
+[2025-11-26 00:38:16]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144434_seg044.wav
+[2025-11-26 00:38:16] [10/30] Processing...
+[2025-11-26 00:38:16] 🎤 Transcribing: Power106_recording_20251124_144534_seg045.wav
+[2025-11-26 00:39:43]    ✅ Saved to: Power106_recording_20251124_144534_seg045_transcript.txt
+[2025-11-26 00:39:43]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144534_seg045.wav
+[2025-11-26 00:39:43] [11/30] Processing...
+[2025-11-26 00:39:43] 🎤 Transcribing: Power106_recording_20251124_144635_seg046.wav
+[2025-11-26 00:41:58]    ✅ Saved to: Power106_recording_20251124_144635_seg046_transcript.txt
+[2025-11-26 00:41:58]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144635_seg046.wav
+[2025-11-26 00:41:58] [12/30] Processing...
+[2025-11-26 00:41:58] 🎤 Transcribing: Power106_recording_20251124_144736_seg047.wav
+[2025-11-26 00:44:29]    ✅ Saved to: Power106_recording_20251124_144736_seg047_transcript.txt
+[2025-11-26 00:44:29]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144736_seg047.wav
+[2025-11-26 00:44:29] [13/30] Processing...
+[2025-11-26 00:44:29] 🎤 Transcribing: Power106_recording_20251124_144836_seg048.wav
+[2025-11-26 00:47:06]    ✅ Saved to: Power106_recording_20251124_144836_seg048_transcript.txt
+[2025-11-26 00:47:06]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144836_seg048.wav
+[2025-11-26 00:47:06] [14/30] Processing...
+[2025-11-26 00:47:06] 🎤 Transcribing: Power106_recording_20251124_144936_seg049.wav
+[2025-11-26 00:49:42]    ✅ Saved to: Power106_recording_20251124_144936_seg049_transcript.txt
+[2025-11-26 00:49:42]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_144936_seg049.wav
+[2025-11-26 00:49:42] [15/30] Processing...
+[2025-11-26 00:49:42] 🎤 Transcribing: Power106_recording_20251124_145037_seg050.wav
+[2025-11-26 00:51:40]    ✅ Saved to: Power106_recording_20251124_145037_seg050_transcript.txt
+[2025-11-26 00:51:40]    📦 Moved to: /root/speech2text/stream_onlineradio/transcribewave/transcription_completed_power106/Power106_recording_20251124_145037_seg050.wav
+[2025-11-26 00:51:40] [16/30] Processing...
+[2025-11-26 00:51:40] 🎤 Transcribing: Power106_recording_20251124_145137_seg051.wav
+[2025-11-26 00:51:46]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:51:46] [17/30] Processing...
+[2025-11-26 00:51:46] 🎤 Transcribing: Power106_recording_20251124_145240_seg052.wav
+[2025-11-26 00:51:51]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:51:51] [18/30] Processing...
+[2025-11-26 00:51:51] 🎤 Transcribing: Power106_recording_20251124_145340_seg053.wav
+[2025-11-26 00:51:56]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:51:56] [19/30] Processing...
+[2025-11-26 00:51:56] 🎤 Transcribing: Power106_recording_20251124_145440_seg054.wav
+[2025-11-26 00:52:01]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:52:01] [20/30] Processing...
+[2025-11-26 00:52:01] 🎤 Transcribing: Power106_recording_20251124_145541_seg055.wav
+[2025-11-26 00:52:06]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:52:06] [21/30] Processing...
+[2025-11-26 00:52:06] 🎤 Transcribing: Power106_recording_20251124_145641_seg056.wav
+[2025-11-26 00:52:11]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:52:11] [22/30] Processing...
+[2025-11-26 00:52:11] 🎤 Transcribing: Power106_recording_20251124_145742_seg057.wav
+[2025-11-26 00:57:11]    ❌ Transcription failed: 
+[2025-11-26 00:57:11] [23/30] Processing...
+[2025-11-26 00:57:11] 🎤 Transcribing: Power106_recording_20251124_145842_seg058.wav
+[2025-11-26 00:57:17]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:17] [24/30] Processing...
+[2025-11-26 00:57:17] 🎤 Transcribing: Power106_recording_20251124_145942_seg059.wav
+[2025-11-26 00:57:22]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:22] [25/30] Processing...
+[2025-11-26 00:57:22] 🎤 Transcribing: Power106_recording_20251124_150002_seg000.wav
+[2025-11-26 00:57:27]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:27] [26/30] Processing...
+[2025-11-26 00:57:27] 🎤 Transcribing: Power106_recording_20251124_150104_seg001.wav
+[2025-11-26 00:57:32]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:32] [27/30] Processing...
+[2025-11-26 00:57:32] 🎤 Transcribing: Power106_recording_20251124_150205_seg002.wav
+[2025-11-26 00:57:37]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:37] [28/30] Processing...
+[2025-11-26 00:57:37] 🎤 Transcribing: Power106_recording_20251124_150305_seg003.wav
+[2025-11-26 00:57:42]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:42] [29/30] Processing...
+[2025-11-26 00:57:42] 🎤 Transcribing: Power106_recording_20251124_150407_seg004.wav
+[2025-11-26 00:57:47]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:47] [30/30] Processing...
+[2025-11-26 00:57:47] 🎤 Transcribing: Power106_recording_20251124_150507_seg005.wav
+[2025-11-26 00:57:52]    ❌ Transcription failed: The read operation timed out
+[2025-11-26 00:57:52] ------------------------------------------------------------
+[2025-11-26 00:57:52] 📊 Power106 Results: 15 successful, 15 failed
+[2025-11-26 00:57:52] ============================================================
+[2025-11-26 00:57:52] ============================================================
+[2025-11-26 00:57:52] ✅ Batch transcription complete
+[2025-11-26 00:57:52] 📊 Total successful: 45
+[2025-11-26 00:57:52] ⚠️  Total failed: 15
+[2025-11-26 00:57:52] ============================================================

@@ -1,0 +1,31 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Entertainment** (2026-01-02 11:30:24 - 2026-01-02 11:57:38)
+	* Details: The topic involves various song lyrics and music-related discussions.
+	* NERs: None
+	* Host discussion: Yes
+2. **Relationships and Love** (2026-01-02 11:57:38 - 2026-01-02 12:00:00 is not present, but 2026-01-02 11:45:33 - 2026-01-02 11:58:38)
+	* Details: The topic involves discussions about relationships, love, and attraction.
+	* NERs: None
+	* Host discussion: Yes
+3. **Party and Carnival** (2026-01-02 11:45:33 - 2026-01-02 11:52:36)
+	* Details: The topic involves discussions about partying and carnival.
+	* NERs: Atlanta, Toronto
+	* Host discussion: Yes
+4. **Cannibal Friend and Party** (2026-01-02 11:52:36 - 2026-01-02 11:57:38)
+	* Details: The topic involves discussions about a "cannibal friend" and partying.
+	* NERs: Sando, Karanac, Arima, Amalaba
+	* Host discussion: Yes
+5. **Confidence and Self-Love** (2026-01-02 11:57:38 - 2026-01-02 12:00:00 is not present, but 2026-01-02 11:53:37 - 2026-01-02 11:58:38)
+	* Details: The topic involves discussions about confidence, self-love, and empowerment.
+	* NERs: Chanel, Brazilian, Samoan
+	* Host discussion: Yes
+6. **Wealth and Materialism** (2026-01-02 11:56:37 - 2026-01-02 11:58:38)
+	* Details: The topic involves discussions about wealth, materialism, and financial success.
+	* NERs: None
+	* Host discussion: Yes
+
+Note that some of these topics may overlap or be discussed simultaneously, and the time ranges are approximate based on the provided transcripts.

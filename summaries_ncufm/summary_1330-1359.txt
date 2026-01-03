@@ -1,0 +1,25 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Christian Worship and Encouragement** (2026-01-02 13:30:22 - 2026-01-02 13:44:29)
+	* Details: The host(s) led a Christian worship session, encouraging listeners to trust in God and seek a closer relationship with Jesus.
+	* NERs: Jesus, God, Lord
+2. **Host Discussion** (2026-01-02 13:44:29 - 2026-01-02 13:52:59)
+	* Details: The host(s) discussed the importance of seeking more of God and having a personal relationship with Jesus.
+	* NERs: Jesus, God
+3. **Sabbath School Nugget with Pastor Robert Wright** (2026-01-02 13:52:59 - 2026-01-02 13:59:31)
+	* Details: Pastor Robert Wright shared a message of hope and encouragement, reminding listeners to trust in Jesus and not be afraid of the future.
+	* NERs: Pastor Robert Wright, Jesus, God
+4. **Christian Music and Worship** (2026-01-02 13:59:31 - 2026-01-02 14:05:32)
+	* Details: The host(s) played Christian music and led a worship session, encouraging listeners to trust in God and seek a closer relationship with Jesus.
+	* NERs: Jesus, God, Lord
+5. **Interview with Christopher Scott and The Girl and the Magpie** (2026-01-02 14:05:32 - 2026-01-02 14:23:36)
+	* Details: The host interviewed Christopher Scott and The Girl and the Magpie about their experiences with the annual Potter's Fair and the economic impact of Hurricane Melissa on their communities.
+	* NERs: Christopher Scott, The Girl and the Magpie, Hurricane Melissa, Potter's Fair, Kingston, Treasure Beach, Beryl
+6. **Discussion on Economic Recovery and Art** (2026-01-02 14:23:36 - 2026-01-02 14:35:35)
+	* Details: The host discussed the connection between art and economic recovery, highlighting the importance of events like the Potter's Fair in supporting local artisans and communities.
+	* NERs: Potter's Fair, Kingston, Treasure Beach, Hurricane Melissa
+
+Note: The time ranges are approximate and based on the provided transcripts.

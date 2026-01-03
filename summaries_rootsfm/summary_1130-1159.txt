@@ -1,0 +1,14 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topic appears to be "Host discussion" as the host is repeatedly saying "Thank you" and there are no indications of an interview or caller interaction. However, the details of the topic are unclear as the transcripts do not contain any substantial conversation or information.
+
+The time range for this topic is 2026-01-02 11:30:39 - 11:58:45.
+
+There are no named entities (NERs) mentioned in the transcripts.
+
+It's worth noting that the transcripts seem to be incomplete or contain very little information, which makes it difficult to determine the topic or any relevant details. If more transcripts or context were provided, it might be possible to gain a better understanding of the discussion. 
+
+Topic: Host discussion
+Time range: 2026-01-02 11:30:39 - 11:58:45
+NERs: None mentioned

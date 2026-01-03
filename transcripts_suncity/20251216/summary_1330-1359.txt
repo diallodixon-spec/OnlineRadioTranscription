@@ -1,0 +1,36 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Jamaica Customs and Import Regulations (Host discussion)**: 
+   - Time range: 2025-12-16 13:30:14 - 2025-12-16 13:31:14
+   - Details: The host discusses the importance of importers obtaining customs declarations (IM-4 or IMS-4) and assessment notices from their clearing agents. The Jamaica Customs Agency is mentioned as a resource for more information.
+   - NERs: Jamaica Customs Agency
+
+2. **Education and Rebuilding Jamaica (Host discussion)**:
+   - Time range: 2025-12-16 13:31:14 - 2025-12-16 13:32:49
+   - Details: The host talks about the Council of Community Colleges of Jamaica and their role in rebuilding the nation through education.
+   - NERs: Council of Community Colleges of Jamaica
+
+3. **Healthy Eating and Jamaican Cuisine (Host discussion)**:
+   - Time range: 2025-12-16 13:32:49 - 2025-12-16 13:33:49
+   - Details: The host introduces the "Eat Smart" feature, which aims to promote healthier food choices and celebrate Jamaican cuisine.
+   - NERs: None
+
+4. **Health and Nutrition (Host discussion)**:
+   - Time range: 2025-12-16 13:33:49 - 2025-12-16 13:34:49
+   - Details: The host introduces Dr. Anso and Mr. Brakes, who will be discussing health and nutrition on the show.
+   - NERs: Dr. Anso, Mr. Brakes
+
+5. **Music and Entertainment (Host discussion)**:
+   - Time range: 2025-12-16 13:34:49 - 2025-12-16 13:55:59
+   - Details: The host plays music and engages in conversations about various topics, including shoutouts to different individuals and groups.
+   - NERs: Denise Marson, Sondraq Frienside, Bounty, Adi, One Triton, Billy, Claudette, DJ Friar, Joe Joe, Mr. Nottage, Spiantone family, Louis Vex
+
+6. **Sun City Radio and Community Engagement (Host discussion)**:
+   - Time range: 2025-12-16 13:30:14 - 2025-12-16 13:55:59
+   - Details: The host promotes Sun City Radio and engages with the community, encouraging listeners to participate and interact with the show.
+   - NERs: Sun City Radio, Mothering Crisis, Portmore, St. Catharine, Kingston, Ancet
+
+Note that some of these topics may overlap or be mentioned briefly throughout the transcripts, but the above categorization provides a general outline of the main topics discussed.

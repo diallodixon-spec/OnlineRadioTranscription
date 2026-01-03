@@ -1,0 +1,58 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 14:00:03 - 2025-12-17 14:00:03
+   - Details: Introduction to the radio program NCUFM, mentioning the university and its broadcasts.
+   - NERs: Northern Caribbean University, NCUFM, Dawson Ho Sang
+
+2. **Luis Suarez signs new contract with Inter Miami**
+   - Time range: 2025-12-17 14:00:04 - 2025-12-17 14:02:04
+   - Details: Luis Suarez signs a new one-year contract with Inter Miami, keeping him at the club through the 2026 season.
+   - NERs: Luis Suarez, Inter Miami, Major League Soccer, Uruguay, Lionel Messi, Sergio Busquets, Jordi Alba, Vancouver Whitecaps, MLS Cup
+
+3. **OG Anunobi scores 28 points in NBA Cup Final**
+   - Time range: 2025-12-17 14:02:04 - 2025-12-17 14:02:04
+   - Details: OG Anunobi scores 28 points as the New York Knicks defeat the San Antonio Spurs 124-113 in the NBA Cup Final.
+   - NERs: OG Anunobi, New York Knicks, San Antonio Spurs, NBA Cup Final, Las Vegas, T-Mobile Arena, Jalen Brunson, Carl Anthony Towns, Mitchell Robinson, Victor Wemba-Nyama, Oklahoma City Thunder
+
+4. **Carlos Alcaraz splits with coach Juan Carlos Ferrero**
+   - Time range: 2025-12-17 14:03:05 - 2025-12-17 14:04:06
+   - Details: Carlos Alcaraz announces a shock split with long-time coach Juan Carlos Ferrero ahead of the 2026 season.
+   - NERs: Carlos Alcaraz, Juan Carlos Ferrero, Samuel Lopez, Australian Open
+
+5. **Terrence Crawford retires from boxing**
+   - Time range: 2025-12-17 14:04:07 - 2025-12-17 14:05:08
+   - Details: Terrence Crawford announces the end of his boxing career at the age of 38, with a flawless professional record of 42 wins and no defeats.
+   - NERs: Terrence Crawford, Saul Canelo Alvarez, Bryan Cummins, Lightweight, Light-Welterweight, Welterweight, Light-Middleweight, Super-Middleweight
+
+6. **Host discussion** 
+   - Time range: 2025-12-17 14:05:09 - 2025-12-17 14:06:09
+   - Details: Introduction to the radio program Family Basics for Happy Homes, hosted by Dr. Roy Dennis.
+   - NERs: Dr. Roy Dennis, Family Basics for Happy Homes, Jamaica Union Conference of Seventh-Day Adventists
+
+7. **Host discussion** 
+   - Time range: 2025-12-17 14:06:10 - 2025-12-17 14:07:10
+   - Details: Introduction to the radio program The Jive, hosted by Michael.
+   - NERs: Michael, The Jive
+
+8. **Host discussion** 
+   - Time range: 2025-12-17 14:07:11 - 2025-12-17 14:08:11
+   - Details: Introduction to the radio program, mentioning the drive time family and the musical highway.
+   - NERs: Matthew J. Wright, Abigail Williams, Michael, The Jive
+
+9. **National Maple Syrup Day**
+   - Time range: 2025-12-17 14:08:12 - 2025-12-17 14:09:12
+   - Details: Discussion of National Maple Syrup Day, mentioning the importance of consistency and patience in life.
+   - NERs: National Maple Syrup Day
+
+10. **Host discussion** 
+    - Time range: 2025-12-17 14:09:13 - 2025-12-17 14:10:13
+    - Details: Introduction to the radio program, mentioning the drive time family and the musical highway.
+    - NERs: Matthew J. Wright, Abigail Williams, Michael, The Jive
+
+11. **Daily Devotion**
+    - Time range: 2025-12-17 14:10:14 - 2025-12-17 14:11:14
+    - Details: Introduction to the Daily Devotion segment

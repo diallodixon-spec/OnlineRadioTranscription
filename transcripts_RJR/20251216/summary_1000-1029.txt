@@ -1,0 +1,43 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **News Update** (2025-12-16 10:00:03 - 2025-12-16 10:03:04)
+	* Topics: Jamaica's unemployment rate, Antigua and Barbuda's constitutional amendment, Suriname's economic development
+	* NERs: Jamaica, Antigua and Barbuda, Suriname, Sir Stead Roy Benjamin, Andrew Barserand, Jennifer Greenling-Simmons
+2. **Health Update** (2025-12-16 10:02:04 - 2025-12-16 10:04:04)
+	* Topics: Hypertension and cardiovascular risk management, Pan-American Health Organization's HEARTS approach
+	* NERs: Colombia, Mexico, Trinidad and Tobago, Dominican Republic, El Salvador
+3. **Barbados Update** (2025-12-16 10:03:04 - 2025-12-16 10:04:04)
+	* Topics: Barbados' government restructuring, mission-oriented approach to national transformation
+	* NERs: Barbados, Prime Minister Mir Motley, Professor Mariana Masuketo
+4. **Obituaries** (2025-12-16 10:04:05 - 2025-12-16 10:06:07)
+	* Topics: Obituaries of Winston Alexander Ricketts, Beverly Everalda Salmon Williams, Yvonne Darby Gibson
+	* NERs: Winston Alexander Ricketts, Beverly Everalda Salmon Williams, Yvonne Darby Gibson
+5. **Host Discussion** (2025-12-16 10:07:07 - 2025-12-16 10:08:08)
+	* Topics: Introduction to Dr. Orville Taylor's show, Hotline
+	* NERs: Dr. Orville Taylor
+6. **Interview** (2025-12-16 10:08:08 - 2025-12-16 10:09:08)
+	* Topics: Mobile pharmacist, health services
+	* NERs: Mrs. Palmer Dawkins
+7. **Caller Interaction** (2025-12-16 10:10:08 - 2025-12-16 10:11:08)
+	* Topics: Caller's concerns about road damage and water commission
+	* NERs: None
+8. **Host Discussion** (2025-12-16 10:11:08 - 2025-12-16 10:13:09)
+	* Topics: Discussion about water commission and road damage
+	* NERs: None
+9. **Advertisement** (2025-12-16 10:13:09 - 2025-12-16 10:15:10)
+	* Topics: Advertisement for Dean's Pharmacy
+	* NERs: None
+10. **Financial Update** (2025-12-16 10:15:10 - 2025-12-16 10:17:12)
+	* Topics: Financial empowerment series, Catch Your Money, Your Future
+	* NERs: None
+11. **Interview** (2025-12-16 10:20:13 - 2025-12-16 10:27:17)
+	* Topics: H&L True Value's involvement in hurricane relief efforts
+	* NERs: Sudhu Ramani, CEO of H&L True Value, Ivan Anderson, CEO of Transjam
+12. **Host Discussion** (2025-12-16 10:27:17 - 2025-12-16 10:28:18)
+	* Topics: Discussion about H&L True Value's modular homes
+	* NERs: Sudhu Ramani
+
+Note: The time ranges are approximate and based on the provided transcripts.

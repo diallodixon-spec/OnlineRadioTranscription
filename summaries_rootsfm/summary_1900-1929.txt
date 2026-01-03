@@ -1,0 +1,38 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the topics and time ranges are as follows:
+
+1. **Music and Host discussion** (2026-01-02 19:00:04 - 2026-01-02 19:01:04)
+Details: The host, Pretty Boy Flight, also known as Mr. Brinks, is introducing himself and discussing his personality and characteristics.
+NERs: Pretty Boy Flight, Mr. Brinks, Mr. Luxury
+
+2. **Roots FM Advertising Promotion** (2026-01-02 19:02:05 - 2026-01-02 19:03:06)
+Details: The host is discussing a sales promotion offered by Roots FM, where listeners can buy five commercials and get five free.
+NERs: Roots FM
+
+3. **Music** (2026-01-02 19:03:06 - 2026-01-02 19:07:09)
+Details: The host is playing music, with lyrics discussing love, relationships, and emotions.
+NERs: None
+
+4. **Music and Love** (2026-01-02 19:07:09 - 2026-01-02 19:14:13)
+Details: The host is playing music, with lyrics discussing love, relationships, and emotions, including a song about finding love and being grateful for it.
+NERs: None
+
+5. **Music and Relationships** (2026-01-02 19:14:13 - 2026-01-02 19:17:15)
+Details: The host is playing music, with lyrics discussing relationships, love, and heartbreak, including a song about loving someone from the ghetto.
+NERs: Georgia
+
+6. **Music and Host discussion** (2026-01-02 19:17:15 - 2026-01-02 19:19:16)
+Details: The host is discussing music and playing songs, with lyrics discussing movement, energy, and being nice.
+NERs: None
+
+7. **Music and Heartbreak** (2026-01-02 19:19:16 - 2026-01-02 19:27:21)
+Details: The host is playing music, with lyrics discussing heartbreak, loneliness, and missing someone.
+NERs: None
+
+8. **Music and Love** (2026-01-02 19:27:21 - 2026-01-02 19:28:22)
+Details: The host is playing music, with lyrics discussing love, relationships, and emotions, including a song about loving someone and wanting them back.
+NERs: None
+
+Note: There are no interviews, caller interactions, or discussions about Jamaica in the provided transcripts. The topics are primarily focused on music, host discussion, and relationships.

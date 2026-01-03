@@ -1,0 +1,25 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Introduction to the Roving Reports and Support for Jamaica after Hurricane Melissa** (2026-01-02 10:30:20 - 10:32:21)
+	* Details: The host introduces the Roving Reports segment, which aims to uncover challenges and positive developments in neighborhoods. The host also discusses the impact of Hurricane Melissa on Jamaica and the launch of SupportJamaica.gov.jm, a national platform to coordinate relief efforts.
+	* NERs: Jamaica, Hurricane Melissa, SupportJamaica.gov.jm
+2. **Caller interaction: Discussion on New Year's Celebrations and Current Events** (2026-01-02 10:32:21 - 10:37:23)
+	* Details: The host takes calls from listeners, discussing how they celebrated the New Year and current events, including a fire in Switzerland that resulted in loss of life.
+	* NERs: Switzerland
+3. **Caller interaction: Discussion on Flow Services and Internet Issues** (2026-01-02 10:37:23 - 10:44:27)
+	* Details: A caller, Miss Lucy, discusses issues with Flow services, including internet connectivity and billing problems.
+	* NERs: Flow, Miss Lucy
+4. **Host discussion: Debate on Church Funding and Relief Efforts** (2026-01-02 10:44:27 - 10:54:29)
+	* Details: The host engages in a debate with Miss Lucy on whether churches should receive funding from the government for relief efforts, particularly after Hurricane Melissa.
+	* NERs: Jamaica, Hurricane Melissa, Church
+5. **Caller interaction: Discussion on National Recovery and Mental Health** (2026-01-02 10:54:29 - 11:05:32)
+	* Details: The host takes calls from listeners, discussing national recovery efforts and the importance of mental health support after traumatic events like Hurricane Melissa.
+	* NERs: Jamaica, Hurricane Melissa
+6. **Caller interaction: Discussion on Guns, Ammunition, and Police Shootings** (2026-01-02 11:05:32 - 11:05:36)
+	* Details: A caller suggests that Jamaicans should stop using guns and ammunition, while another listener discusses the increase in police shootings.
+	* NERs: Jamaica, JDF (Jamaica Defence Force)
+
+Note that some topics may overlap or be connected, but I have tried to break them down into distinct categories based on the content and time ranges.

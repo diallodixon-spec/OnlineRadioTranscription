@@ -1,0 +1,28 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Entertainment** (2025-12-16 17:02:03 - 2025-12-16 17:28:20)
+	* Details: The topic involves various song lyrics and music-related discussions.
+	* NERs: None
+2. **Host discussion and Music Introduction** (2025-12-16 17:02:03 - 2025-12-16 17:07:07)
+	* Details: The host introduces music and discusses various topics related to entertainment.
+	* NERs: None
+3. **Weekend and Party Vibes** (2025-12-16 17:12:09 - 2025-12-16 17:17:13)
+	* Details: The topic involves discussions about weekend parties, having fun, and enjoying life.
+	* NERs: None
+4. **Relationships and Love** (2025-12-16 17:17:13 - 2025-12-16 17:22:16)
+	* Details: The topic involves song lyrics and discussions about relationships, love, and heartbreak.
+	* NERs: None
+5. **Luxury and Materialism** (2025-12-16 17:22:16 - 2025-12-16 17:25:18)
+	* Details: The topic involves discussions about luxury, materialism, and high-end lifestyle.
+	* NERs: Rose Royce (likely referring to the American soul and R&B band)
+6. **Mental Health and Paranoia** (2025-12-16 17:25:18 - 2025-12-16 17:28:20)
+	* Details: The topic involves discussions about mental health, paranoia, and feelings of isolation.
+	* NERs: None
+7. **Jamaica and Local Businesses** (2025-12-16 17:00:02 - 2025-12-16 17:01:03)
+	* Details: The topic involves advertisements for local Jamaican businesses, such as Kenmore Shoe Manufacturing Company Limited.
+	* NERs: Jamaica, Kenmore Shoe Manufacturing Company Limited, Spanish Town, Greendale
+
+Note that some of these topics may overlap or be discussed simultaneously, and the time ranges are approximate. Additionally, there are no interviews or caller interactions in the provided transcripts.

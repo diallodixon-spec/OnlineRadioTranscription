@@ -1,0 +1,41 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Evening News** (2025-12-16 17:00:02 - 17:01:03) 
+   - Topic: Introduction to the evening news with Jody and Beckford
+   - Details: Introduction to the evening news, announcement of the news anchors
+   - NERs: Jody, Beckford
+
+2. **Local News** (2025-12-16 17:01:03 - 17:08:06) 
+   - Topic: Local news, including a fatal police encounter, student protests, and poultry industry recovery
+   - Details: A man was fatally shot during a police encounter, students are protesting over campus safety after an alleged rape, and the poultry industry is recovering slowly due to bird flu concerns
+   - NERs: Nikkel Disosa, Odain, Jodian Beckford, Floyd Green, Jamaica, Onoto Bay, Anota Bay Hospital, College of Agriculture, Science and Education
+
+3. **Regional News** (2025-12-16 17:08:06 - 17:09:07) 
+   - Topic: Regional news, Southern Caribbean promoted as a unified yachting hub
+   - Details: The Southern Caribbean is being promoted as a premier yachting destination, with Grenada, St. Lucia, and St. Vincent and the Grenadines partnering to promote the region
+   - NERs: Southern Caribbean, Grenada, St. Lucia, St. Vincent and the Grenadines, Antigua Charter Yacht Show
+
+4. **International News** (2025-12-16 17:09:07 - 17:11:07) 
+   - Topic: International news, Mexico's stance on fentanyl
+   - Details: Mexican President Claudia Sheinbaum has criticized the US decision to classify fentanyl as a weapon of mass destruction, arguing that addressing demand and addiction is more effective
+   - NERs: Mexico, Claudia Sheinbaum, US, Donald Trump
+
+5. **Sports News** (2025-12-16 17:11:07 - 17:12:07) 
+   - Topic: Sports news, Herbert Morrison's winning streak in basketball
+   - Details: Herbert Morrison Technical has extended their winning streak in the Issa rural zone B basketball competition, with a dominant 67-20 victory over Ocho Rios High
+   - NERs: Herbert Morrison Technical, Ocho Rios High, Issa rural zone B basketball
+
+6. **Entertainment News** (2025-12-16 17:12:07 - 17:13:08) 
+   - Topic: Entertainment news, Cecile's European tour
+   - Details: Dancehall artist Cecile is preparing for a European tour, with Germany confirmed as one of her strongest overseas markets
+   - NERs: Cecile, Germany, Europe
+
+7. **Host Discussion and Music** (2025-12-16 17:13:08 - 17:28:14) 
+   - Topic: Host discussion and music, including Christmas songs and promotions
+   - Details: The hosts discuss various topics, including Christmas promotions and play Christmas songs
+   - NERs: Sun City Radio, Jodi-Ann Beckford, Sun City News Centre
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are based on the news and discussions presented by the hosts.

@@ -1,0 +1,28 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Entertainment** (2026-01-02 11:30:16 - 2026-01-02 11:58:27)
+	* Details: The host is playing and discussing various songs, including "You're So Beautiful" and "Whiskey Glasses". The host also mentions the "KFC festive feast" and the "Hello Jamaica Show".
+	* NERs: KFC, Hello Jamaica Show
+2. **Host Discussion** (2026-01-02 11:31:17 - 2026-01-02 11:41:21)
+	* Details: The host is discussing various topics, including the weekend, birthdays, and shoutouts to listeners.
+	* NERs: None
+3. **Advertisement** (2026-01-02 11:32:17 - 2026-01-02 11:33:17)
+	* Details: The host is advertising the KFC festive feast and the Hello Jamaica Show.
+	* NERs: KFC, Hello Jamaica Show
+4. **Sports** (2026-01-02 11:34:17 - 2026-01-02 11:35:18)
+	* Details: The host is discussing a football match between World Radio United and Sun City 104.9 FM's Dream Team.
+	* NERs: World Radio United, Sun City 104.9 FM
+5. **Music and Entertainment** (2026-01-02 11:41:21 - 2026-01-02 11:58:27)
+	* Details: The host is playing and discussing various songs, including "Run Up Friday" and "Whiskey Glasses".
+	* NERs: None
+6. **Host Discussion** (2026-01-02 11:55:26 - 2026-01-02 11:56:26)
+	* Details: The host is discussing quiet time with the Lord and shouting out to listeners.
+	* NERs: None
+7. **Religious Music** (2026-01-02 11:56:26 - 2026-01-02 11:58:27)
+	* Details: The host is playing religious music and discussing quiet time with the Lord.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned briefly in other segments, but the above categorization represents the primary topics discussed in each time range.

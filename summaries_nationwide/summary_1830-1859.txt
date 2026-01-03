@@ -1,0 +1,22 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **New Year's Resolutions and Host Discussion** (2026-01-02 18:30:23 - 18:45:42)
+	* Details: The hosts and callers shared their New Year's resolutions, including eating better, exercising more, and learning new skills.
+	* NERs: Cindy Lynch, McHugh, Primrose, David Nabar, Philip Jackson, Kenyatta, Dale, Juliet, Cherry, Andrew, Angela Ellis, Donna Smith, Carleen, Alex Smith, Howard French, Inez, Sandra, Desnem, Rich Lawrence.
+2. **Caller Interaction and Host Discussion** (2026-01-02 18:30:23 - 18:45:42)
+	* Details: Callers interacted with the hosts, sharing their thoughts and opinions on various topics, including New Year's resolutions and personal growth.
+	* NERs: Same as above.
+3. **Business Report and Interview** (2026-01-02 18:37:28 - 18:53:00)
+	* Details: The business report covered topics such as the British Caribbean Insurance Company's (BCIC) leadership appointments and the FTSE 100 index reaching a new all-time high. An interview with Dennis Chung, Chief Technical Director of the Financial Investigations Division (FID), was also conducted.
+	* NERs: Robianne Williams, Michelle Anderson, L'Oreal, Glasgow, Joy Gibson, Anne McMorris, Dennis Chung.
+4. **Interview with Dennis Chung** (2026-01-02 18:42:32 - 18:57:43)
+	* Details: Dennis Chung discussed his role as Chief Technical Director of the FID, the organization's structure and operations, and his experience in the public and private sectors.
+	* NERs: Dennis Chung, George, JC.
+5. **Discussion on Corruption and Politics in Jamaica** (2026-01-02 18:55:42 - 18:58:44)
+	* Details: The host and Dennis Chung discussed the issue of corruption in Jamaica, the FID's role in investigating financial crimes, and the controversy surrounding Chung's appointment.
+	* NERs: Dennis Chung, George, JC, Prime Minister (unnamed).
+
+Note: The time ranges for each topic are approximate and may overlap, as the transcripts were analyzed as a single body of text.

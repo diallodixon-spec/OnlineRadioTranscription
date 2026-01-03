@@ -1,0 +1,35 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Jamaica's Recovery from Hurricane Melissa and Electricity Restoration** (2026-01-02 12:04:03 - 12:06:05)
+	* Details: Discussion on Jamaica's recovery from Hurricane Melissa, with Prime Minister Dr. Andrew Holness defending the government's decision to lend JPS $150 million to restore electricity.
+	* NERs: Andrew Holness, Jamaica, JPS
+2. **Dennis Chung's Recusal from Investigation and Interview** (2026-01-02 12:07:06 - 12:11:07)
+	* Details: Dennis Chung, head of the FID, recused himself from the investigation into Prime Minister Dr. Andrew Holness's statutory declarations. An interview with Chung is also discussed.
+	* NERs: Dennis Chung, Andrew Holness, FID, Jamaica
+3. **Crime Reduction in Jamaica** (2026-01-02 12:13:08 - 12:15:10)
+	* Details: Discussion on the reduction in murders in Jamaica, with a 41% decrease in 2025 compared to the previous year.
+	* NERs: Jamaica, Hugh Faulkner, Indicum
+4. **Fatal Police Shootings in Jamaica** (2026-01-02 12:16:10 - 12:19:11)
+	* Details: Discussion on the number of fatal police shootings in Jamaica, with 311 people killed in 2025.
+	* NERs: Jamaica, Hugh Faulkner, Indicum
+5. **Regional and International News** (2026-01-02 12:22:12 - 12:24:15)
+	* Details: Discussion on regional and international news, including economic uncertainty in Trinidad and Tobago, and a strong earthquake in Mexico.
+	* NERs: Trinidad and Tobago, Venezuela, United States, Mexico, Claudia Scheinbaum
+6. **Sports News** (2026-01-02 12:25:15 - 12:28:17)
+	* Details: Discussion on sports news, including the expansion of the women's football tournament at the LA 2028 Olympics, and the FIFA World Cup 2026.
+	* NERs: FIFA, CONCACAF, United States, Los Angeles
+
+Topic 1, 2, and 3 can be merged into a single topic: **Jamaica's Current Events** (2026-01-02 12:04:03 - 12:19:11)
+	* Details: Discussion on various current events in Jamaica, including recovery from Hurricane Melissa, crime reduction, and fatal police shootings.
+	* NERs: Andrew Holness, Jamaica, JPS, Dennis Chung, FID, Hugh Faulkner, Indicum
+
+Topic 4 and 5 can be merged into a single topic: **Regional and International News** (2026-01-02 12:16:10 - 12:24:15)
+	* Details: Discussion on regional and international news, including economic uncertainty in Trinidad and Tobago, fatal police shootings in Jamaica, and a strong earthquake in Mexico.
+	* NERs: Trinidad and Tobago, Venezuela, United States, Mexico, Claudia Scheinbaum, Jamaica, Hugh Faulkner, Indicum
+
+Topic 6 remains the same: **Sports News** (2026-01-02 12:25:15 - 12:28:17)
+	* Details: Discussion on sports news, including the expansion of the women's football tournament at the LA 2028 Olympics, and the FIFA World Cup 2026.
+	* NERs: FIFA, CONCACAF, United States, Los Angeles

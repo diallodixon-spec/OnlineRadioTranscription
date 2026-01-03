@@ -1,0 +1,40 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisement: Whirlpool and Singer** (2025-12-16 20:31:14 - 2025-12-16 20:32:14)
+	* Details: The host is advertising Whirlpool products available at Singer, with a chance to win a refrigerator or gas stove.
+	* NERs: Whirlpool, Singer
+2. **Public Service Announcement: Ministry of Health and Wellness** (2025-12-16 20:32:14 - 2025-12-16 20:32:54)
+	* Details: The Ministry of Health and Wellness is promoting various health services, including mental health support, sexual and reproductive health education, and nutrition advice.
+	* NERs: Ministry of Health and Wellness
+3. **Host discussion: Live Horse Racing** (2025-12-16 20:32:14 - 2025-12-16 20:33:15)
+	* Details: The host is promoting live horse racing from Cayman, available on Sun City 104.9 FM.
+	* NERs: Cayman, Sun City 104.9 FM
+4. **Music and Poetry** (2025-12-16 20:33:15 - 2025-12-16 20:35:15)
+	* Details: The host is playing music and reciting poetry, with themes of social commentary and personal empowerment.
+	* NERs: Africa, Jamaica, Sun City radio
+5. **Host discussion: Parenting and Personal Growth** (2025-12-16 20:35:15 - 2025-12-16 20:41:18)
+	* Details: The host is discussing the importance of parenting, personal growth, and self-awareness, with a focus on Jamaican culture and values.
+	* NERs: Jamaica
+6. **Sports: World Football Championship** (2025-12-16 20:37:16 - 2025-12-16 20:38:17)
+	* Details: The host is promoting a fictional football championship, with teams like World Radio United and Sun City 104.9 FM's Dream Team.
+	* NERs: World Radio United, Sun City 104.9 FM
+7. **Music and Entertainment** (2025-12-16 20:38:17 - 2025-12-16 20:46:20)
+	* Details: The host is playing music and promoting various artists, including Mr. Vegas and Alain.
+	* NERs: Mr. Vegas, Alain, Sun City 104.9 FM
+8. **Host discussion: Rebuilding Jamaica** (2025-12-16 20:39:17 - 2025-12-16 20:41:18)
+	* Details: The host is discussing the importance of rebuilding Jamaica, with a focus on personal growth, education, and community development.
+	* NERs: Jamaica
+9. **Music and Relationships** (2025-12-16 20:41:18 - 2025-12-16 20:52:22)
+	* Details: The host is playing music and discussing themes of love, relationships, and personal growth.
+	* NERs: None
+10. **Interview/Music: King Malaki** (2025-12-16 20:52:22 - 2025-12-16 20:57:24)
+	* Details: The host is interviewing King Malaki, a musician, and playing his music.
+	* NERs: King Malaki
+11. **Music and Social Commentary** (2025-12-16 20:55:24 - 2025-12-16 20:58:25)
+	* Details: The host is playing music and discussing themes of social justice, power, and personal empowerment.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to interpretation and may not be exhaustive.

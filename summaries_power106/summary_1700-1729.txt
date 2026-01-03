@@ -1,0 +1,40 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and Host discussion** (2026-01-02 17:00:03 - 17:01:03)
+	* Details: Introduction to the program, thanks to colleagues and listeners, and a preview of the upcoming topics.
+	* NERs: Jesse Blake, Shaq, Power 106 FM
+2. **News update** (2026-01-02 17:01:03 - 17:02:06)
+	* Details: Update on a search operation for a missing police constable and a 13-year-old boy, government handing over vehicles to the Jamaica Public Service Company, and a call for an independent investigation into a fatal shooting.
+	* NERs: Jamaica, Houshes, California, St. James, Supreme Ventures Racing and Entertainment, Sportsmax
+3. **Search operation update** (2026-01-02 17:02:06 - 17:03:06)
+	* Details: Update on the search operation for the missing police constable and the 13-year-old boy.
+	* NERs: St. Catherine South Police, Sandhill Beach, Helsha, Sincatharine
+4. **Government's recovery strategy** (2026-01-02 17:04:06 - 17:05:08)
+	* Details: Prime Minister Dr. Andrew Holness discusses the government's recovery strategy, focusing on restoring electricity.
+	* NERs: Dr. Andrew Holness, Jamaica, Hurricane Melissa
+5. **Fatal shooting investigation** (2026-01-02 17:07:09 - 17:08:12)
+	* Details: Discussion on the fatal shooting of a 4-year-old boy and the call for an independent investigation.
+	* NERs: Romaine Bowman, Mr. Jackson, Indicum, Jamaica
+6. **Illegal gun salutes** (2026-01-02 17:11:16 - 17:12:16)
+	* Details: Report on two teenage girls being treated for bullet wounds resulting from illegal gun salutes.
+	* NERs: Jamaica Constabulary Force, St Catherine South, Kingston Western Divisions
+7. **Jamaica Teachers Association** (2026-01-02 17:12:16 - 17:13:17)
+	* Details: President of the Jamaica Teachers Association, Mark Malavo, addresses outstanding issues affecting clerical staff.
+	* NERs: Mark Malavo, Jamaica Teachers Association, Montego Bay, St. James
+8. **National Works Agency update** (2026-01-02 17:13:17 - 17:14:17)
+	* Details: Update on flooding and road conditions in various areas of Jamaica.
+	* NERs: National Works Agency, Stephen Shaw, Rio St. Anne, Port Antonio, Portland
+9. **Google's AI health information** (2026-01-02 17:14:17 - 17:15:17)
+	* Details: Investigation finds that Google's AI summaries provide inaccurate health information.
+	* NERs: Google, AI
+10. **Power 106 FM program promotions** (2026-01-02 17:15:17 - 17:18:18)
+	* Details: Promotions for various programs on Power 106 FM, including Power Play, The Prayer Line, and Auto World.
+	* NERs: Power 106 FM, Cliff Williams, Pastor Errol Hay, Shelley, McLagan
+11. **Interview with Jayden** (2026-01-02 17:18:18 - 17:28:26)
+	* Details: Interview with Jayden, Manager of Jamaica Simulation Racing Association, about the growth of simulation racing in Jamaica.
+	* NERs: Jayden, Jamaica Simulation Racing Association, FIA, Dominican Republic
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

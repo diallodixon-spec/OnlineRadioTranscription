@@ -1,0 +1,18 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music Discussion (Host discussion)**: The host(s) discuss and play various songs, with some snippets of conversation in between. The time range for this topic is 2026-01-02 20:30:16 - 2026-01-02 20:58:28.
+	* No specific NERs (Named Entities) are mentioned in this topic.
+
+2. **Song Lyrics and Music (Host discussion)**: The host(s) play and discuss song lyrics, with some repetition of phrases and sentences. The time range for this topic is 2026-01-02 20:30:16 - 2026-01-02 20:58:28.
+	* No specific NERs (Named Entities) are mentioned in this topic.
+
+3. **DJ Introduction and Music (Host discussion)**: The host introduces a DJ and plays music. The time range for this topic is 2026-01-02 20:53:25 - 2026-01-02 20:58:28.
+	* NERs mentioned: DJ
+
+4. **Love and Relationships (Host discussion)**: The host(s) play songs and discuss love and relationships through song lyrics. The time range for this topic is 2026-01-02 20:52:24 - 2026-01-02 20:58:28.
+	* No specific NERs (Named Entities) are mentioned in this topic.
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music discussion, song lyrics, and love/relationships, with the host(s) engaging in conversation and playing songs.

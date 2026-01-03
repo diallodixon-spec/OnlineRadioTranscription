@@ -1,0 +1,25 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Christian Music and Worship** (Host discussion) - 2026-01-02 10:30:15 - 2026-01-02 10:45:29
+	* Details: The host is playing and discussing Christian music, with a focus on worship and praise.
+	* NERs: Jesus, God, Lord, Savior
+2. **Biblical Teachings** (Host discussion) - 2026-01-02 10:45:30 - 2026-01-02 10:53:17
+	* Details: The host is discussing biblical teachings, including the importance of listening to Jesus and following God's laws.
+	* NERs: Jesus, God, Lord, Moses, Elijah
+3. **Christian Radio Introduction** (Host discussion) - 2026-01-02 10:53:18 - 2026-01-02 10:54:22
+	* Details: The host, George Gordon, introduces himself and the radio station, NCU FM.
+	* NERs: George Gordon, NCU FM
+4. **Christian Music and Praise** (Host discussion) - 2026-01-02 10:54:23 - 2026-01-02 10:59:25
+	* Details: The host is playing and discussing Christian music, with a focus on praise and worship.
+	* NERs: Jesus, God, Lord, Savior
+5. **Gospel Music and Testimony** (Host discussion) - 2026-01-02 10:59:26 - 2026-01-02 11:05:32
+	* Details: The host, Martha Munizzi, is playing and discussing gospel music, with a focus on personal testimony and faith.
+	* NERs: Martha Munizzi, Jesus, God, Lord
+6. **Christian Encouragement and Promise** (Host discussion) - 2026-01-02 11:05:33 - 2026-01-02 11:08:32
+	* Details: The host is discussing Christian encouragement and promise, with a focus on God's love and faithfulness.
+	* NERs: Jesus, God, Lord
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on Christian music, worship, and biblical teachings, with some introductions and discussions about the radio station and its hosts.

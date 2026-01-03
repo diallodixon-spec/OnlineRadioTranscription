@@ -1,0 +1,31 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisement for Distinction College and Upcoming Events** (2026-01-02 13:00:02 - 2026-01-02 13:01:03)
+	* Details: The host advertises Distinction College and its programs, as well as upcoming events such as the Sunday sultry experience at City Flames restaurant.
+	* NERs: Distinction College, City Flames restaurant, Ocho Rios, Kingston, Spanish Town, St Elizabeth
+2. **Host Discussion and Introduction to Sita Lyrical** (2026-01-02 13:06:05 - 2026-01-02 13:08:06)
+	* Details: The host introduces Sita Lyrical, a rising artist in the Jamaican music scene, and invites her to the studio for an interview.
+	* NERs: Sita Lyrical, Jamaica
+3. **Interview with Sita Lyrical** (2026-01-02 13:08:06 - 2026-01-02 13:18:10)
+	* Details: The host interviews Sita Lyrical about her music, inspiration, and upcoming events. They discuss her new singles, including "Outside" produced by Massive B.
+	* NERs: Sita Lyrical, Massive B, Jamaica, Bob Marley, Peter Tosh, Monty Killer, Vibe Skat
+4. **Music Video and Upcoming Events** (2026-01-02 13:13:08 - 2026-01-02 13:17:10)
+	* Details: Sita Lyrical discusses her music video for "Outside" and upcoming events, including a performance at Clarindan.
+	* NERs: Sita Lyrical, Massive B, Ricky Bless, Jamaica
+5. **Host Discussion and Wrap-up** (2026-01-02 13:18:10 - 2026-01-02 13:19:10)
+	* Details: The host thanks Sita Lyrical for the interview and wraps up the segment.
+	* NERs: Sita Lyrical, Sun City 104.9 FM
+6. **Advertisement for Eat Smart and Hello Jamaica Show** (2026-01-02 13:19:10 - 2026-01-02 13:21:11)
+	* Details: The host advertises the Eat Smart feature on the Hello Jamaica Show, which focuses on healthy eating and Jamaican cuisine.
+	* NERs: Hello Jamaica Show, Sun City 104.9 FM, Jamaica
+7. **Mother's Advice and Spiritual Reflection** (2026-01-02 13:21:11 - 2026-01-02 13:27:14)
+	* Details: A mother offers advice to her son, urging him to be careful and make good choices. The segment also includes spiritual reflections and prayers.
+	* NERs: None
+8. **Music and Spiritual Reflection** (2026-01-02 13:27:14 - 2026-01-02 13:28:14)
+	* Details: The host plays music and reflects on spiritual themes, including the importance of faith and guidance.
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but they have been separated based on the dominant theme or discussion in each segment.

@@ -1,0 +1,26 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Jamaica's Development and Tourism (Host discussion, Caller interaction)**: This topic was discussed from 20260102 133325 to 20260102 134031. The host and callers talked about Jamaica's development, tourism, and the impact of the government's policies on these areas. They also discussed the issue of beach access and how it affects the livelihood of fishermen.
+
+NERs mentioned: Jamaica, Dominican Republic, England, Canada, Europe, Haiti, St. James, Lilliput, Mexico
+
+2. **Financial Literacy (Host discussion)**: This topic was discussed from 20260102 133124 to 20260102 133225 and again from 20260102 134536 to 20260102 134636. The host provided financial literacy tips and discussed the importance of having a positive relationship with money.
+
+NERs mentioned: None
+
+3. **Crime and Violence in Jamaica (Host discussion, Caller interaction)**: This topic was discussed from 20260102 133427 to 20260102 135140. The host and callers talked about the crime rate in Jamaica, the impact of dons and gang leaders on the community, and the role of the government in addressing these issues.
+
+NERs mentioned: Jamaica, PNP, JLP, Crawford
+
+4. **Politics and Governance in Jamaica (Host discussion, Caller interaction)**: This topic was discussed from 20260102 134434 to 20260102 135743. The host and callers talked about the performance of the government, the importance of holding politicians accountable, and the need for constitutional reform.
+
+NERs mentioned: Jamaica, PNP, JLP, Faber Williams, Dale Roychuk
+
+5. **Beach Access and Environmental Issues (Host discussion, Caller interaction)**: This topic was discussed from 20260102 133728 to 20260102 135342. The host and callers talked about the issue of beach access, the impact of development on the environment, and the need for sustainable practices.
+
+NERs mentioned: Jamaica, Little Duns River, Trelawney, Otorias
+
+Note: The time ranges for each topic are approximate and may overlap, as the discussion on the radio program was continuous and topics were not strictly separated.

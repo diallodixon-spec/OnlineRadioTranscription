@@ -1,0 +1,35 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Hurricane Melissa Recovery in Jamaica** (2026-01-02 20:00:02 - 2026-01-02 20:04:04)
+	* Details: The topic discusses the recovery efforts in Jamaica after Hurricane Melissa, specifically the support provided to fishers and farmers in the hardest-hit parishes.
+	* NERs: Jamaica, Hurricane Melissa, National Commercial Bank Foundation, Ministry of Agriculture, Fisheries and Mining, Floyd Green
+	* Topic Type: Host discussion
+2. **UNICEF Message** (2026-01-02 20:01:03 - 2026-01-02 20:01:03)
+	* Details: A message from UNICEF about protecting children and reporting any form of violence, abuse, or neglect.
+	* NERs: UNICEF
+	* Topic Type: Host discussion
+3. **Jamaica Post Services** (2026-01-02 20:04:04 - 2026-01-02 20:04:04)
+	* Details: An advertisement for Jamaica Post services, including fast and reliable delivery, tracking, and customer support.
+	* NERs: Jamaica Post
+	* Topic Type: Host discussion
+4. **Introduction to Turn Up Friday** (2026-01-02 20:10:06 - 2026-01-02 20:10:06)
+	* Details: The host introduces the Turn Up Friday segment, welcoming listeners and wishing them a happy new year.
+	* NERs: None
+	* Topic Type: Host discussion
+5. **Caller Interaction and Shoutouts** (2026-01-02 20:10:06 - 2026-01-02 20:14:08)
+	* Details: The host interacts with callers, giving shoutouts to various individuals and locations, including Central Village, Canada, and the UK.
+	* NERs: Central Village, Canada, UK
+	* Topic Type: Caller interaction
+6. **Music and Entertainment** (2026-01-02 20:14:08 - 2026-01-02 20:28:14)
+	* Details: The host discusses music and entertainment, including reggae music, and plays songs.
+	* NERs: None
+	* Topic Type: Host discussion
+7. **Party Weekend and Upcoming Events** (2026-01-02 20:28:14 - 2026-01-02 20:40:14)
+	* Details: The host promotes the party weekend and upcoming events, including a party at the Palms Estate Country Club.
+	* NERs: Palms Estate Country Club
+	* Topic Type: Host discussion
+
+Note that some of the topics may overlap or be related to each other, but I have tried to break them down into distinct categories based on the content and context of the transcripts.

@@ -1,0 +1,23 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Labour Party and Politics** (2026-01-02 11:00:03 - 11:02:03, 11:03:03 - 11:04:03): The host discusses the Labour Party, its politics, and governance. The topic includes the party's efforts to reward its workers and the importance of politics in securing caretakers for the party.
+	* NERs mentioned: Labour Party, Wampelmann, Prime Minister
+2. **Jamaican Politics and Election** (2026-01-02 11:04:03 - 11:05:03, 11:06:03 - 11:07:03): The host discusses the upcoming election, the Labour Party's chances, and the potential candidates.
+	* NERs mentioned: Labour Party, JLP, Venetia, Prime Minister
+3. **Caller Interaction - Water Problem** (2026-01-02 11:07:03 - 11:08:03, 11:09:03 - 11:10:03): A caller, Lady Mushet, discusses a water problem in her area, and the host provides a response from the NWC.
+	* NERs mentioned: Lady Mushet, NWC, Nora Gay
+4. **Host Discussion - Entertainment and Advertising** (2026-01-02 11:10:03 - 11:11:03): The host discusses the program's entertainment segment and advertising opportunities.
+	* NERs mentioned: Supermed, Nationwide 90 FM
+5. **Caller Interaction - PICA and Productivity** (2026-01-02 11:11:03 - 11:12:03, 11:13:03 - 11:14:03): A caller, Anthony, discusses his experience with PICA and the lack of parking, as well as his concerns about productivity in Jamaica.
+	* NERs mentioned: PICA, Anthony, Minister Morgan
+6. **Caller Interaction - Highway Maintenance and Aesthetics** (2026-01-02 11:14:03 - 11:15:03, 11:16:03 - 11:17:03): The caller continues to discuss his ideas for improving highway maintenance and aesthetics in Jamaica.
+	* NERs mentioned: Minister Morgan, Mike Henry, CMI
+7. **Caller Interaction - Crime Reduction** (2026-01-02 11:17:03 - 11:18:03, 11:19:03 - 11:20:03): A caller discusses the reduction in crime in Jamaica and the potential for further improvement.
+	* NERs mentioned: Dr. Chang, Minister Vaughn, Peter Bunsen
+8. **Host Discussion - Crime Reduction and National Security** (2026-01-02 11:20:03 - 11:21:03, 11:22:03 - 11:23:03): The host discusses the reduction in crime and its impact on national security, as well as the potential for further improvement.
+	* NERs mentioned: Prime Minister, Minister of National Security, Dr. Chang
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics with their corresponding time ranges and NERs mentioned.

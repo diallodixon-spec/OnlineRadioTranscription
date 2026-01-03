@@ -1,0 +1,19 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Entertainment** (2026-01-02 18:00:01 - 2026-01-02 18:27:17)
+	* Details: The topic involves various song lyrics and music-related content, including references to dancing, parties, and relationships.
+	* NERs: None
+2. **Relationships and Love** (2026-01-02 18:12:12 - 2026-01-02 18:27:17)
+	* Details: The topic involves song lyrics and discussions about relationships, love, and intimacy.
+	* NERs: None
+3. **Host discussion** (2026-01-02 18:00:01 - 2026-01-02 18:14:08)
+	* Details: The topic involves the host's introduction, advertisements, and transitions between songs.
+	* NERs: UWI Regional Headquarters, Mona, Kingston, Sleek Radio 93 FM
+4. **No specific topic** (2026-01-02 18:14:08 - 2026-01-02 18:18:09)
+	* Details: The topic involves unclear or unrelated content, possibly due to audio quality issues or transitions between segments.
+	* NERs: None
+
+Note that the time ranges are approximate and based on the provided transcripts. The topics and NERs may not be exhaustive, as the content appears to be primarily music-related with some advertisements and host discussions. There is no mention of Jamaica or any other country as a specific topic of discussion.

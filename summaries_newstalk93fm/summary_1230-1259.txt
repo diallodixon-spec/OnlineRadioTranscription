@@ -1,0 +1,22 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music/Songs** (2026-01-02 12:30:20 - 2026-01-02 12:58:35)
+	* Details: The transcripts appear to be lyrics from various songs, with no specific discussion or conversation about a particular topic.
+	* NERs: None
+2. **Relationships/Love** (2026-01-02 12:58:35 - 2026-01-02 13:05:35)
+	* Details: The transcripts discuss relationships, love, and emotions, with lyrics and conversations that express longing, affection, and vulnerability.
+	* NERs: None
+3. **Heartbreak/Emotional Struggles** (2026-01-02 12:58:35 - 2026-01-02 13:05:35)
+	* Details: The transcripts touch on themes of heartbreak, emotional struggles, and the complexities of relationships.
+	* NERs: None
+4. **Radio Show Introduction** (2026-01-02 12:56:34 - 2026-01-02 12:56:34)
+	* Details: The transcript mentions "You're listening to Session Road" and "You're listening to Sleek Radio, 93 FM", indicating a radio show introduction.
+	* NERs: Session Road, Sleek Radio, 93 FM
+5. **Summer/Nostalgia** (2026-01-02 13:05:35 - 2026-01-02 13:08:35)
+	* Details: The transcripts discuss the passing of summer and the nostalgia associated with it, with conversations about relationships and memories.
+	* NERs: September, Summer
+
+Note that the topics are not strictly separated and may overlap or blend together throughout the transcripts. Additionally, there are no specific mentions of Jamaica or any other country, and there are no interviews, host discussions, or caller interactions in the provided transcripts.

@@ -1,0 +1,35 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Christian Music and Worship** (2025-12-16 11:00:01 - 2025-12-16 11:04:04)
+	* Topic: Christian music and worship
+	* Details: The host is playing and singing Christian songs, praising God and Jesus.
+	* NERs: Jesus, God, Yahweh
+2. **Christian Testimony and Encouragement** (2025-12-16 11:05:05 - 2025-12-16 11:11:07)
+	* Topic: Christian testimony and encouragement
+	* Details: The host is sharing a testimony of salvation and encouraging listeners not to give up.
+	* NERs: Jesus, God
+3. **Wellness and Health** (2025-12-16 11:11:10 - 2025-12-16 11:11:10)
+	* Topic: Wellness and health
+	* Details: A brief wellness tip is shared about exercises improving lung capacity.
+	* NERs: None
+4. **Customs and Importation** (2025-12-16 11:11:11 - 2025-12-16 11:11:11)
+	* Topic: Customs and importation
+	* Details: Information is shared about customs declarations and payments for importers.
+	* NERs: None
+5. **Upcoming Event: 2025 Lay Institute and Camp Meeting** (2025-12-16 11:17:11 - 2025-12-16 11:17:11)
+	* Topic: Upcoming event
+	* Details: An announcement is made about the 2025 Lay Institute and Camp Meeting, featuring speakers such as Dr. Ron Smith and Pastor Robert Gamboa.
+	* NERs: Dr. Ron Smith, Pastor Robert Gamboa, Pastor J. Paul Sundararaj
+6. **Christian Music and Testimony** (2025-12-16 11:18:12 - 2025-12-16 11:28:18)
+	* Topic: Christian music and testimony
+	* Details: The host is sharing a testimony of God's love and playing Christian music.
+	* NERs: God, Jesus
+7. **Host Discussion and Caller Interaction** (2025-12-16 11:22:14 - 2025-12-16 11:28:18)
+	* Topic: Host discussion and caller interaction
+	* Details: The host is interacting with callers and sharing greetings and well-wishes.
+	* NERs: Maxine Anderson, Don, Neil, Mr. Neil, Juanita Ramsey, Sister Gregory, Sasha, Carmen, Joan Ferguson, Claudette Parrott, Claire Dean-Henry, Evangelist Whitley, Janise Chambers, Sean Pang, Doreen, Dr. W. Pretty, Andrea Samuels, Dave Miko, Mrs. Karen Michael, Kayson Coombs, Rose, Miss S, Glenna Smith
+
+Note that some of these topics may overlap or be mentioned briefly throughout the transcripts, but I have tried to categorize them based on the primary topic being discussed during each time range.

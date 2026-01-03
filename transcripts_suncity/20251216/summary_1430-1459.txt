@@ -1,0 +1,28 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Mental Health and Charity** (2025-12-16 14:30:14 - 14:31:14)
+	* Details: The host discusses the importance of mental health and announces a helpline. They also mention a charity event to rebuild schools damaged by Hurricane Melissa.
+	* NERs: Hurricane Melissa, National Baking Company, Walden, Sagicor, St. Mary, Malines Road Kingston, Lionel Town Clarendon, Dyke Road Portmore
+2. **Host Discussion and Introduction to ZooLights** (2025-12-16 14:31:14 - 14:32:14)
+	* Details: The host introduces the topic of ZooLights, a holiday event at the Hope Zoo in Kingston, Jamaica.
+	* NERs: Hope Zoo, Kingston, Jamaica
+3. **Biblical Teaching and Radio Show Introduction** (2025-12-16 14:33:15 - 14:34:15)
+	* Details: The host introduces a biblical teaching segment with teacher Michael Phillips and mentions the radio show "The Hello Jamaica Show" on Sun City Radio.
+	* NERs: Michael Phillips, The Hello Jamaica Show, Sun City Radio
+4. **Caller Interaction and Birthday Wishes to Raven** (2025-12-16 14:37:16 - 14:45:24)
+	* Details: The host interacts with callers who are wishing happy birthday to Raven, a presenter on the show.
+	* NERs: Raven, Sunhouse Raven, Father Fresh, Williams family, Olive River, Hill 60, Izimi, Melissa, Keisha, Father Collin, Norman
+5. **Host Discussion and Appreciation for Women** (2025-12-16 14:45:24 - 14:52:23)
+	* Details: The host discusses the importance of women and appreciates their contributions to the show and society.
+	* NERs: Mama Bee, Steve Billings, Jojo
+6. **Music and Poetry** (2025-12-16 14:52:23 - 14:55:24)
+	* Details: The host plays music and recites poetry, including a song about the gift of life and the importance of women.
+	* NERs: None
+7. **Birthday Wishes to Raven and Introduction to Friday's Show** (2025-12-16 14:55:24 - 14:58:25)
+	* Details: The host continues to wish happy birthday to Raven and introduces the topic of Friday's show, which will be a "Black Friday" event.
+	* NERs: Raven, Yenny Bacchus, Father Fresh, Williams family
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context of the transcripts.

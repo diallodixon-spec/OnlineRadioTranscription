@@ -1,0 +1,35 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Interview with a guest about returning to Jamaica and potential partnerships with schools in the Cayman Islands** (2025-12-16 18:30:26 - 18:31:28)
+	* Details: The guest discusses their plans to return to Jamaica and potential partnerships with schools in the Cayman Islands.
+	* NERs: Jamaica, Cayman Islands
+2. **Today in Sports History** (2025-12-16 18:31:28 - 18:32:28)
+	* Details: The host discusses a sports history topic, specifically Donovan Bailey's achievements in track and field.
+	* NERs: Donovan Bailey, Canada, Ontario
+3. **Host discussion about football** (2025-12-16 18:32:28 - 18:33:28)
+	* Details: The host introduces a segment about football and invites listeners to participate.
+	* NERs: None
+4. **Interview with Tim Vickery about South American football** (2025-12-16 18:33:28 - 18:45:40)
+	* Details: Tim Vickery discusses the current state of South American football, including the success of Ecuadorian teams and the impact of Brazilian players in the Premier League.
+	* NERs: Tim Vickery, South America, Ecuador, Brazil, Premier League, Arsenal, Chelsea, Manchester United, Newcastle
+5. **Discussion about the English Premier League** (2025-12-16 18:44:40 - 18:54:40)
+	* Details: The host and Tim Vickery discuss the current state of the English Premier League, including the performance of teams like Arsenal, Manchester City, and Aston Villa.
+	* NERs: English Premier League, Arsenal, Manchester City, Aston Villa, Tottenham
+6. **Discussion about the impact of South American players in Europe** (2025-12-16 18:54:40 - 19:05:41)
+	* Details: The host and Tim Vickery discuss the impact of South American players in European football, including the success of Brazilian players in the Premier League.
+	* NERs: South America, Europe, Brazil, Premier League, Manchester United, Chelsea
+7. **Discussion about a potential Pan-American football competition** (2025-12-16 19:05:41 - 19:15:43)
+	* Details: The host and Tim Vickery discuss the possibility of a Pan-American football competition involving teams from Brazil, Mexico, and the United States.
+	* NERs: Pan-American, Brazil, Mexico, United States, Jamaica
+8. **Discussion about the women's game and the Women's World Cup** (2025-12-16 19:15:43 - 19:25:44)
+	* Details: The host and Tim Vickery discuss the growth of the women's game and the upcoming Women's World Cup in Brazil.
+	* NERs: Women's World Cup, Brazil, Jamaica, United States
+9. **Discussion about Jamaica's chances of qualifying for the World Cup** (2025-12-16 19:25:44 - 19:35:47)
+	* Details: The host and Tim Vickery discuss Jamaica's chances of qualifying for the World Cup.
+	* NERs: Jamaica, World Cup
+10. **Host discussion about Tottenham and the English Premier League** (2025-12-16 19:35:47 - 19:45:47)
+	* Details: The host discusses their thoughts on Tottenham and the current state of the English Premier League.
+	* NERs: Tottenham, English Premier League

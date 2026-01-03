@@ -1,0 +1,28 @@
+Summary for time range 09:30 - 09:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction to Power Talk and Host discussion** (2026-01-02 09:30:18 - 2026-01-02 09:31:18)
+	* Details: Introduction to the radio program Power Talk, hosted by Dr. Herbert Gayle and Rodston Hyman, discussing public affairs and current events.
+	* NERs: Dr. Herbert Gayle, Rodston Hyman, Power 106 FM
+2. **Financial Literacy and Host discussion** (2026-01-02 09:31:18 - 2026-01-02 09:32:18)
+	* Details: Discussion on financial literacy, including tips on managing money and understanding the psychology behind one's relationship with money.
+	* NERs: None
+3. **Interview with Vincent Morrison** (2026-01-02 09:32:18 - 2026-01-02 09:57:40)
+	* Details: Interview with Vincent Morrison, President of the Union of Clerical, Administrative and Supervised Employers, discussing expectations from the government in 2026, labor issues, and the state of the country.
+	* NERs: Vincent Morrison, Union of Clerical, Administrative and Supervised Employers, Jamaica, UK
+4. **Discussion on Labor Issues and Host discussion** (2026-01-02 09:38:25 - 2026-01-02 09:45:33)
+	* Details: Discussion on labor issues, including the security guard industry, public sector workers, and the need for reform.
+	* NERs: Vincent Morrison, Jamaica
+5. **Discussion on Social and Economic Issues and Host discussion** (2026-01-02 09:45:33 - 2026-01-02 09:52:31)
+	* Details: Discussion on social and economic issues, including housing, education, and the environment.
+	* NERs: Vincent Morrison, Jamaica
+6. **Discussion on Rural Development and Host discussion** (2026-01-02 09:52:31 - 2026-01-02 09:55:33)
+	* Details: Discussion on rural development, including the need for integrated rural development and the importance of agriculture.
+	* NERs: Vincent Morrison, Jamaica
+7. **Conclusion of Interview with Vincent Morrison** (2026-01-02 09:55:33 - 2026-01-02 09:58:42)
+	* Details: Conclusion of the interview with Vincent Morrison, summarizing the discussion and looking forward to 2026.
+	* NERs: Vincent Morrison, Jamaica
+
+Note: The time ranges are approximate and based on the provided transcripts.

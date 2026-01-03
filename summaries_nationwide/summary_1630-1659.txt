@@ -1,0 +1,33 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisements and Promotions** (2026-01-02 16:30:22 - 2026-01-02 16:32:55)
+	* Details: The hosts discussed various advertisements and promotions, including Popeyes' new barbecue chicken, Pizza Hut's Amazing Four Plus deal, and the Design Studio's personal growth strategies.
+	* NERs: Popeyes, Pizza Hut, Design Studio
+2. **Outside with Pepita** (2026-01-02 16:32:55 - 2026-01-02 16:32:55)
+	* Details: The host mentioned the show "Outside with Pepita" and its schedule.
+	* NERs: Pepita, Outside with Pepita
+3. **The Mayor's Parlor** (2026-01-02 16:33:26 - 2026-01-02 16:33:26)
+	* Details: The host introduced the show "The Mayor's Parlor" and its schedule.
+	* NERs: Desmond McKenzie, The Mayor's Parlor
+4. **Music and Entertainment** (2026-01-02 16:35:27 - 2026-01-02 16:43:33)
+	* Details: The hosts played and discussed various music tracks.
+	* NERs: None
+5. **Host discussion - Fashion and Events** (2026-01-02 16:43:33 - 2026-01-02 16:53:33)
+	* Details: The hosts discussed fashion and events, including the Milk and Honey party and the importance of being unique in one's attire.
+	* NERs: Fashion Nova, Milk and Honey
+6. **E-Zone Awards and Discussion** (2026-01-02 16:53:33 - 2026-01-02 17:05:43)
+	* Details: The hosts discussed various awards and topics, including the E-Zone MVP, the ghost co-worker, and the technical savior award.
+	* NERs: Noura, Damien Conningham, Bugs, King, Natalie
+7. **Interview and Guest Discussion** (None)
+8. **Caller interaction** (None)
+9. **Jamaica-specific discussion** (2026-01-02 16:30:22 - 2026-01-02 17:05:43)
+	* Details: The hosts discussed various topics related to Jamaica, including the Milk and Honey party, Hurricane Melissa, and Jamaican artists such as Shaggy, Vibes Cartel, and Spice.
+	* NERs: Jamaica, Milk and Honey, Hurricane Melissa, Shaggy, Vibes Cartel, Spice
+10. **Host discussion - Music and Artists** (2026-01-02 16:53:33 - 2026-01-02 17:05:43)
+	* Details: The hosts discussed various music-related topics, including their favorite artists and songs.
+	* NERs: Massacre, Dexter, Alkaline, Luciano, Spice, Shaggy, Sean Paul
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct categories.

@@ -1,0 +1,20 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Music and Party** (2026-01-02 14:00:02 - 2026-01-02 14:09:07): The host is playing music and discussing partying, with mentions of having money to spend, dancing, and waving flags. No specific NERs (Named Entities) are mentioned in this segment.
+
+2. **Relationships and Love** (2026-01-02 14:09:07 - 2026-01-02 14:14:09): The host transitions to discussing relationships, love, and heartbreak, with lyrics about missing someone, needing them, and wanting to celebrate life. No specific NERs are mentioned in this segment.
+
+3. **Celebration and Weekend** (2026-01-02 14:14:09 - 2026-01-02 14:15:10): The host continues discussing the importance of celebrating life and enjoying the weekend, with mentions of champagne and having fun. No specific NERs are mentioned in this segment.
+
+4. **Heartbreak and Longing** (2026-01-02 14:16:11 - 2026-01-02 14:19:14): The host plays music with lyrics about heartbreak, longing, and trying to move on from a past relationship. No specific NERs are mentioned in this segment.
+
+5. **Loyalty and Money** (2026-01-02 14:20:15 - 2026-01-02 14:24:18): The host discusses loyalty, money, and the importance of staying focused on one's goals, with mentions of "Trippie" and "Ken," possibly referencing Trippie Redd, an American rapper, and a person named Ken. The topic includes a discussion about not switching sides and being locked in on goals.
+
+6. **Love and Relationships** (2026-01-02 14:25:19 - 2026-01-02 14:28:21): The host continues discussing love, relationships, and the challenges of maintaining them, with lyrics about lying to avoid losing someone and the pain of heartbreak. No specific NERs are mentioned in this segment.
+
+7. **Romance and Intimacy** (2026-01-02 14:28:21 - 2026-01-02 14:28:21): The host plays music with lyrics about romance, intimacy, and the desire to keep a relationship sweet and nice. No specific NERs are mentioned in this segment.
+
+All topics are categorized under "Host discussion" since there are no interviews or caller interactions in the provided transcripts. The discussions are primarily about music, partying, relationships, love, heartbreak, and loyalty, with no specific focus on Jamaica or any other country.

@@ -1,0 +1,25 @@
+[2025-11-22 23:57:53] ============================================================
+[2025-11-22 23:57:53] 📻 Batch WAV Transcription Service
+[2025-11-22 23:57:53] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-22 23:57:53] ============================================================
+[2025-11-22 23:57:53] 🤗 Connecting to Hugging Face Space...
+[2025-11-22 23:57:53] ✅ Connected successfully
+[2025-11-22 23:57:53] ============================================================
+[2025-11-22 23:57:53] 📻 Processing RJR
+[2025-11-22 23:57:53] 📂 Recordings: recordings_RJR/
+[2025-11-22 23:57:53] 📄 Transcripts: transcripts_RJR/
+[2025-11-22 23:57:53] 📦 Completed: transcription_completed_RJR/
+[2025-11-22 23:57:53] ------------------------------------------------------------
+[2025-11-22 23:57:53] 📋 Found 21 WAV file(s)
+[2025-11-22 23:57:53] 📝 Files to transcribe: 21
+[2025-11-22 23:57:53] ------------------------------------------------------------
+[2025-11-22 23:57:53] [1/21] Processing...
+[2025-11-22 23:57:53] 🎤 Transcribing: RJR_recording_20251122_183444_seg000.wav
+[2025-11-23 00:00:15]    ✅ Saved to: RJR_recording_20251122_183444_seg000_transcript.txt
+[2025-11-23 00:00:15]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_183444_seg000.wav
+[2025-11-23 00:00:15] [2/21] Processing...
+[2025-11-23 00:00:15] 🎤 Transcribing: RJR_recording_20251122_183546_seg001.wav
+[2025-11-23 00:02:34]    ✅ Saved to: RJR_recording_20251122_183546_seg001_transcript.txt
+[2025-11-23 00:02:34]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_183546_seg001.wav
+[2025-11-23 00:02:34] [3/21] Processing...
+[2025-11-23 00:02:34] 🎤 Transcribing: RJR_recording_20251122_183647_seg002.wav

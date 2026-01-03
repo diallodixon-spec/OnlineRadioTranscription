@@ -1,0 +1,29 @@
+Summary for time range 19:30 - 19:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion, Introduction to the show, and New Year's greetings** (2026-01-02 19:30:16 - 2026-01-02 19:41:20)
+	* Details: The host introduces the show, wishes listeners a Happy New Year, and discusses the importance of celebrating safely.
+	* NERs: None
+2. **Rebuilding Jamaica, Social issues, and Parenting** (2026-01-02 19:33:17 - 2026-01-02 19:41:20)
+	* Details: The host discusses the importance of rebuilding Jamaica, teaching children good values, and the role of parents in shaping their children's attitudes and understanding of right and wrong.
+	* NERs: Jamaica
+3. **Music and Entertainment** (2026-01-02 19:41:20 - 2026-01-02 19:55:26)
+	* Details: The host plays music, introduces various artists, and discusses the importance of music in people's lives.
+	* NERs: George Nooks, Sun City, Christopher Palmer (also known as Mr. Lex), Alain, Carly Davis, Shireen
+4. **Host discussion, Motivation, and Inspiration** (2026-01-02 19:44:22 - 2026-01-02 19:55:26)
+	* Details: The host discusses the importance of trusting in God, being motivated, and inspired to make positive changes in life.
+	* NERs: God
+5. **Interview with Mr. Fryeye** (2026-01-02 19:45:22 - 2026-01-02 19:47:23)
+	* Details: The host interviews Mr. Fryeye, discussing his music and the importance of his message.
+	* NERs: Mr. Fryeye
+6. **Host discussion, Birthday greetings, and Shoutouts** (2026-01-02 19:50:24 - 2026-01-02 19:55:26)
+	* Details: The host gives birthday greetings to Capricorns, discusses the energy of the new year, and gives shoutouts to various listeners and families.
+	* NERs: Capricorns, Massachusetts, Portmore
+7. **Music and Entertainment, Hip-Hop culture** (2026-01-02 19:55:26 - 2026-01-02 20:00:00)
+	* Details: The host discusses hip-hop culture, plays music, and references various artists and songs.
+	* NERs: Word Up magazine, Mr. Magic, Molly Moore, Bigg Smalls, Cardo
+8. **Host discussion, Life experiences, and Music** (2026-01-02 19:57:27 - 2026-01-02 20:00:00)
+	* Details: The host discusses life experiences, plays music, and references various artists and songs.
+	* NERs: Tupac Shakur ( referenced in the song "Dear Mama")

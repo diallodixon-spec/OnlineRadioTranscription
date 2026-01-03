@@ -1,0 +1,54 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and News Teasers (Host discussion)**: 
+   - Time range: 2025-12-16 12:00:03 - 2025-12-16 12:01:04
+   - Details: Introduction to the Nationwide Nighty FM program, news teasers, and announcement of the News at Noon.
+   - NERs: None
+
+2. **Electricity Bill Increase in Jamaica (Host discussion)**: 
+   - Time range: 2025-12-16 12:02:04 - 2025-12-16 12:04:05
+   - Details: Discussion on the 7% increase in electricity bills for December, its impact on small businesses, and the call for a rollback by the Small Business Association of Jamaica.
+   - NERs: Jamaica, Small Business Association of Jamaica, Office of Utilities Regulation, Jamaica Public Service
+
+3. **Interview with Garnett Reed**: 
+   - Time range: 2025-12-16 12:03:04 - 2025-12-16 12:04:05
+   - Details: Interview with Garnett Reed, President of the Small Business Association of Jamaica, regarding the increase in electricity bills and its effects on small businesses.
+   - NERs: Garnett Reed, Small Business Association of Jamaica, Jamaica
+
+4. **Impact of Electricity Bill Increase on Businesses (Host discussion)**: 
+   - Time range: 2025-12-16 12:04:05 - 2025-12-16 12:06:07
+   - Details: Discussion on how businesses may pass on the increased electricity costs to consumers and the potential impact on the economy.
+   - NERs: Jamaica
+
+5. **Tourism in Jamaica (Interview)**: 
+   - Time range: 2025-12-16 12:07:09 - 2025-12-16 12:11:13
+   - Details: Interview with Minister Bartlett regarding the winter tourist season in Jamaica, room occupancy rates, and the impact of Hurricane Melissa on the tourism industry.
+   - NERs: Minister Bartlett, Jamaica, Hurricane Melissa
+
+6. **Crime Reduction in St. Elizabeth, Jamaica (Host discussion)**: 
+   - Time range: 2025-12-16 12:11:13 - 2025-12-16 12:13:14
+   - Details: Discussion on the reduction in murders in St. Elizabeth, Jamaica, and the efforts of the police to maintain law and order.
+   - NERs: St. Elizabeth, Jamaica, Superintendent Coleridge Minto
+
+7. **Jamaican Security Forces Deployment to Haiti (Host discussion)**: 
+   - Time range: 2025-12-16 12:13:14 - 2025-12-16 12:15:15
+   - Details: Discussion on the deployment of Jamaican security forces to Haiti as part of the Suppression Force (GSF) and their role in maintaining security and stability.
+   - NERs: Jamaica, Haiti, Jamaica Defense Force, Jamaica Constabulary Force
+
+8. **Regional and International News (Host discussion)**: 
+   - Time range: 2025-12-16 12:15:15 - 2025-12-16 12:17:17
+   - Details: Discussion on regional and international news, including Dominica's offer to mediate US-Venezuela tensions and the identification of a suspect in the Bondi shooting in Australia.
+   - NERs: Dominica, US, Venezuela, Australia, India
+
+9. **Sports News (Host discussion)**: 
+   - Time range: 2025-12-16 12:19:19 - 2025-12-16 12:28:28
+   - Details: Discussion on various sports news, including the West Indies cricket team, the Indian Premier League, and the Manning Cup football tournament.
+   - NERs: West Indies, India, Australia, New Zealand, Jamaica, Paris Saint-Germain, Real Madrid
+
+10. **Athletics and Netball News (Host discussion)**: 
+    - Time range: 2025-12-16 12:25:25 - 2025-12-16 12:28:28
+    - Details: Discussion on athletics and netball news, including the appointment of a Jamaican coach to the World Athletics Coaches Commission and the Sunshine Girls' upcoming match against Australia.
+    - NERs: Jamaica, World Athletics, Australia, Glasgow, Scotland

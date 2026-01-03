@@ -1,0 +1,31 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **International Headlines (Host discussion)**: 
+   - Time range: 2026-01-02 15:00:01 - 2026-01-02 15:02:03
+   - Details: The host, Dajran Gordon, discusses international news, including U.S. President Donald Trump's warning to Iran's authorities, mass protests in Iran, U.S. tariffs on Italian pasta, and a boat capsizing off the coast of the Gambia.
+   - NERs: Donald Trump, Iran, U.S., Italy, Gambia
+
+2. **Advertisement and Music**: 
+   - Time range: 2026-01-02 15:02:03 - 2026-01-02 15:17:09
+   - Details: The host plays music and advertises various products and services, including the Lascaux Gold Visa prepaid card and ATL Autobahn.
+   - NERs: Lascaux Gold, ATL Autobahn, Bank of Jamaica, BMW, Mini
+
+3. **Music and Entertainment (Host discussion)**: 
+   - Time range: 2026-01-02 15:17:09 - 2026-01-02 15:27:17
+   - Details: The host plays music and discusses various topics, including parties and celebrations.
+   - NERs: None
+
+4. **Jamaica Customs Agency (Host discussion)**: 
+   - Time range: 2026-01-02 15:27:17 - 2026-01-02 15:28:11
+   - Details: The host discusses the importance of protecting personal data and using the Jamaica Customs Agency's official platforms.
+   - NERs: Jamaica Customs Agency
+
+5. **Music and Party (Host discussion)**: 
+   - Time range: 2026-01-02 15:28:11 - 2026-01-02 15:52:17
+   - Details: The host plays music and discusses parties and celebrations, including Carnival in Trinidad.
+   - NERs: Trinidad, Ring Road
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily host discussions, music, and advertisements.

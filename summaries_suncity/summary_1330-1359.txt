@@ -1,0 +1,28 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are:
+
+1. **Music and Personal Life** (2026-01-02 13:30:15 - 2026-01-02 13:41:17)
+	* Details: The host is discussing their personal life, youth, and experiences, with a focus on music and its impact on their life.
+	* NERs: None
+2. **Jamaica Aggregates Advertisement** (2026-01-02 13:41:19 - 2026-01-02 13:42:00)
+	* Details: An advertisement for Jamaica Aggregates, a construction aggregate supplier, is being played on the radio.
+	* NERs: Jamaica Aggregates, Jamaica
+3. **Job Opportunity and Mother in Crisis** (2026-01-02 13:42:01 - 2026-01-02 13:44:22)
+	* Details: The host is discussing a job opportunity at Sun City Radio and promoting Mother in Crisis, an organization that aims to rebuild the nation.
+	* NERs: Sun City Radio, Mother in Crisis, Jamaica
+4. **Music and Entertainment** (2026-01-02 13:44:23 - 2026-01-02 13:55:27)
+	* Details: The host is playing music and discussing various topics, including party weekends and shoutouts to listeners.
+	* NERs: None
+5. **Music and Relationships** (2026-01-02 13:55:28 - 2026-01-02 14:05:25)
+	* Details: The host is playing music and discussing relationships, love, and personal empowerment.
+	* NERs: None
+6. **Shella and World Class Sheller** (2026-01-02 14:05:26 - 2026-01-02 14:07:27)
+	* Details: The host is discussing Shella and World Class Sheller, possibly a music artist or group.
+	* NERs: Shella, World Class Sheller
+7. **Host discussion** (2026-01-02 13:30:15 - 2026-01-02 14:07:27)
+	* Details: The host is discussing various topics, including music, personal life, and relationships, in a solo format.
+	* NERs: None
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, personal life, and promotions for various organizations and events.

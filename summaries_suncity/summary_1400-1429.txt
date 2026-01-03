@@ -1,0 +1,37 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion, Introduction to the show, and Shoutouts** (2026-01-02 14:00:02 - 2026-01-02 14:04:04)
+	* Details: The host introduces the show, gives shoutouts to various individuals, and discusses their New Year's resolutions.
+	* NERs: Claudette, Mama B, Mr. Dab Dab, Mr. Millit, Serapy
+2. **Public Service Announcement, National Council on Drug Abuse** (2026-01-02 14:04:04 - 2026-01-02 14:05:05)
+	* Details: A public service announcement from the National Council on Drug Abuse is played, encouraging Jamaicans to care for each other.
+	* NERs: National Council on Drug Abuse, Jamaica
+3. **World Premiere Tuesdays, Music Submission** (2026-01-02 14:05:05 - 2026-01-02 14:06:05)
+	* Details: The host announces the World Premiere Tuesdays segment, where new artists and producers can submit their music for a chance to be played on the show.
+	* NERs: Sun City 104.9 FM, World Premiere Tuesdays
+4. **Sun City Radio's Mission and Objectives** (2026-01-02 14:06:05 - 2026-01-02 14:07:05)
+	* Details: The host explains the mission and objectives of Sun City Radio, including providing practical skills in radio communication, health education, and promoting local music and culture.
+	* NERs: Sun City Radio, Jamaica, Caribbean
+5. **Educate, Empower, and Entertain** (2026-01-02 14:07:05 - 2026-01-02 14:08:06)
+	* Details: The host discusses the three E's of Sun City 104.9 FM: educate, empower, and entertain.
+	* NERs: Sun City 104.9 FM
+6. **Reggae Fridays, Music** (2026-01-02 14:08:06 - 2026-01-02 14:09:06)
+	* Details: The host introduces the Reggae Fridays segment, playing reggae music.
+	* NERs: Reggae Fridays, Sun City 104.9 FM
+7. **Music and Song Requests** (2026-01-02 14:09:06 - 2026-01-02 14:14:08)
+	* Details: The host plays various songs and takes requests from listeners.
+	* NERs: Enrique Iglesias
+8. **Birthday Shoutout** (2026-01-02 14:14:09 - 2026-01-02 14:15:09)
+	* Details: The host gives a birthday shoutout to Malia Tracy.
+	* NERs: Malia Tracy, Daddy Bear
+9. **Music and Interactions** (2026-01-02 14:15:10 - 2026-01-02 14:28:14)
+	* Details: The host continues to play music and interacts with listeners and individuals in the studio.
+	* NERs: WorldVice, One Piece, Sunshot, New York
+10. **Music and Caller Interaction** (2026-01-02 14:25:13 - 2026-01-02 14:28:14)
+	* Details: The host plays music and interacts with callers, including one from Florida.
+	* NERs: Florida
+
+Note: There are no interviews in the provided transcripts. The topics are mostly related to music, shoutouts, and interactions with listeners.

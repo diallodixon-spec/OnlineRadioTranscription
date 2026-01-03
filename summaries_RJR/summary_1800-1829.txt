@@ -1,0 +1,41 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Hurricane Melissa Recovery Efforts in Jamaica** (2026-01-02 18:01:00 - 2026-01-02 18:04:02)
+	* Host discussion
+	* NERs: Jamaica, Hurricane Melissa, Prime Minister Dr. Andrew Holness, JPS (Jamaica Public Service Company)
+	* Details: The government's efforts to restore electricity to communities affected by Hurricane Melissa, including the handover of specialized vehicles to JPS.
+2. **Shooting Incident in Granville, St. James** (2026-01-02 18:05:02 - 2026-01-02 18:06:03)
+	* Host discussion
+	* NERs: Granville, St. James, Romaine Bowman, Fitz-Jackson (opposition spokesperson on National Security)
+	* Details: A four-year-old boy was killed in a shooting incident involving security forces and gunmen, prompting calls for an independent investigation.
+3. **Sports Highlights** (2026-01-02 18:07:04 - 2026-01-02 18:09:05)
+	* Host discussion
+	* NERs: Oblique Seville, Tina Clayton, Orlando Bennett, Tyler Mason, Dejaune Whisper-Richards, Ronaldo Cifas
+	* Details: Highlights from various sports events, including track and field, football, and horse racing.
+4. **2025 Year in Review** (2026-01-02 18:10:05 - 2026-01-02 18:21:06)
+	* Host discussion, Caller interaction
+	* NERs: Mario Dean, Corporal Elaine Stewart, District Constables Marlon Grant, Julianna Cleven, Murcia Fraser, Justice Anderson, Dr. Alfred Dawes, Dr. Christopher Tofton, Michael Williams, Jesse James Clark, Delano Williams, Andrew Sweby, Matthew Samuda
+	* Details: A review of major news stories from 2025, including the conviction of police officers in the Mario Dean case, the purchase of a neurosurgical drill for the Bustamante Children's Hospital, and issues with water quality in rural areas.
+5. **Integrity Commission Report** (2026-01-02 18:19:09 - 2026-01-02 18:20:10)
+	* Host discussion
+	* NERs: Integrity Commission, Ministry of Health and Wellness, MarketMe Consulting, Dr. Christopher Tufton
+	* Details: The Integrity Commission published a report citing procurement breaches by the Ministry of Health and Wellness, including the award of contracts to MarketMe Consulting.
+6. **Government Initiatives** (2026-01-02 18:21:10 - 2026-01-02 18:23:12)
+	* Host discussion
+	* NERs: Prime Minister Dr. Andrew Holness, Morant Bay Urban Centre, St. Thomas, Minister Vaz, Mikhail Phillips
+	* Details: The government launched a new rural second phase to complete the entire rural schools with a dedicated service for school children across Jamaica, and opened the Morant Bay Urban Centre.
+7. **US Tariffs** (2026-01-02 18:23:12 - 2026-01-02 18:24:13)
+	* Host discussion
+	* NERs: US President Donald Trump, United States
+	* Details: The US announced a minimum universal 10 percent tariff on goods imported into the United States.
+8. **Sports News** (2026-01-02 18:24:13 - 2026-01-02 18:26:14)
+	* Host discussion
+	* NERs: Roger Estona, Rajendra Campbell, Fraser Price, Tokyo
+	* Details: News about Jamaican athletes, including Roger Estona and Rajendra Campbell's Olympic medals, and Fraser Price's retirement.
+9. **Passing of Notable Jamaicans** (2026-01-02 18:26:14 - 2026-01-02 18:28:15)
+	* Host discussion
+	* NERs: Anthony Smith, O'Neill Stevens, Kamisha Lindsay Stevens, Professor Roy Auger, Errol Ennis, Harry Douglas, Phyllis Mitchell, Russell, Owen James, Velma Pollard, Valerie Nita Robertson, Percival Latouche, Munir Zakka, Mike McCallum, Leroy Gibbons, Don Web Webby, Ina Collimore Woodstock, Dorothy Pine-McClarty
+	* Details: A tribute to notable Jamaicans who passed away in 2025, including academics, politicians

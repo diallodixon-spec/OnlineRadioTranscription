@@ -1,0 +1,19 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Welcome** (2026-01-02 13:30:25 - 2026-01-02 13:32:26): The host introduces themselves and welcomes listeners to the show, playing a song and reading a message from the National Council on Drug Abuse.
+	* NERs: National Council on Drug Abuse, Ministry of Health and Wellness, Betting and Lotteries Commission
+2. **Host Discussion and Music** (2026-01-02 13:32:26 - 2026-01-02 13:43:28): The host discusses various topics, including the new year, and plays music from artists like Charlie Puth and Selena Gomez.
+	* NERs: Charlie Puth, Selena Gomez
+3. **Music and Entertainment** (2026-01-02 13:43:28 - 2026-01-02 13:55:41): The host continues to play music and discusses entertainment-related topics.
+	* NERs: DJ Jerome, DJ Khaled, Cardi B
+4. **Music and Artist Features** (2026-01-02 13:55:41 - 2026-01-02 14:05:43): The host features music from various artists, including Young J-A-C-K-A and Enrique.
+	* NERs: Young J-A-C-K-A, Enrique, Cardi B
+5. **Dance and Music Instructions** (2026-01-02 14:05:43 - 2026-01-02 14:08:43): The host provides instructions for a dance and plays music to accompany it.
+	* NERs: None
+6. **Music and Interaction** (2026-01-02 14:08:43 - 2026-01-02 14:11:43): The host interacts with listeners and plays music, including a song with a country theme.
+	* NERs: Sonny G-Unit
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, entertainment, and host discussion.

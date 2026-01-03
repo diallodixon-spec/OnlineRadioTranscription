@@ -1,0 +1,23 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion, Music and Relationships** (2026-01-02 12:30:14 - 2026-01-02 12:45:24)
+Details: The host discusses personal relationships, love, and music. No specific NERs (Named Entities) are mentioned in this segment.
+2. **Advertisement and Promotion** (2026-01-02 12:31:14 - 2026-01-02 12:32:15)
+Details: The host promotes a printing service, "Print Big," and mentions a deal for Reggae Wednesday. NERs: Print Big, Reggae Wednesday.
+3. **Event Promotion** (2026-01-02 12:32:15 - 2026-01-02 12:33:15)
+Details: The host promotes an event, "Buzzerz Christmas Day," and provides contact information. NERs: Buzzerz, Christmas Day.
+4. **Health and Wellness, Host discussion** (2026-01-02 12:33:15 - 2026-01-02 12:34:16)
+Details: The host introduces a segment on diabetes management, "Talking Diabetes." NERs: Talking Diabetes, Sun City Morning Show, Kevin Wallen.
+5. **Radio Station Promotion, Host discussion** (2026-01-02 12:34:16 - 2026-01-02 12:35:16)
+Details: The host promotes the radio station, Sun City 104.9 FM, and mentions its mission to educate, empower, and entertain. NERs: Sun City 104.9 FM.
+6. **Music and Relationships, Host discussion** (2026-01-02 12:35:16 - 2026-01-02 12:45:24)
+Details: The host discusses personal relationships, love, and music. No specific NERs are mentioned in this segment.
+7. **News, Jamaica** (2026-01-02 12:47:21 - 2026-01-02 12:52:23)
+Details: The news anchor, Vaughn Davis, reports on various news stories, including the government's extension of relief programs for imported items, the distribution of reconstruction grants, and the passing of veteran broadcaster Alma Mockien. NERs: Vaughn Davis, Jamaica Information Service, Hurricane Melissa, Dr. Andrew Holness, Dr. Horace Chang, Alma Mockien.
+8. **Music and Entertainment** (2026-01-02 12:52:24 - 2026-01-02 12:58:25)
+Details: The host plays music and engages in conversation about relationships and personal topics. No specific NERs are mentioned in this segment.
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

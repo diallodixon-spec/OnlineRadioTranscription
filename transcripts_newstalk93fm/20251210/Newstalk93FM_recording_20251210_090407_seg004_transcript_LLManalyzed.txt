@@ -1,0 +1,6 @@
+WAV File Transcription
+Source: Newstalk93FM_recording_20251210_090407_seg004.wav
+Date: 2025-12-10 09:14:21
+============================================================
+
+So researchers at the University of Utah set out to make a bionic hand that could mimic some of those circuits. The result is a system that uses machine learning to help a person carry out a task. And Marshall Trout says it worked in a study of four people who tried to use the bionic hand to drink from a cup. Without the machine assistance, the person just crushed it or dropped it every single time. But when participants got help from the system's machine learning function, they were able to bring cup I'm Korva Kuhlman, NPR News.

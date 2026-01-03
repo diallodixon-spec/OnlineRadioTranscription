@@ -1,0 +1,34 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and New Year's Greetings (Host discussion)**: The hosts introduced themselves and welcomed listeners to the new year, discussing their experiences and feelings about the previous year (2025). 
+   - Time range: 2026-01-02 15:00:01 - 2026-01-02 15:10:07
+   - NERs: None
+
+2. **News Update (Host discussion)**: The hosts discussed recent news, including the recusal of Chief Technical Director Dennis Chung from an investigation and the decline in murders in Jamaica.
+   - Time range: 2026-01-02 15:01:01 - 2026-01-02 15:02:01
+   - NERs: Dennis Chung, Andrew Holness, Jamaica
+
+3. **Advertisement and Promotion (Host discussion)**: The hosts promoted various products and services, including Pizza Hut and Appleton Estate.
+   - Time range: 2026-01-02 15:02:01 - 2026-01-02 15:03:02
+   - NERs: Pizza Hut, Appleton Estate
+
+4. **Entertainment and Music (Host discussion)**: The hosts discussed their entertainment segment, "The E-Zone," and introduced their guests, including DJ Drum.
+   - Time range: 2026-01-02 15:04:03 - 2026-01-02 15:08:06
+   - NERs: None
+
+5. **Birthday Wishes and Condolences (Host discussion)**: The hosts wished happy birthday to their boss, Clif Fuse, and other staff members, and extended condolences to the family and friends of Donald Oliver, a sports journalist who passed away.
+   - Time range: 2026-01-02 15:09:06 - 2026-01-02 15:13:08
+   - NERs: Clif Fuse, Donald Oliver
+
+6. **Music and Celebration (Host discussion)**: The hosts played music and celebrated life, with DJ Jerome taking over for a segment.
+   - Time range: 2026-01-02 15:14:09 - 2026-01-02 15:18:08
+   - NERs: DJ Jerome
+
+7. **Music and Self-Empowerment (Host discussion)**: The hosts played music with themes of self-worth and empowerment.
+   - Time range: 2026-01-02 15:19:09 - 2026-01-02 15:27:08
+   - NERs: None
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily host discussions, with some music and advertisements.

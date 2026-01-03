@@ -1,0 +1,18 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisements and Promotions** (2025-12-16 18:30:15 - 18:31:18, 18:31:19 - 18:32:15, 18:32:16 - 18:33:16, 18:33:17 - 18:34:19, 18:34:20 - 18:35:17, 18:35:18 - 18:36:17, 18:36:18 - 18:37:17, 18:37:18 - 18:38:18, 18:38:19 - 18:39:18)
+	* Details: The radio program features various advertisements and promotions, including Popeyes BBQ Chicken, Frigidaire, and an event called "Yesterday" featuring the best of the 90s music.
+	* NERs: Popeyes, Frigidaire, Jamaica, Sun City Radio
+2. **Host Discussion** (2025-12-16 18:35:18 - 18:36:17, 18:37:18 - 18:38:18, 18:38:19 - 18:39:18, 18:39:19 - 18:40:19, 18:40:20 - 18:41:19, 18:41:20 - 18:42:19, 18:42:20 - 18:43:19, 18:43:20 - 18:44:19, 18:44:20 - 18:45:17, 18:45:18 - 18:46:21, 18:46:22 - 18:47:22, 18:47:23 - 18:48:22, 18:48:23 - 18:49:22, 18:49:23 - 18:50:23, 18:50:24 - 18:51:23, 18:51:24 - 18:52:24, 18:52:25 - 18:53:24, 18:53:25 - 18:54:25, 18:54:26 - 18:55:25, 18:55:26 - 18:56:26, 18:56:27 - 18:57:26)
+	* Details: The host discusses various topics, including music, events, and social issues.
+	* NERs: Sun City Radio, Jamaica, DJ Khaled
+3. **Music and Artist Discussion** (2025-12-16 18:41:20 - 18:42:19, 18:42:20 - 18:43:19, 18:43:20 - 18:44:19, 18:44:20 - 18:45:17, 18:45:18 - 18:46:21, 18:46:22 - 18:47:22, 18:47:23 - 18:48:22, 18:48:23 - 18:49:22, 18:49:23 - 18:50:23, 18:50:24 - 18:51:23, 18:51:24 - 18:52:24, 18:52:25 - 18:53:24, 18:53:25 - 18:54:25, 18:54:26 - 18:55:25, 18:55:26 - 18:56:26, 18:56:27 - 18:57:26)
+	* Details: The host discusses various music artists and their songs, including Admiral Bailey and his song "Everything You Got".
+	* NERs: Admiral Bailey, Jamaica, Sun City Radio
+4. **Caller Interaction** (2025-12-16 18:49:23 - 18:50:23, 18:50:24 - 18:51:23, 18:51:24 - 18:52:24, 18:52:25 - 18:53:24, 18:53:25 - 18:54:25, 18:54:26 - 18:55:25, 18:55:26 - 18:56:26, 18:56:27 - 18:57:26)
+	* Details: The host interacts with callers, discussing various topics, including music and relationships.
+	* NERs: Sun City Radio, Jamaica
+5. **Event Promotion -

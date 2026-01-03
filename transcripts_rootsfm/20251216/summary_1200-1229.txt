@@ -1,0 +1,25 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Host discussion: Christmas and Faith** (2025-12-16 12:00:03 - 2025-12-16 12:13:13)
+	* Details: The hosts discuss the true meaning of Christmas, the birth of Jesus Christ, and the importance of faith and prayer.
+	* NERs: Jesus Christ, God, Pastor Turnbull, Isaiah
+2. **Host discussion: Prayer and Thanksgiving** (2025-12-16 12:13:13 - 2025-12-16 12:21:11)
+	* Details: The hosts give thanks for the past year, pray for protection and guidance, and reflect on the joy and peace that comes with faith.
+	* NERs: God, Jesus Christ, Brother Jason, Miss Isis Miller, Wooter family
+3. **Interview: Brother Jason** (2025-12-16 12:21:11 - 2025-12-16 12:31:12)
+	* Details: Brother Jason shares his testimony and experiences, and the hosts discuss the importance of faith and trust in God.
+	* NERs: Brother Jason, God, Jesus Christ
+4. **Sanctuary with Father Joseph Lucas** (2025-12-16 12:31:12 - 2025-12-16 12:42:20)
+	* Details: Father Joseph Lucas leads a 10-minute sanctuary segment, discussing the importance of setting boundaries and listening to the inner voice.
+	* NERs: Father Joseph Lucas, John the Baptist, Jesus Christ
+5. **Music and Poetry** (2025-12-16 12:42:20 - 2025-12-16 12:52:23)
+	* Details: The hosts play music and recite poetry, with themes of hope, faith, and redemption.
+	* NERs: None
+6. **Host discussion: Relationships and Trust** (2025-12-16 12:52:23 - 2025-12-16 12:58:24)
+	* Details: The hosts discuss the importance of trust and loyalty in relationships, and the need to set boundaries and prioritize one's own well-being.
+	* NERs: None
+
+Note that some of these topics may overlap or blend together, and the time ranges are approximate. Additionally, some segments may not fit neatly into one category, but have been assigned to the most relevant topic based on the content.

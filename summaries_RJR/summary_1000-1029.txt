@@ -1,0 +1,31 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Regional News** (2026-01-02 10:00:00 - 2026-01-02 10:02:01)
+	* Topics: Death of a US citizen in Trinidad, US commitment to Haiti, gang suppression in Haiti, earthquakes in the Caribbean
+	* NERs: Trinidad, Haiti, United States, France, Marco Rubio, Caribbean, Guadeloupe, Dominique, Martinique, Trinidad and Tobago, St. Kitts and Nevis, Antigua and Barbuda, Montserrat
+2. **Obituaries** (2026-01-02 10:02:01 - 2026-01-02 10:09:05)
+	* Topics: Funeral announcements for various individuals
+	* NERs: Marjorie May Bromfield, Eunice Morrison, Azentha Morrison, Winsome Veronica Baker, Joan Beverly Morris-Hammond, Eden Nelson, Levi Samuel Allen, Gloria Elizabeth Douse, Cecile Campbell, Samuel Miller
+3. **Host Discussion** (2026-01-02 10:09:05 - 2026-01-02 10:13:06)
+	* Topics: Introduction to the show, discussion of New Year's resolutions
+	* NERs: None
+4. **New Year's Resolutions** (2026-01-02 10:13:06 - 2026-01-02 10:17:11)
+	* Topics: Reasons for making New Year's resolutions, typical resolutions people make
+	* NERs: None
+5. **Caller Interaction** (2026-01-02 10:17:11 - 2026-01-02 10:23:13)
+	* Topics: Discussion with callers about New Year's resolutions, what Jamaicans should stop doing in 2026
+	* NERs: None
+6. **Caller Discussion on Selfishness** (2026-01-02 10:23:13 - 2026-01-02 10:27:12)
+	* Topics: Discussion with a caller about selfishness in Jamaican society
+	* NERs: None
+7. **Caller Discussion on Church and Government** (2026-01-02 10:27:12 - 2026-01-02 10:31:13)
+	* Topics: Discussion with a caller about the role of the church in Jamaica, government allocation of funds to the church
+	* NERs: Jamaica, Jesus, Donald J. Trump
+8. **Host Discussion on Church and Government** (2026-01-02 10:31:13 - 2026-01-02 10:35:14)
+	* Topics: Host's response to caller's views on the church and government
+	* NERs: Jamaica, Baptist Church, Donald J. Trump
+
+Note: The time ranges are approximate and based on the provided transcripts.

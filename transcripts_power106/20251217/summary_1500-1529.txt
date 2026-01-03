@@ -1,0 +1,54 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion: Air pollution and its effects on autoimmune diseases**
+   - Time range: 2025-12-17 15:00:01 - 15:03:03
+   - Details: The hosts discuss a Canadian study that suggests air pollution may play a role in the development of autoimmune diseases like lupus and rheumatoid arthritis. They also mention the importance of finding solutions to limit air pollution.
+   - NERs: Canada, Ontario, air pollution, autoimmune diseases, lupus, rheumatoid arthritis
+
+2. **Host discussion: Gardening and its benefits for knee health**
+   - Time range: 2025-12-17 15:03:03 - 15:04:04
+   - Details: The hosts discuss a study that reveals seniors who garden are less likely to suffer from knee arthritis. They also mention the importance of understanding the effects of gardening on knee health.
+   - NERs: gardening, knee health, osteoarthritis, seniors
+
+3. **Host discussion: Gardening as a hobby and its mental health benefits**
+   - Time range: 2025-12-17 15:04:04 - 15:05:05
+   - Details: The hosts discuss the benefits of gardening as a hobby, including its ability to take one's mind off problems and provide mental health benefits.
+   - NERs: gardening, hobby, mental health
+
+4. **Host discussion: Importance of taking care of oneself and others**
+   - Time range: 2025-12-17 15:05:05 - 15:06:06
+   - Details: The hosts discuss the importance of taking care of oneself and others, and remind listeners to stay tuned for the next segment.
+   - NERs: self-care, others
+
+5. **Interview with a guest (not present in the transcripts)**
+   - Time range: 2025-12-17 15:06:06 - 15:07:07
+   - Details: The hosts introduce a guest, but the conversation is not present in the provided transcripts.
+   - NERs: None
+
+6. **Host discussion: Jamaica Customs Connect mobile app**
+   - Time range: 2025-12-17 15:07:07 - 15:08:08
+   - Details: The hosts discuss the Jamaica Customs Connect mobile app, which allows users to calculate customs duties, track shipments, and more.
+   - NERs: Jamaica, Jamaica Customs Connect mobile app, customs duties, shipments
+
+7. **Host discussion: Ministry of Health and Wellness**
+   - Time range: 2025-12-17 15:08:08 - 15:09:09
+   - Details: The hosts discuss the Ministry of Health and Wellness, which works to provide quality health services and promote healthy lifestyles and environmental practices.
+   - NERs: Ministry of Health and Wellness, health services, healthy lifestyles, environmental practices
+
+8. **Host discussion: Importance of drinking enough water**
+   - Time range: 2025-12-17 15:09:09 - 15:10:10
+   - Details: The hosts discuss the importance of drinking enough water to prevent dehydration.
+   - NERs: water, dehydration
+
+9. **Host discussion: Worship and prayer**
+   - Time range: 2025-12-17 15:10:10 - 15:21:12
+   - Details: The hosts engage in a worship and prayer segment, singing songs and reading scripture.
+   - NERs: worship, prayer, scripture
+
+10. **Host discussion: Hope and faith**
+    - Time range: 2025-12-17 15:21:12 - 15:24:14
+    - Details: The hosts discuss the importance of hope and faith, and encourage listeners to turn to Jesus for guidance and comfort.
+    - NERs: hope, faith, Jesus

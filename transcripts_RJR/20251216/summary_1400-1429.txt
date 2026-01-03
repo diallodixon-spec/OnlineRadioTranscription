@@ -1,0 +1,25 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Business News - Jamaica** (2025-12-16 14:00:01 - 2025-12-16 14:02:02)
+	* Topics: Sagicor's regional restructuring, Things Jamaican Limited's campaign to support local businesses, Golden Cross Caribbean Bakery and Grill's imports of agricultural produce from Jamaica
+	* NERs: Sagicor, Things Jamaican Limited, Golden Cross Caribbean Bakery and Grill, Jamaica, Hurricane Melissa
+2. **Economic News - Caribbean** (2025-12-16 14:02:02 - 2025-12-16 14:03:03)
+	* Topics: Economic growth in the Caribbean, ECLAC's forecast for 2026
+	* NERs: ECLAC, Caribbean, Guyana, Latin America
+3. **Music** (2025-12-16 14:07:04 - 2025-12-16 14:10:05)
+	* Topics: Song lyrics
+	* NERs: None
+4. **Public Service Announcements - Jamaica** (2025-12-16 14:10:05 - 2025-12-16 14:16:09)
+	* Topics: Stop the killing and give up guns, SupportJamaica.gov.jm, JPS's efforts to restore electricity
+	* NERs: Jamaica, Ministry of National Security, JPS, Hurricane Melissa
+5. **Host Discussion - Jamaican Culture** (2025-12-16 14:16:09 - 2025-12-16 14:27:14)
+	* Topics: Jamaican culture, traditional names for plants and foods, listener interaction
+	* NERs: Jamaica, Chayote, Guinep, Spanish lime, Chevron, Jimbilin, Chinese plum, star fruit, tamarind, pomegranate, sorrel, Roselle, hibiscus, Tinking Toe, Locust fruit, Jatoba, Guapinol
+6. **Caller Interaction - Jamaican Culture** (2025-12-16 14:27:14 - 2025-12-16 14:28:17)
+	* Topics: Listener contributions to the discussion on Jamaican culture, traditional names for plants and foods
+	* NERs: Jamaica, June plum, Custard Apple, sweet sap, sugar apple, golden apple, Umbrella
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to interpretation and may not be exhaustive.

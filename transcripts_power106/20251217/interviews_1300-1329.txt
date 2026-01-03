@@ -1,0 +1,78 @@
+Interviews for time range 13:00 - 13:29
+======================================================================
+
+We need to parse the given transcripts and identify any interviews. The instructions: "The provided texts are transcripts of a radio program. The transcriptions were done in 1 minute segments. Your task is to identify ALL interviews in the transcript. An interview is typically indicated by introduction of a guest(s) by the host and dialogue between host and guest(s) in a Q&A format. Callers that call in to a radio program to discuss topics should not be identified as interviews, and should be excluded from this analysis. Multiple interviews found with the same host and guest should be treated as one single interview."
+
+We need to examine the transcript sections and see if there are any parts that are interviews.
+
+Look at the transcript sections:
+
+- seg000: "A deeper truth, keep being every Thursday. 11 a.m. on Roots, 96.1 FM, the voice of the inner city... Each Wednesday at 530 PM, Roots 96.1 FM presents Adjust the Truth. Join me, Adira Truth, and dive into the issues that matter, bringing in voices from every generation."
+
+That seems like a host introducing a show, not an interview.
+
+- seg001: "on issues of life... All major health cards accepted. Come to Providence Pharmacy... When you're driving through Kingston, who do you listen to? Roots Affirm, 96.1. Merry Christmas, everybody."
+
+Just promotional content.
+
+- seg002: "Merry Christmas, Jamaica. I want to talk to you. Mary, did you know that your baby boy would, when they walk on water..." This seems like a speaker addressing Mary? It is a monologue? It might be a guest? Hard to tell.
+
+- seg003: "We'll hear, the dead will live again... It's your job to protect the children..." Monologue.
+
+- seg004: "When you're driving through Kingston, who do you listen to? Roots Affirm, 96.1. They have taken away my rights from me, on to me the wrong and the innocent. Only a drug I can be paid. Drug control me, drug you told me, that I'm a Nazi."
+
+Seems like rambling.
+
+- seg005: "My soul pervades the sea Jah you told me..." religious monologue.
+
+- seg006: "They have taken away my rights from me, given to me the wrong and the innocent Only I can keep it I will not say my soul for vanity"
+
+- seg007: similar.
+
+- seg008: "Don't show me that I will rule Yes, I will rule my whoa..." etc.
+
+- seg009: "Put us in misery..." etc.
+
+- seg010: "And they seem so stronger..."
+
+- seg011: "And we develop Africa..."
+
+- seg012: "To redevelop Africa..."
+
+- seg013: "And travel along the way..."
+
+- seg014: "in this world can suffice the peace in my soul..."
+
+- seg015: "They keep on flowing..." and repeats "When you're driving through Kingston, who do you listen to? Roots Affirm, 96.1."
+
+- seg016: "I have no fear for anything..."
+
+- seg017: "I can't see all the possible things people could be judge a be my guide..."
+
+- seg018: "Please watch over..."
+
+- seg019: "Thank you for your loving kindness..."
+
+- seg020: "People wear disguises..."
+
+- seg021: "It's a prayer..."
+
+- seg022: "Every night I pray..."
+
+- seg023: "I call on it's true..."
+
+- seg024: "Yes. What is to be a Phoebe, dem can't stop the G. Other than a paper pot..."
+
+- seg025: "The sun is going to bring you brighter days..."
+
+- seg026: "Who do you listen to 96.1? I used to dream..."
+
+- seg027: "I'm not the kind of brother..."
+
+- seg028: "today. Who do you listen..."
+
+These appear to be monologues or speeches, maybe from a single speaker. No clear host-guest Q&A.
+
+The only segments that might be an interview is seg000: "Join me, Adira Truth, and dive into the issues that matter, bringing in voices from every generation." However, that is a generic intro of the host (Adira Truth). No actual guest.
+
+Maybe seg001 includes a "caller"? But the instruction says callers shouldn't be considered interviews. The text doesn't show a host

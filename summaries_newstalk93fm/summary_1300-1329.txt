@@ -1,0 +1,22 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Entertainment** (2026-01-02 13:00:02 - 2026-01-02 13:25:17)
+	* Details: The majority of the transcripts appear to be song lyrics or music-related content, with various artists and genres being played on the radio station Sleek Radio, 93 FM.
+	* NERs: None
+2. **Host discussion** (2026-01-02 13:00:02 - 2026-01-02 13:14:09)
+	* Details: The host(s) introduce the radio station and venue, UWI Regional Headquarters, and discuss various topics, including music and events.
+	* NERs: UWI Regional Headquarters, Mona, Kingston, Jamaica
+3. **No specific topic** (2026-01-02 13:14:10 - 2026-01-02 13:27:18)
+	* Details: The transcripts contain a mix of song lyrics, music-related content, and some conversational dialogue, but no specific topic can be identified.
+	* NERs: None
+4. **Music and materialism** (2026-01-02 13:27:19 - 2026-01-02 13:32:18)
+	* Details: The transcripts contain song lyrics that discuss materialism, wealth, and success, with references to luxury brands and high-end lifestyle.
+	* NERs: Lash, Dex, Young C, Shorty, Milka Veli, Wiz
+5. **Relationships and sex** (2026-01-02 13:32:19 - 2026-01-02 13:32:58)
+	* Details: The transcripts contain song lyrics that discuss relationships, sex, and intimacy, with some explicit language and themes.
+	* NERs: None
+
+Note that the topics and time ranges are approximate and based on the provided transcripts. The accuracy of the analysis may be limited by the quality and context of the transcripts.

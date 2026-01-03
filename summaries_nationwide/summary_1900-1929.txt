@@ -1,0 +1,20 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the topic of discussion is an interview with Dennis Chung, the Chief Technical Director of the Financial Investigations Division (FID) in Jamaica. The interview covers his experience and challenges in taking up the role, particularly with regards to the opposition and protests from certain groups.
+
+**Topic:** Interview with Dennis Chung, Chief Technical Director of the FID
+**Time Range:** 2026-01-02 19:00:04 - 2026-01-02 19:28:23
+**Named Entities:**
+- Dennis Chung: Chief Technical Director of the FID
+- Murat Golding: Mentioned as someone who disappointed Dennis Chung with his stance
+- Dr. Peter Phillips: Former opposition leader who supported his colleagues in the opposition PNP
+- George: Host or interviewer
+- Jamaica: Country where the FID is located
+- Jamaica Football Federation (JFF): Organization where Dennis Chung previously worked
+- Office of the Services Commission (OSC): Organization involved in the appointment process of Dennis Chung
+- FID: Financial Investigations Division
+- PNP: People's National Party, a political party in Jamaica
+- JLP: Jamaica Labour Party, a political party in Jamaica
+
+The discussion revolves around Dennis Chung's appointment to the FID, the challenges he faced, including opposition and protests, and his views on the role of the FID in investigating financial crimes in Jamaica. He also shares his perspective on civil society and its importance in Jamaica's democracy.

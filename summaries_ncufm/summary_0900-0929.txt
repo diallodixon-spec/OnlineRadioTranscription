@@ -1,0 +1,27 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Sports News** (2026-01-02 09:00:03 - 09:02:03)
+	* Details: Women's football at the Olympic Games will expand from 12 to 16 teams, and the United States will be the host nation for the 2028 Olympics. Dave Anderson discussed preparations for Homewood Technical High School's female track and field team.
+	* NERs: Los Angeles, United States, England, FIFA, Homewood Technical High School, ISSA, Dave Anderson
+2. **Host Introduction and Music** (2026-01-02 09:04:04 - 09:07:06)
+	* Details: The host, Xavier Dixon, introduced the show "Cruising" on NCU FM and played music.
+	* NERs: Xavier Dixon, NCU FM
+3. **Ministry of Health and Wellness** (2026-01-02 09:12:07 - 09:13:08)
+	* Details: The Ministry of Health and Wellness promotes healthy lifestyles and environmental practices for all Jamaicans.
+	* NERs: Ministry of Health and Wellness, Jamaica
+4. **Personal Promise from the Word** (2026-01-02 09:15:09 - 09:18:10)
+	* Details: The host discussed a personal promise from the Bible, specifically Genesis 5:29, and how God brings comfort in the midst of toil.
+	* NERs: Bible, Genesis, God, Noah
+5. **Music and Worship** (2026-01-02 09:19:11 - 09:28:16)
+	* Details: The host played music and discussed worship, including songs about God's love and redemption.
+	* NERs: Jesus, God, Troy Bright
+6. **Caller Interaction/Interview** (2026-01-02 09:14:08 - 09:14:08)
+	* Details: A caller interacted with the host, discussing a flaw in the Bible manual and seeking clarification on a specific verse.
+	* NERs: Bible, Matthew 
+
+Note: There is no clear indication of a caller interaction or interview in the provided transcripts, except for a single segment (09:14:08) that appears to be a scripted conversation. If this is not a real caller interaction, the topic can be removed. 
+
+Also, note that the time ranges for each topic are approximate and based on the provided transcripts. The actual time ranges may vary depending on the context and the specific discussion.

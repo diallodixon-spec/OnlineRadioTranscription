@@ -1,0 +1,31 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Sports Update** (2026-01-02 16:30:27 - 2026-01-02 16:32:28)
+	* Details: The program starts with a sports update, discussing Jamaica's performance in the Tokyo World Athletics Championships, the Jamaica Derby, and the RGRGleaners Sports Foundation People's Choice Performance of the Year award.
+	* NERs: Tina Clayton, Orlando Bennett, Tyler Mason, Jamaica
+2. **Host Discussion - Education Sector** (2026-01-02 16:33:28 - 2026-01-02 16:44:38)
+	* Details: The host discusses the education sector in Jamaica, mentioning the Minister of Education, the restart of school on January 5, and the impact of Hurricane Melissa on the education system.
+	* NERs: Jamaica, Minister of Education, Hurricane Melissa
+3. **Host Discussion - Economic Impact of Hurricane Melissa** (2026-01-02 16:34:28 - 2026-01-02 16:43:38)
+	* Details: The host discusses the economic impact of Hurricane Melissa on Jamaica, including the decline in remittance inflows and the disruption of financial channels.
+	* NERs: Jamaica, Hurricane Melissa, Bank of Jamaica, Western Union
+4. **Caller Interaction - Education System** (2026-01-02 16:39:33 - 2026-01-02 16:44:36)
+	* Details: A caller interacts with the host, discussing the education system in Jamaica, including the need for phonics and mental ability to be reintroduced to primary schools.
+	* NERs: Jamaica
+5. **Host Discussion - Education Transformation Committee** (2026-01-02 16:41:36 - 2026-01-02 16:44:38)
+	* Details: The host discusses the Education Transformation Committee's report and the implementation of its recommendations, including the progress made so far.
+	* NERs: Jamaica, Education Transformation Committee, Professor Orlando Patterson
+6. **Caller Interaction - Transmission Issues** (2026-01-02 16:45:47 - 2026-01-02 16:57:48)
+	* Details: Callers interact with the host, reporting transmission issues in various areas, including Ocho Rios, St. Andrew, Spanish Town, and St. Thomas.
+	* NERs: Ocho Rios, St. Andrew, Spanish Town, St. Thomas
+7. **Host Discussion - Government and Politics** (2026-01-02 16:49:44 - 2026-01-02 16:54:47)
+	* Details: The host discusses government and politics, including the Minister of Local Government's statement on the shelter at Petersfield High School and the criticism of the government's handling of the situation.
+	* NERs: Jamaica, Minister of Local Government, Desmond McKenzie, Petersfield High School
+8. **Caller Interaction - Government and Politics** (2026-01-02 16:53:46 - 2026-01-02 16:54:47)
+	* Details: A caller interacts with the host, criticizing the government and expressing concerns about the country's direction.
+	* NERs: Jamaica
+
+Note: The time ranges for each topic are approximate and may overlap, as the discussion can flow from one topic to another.

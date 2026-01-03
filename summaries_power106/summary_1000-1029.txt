@@ -1,0 +1,22 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Jamaican Sports and Athletics** (2026-01-02 10:00:00 - 2026-01-02 10:02:00)
+	* Details: Discussion about Jamaican athletes' performance in the 100-meter men's and women's finals at the World Championships, with Oblique Seville and Tina Clayton achieving notable results.
+	* NERs: Oblique Seville, Tina Clayton, Orlando Bennett, Tyler Mason, Ronaldo Cifas, Jamaica
+2. **Business and Finance** (2026-01-02 10:03:00 - 2026-01-02 10:12:00)
+	* Details: Interview with Christopher Thomas, Senior Investment Advisor at Maybear Investment Group Limited, discussing the latest developments in the local equities and bond markets, including the performance of various stocks and indices.
+	* NERs: Christopher Thomas, Maybear Investment Group Limited, Jamaica Stock Exchange (JSE), Wigton Energy, Innovative Energy Group, Trans Jamaica
+3. **Jamaican Economy and GDP Growth** (2026-01-02 10:16:00 - 2026-01-02 10:27:00)
+	* Details: Discussion about the 5.1% recovery of Jamaica's GDP in the third quarter of 2025, compared to the third quarter of 2024, with analysis of the drivers of growth, including agriculture, manufacturing, and construction.
+	* NERs: Jamaica, Bank of Jamaica, Dr. Sutherland, Michael
+4. **Economic Analysis and Critique** (2026-01-02 10:18:00 - 2026-01-02 10:27:00)
+	* Details: Critique of the 5.1% GDP growth figure, with questions raised about the accuracy of the data and the underlying factors driving the growth, including the high cost of energy and the business index.
+	* NERs: Jamaica, Bank of Jamaica, Dr. Sutherland, Michael
+5. **Host Discussion** (2026-01-02 10:00:00 - 2026-01-02 10:27:00)
+	* Details: General discussion among the hosts about various topics, including Jamaican sports, business, and economy.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics with specific time ranges.

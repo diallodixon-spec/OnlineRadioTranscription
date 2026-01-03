@@ -1,0 +1,31 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Prayer** (2026-01-02 12:00:01 - 12:01:02)
+	* Topic: Introduction to the radio program and a prayer
+	* NERs: None
+	* Details: The host introduces the program and starts with a prayer, expressing their desire to follow God's path.
+2. **News Introduction** (2026-01-02 12:01:02 - 12:02:02)
+	* Topic: Introduction to the news segment
+	* NERs: Queen Jojo
+	* Details: The host introduces the news segment, mentioning that it's time for news with Queen Jojo.
+3. **Midday News** (2026-01-02 12:02:02 - 12:12:07)
+	* Topic: News, Host discussion
+	* NERs: Jody Ann Beckford, Constable Shamar Grant, Andrew Holness, Emilio E. Banks, Donald Trump, Jason DaCosta, Kevin Downswell
+	* Details: The host, Jody Ann Beckford, presents the midday news, covering local, regional, and international news, including a tragic incident in Hellshire, the government's commitment to rebuilding Black River, and a series of earthquakes in the eastern Caribbean.
+4. **Advertisement and Public Service Announcement** (2026-01-02 12:12:07 - 12:14:07)
+	* Topic: Advertisement and public service announcement
+	* NERs: None
+	* Details: The program includes an advertisement for KFC and a public service announcement about the importance of disciplining children and keeping police out of homes.
+5. **Reggae Music and Entertainment** (2026-01-02 12:14:07 - 12:22:11)
+	* Topic: Reggae music and entertainment
+	* NERs: Talia, DJ Nora, Mr. Burgess, Sledge, Ocho Reyes, Nabias
+	* Details: The program features reggae music and entertainment, with the host and guests discussing their love for reggae music and playing songs.
+6. **Love and Relationships** (2026-01-02 12:22:11 - 12:28:13)
+	* Topic: Love and relationships
+	* NERs: None
+	* Details: The program features songs and discussions about love and relationships, with the host and guests expressing their emotions and thoughts on the topic.
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on news, entertainment, and music, with some discussions on love and relationships.

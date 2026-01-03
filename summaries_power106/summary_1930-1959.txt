@@ -1,0 +1,19 @@
+Summary for time range 19:30 - 19:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Horse Racing Discussion** (2026-01-02 19:30:31 - 2026-01-02 19:44:40)
+	* Details: The host discusses the upcoming horse racing events, analyzing the participants, their past performances, and making predictions for the outcomes.
+	* NERs: Demar Williams, Christopher Mandean, Shane Martin, Roman, Townsend, Delroy, Harry, Tevin Foster, Michael Marlow, Dane Mackenzie, Dunne, David Mackenzie, Patrick Lynch, Milwaukee, Phillip Parchment, Roman, Richardson, Tajay Sokou, Dwight Smith, Basel Reynolds, Kingston College
+2. **Host Discussion** (2026-01-02 19:44:40 - 2026-01-02 19:54:48)
+	* Details: The host shares personal thoughts and experiences, discussing the importance of originality, courage, and independent thinking, as well as the value of marriage and parenting.
+	* NERs: Albert Einstein, Cape Billan, Floyd Wright, Sophie, Jimmy Cliff, Johnny Nash
+3. **Sports Update** (2026-01-02 19:54:48 - 2026-01-02 19:59:49)
+	* Details: The host provides an update on sports news, including the appointment of Dwight Smith as the head coach of Spanish Town Police Football Club and the upcoming Olivia Shield play-off and All-Manning vs. All-Costa fixtures.
+	* NERs: Dwight Smith, Spanish Town Police Football Club, Brian Spencer, Old Harbour United, Bear United, Jamaica, Kemp's Hill High School, Basel Reynolds, Kingston College, Excelsior High, St. Elizabeth's
+4. **Music Tribute** (2026-01-02 19:59:49 - 2026-01-02 20:00:00)
+	* Details: The host pays tribute to Jimmy Cliff, playing some of his songs and discussing his impact on music.
+	* NERs: Jimmy Cliff, Johnny Nash
+
+Note that some of these topics may overlap or be intertwined, but I have attempted to break them down into distinct categories based on the content and tone of the discussion.

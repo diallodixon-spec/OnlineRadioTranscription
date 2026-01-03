@@ -1,0 +1,22 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Advertisement** (2025-12-16 12:00:03 - 2025-12-16 12:01:04)
+	* Details: The topic is about advertisements for Kenmore Shoe Manufacturing Company Limited and Wellington Dental.
+	* NERs: Kenmore Shoe Manufacturing Company Limited, Wellington Dental, Spanish Town
+2. **Music** (2025-12-16 12:01:04 - 2025-12-16 12:28:21)
+	* Details: The topic is about playing music on the radio, with various songs and artists featured.
+	* NERs: None
+3. **Relationships and Love** (2025-12-16 12:28:21 - 2025-12-16 12:40:21)
+	* Details: The topic is about relationships, love, and heartbreak, with various songs and lyrics discussing these themes.
+	* NERs: None
+4. **Host discussion** (2025-12-16 12:40:21 - 2025-12-16 12:41:04)
+	* Details: The topic is about the host discussing the radio show and its content.
+	* NERs: Sleek Radio, 93 FM
+5. **Music and Relationships** (2025-12-16 12:41:04 - 2025-12-16 12:58:21)
+	* Details: The topic is about playing music on the radio, with a focus on relationships and love.
+	* NERs: None
+
+Note that the topics are not strictly separated and may overlap or blend together. Additionally, there are no interviews or caller interactions in the provided transcripts. The NERs mentioned are mostly related to the advertisements and the radio show itself. Jamaica is not explicitly mentioned as a topic of discussion, but it can be inferred that the radio show is based in Jamaica due to the mention of Spanish Town.

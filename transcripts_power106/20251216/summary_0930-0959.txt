@@ -1,0 +1,20 @@
+Summary for time range 09:30 - 09:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Inflation and Economic Discussion - Host discussion** (2025-12-16 09:30:27 - 2025-12-16 09:44:36)
+	* Details: The hosts discuss the recent jump in inflation rate to 2.4% in November and 4.4% year-over-year, driven by higher food prices. They analyze the impact on the agricultural sector and the need for affordable financing to contain inflation.
+	* NERs: Central Bank, Bank of Jamaica, Ministry of Finance, Jamaica
+2. **Interview with Michael Leckie** (2025-12-16 09:30:27 - 2025-12-16 09:44:36)
+	* Details: Michael Leckie, a farmer and immediate past president of the Small Business Association of Jamaica, discusses the challenges faced by the agricultural sector and the need for support to stimulate the economy.
+	* NERs: Michael Leckie, Small Business Association of Jamaica, Jamaica
+3. **Promotion of Local Products - Interview** (2025-12-16 09:45:38 - 2025-12-16 09:54:44)
+	* Details: Janine Taylor, Manager of the Marketing Services Unit at the Jamaica Business Development Corporation, discusses the new campaign "Think Jamaican" to promote local products and services, and encourage Jamaicans to buy locally to drive the recovery process.
+	* NERs: Janine Taylor, Jamaica Business Development Corporation, Things Jamaican Limited, Jamaica
+4. **Upcoming Radio Programs - Host discussion** (2025-12-16 09:54:45 - 2025-12-16 09:57:45)
+	* Details: The hosts promote upcoming radio programs, including "Raising Boys and the Journey to Manhood" and "The Auto World".
+	* NERs: Power 106 FM, Jason Downow, Shelly Ann McLagan
+5. **Market Update - Interview** (2025-12-16 09:57:45 - 2025-12-16 09:58:47)
+	* Details: Christopher Thomas, of the Mayberry Investment Group Limited, provides an update on the equities and bond markets, discussing the performance of various indices and stocks.
+	* NERs: Christopher Thomas, Mayberry Investment Group Limited, Jamaica Stock Exchange (JSE)

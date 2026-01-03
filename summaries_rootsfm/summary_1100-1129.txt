@@ -1,0 +1,22 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisement for Distinction College** (2026-01-02 11:00:03 - 2026-01-02 11:04:06, 2026-01-02 11:10:06 - 2026-01-02 11:11:07): The topic is about an advertisement for Distinction College, which offers various courses and certifications. No specific NERs (Named Entities) are mentioned in this topic.
+
+2. **Host discussion and Introduction to Ethiopian Christmas** (2026-01-02 11:01:04 - 2026-01-02 11:05:07): The host introduces the topic of Ethiopian Christmas and invites a guest, Katis Oyunde, to discuss the celebration. NERs mentioned: Katis Oyunde, Ethiopian Orthodox Church.
+
+3. **Interview with Katis Oyunde about Ethiopian Christmas** (2026-01-02 11:05:07 - 2026-01-02 11:15:15): Katis Oyunde discusses the Ethiopian Orthodox Church's celebration of Christmas, which falls on January 7th. She explains the ancient calendar used by the church and the significance of the celebration. NERs mentioned: Katis Oyunde, Ethiopian Orthodox Church, Christ, Africa, Ethiopia, Western hemisphere, Europe.
+
+4. **Discussion about the Celebration at Skyline Levels** (2026-01-02 11:10:10 - 2026-01-02 11:15:15): The host and Katis Oyunde discuss the celebration of Ethiopian Christmas at Skyline Levels, including the performances and special guests. NERs mentioned: Skyline Levels, Kingston, Jacksonville.
+
+5. **Host discussion and Transition to another topic** (2026-01-02 11:15:15 - 2026-01-02 11:17:15): The host thanks Katis Oyunde and transitions to another topic, mentioning technical issues with Zoom. No specific NERs are mentioned in this topic.
+
+6. **Advertisement for Maroon Government** (2026-01-02 11:17:15 - 2026-01-02 11:17:59): The topic is about an advertisement for the Maroon Government, which offers services related to tax exemption and land ownership. NERs mentioned: Maroon Government.
+
+7. **Host discussion about Kwanzaa Celebration** (2026-01-02 11:17:59 - 2026-01-02 11:18:16): The host mentions a Kwanzaa celebration that took place the previous night, featuring Sound Deer Bang and Mama G. NERs mentioned: Kwanzaa, Sound Deer Bang, Mama G.
+
+8. **Host interaction with Co-host in Gambia** (2026-01-02 11:18:16 - 2026-01-02 11:19:16): The host interacts with a co-host who is in Gambia, discussing events taking place in the country. NERs mentioned: Gambia, Guam.
+
+Note that some segments of the transcript are incomplete or contain only ellipses, which may indicate technical issues or incomplete transcription. The topics and NERs mentioned are based on the available information.

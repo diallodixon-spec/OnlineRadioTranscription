@@ -1,0 +1,14 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Music and Dance** (2026-01-02 14:30:12 - 14:45:24): The host(s) are playing and discussing various songs, with lyrics about dancing, freedom, and having a good time. No specific NERs (Named Entities) are mentioned in this segment.
+2. **Age and Relationships** (2026-01-02 14:45:24 - 14:54:18): The host(s) are playing songs and discussing relationships, with a focus on age differences between partners. No specific NERs are mentioned in this segment.
+3. **Childhood and Growing Up** (2026-01-02 14:54:18 - 14:59:21): The host(s) are playing songs and discussing childhood experiences, with lyrics about learning, growing up, and family. No specific NERs are mentioned in this segment.
+4. **Dancing and Music** (2026-01-02 14:59:21 - 15:05:22): The host(s) are playing songs and discussing dancing, with a focus on the benefits of dancing and having a good time. No specific NERs are mentioned in this segment, but the host mentions "Bunk Slant" which could be a person or a group.
+5. **Love and Relationships** (2026-01-02 15:05:22 - 15:14:23): The host(s) are playing songs and discussing love and relationships, with a focus on the importance of finding the right partner. A person named "Alisha" is mentioned, possibly a listener or a friend of the host.
+6. **Host Discussion** (2026-01-02 15:14:23 - 15:25:25): The host(s) are discussing various topics, including a girl named "Alicia" and a location "between Bedford and Flatbush". The host also mentions "Lisha and Gold", which could be a business or a organization.
+7. **Bad Girls and Sad Girls** (2026-01-02 15:25:25 - 15:28:25): The host(s) are playing a song and discussing the topic of "bad girls" and "sad girls", with lyrics about women who engage in certain behaviors. No specific NERs are mentioned in this segment.
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily discussed by the host(s) themselves, with some mentions of songs and lyrics.

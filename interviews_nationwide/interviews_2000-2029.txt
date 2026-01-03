@@ -1,0 +1,18 @@
+Interviews for time range 20:00 - 20:29
+======================================================================
+
+**Interview with Mrs. Janelle Omili-Jones on CXC IT and Computer Science Education**
+
+In a recent interview on the A-Team Radio Show, Mrs. Janelle Omili-Jones, an educator and leader specializing in technology-integrated teaching, shared her insights on the importance of information technology (IT) education, particularly at the CXC level. As the head of the Computer Studies department at Immaculate Conception High School, Mrs. Omili-Jones emphasized the need for students to be equipped with the requisite knowledge and skills to function effectively in a rapidly evolving technological landscape.
+
+When asked about the challenges faced by IT and computer science teachers in the classroom, Mrs. Omili-Jones noted that one of the major hurdles is getting students to understand that IT is more than just turning on a computer. She explained that students often believe they know everything about IT because they can use a computer, but in reality, they need to develop problem-solving skills, particularly in programming. To overcome this challenge, Mrs. Omili-Jones and her team hold extra classes, workshops, and invite external experts to teach students.
+
+The conversation also delved into the importance of introducing IT education from an early age. Mrs. Omili-Jones mentioned that her school starts IT education from grade 7, with a focus on document preparation and productivity tools. She emphasized that this approach helps students develop essential life skills, such as resume writing and application writing, which are critical for their future careers.
+
+In discussing the CXC IT syllabus, Mrs. Omili-Jones highlighted the need for students to understand the difference between hardware and software. She explained that hardware refers to the physical components of a computer, such as the keyboard, mouse, and CPU, while software refers to the programs and operating systems that run on the computer. She noted that examiners often ask questions about hardware and software, and students need to be able to identify and differentiate between the two.
+
+The interview also touched on the topic of program design and implementation, which Mrs. Omili-Jones acknowledged can be a challenging area for students. She shared her approach to teaching programming, which involves showing students examples of code and encouraging them to work towards developing their own programs. By doing so, she aims to motivate students and help them overcome their challenges.
+
+Throughout the interview, Mrs. Omili-Jones emphasized the importance of making IT education engaging and relevant to students' lives. She noted that students are often intrigued by social media and gaming software, and by leveraging these interests, educators can encourage students to learn more about IT and develop essential skills for their future careers.
+
+Overall, the interview with Mrs. Janelle Omili-Jones provided valuable insights into the world of IT education and the importance of equipping students with the skills and knowledge needed to succeed in an increasingly technological landscape. Her approach to teaching IT and computer science, which emphasizes hands-on learning, motivation, and relevance, serves as a model for educators seeking to inspire and empower the next generation of IT professionals.

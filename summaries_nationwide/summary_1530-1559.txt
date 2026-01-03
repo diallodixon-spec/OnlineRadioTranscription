@@ -1,0 +1,43 @@
+Summary for time range 15:30 - 15:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction to Nationwide at 5 and Cover Story** (2026-01-02 15:30:21 - 2026-01-02 15:31:21)
+	* Topic: Introduction to the show
+	* Details: Introduction to Nationwide at 5, Cover Story, and the host Cliff Hughes
+	* NERs: Cliff Hughes, Nationwide at 5, Cover Story
+2. **Host discussion and introduction to the E-Zone** (2026-01-02 15:32:23 - 2026-01-02 15:33:25)
+	* Topic: Host discussion, Introduction to the E-Zone
+	* Details: Introduction to the E-Zone, hosts Kareem Boya-Tings, DJ Jerome, and Stinger Honeybee
+	* NERs: Kareem Boya-Tings, DJ Jerome, Stinger Honeybee, E-Zone
+3. **New Year's Eve celebration in Jamaica** (2026-01-02 15:32:23 - 2026-01-02 15:33:25)
+	* Topic: New Year's Eve celebration in Jamaica, Host discussion
+	* Details: Discussion about the New Year's Eve celebration in Jamaica, hosted by the Urban Development Corporation
+	* NERs: Jamaica, Urban Development Corporation
+4. **Massica's new EP and Reggae Month** (2026-01-02 15:34:25 - 2026-01-02 15:37:26)
+	* Topic: Music, Reggae Month, Host discussion
+	* Details: Discussion about Massica's new EP, Reggae Month, and the activities planned for the month
+	* NERs: Massica, Reggae Month, Jamaica
+5. **Jariah's Reggae Month activities** (2026-01-02 15:37:26 - 2026-01-02 15:40:28)
+	* Topic: Reggae Month, Host discussion
+	* Details: Discussion about Jariah's activities planned for Reggae Month, including tributes to Dennis Brown and Jimmy Cliff
+	* NERs: Jariah, Reggae Month, Dennis Brown, Jimmy Cliff
+6. **Strictly 2K Throwback Music Festival** (2026-01-02 15:40:28 - 2026-01-02 15:43:29)
+	* Topic: Music, Host discussion
+	* Details: Discussion about the Strictly 2K Throwback Music Festival, honoring three pillars of dancehall culture
+	* NERs: Strictly 2K Throwback Music Festival, Charlie Black, Mad Michelle, Copper Shot Sound
+7. **Galley Day Bounce cancellation** (2026-01-02 15:43:30 - 2026-01-02 15:46:31)
+	* Topic: Music, Host discussion
+	* Details: Discussion about the cancellation of Galley Day Bounce and the dispute between the promoter and the artist
+	* NERs: Galley Day Bounce, Croft, Mendez
+8. **Mark's Superstore segment** (2026-01-02 15:46:32 - 2026-01-02 15:49:33)
+	* Topic: Host discussion, Caller interaction
+	* Details: Discussion about Mark's Superstore, a furniture and hardware store, and a game segment
+	* NERs: Mark's Superstore
+9. **Star YouTuber challenge** (2026-01-02 15:50:35 - 2026-01-02 15:55:38)
+	* Topic: Host discussion, Interview
+	* Details: Discussion about the Star YouTuber challenge, an interview with the winner Rick NYC, and the prize giveaway
+	* NERs: Rick NYC, Mark's Superstore, E-Zone
+
+Note: The time ranges are approximate and based on the provided transcripts.

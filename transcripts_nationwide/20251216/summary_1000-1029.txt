@@ -1,0 +1,23 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **JPS Rate Increase and Hurricane Melissa Recovery (Host discussion)**
+	* Time range: 2025-12-16 10:00:07 - 2025-12-16 10:10:10
+	* Details: The Jamaica Public Service Company (JPS) will increase electricity rates by 7% in December due to the use of more expensive fuel during Hurricane Melissa. The Office of Utilities Regulation (OUR) has agreed to phase in the increase to avoid "bill shock." JPS has restored power to 84% of its customers, and the OUR will monitor the situation to prevent further increases.
+	* NERs: Jamaica Public Service Company (JPS), Office of Utilities Regulation (OUR), Hurricane Melissa
+2. **Government Capital Expenditure and Hurricane Melissa Recovery (Host discussion)**
+	* Time range: 2025-12-16 10:16:15 - 2025-12-16 10:21:18
+	* Details: The government plans to increase capital expenditure by $50 billion over the next four years to support recovery efforts after Hurricane Melissa. However, concerns have been raised about the government's ability to spend the allocated funds efficiently.
+	* NERs: Hurricane Melissa, Independent Fiscal Commission (IFC), Government of Jamaica
+3. **Crime Statistics and Sustainability (Host discussion)**
+	* Time range: 2025-12-16 10:22:19 - 2025-12-16 10:27:22
+	* Details: The Jamaica Constabulary Force (JCF) has reported a significant reduction in murders for 2025, with a projected total of fewer than 700 murders for the year. Senior Superintendent Dennis Brooks expressed confidence that the downward trend is sustainable, and the JCF aims to achieve more months with fewer than 100 murders.
+	* NERs: Jamaica Constabulary Force (JCF), Senior Superintendent Dennis Brooks
+4. **Police Fatal Shootings and Investigative Capacity (Host discussion)**
+	* Time range: 2025-12-16 10:27:22 - 2025-12-16 10:28:22
+	* Details: The JCF has reported an increase in police fatal shootings, but SSP Brooks stated that the force will continue to leverage its improved investigative capacity to target high-violence producers.
+	* NERs: Jamaica Constabulary Force (JCF), Senior Superintendent Dennis Brooks
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily discussed by the host, Cliff Hughes, and occasionally feature reports from other Nationwide News journalists, such as Mahiri Stewart and Robi Ann Williams.

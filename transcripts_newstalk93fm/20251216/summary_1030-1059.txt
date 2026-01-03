@@ -1,0 +1,16 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Interview with Councillor Darrington Ferguson - Host discussion - Interview** (2025-12-16 10:32:22 - 2025-12-16 10:57:28)
+	* Details: The host, Conrad O'Brien, interviews Councillor Darrington Ferguson about the Papine Division in Eastern St. Andrew, Jamaica. They discuss the reduction of crime in the area, the role of the police and community organizations, and the councillor's expectations for 2026.
+	* NERs: Darrington Ferguson, Conrad O'Brien, Th Favourable Williams, Patricia Duncan Sutherland, Inspector Parchment, Philip Paulwell
+2. **Caller interaction - Host discussion** (2025-12-16 10:57:28 - 2025-12-16 11:05:44)
+	* Details: The host takes calls from listeners, including Karlo, who discusses the impact of price increases on consumers, and Miss P, who shares her experiences with hurricane damage and seeks assistance.
+	* NERs: Karlo, Miss P, Conrad O'Brien, Minister Green, Christa Lee, Andre Stefano, Mr. Curry, Corey
+3. **Discussion on price increases and utility companies - Host discussion** (2025-12-16 10:40:30 - 2025-12-16 10:57:28)
+	* Details: The host and callers discuss the recent 7% price increase by JPS and its impact on consumers, as well as the role of regulatory bodies and the government in addressing these issues.
+	* NERs: Conrad O'Brien, Karlo, Philip Paulwell, Mr. Wholeness
+
+Note that some of these topics may overlap or be connected, but I have tried to break them down into distinct categories based on the content and participants in the discussion.

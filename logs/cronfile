@@ -1,0 +1,14 @@
+#0,15,30,45 * * * * /root/bin/dropboxpy_check.sh >> /root/bin/dropboxpy_check.log
+#* * * * * /root/Capstone/streamlit_check.sh >> /root/Capstone/streamlit_check.log 2>&1
+#0,5,10,15,20,25,30,35,40,45,50,55 * * * * /usr/local/bin/python3.11 /root/Capstone/DataEngineeringPipeline/selectTweetsForProcessing.py 2>&1
+#2,7,12,17,22,27,32,37,42,47,52,57 * * * * /usr/local/bin/python3.11 /root/Capstone/DataEngineeringPipeline/processTweetsPipeline.py >> /root/Capstone/DataEngineeringPipeline/pipelinelog.txt 2>&1
+#4,9,14,19,24,29,34,39,44,49,54,59 * * * * /usr/local/bin/python3.11 /root/Capstone/DataEngineeringPipeline/loadcsv_database.py >> /root/Capstone/DataEngineeringPipeline/loadcsv_databaselog.txt 2>&1
+0 9,10,11,12,13,14,15,16,17,18,19,20,21 * * 1,2,3,4,5 /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/record_segments_1minute.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/record_segments_1minute_cron.log 2>&1
+#* 14,15,16,17,18,19,20,21,22,23,0,1,2,3,4 * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron.log 2>&1
+#* * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron.log 2>&1
+*/2 * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe_RJR1.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron_RJR1.log 2>&1
+*/2 * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe_Power1061.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron_Power1061.log 2>&1
+1-59/2 * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe_RJR2.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron_RJR2.log 2>&1
+1-59/2 * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcribe_Power1062.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcribe_cron_Power1062.log 2>&1
+TOGETHER_API_KEY=47a4fdd6780ae5683282eda5863f2dee674ab6b1118e66c062011b836ea28fd0
+* * * * * /usr/local/bin/python3.11 /root/speech2text/stream_onlineradio/transcribewave/transcript_analysis.py >> /root/speech2text/stream_onlineradio/transcribewave/logs/transcript_analysis_cron.log 2>&1

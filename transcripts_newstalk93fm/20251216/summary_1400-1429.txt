@@ -1,0 +1,25 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Advertisement** (2025-12-16 14:00:01 - 14:01:02)
+	* Topic: Advertisement for Wellington Dental and Kenmore Shoe Manufacturing Company
+	* NERs: Wellington Dental, Kenmore Shoe Manufacturing Company, Spanish Town
+2. **Music** (2025-12-16 14:01:02 - 14:14:09)
+	* Topic: Music playback with various songs and genres
+	* NERs: None
+3. **Relationship and Love** (2025-12-16 14:14:09 - 14:28:20)
+	* Topic: Discussion of relationships, love, and intimacy
+	* NERs: None
+4. **Emotional Expression** (2025-12-16 14:28:20 - 14:42:13)
+	* Topic: Expression of emotions, desires, and needs in a relationship
+	* NERs: None
+5. **Devotion and Commitment** (2025-12-16 14:42:13 - 14:42:51)
+	* Topic: Discussion of devotion, commitment, and loyalty in a relationship
+	* NERs: None
+6. **Love and Peace** (2025-12-16 14:42:51 - 14:43:00)
+	* Topic: Discussion of love, peace, and happiness in a relationship
+	* NERs: None
+
+Note that there are no interviews, caller interactions, or host discussions in the provided transcripts. The topics are primarily focused on music, relationships, and emotional expression. There are no mentions of specific countries, including Jamaica, except for the advertisement for Wellington Dental and Kenmore Shoe Manufacturing Company, which are located in Spanish Town, Jamaica. However, these mentions are not part of a larger discussion about Jamaica.

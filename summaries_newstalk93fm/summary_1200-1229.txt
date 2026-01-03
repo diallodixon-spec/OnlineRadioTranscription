@@ -1,0 +1,28 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the topics and time ranges are as follows:
+
+1. **Music and Party** (2026-01-02 12:00:01 - 2026-01-02 12:07:06)
+	* Details: The host is playing music and discussing partying, with lyrics about being ready for rum, having a good time, and dancing.
+	* NERs: None
+2. **Romantic Relationship** (2026-01-02 12:07:06 - 2026-01-02 12:10:08)
+	* Details: The host is playing music and discussing a romantic relationship, with lyrics about needing love, feeling sweet, and being complete with someone.
+	* NERs: None
+3. **Carnival and Celebration** (2026-01-02 12:10:08 - 2026-01-02 12:16:13)
+	* Details: The host is discussing carnival and celebration, with lyrics about liming, having a good time, and being with friends.
+	* NERs: London, New York
+4. **Seduction and Flirtation** (2026-01-02 12:16:13 - 2026-01-02 12:22:18)
+	* Details: The host is playing music and discussing seduction and flirtation, with lyrics about being attracted to someone, wanting to touch them, and being sexy.
+	* NERs: LeBron
+5. **Relationship and Intimacy** (2026-01-02 12:22:18 - 2026-01-02 12:27:19)
+	* Details: The host is discussing relationship and intimacy, with lyrics about being in a relationship, needing love, and being intimate with someone.
+	* NERs: None
+6. **Florida and Party** (2026-01-02 12:27:19 - 2026-01-02 12:28:20)
+	* Details: The host is discussing Florida and partying, with lyrics about being in Florida, having a good time, and being attractive.
+	* NERs: Florida
+7. **Seduction and Intimacy** (2026-01-02 12:28:20 - 2026-01-02 12:29:00)
+	* Details: The host is discussing seduction and intimacy, with lyrics about wanting to touch someone, being sexy, and being intimate.
+	* NERs: None
+
+Note: The topics and time ranges are not strictly separated, as the host's discussion and music playback can overlap between topics. However, the above breakdown provides a general outline of the topics and time ranges.

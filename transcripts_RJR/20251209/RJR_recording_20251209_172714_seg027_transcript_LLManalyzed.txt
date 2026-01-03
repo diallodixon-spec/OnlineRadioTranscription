@@ -1,0 +1,6 @@
+WAV File Transcription
+Source: RJR_recording_20251209_172714_seg027.wav
+Date: 2025-12-09 18:06:40
+============================================================
+
+So it's hard to correlate that with the number of customers. Sorry, explain what that means for me, transport layer, the network. It's the part of the backbone that conveys traffic data around the network and it's not on the last mile, like customer premises. So, you know, if we have nodes that are out that impact homes directly, then we could count and say this is what the customer count is and this is what the household count is. But because it's at the layer of the network that is part of the backbone, many, many, many customers are out. It's hard to put a finger on the specific number. Okay, but the reports we had said some sections of New Kingston and other areas in the corporate area? So it has been, yes, it was very, very extensive. And the nature of the

@@ -1,0 +1,37 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Police Shootings in Jamaica, Host discussion** (2026-01-02 11:30:25 - 2026-01-02 11:32:26)
+	* Details: The host discusses police shootings in Jamaica, mentioning that most of the cases have been cleared, and the majority were not found to be unlawful killings.
+	* NERs: Jamaica
+2. **Introduction to the E-Zone Show** (2026-01-02 11:33:27 - 2026-01-02 11:34:27)
+	* Details: The host introduces the E-Zone show, which includes entertainment news, brain busters, and crazy giveaways.
+	* NERs: None
+3. **Religious Segment - Oasis** (2026-01-02 11:34:27 - 2026-01-02 11:35:27)
+	* Details: The host mentions the Oasis segment, which includes a daily Bible verse and a refreshing drink.
+	* NERs: None
+4. **Caller Interaction - Myrna** (2026-01-02 11:36:28 - 2026-01-02 11:39:31)
+	* Details: Myrna, a 90-year-old caller, shares her experience and praises the host, Ricardo Brooks.
+	* NERs: Myrna, Ricardo Brooks
+5. **Interview with Energy Minister Dalvaz** (2026-01-02 11:40:31 - 2026-01-02 11:45:35)
+	* Details: The Energy Minister discusses the restoration of power in Western Jamaica, mentioning that 90% of the work is complete.
+	* NERs: Energy Minister Dalvaz, Jamaica, JPS (Jamaica Public Service)
+6. **Discussion on Transportation and Registration** (2026-01-02 11:45:35 - 2026-01-02 11:47:35)
+	* Details: The host and the Energy Minister discuss the challenges of registering for transportation and the need for parents to participate.
+	* NERs: None
+7. **Caller Interaction - Mr. Casper Brown** (2026-01-02 11:51:38 - 2026-01-02 11:52:40)
+	* Details: A caller mentions that people in Negril are not receiving the Nationwide signal and bigs up Mr. Casper Brown, a listener from Negril.
+	* NERs: Mr. Casper Brown, Negril
+8. **Discussion on Pensions for MPs and Ministers** (2026-01-02 11:53:40 - 2026-01-02 11:56:41)
+	* Details: The host and callers discuss the requirements for MPs and ministers to receive pensions.
+	* NERs: None
+9. **Caller Interaction - Joan** (2026-01-02 11:57:41 - 2026-01-02 11:59:41)
+	* Details: Joan, a caller, complains about Flow removing American channels from their system without notice or compensation.
+	* NERs: Flow, Joan
+10. **Caller Interaction - Williams** (2026-01-02 11:59:41 - 2026-01-02 12:00:00)
+	* Details: Williams, a caller, discusses the efficiency of offices and the need for the Prime Minister to manage the country effectively.
+	* NERs: Andrew Wallace (Prime Minister), Williams
+
+Note: The time ranges are approximate and based on the provided transcripts.

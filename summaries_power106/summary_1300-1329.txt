@@ -1,0 +1,25 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Jamaica's development and challenges** (2026-01-02 13:00:02 - 2026-01-02 13:28:22)
+	* Details: The hosts discuss Jamaica's development, or lack thereof, and the challenges the country faces, including corruption, poor infrastructure, and limited access to beaches.
+	* NERs: Jamaica, Dominican Republic, Barbados
+2. **Caller interaction: Camera surveillance and traffic management** (2026-01-02 13:05:04 - 2026-01-02 13:13:07)
+	* Details: A caller suggests implementing camera surveillance to monitor traffic and reduce accidents, and the hosts discuss the potential benefits and challenges of such a system.
+	* NERs: None
+3. **Host discussion: Police brutality and corruption** (2026-01-02 13:13:10 - 2026-01-02 13:17:13)
+	* Details: The hosts discuss police brutality and corruption in Jamaica, including the use of non-lethal weapons and the need for reform.
+	* NERs: Jamaica, Commissioner Ellington
+4. **Caller interaction: Politicians' salaries and benefits** (2026-01-02 13:21:18 - 2026-01-02 13:24:19)
+	* Details: A caller suggests reducing politicians' salaries and benefits, and the hosts discuss the potential implications of such a move.
+	* NERs: Derek Simmons, Minister Nelson
+5. **Host discussion: Jamaica's energy crisis and restoration efforts** (2026-01-02 13:24:19 - 2026-01-02 13:28:22)
+	* Details: The hosts discuss Jamaica's energy crisis and the efforts to restore power, including the role of JPS and the government.
+	* NERs: JPS, Jamaica, Mr. Vass, Mr. Alec Granting
+6. **Caller interaction: Jamaica's tourism industry and beach access** (2026-01-02 13:28:22 - 2026-01-02 13:32:82)
+	* Details: A caller suggests that Jamaica's tourism industry is hindered by limited beach access and suggests passing a law to give people access to the beach.
+	* NERs: Jamaica, Dominican Republic, Barbados
+
+Note that some of these topics may overlap or be discussed in multiple segments, but I have tried to break them down into distinct topics with specific time ranges.

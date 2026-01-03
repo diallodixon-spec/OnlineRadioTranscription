@@ -1,0 +1,22 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Jamaican Stock Market Update** (2025-12-16 10:00:03 - 10:07:08)
+	* Topic: Discussion of the Jamaican stock market, including market volume, traded units, and bond market activity.
+	* NERs: Sagicor Select, Manufacturing Distribution Fund, JMMB Group Ltd, Trans-Jamaican Highway, Kingston Works, One-on-One Educational Services, Pulse Investments Limited, R. William's Distributors, Radio Jamaica Limited, Stationery and Office Supplies, Supreme, Mayberry Investment Group Limited, Chris Thomas.
+2. **Interview with Chris Thomas** (2025-12-16 10:05:05 - 10:07:08)
+	* Topic: Interview with Chris Thomas, Senior Investment Advisor at Mayberry Investment Group Limited, discussing the Jamaican stock market and bond market activity.
+	* NERs: Chris Thomas, Mayberry Investment Group Limited.
+3. **Head Start on Government Policies** (2025-12-16 10:08:09 - 10:17:17)
+	* Topic: Discussion of the 7% increase in electricity bills in December, related to electricity consumption in November, and what must be done to prevent a recurrence.
+	* NERs: Lucius Wright, Jamaica Public Service (JPS), Office of Utilities Regulation (OUR), World Bank, International Development Bank (IDB).
+4. **International Market Update** (2025-12-16 10:21:20 - 10:26:24)
+	* Topic: Discussion of the international market, including the US Federal Reserve, interest rates, and labor market data.
+	* NERs: Ferris Jackson, Burrito Investments Ltd, US Federal Reserve.
+5. **Multilateral Head Start** (2025-12-16 10:27:24 - 10:28:25)
+	* Topic: Discussion of the Central Bank Governor's decision to change the predictability of the intervention sum in the foreign exchange market.
+	* NERs: Richard Valls, Central Bank Governor.
+
+Note that some of these topics may overlap or be related, but I have tried to break them down into distinct topics based on the content of the transcripts.

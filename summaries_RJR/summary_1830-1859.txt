@@ -1,0 +1,94 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion and Caller interaction** (2026-01-02 18:30:20 - 2026-01-02 18:34:22): The host discusses safe driving practices, and callers interact with the host, sharing their thoughts and well-wishes for the new year.
+2. **Advertisement and Introduction to Inflation Watch** (2026-01-02 18:31:21 - 2026-01-02 18:32:21): The host introduces the program "Inflation Watch" and announces its schedule, while also playing advertisements.
+3. **Interview with George Davis and Janet Silvera** (2026-01-02 18:34:22 - 2026-01-02 18:45:31): The host interviews George Davis, Deputy Executive Producer and News Editor at Nationwide News Network, and Janet Silvera, Senior Journalist at The Gleaner, to discuss the big stories of 2025, including the election, crime reduction, and Hurricane Melissa.
+4. **Sports Discussion** (2026-01-02 18:45:31 - 2026-01-02 18:55:40): The host discusses sports news with Garfield Jones, including cricket, football, and horse racing.
+5. **Cricket News** (2026-01-02 18:55:40 - 2026-01-02 19:05:38): Garfield Jones discusses cricket news, including the performance of Jamaican cricketers and the ILT20 tournament.
+6. **Horse Racing News** (2026-01-02 19:05:38 - 2026-01-02 19:15:37): Christopher Scott provides a horse racing preview, discussing the upcoming Security Department Trophy race.
+7. **Swimming and Football News** (2026-01-02 19:15:37 - 2026-01-02 19:25:40): The host discusses swimming and football news, including the performance of Jamaican swimmers and the Jamaica Premier League.
+8. **International Football News** (2026-01-02 19:25:40 - 2026-01-02 19:35:40): The host discusses international football news, including the Italian Serie A standings and the English Premier League schedule.
+
+Named Entities Recognized (NERs):
+
+* George Davis
+* Janet Silvera
+* Garfield Jones
+* Christopher Scott
+* Jabari Baker
+* Dwight Smith
+* Marin Gordon
+* Ivan Tony
+* Cristian Ronaldo
+* Rafael Liao
+* Brendan Johnson
+* Olivier Glassen
+* Antoine Simeon
+* Thomas Frank
+* Donald Oliver
+* Dionne Jackson Miller
+* Usain Bolt
+* Messi
+* Luan Dre Pretorius
+* Assa Tribe
+* Rassie Vanderdassen
+* Kyron Pollard
+* Jason Holder
+* Andre Russell
+* Sunil Narain
+* Tom Banton
+* Andre Fletcher
+* Romario Shepard
+* Shaib Bashir
+* Matthew Potts
+* Gus Atkinson
+* Mark Wood
+* Archer
+* Nikolai
+* Wendley Lee
+* Shelley
+* Oblique
+* Vassar Reynolds
+* Kingston College
+* Veer United
+* Tottenham
+* Liverpool
+* Christian Benteke
+* Nottingham Forest
+* Arsenal
+* Manchester City
+* Bournemouth FC
+* West Ham United
+* Wolverhampton Wanderers
+* Brighton Hoof Albion
+* Burnley
+* Newcastle
+* Crystal Palace
+* AC Milan
+* Inter Milan
+* Cagliari
+* Al Ali
+* Al Nasser
+* Al Hilal
+* Aston Villa
+* Nottingham Forest
+
+Locations mentioned:
+
+* Jamaica
+* St. James
+* Portland
+* Tokyo
+* Japan
+* Mexico
+* US
+* England
+* Australia
+* Sydney
+* Melbourne
+* Italy
+* Saudi Arabia
+* Dubai

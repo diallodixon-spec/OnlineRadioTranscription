@@ -1,0 +1,28 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Education in Jamaica** (2026-01-02 16:00:03 - 2026-01-02 16:08:07)
+	* Details: The host discusses the education system in Jamaica, specifically the teaching of reading and the fact that some countries want Jamaican professionals, such as nurses.
+	* NERs: None
+2. **Host discussion: Social media and news** (2026-01-02 16:09:09 - 2026-01-02 16:11:11)
+	* Details: The host discusses social media and how it is not as regulated as mainstream media, and how some news stories are not carried by mainstream media.
+	* NERs: Morris Holness, Andrew Holness
+3. **Caller interaction: Marriage and family** (2026-01-02 16:11:11 - 2026-01-02 16:13:13)
+	* Details: A caller discusses the importance of marriage and family in Jamaica, and how it can help reduce crime rates.
+	* NERs: China, Jamaica
+4. **Host discussion: Government and politics** (2026-01-02 16:14:16 - 2026-01-02 16:26:26)
+	* Details: The host discusses government and politics in Jamaica, including the Labour Party and potential candidates for election.
+	* NERs: Venetia Phillips, Dr. Michel Charles, Mark Golding, Dr. Chang
+5. **Caller interaction: Crime and violence** (2026-01-02 16:16:16 - 2026-01-02 16:22:22)
+	* Details: A caller discusses the high crime rates in Jamaica and how it is concerning, especially at the start of the new year.
+	* NERs: None
+6. **Host discussion: Economy and job creation** (2026-01-02 16:22:22 - 2026-01-02 16:24:24)
+	* Details: The host discusses the economy and job creation in Jamaica, including the efforts of companies like King Alarm.
+	* NERs: King Alarm
+7. **Caller interaction: Politics and party loyalty** (2026-01-02 16:24:24 - 2026-01-02 16:28:26)
+	* Details: A caller discusses politics and party loyalty in Jamaica, including the loyalty to the opposition leader, Mark Golding.
+	* NERs: Mark Golding, Dr. Chang
+
+Note: The time ranges for each topic are approximate and may overlap with other topics.

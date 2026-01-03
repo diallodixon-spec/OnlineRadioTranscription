@@ -1,0 +1,34 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music** (2026-01-02 11:00:03 - 2026-01-02 11:09:10)
+	* Details: The radio program starts with playing music, with lyrics discussing love, relationships, and emotions.
+	* NERs: None
+2. **Host discussion** (2026-01-02 11:10:10 - 2026-01-02 11:11:14)
+	* Details: The host discusses a story about a person who is trying to get someone's attention, with lyrics discussing love, relationships, and emotions.
+	* NERs: None
+3. **Music** (2026-01-02 11:11:14 - 2026-01-02 11:17:14)
+	* Details: The radio program continues playing music, with lyrics discussing love, relationships, and emotions.
+	* NERs: None
+4. **Host discussion** (2026-01-02 11:17:14 - 2026-01-02 11:19:16)
+	* Details: The host discusses a story about a person who is reflecting on their life, with lyrics discussing love, relationships, and emotions.
+	* NERs: None
+5. **Music** (2026-01-02 11:19:16 - 2026-01-02 11:23:19)
+	* Details: The radio program continues playing music, with lyrics discussing love, relationships, and emotions.
+	* NERs: None
+6. **Social commentary** (2026-01-02 11:23:19 - 2026-01-02 11:27:22)
+	* Details: The host discusses social issues, with lyrics discussing the state of the world, love, and relationships.
+	* NERs: None
+7. **Personal struggles** (2026-01-02 11:27:22 - 2026-01-02 11:32:22)
+	* Details: The host discusses personal struggles, with lyrics discussing feelings of isolation, loneliness, and disconnection.
+	* NERs: None
+8. **Self-reflection** (2026-01-02 11:32:22 - 2026-01-02 11:36:22)
+	* Details: The host discusses self-reflection, with lyrics discussing the importance of solitude, peace of mind, and personal growth.
+	* NERs: None
+9. **Social commentary** (2026-01-02 11:36:22 - 2026-01-02 11:40:22)
+	* Details: The host discusses social issues, with lyrics discussing the importance of taking action, making sacrifices, and living an extraordinary life.
+	* NERs: None
+
+Note that the topics are not strictly separated and may overlap or blend together. Additionally, there are no named entities (NERs) mentioned in the transcripts. The discussion is more focused on abstract concepts, emotions, and social commentary.

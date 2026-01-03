@@ -1,0 +1,34 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Electricity Rate Hike in Jamaica, Host discussion** (2025-12-16 12:00:03 - 2025-12-16 12:09:09)
+	* Details: The Small Business Association of Jamaica (SBAJ) is calling for the Office of Utilities Regulation (OUR) to rescind its approval of a 7% electricity rate increase for the Jamaica Public Service (JPS).
+	* NERs: Jamaica, SBAJ, OUR, JPS, Garnett Reed
+2. **Hurricane Melissa Recovery Efforts in Jamaica, Host discussion** (2025-12-16 12:05:05 - 2025-12-16 12:09:09)
+	* Details: Residents in five parishes who sustained water and building damage to their homes during Hurricane Melissa are receiving assistance under the National Energy Recertification Program.
+	* NERs: Jamaica, Hurricane Melissa, National Energy Recertification Program
+3. **Debt Reset Program in Jamaica, Host discussion** (2025-12-16 12:06:06 - 2025-12-16 12:07:06)
+	* Details: The Students Loan Bureau (SLB) has received over 3,500 applications under the recently launched Debt Reset Program, which offers a limited-time initiative to assist borrowers with targeted loan accounts.
+	* NERs: Jamaica, SLB, Debt Reset Program
+4. **US Military Strikes on Drug Trafficking Boats, Host discussion** (2025-12-16 12:10:09 - 2025-12-16 12:11:09)
+	* Details: The US military has carried out strikes on three boats suspected of being used to traffic drugs in the Pacific Ocean, killing eight people.
+	* NERs: US, Pacific Ocean
+5. **Sports News, Host discussion** (2025-12-16 12:12:10 - 2025-12-16 12:18:15)
+	* Details: Various sports news, including football matches and updates on the Jamaica Intercollegiate Sports Association.
+	* NERs: Jamaica, Montague Bay United, Arnett Gardens, Zeva Gilbert, Akeema Jones, Denise Walters
+6. **Weather Update, Host discussion** (2025-12-16 12:19:15 - 2025-12-16 12:20:16)
+	* Details: A trough is currently across the island, with widely scattered showers and isolated thunderstorms expected in the afternoon.
+	* NERs: Jamaica
+7. **Post-Hurricane Recovery Efforts in Jamaica, Host discussion** (2025-12-16 12:21:17 - 2025-12-16 12:24:19)
+	* Details: The government is examining how state-owned lands can be better organized and utilized to support structured communities, while preserving critical agricultural areas.
+	* NERs: Jamaica, Andrew Holness, Ministry of Labor and Social Security
+8. **Ministry of Health and Wellness Initiatives, Host discussion** (2025-12-16 12:25:21 - 2025-12-16 12:28:21)
+	* Details: The Ministry of Health and Wellness is training 3,000 individuals in psychological first aid to assist the emotional support recovery of Jamaicans impacted by Hurricane Melissa.
+	* NERs: Jamaica, Ministry of Health and Wellness, Jacqueline Bezeza-Mackenzie
+9. **Community Notice Board, Host discussion** (2025-12-16 12:28:21 - 2025-12-16 12:29:21)
+	* Details: The Church of God and Saints of Christ will be having a yard sale on December 17.
+	* NERs: Church of God and Saints of Christ, Kingston Gardens
+
+Note: There are no interviews or caller interactions in the provided transcripts.

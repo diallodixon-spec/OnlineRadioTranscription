@@ -1,0 +1,19 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Music and Entertainment** (2025-12-16 14:00:01 - 2025-12-16 14:27:00)
+	* Details: The host plays various songs, including reggae and R&B music, and mentions DJs such as DJ Jem, DJ Gerov, and DJ Jeroen.
+	* NERs: None
+2. **JUTC and Police Civilian Oversight Authority** (2025-12-16 14:01:03 - 2025-12-16 14:02:03)
+	* Details: The host mentions JUTC (Jamaica Urban Transit Company) and its services, as well as the Police Civilian Oversight Authority's TOPS program.
+	* NERs: JUTC, Police Civilian Oversight Authority, Jamaica
+3. **Host discussion and music** (2025-12-16 14:02:03 - 2025-12-16 14:14:14)
+	* Details: The host discusses various topics, including music, and plays songs.
+	* NERs: None
+4. **Love and relationships** (2025-12-16 14:14:14 - 2025-12-16 14:28:20)
+	* Details: The host plays songs and discusses themes related to love and relationships.
+	* NERs: None
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, entertainment, and host discussions. The mention of Jamaica is related to the JUTC and Police Civilian Oversight Authority, but it is not a separate topic.

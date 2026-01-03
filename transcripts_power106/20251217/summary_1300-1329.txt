@@ -1,0 +1,76 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion** (2025-12-17 13:00:03 - 13:01:04)
+   - Details: Introduction to the show, mentioning the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+2. **Host discussion** (2025-12-17 13:01:04 - 13:02:04)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+3. **Host discussion** (2025-12-17 13:02:04 - 13:03:05)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+4. **Host discussion** (2025-12-17 13:03:05 - 13:04:06)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+5. **Host discussion** (2025-12-17 13:04:06 - 13:05:07)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+6. **Host discussion** (2025-12-17 13:05:07 - 13:06:08)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+7. **Host discussion** (2025-12-17 13:06:08 - 13:07:09)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+8. **Host discussion** (2025-12-17 13:07:09 - 13:08:10)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+9. **Host discussion** (2025-12-17 13:08:10 - 13:09:11)
+   - Details: Continued discussion about the university and its activities.
+   - NERs: Northern Caribbean University, NCU, Jamaica.
+
+10. **Host discussion** (2025-12-17 13:09:11 - 13:10:12)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+11. **Host discussion** (2025-12-17 13:10:12 - 13:11:13)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+12. **Host discussion** (2025-12-17 13:11:13 - 13:12:14)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+13. **Host discussion** (2025-12-17 13:12:14 - 13:13:15)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+14. **Host discussion** (2025-12-17 13:13:15 - 13:14:16)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+15. **Host discussion** (2025-12-17 13:14:16 - 13:15:17)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+16. **Host discussion** (2025-12-17 13:15:17 - 13:16:18)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+17. **Host discussion** (2025-12-17 13:16:18 - 13:17:19)
+    - Details: Continued discussion about the university and its activities.
+    - NERs: Northern Caribbean University, NCU, Jamaica.
+
+18. **Host discussion** (2025-12-17 13:17:19 - 13:18:20)
+    - Details: Continued discussion about the university and its activities.
+    - NERs

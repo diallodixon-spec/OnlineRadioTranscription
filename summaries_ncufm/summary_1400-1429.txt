@@ -1,0 +1,29 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Sports News (2026-01-02 14:00:02 - 2026-01-02 14:04:04)**
+	* Topic: Football and cricket news
+	* Details: Brennan Johnson's transfer to Crystal Palace, Chappleton Maroons' win in the Jamaica Premier League, and Sherphane Rutherford's performance in the SA20 cricket tournament
+	* NERs: Brennan Johnson, Crystal Palace, Newcastle, Tottenham, Oliver Glasner, Selhurst Park, Chappleton Maroons, Jamaica Premier League, Sherphane Rutherford, Pretorial Capitals, MI Capetown, Kagiso Rabada, Shy Hope, Will Smead, Wyan Loeb, Dewald Brevis, Dwayne Pretorius
+2. **Tennis News (2026-01-02 14:04:05 - 2026-01-02 14:05:07)**
+	* Topic: Venus Williams' participation in the Australian Open
+	* Details: Venus Williams receiving a wild card for the Australian Open and becoming the oldest female player to compete in the main draw
+	* NERs: Venus Williams, Australian Open, Kimiko Date
+3. **Host Discussion (2026-01-02 14:05:08 - 2026-01-02 14:14:11)**
+	* Topic: Introduction to the drive time show and discussion on introverts
+	* Details: The host, Michael, introduces the show and discusses the topic of introverts, including their characteristics and how they recharge
+	* NERs: Michael, Northern Caribbean University (NCU)
+4. **Caller Interaction (2026-01-02 14:14:12 - 2026-01-02 14:24:17)**
+	* Topic: Interaction with callers and discussion on introverts and extroverts
+	* Details: The host interacts with callers, including Maxine, Andrea, and Shelly Annie, and discusses the topic of introverts and extroverts, including the characteristics of ambiverts
+	* NERs: Maxine, Andrea, Shelly Annie, Michael, Northern Caribbean University (NCU)
+5. **Music and Devotion (2026-01-02 14:24:18 - 2026-01-02 14:42:19)**
+	* Topic: Music and daily devotion
+	* Details: The host plays music and leads a daily devotion, including a discussion on Galatians 6:2
+	* NERs: Jesus, Galatians
+6. **Wellness and Show Schedule (2026-01-02 14:41:10 - 2026-01-02 14:42:19)**
+	* Topic: Wellness bite and show schedule
+	* Details: The host shares a wellness bite on the dangers of excess sugar consumption and discusses the show schedule, including the daily devotion and upcoming segments
+	* NERs: Northern Caribbean University (NCU)

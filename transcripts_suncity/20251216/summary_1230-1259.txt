@@ -1,0 +1,27 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisement and Introduction** (2025-12-16 12:30:16 - 2025-12-16 12:31:17)
+	* Details: Introduction to the radio program, advertisement for Popeye's BBQ Chicken, and announcement of the host, Sun Jack Fry.
+	* NERs: Popeye's, Sun Jack Fry
+2. **Host Discussion and Music** (2025-12-16 12:31:17 - 2025-12-16 12:37:19)
+	* Details: Host discussion, music playback, and introduction to the radio station, Sun City 104.9 FM.
+	* NERs: Sun City 104.9 FM, Bugle, Moxie Preece
+3. **Jamaica News and Updates** (2025-12-16 12:37:19 - 2025-12-16 12:47:23)
+	* Details: News updates on Jamaica, including the recovery efforts after Hurricane Melissa, tourism, and government initiatives.
+	* NERs: Jamaica, Hurricane Melissa, Edmund Bartlett, Andrew Holness, Pernal Charles Jr.
+4. **Interview** (None)
+	* No interview was found in the provided transcripts.
+5. **Caller Interaction and Donation Request** (2025-12-16 12:47:23 - 2025-12-16 12:59:24)
+	* Details: Host interaction with callers, request for donations of a wheelchair for a listener in need, and discussion on helping those affected by Hurricane Melissa.
+	* NERs: Sun City, WhatsApp
+6. **Music and Entertainment** (2025-12-16 12:59:24 - 2025-12-16 13:05:27)
+	* Details: Music playback, host discussion, and announcement of winners for a competition.
+	* NERs: Kabaka Pyramid, Damon Marley, Nicky, Darisha K, The Oxide Family
+7. **Charity and Community Support** (2025-12-16 13:05:27 - 2025-12-16 13:12:57)
+	* Details: Discussion on supporting families in need, especially those with babies, and providing Christmas dinner and assistance.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and details are subject to interpretation and may not be exhaustive.

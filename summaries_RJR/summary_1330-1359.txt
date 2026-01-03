@@ -1,0 +1,22 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Human Trafficking and Crime** (2026-01-02 13:30:22 - 2026-01-02 13:31:22)
+	* Topic details: The host discusses human trafficking and crime, mentioning that 11 people died in Trinidad and Tobago in one day.
+	* NERs mentioned: Trinidad and Tobago, Jamaica
+2. **Music and Entertainment** (2026-01-02 13:32:22 - 2026-01-02 13:44:27)
+	* Topic details: The host plays music and discusses entertainment, with various songs and artists mentioned.
+	* NERs mentioned: None
+3. **Host Discussion** (2026-01-02 13:42:29 - 2026-01-02 13:45:32)
+	* Topic details: The hosts discuss various topics, including fruits available during Christmas and New Year's.
+	* NERs mentioned: Jamaica, Christmas, New Year's
+4. **Caller Interaction** (2026-01-02 13:45:32 - 2026-01-02 13:58:42)
+	* Topic details: The hosts interact with callers, discussing various topics, including birthdays and anniversaries.
+	* NERs mentioned: Jamaica, Radio Jamaica, Arnett Gardens, St. Anne, Connecticut, Waterbury, Canada, U.S.A., Free Town, St. Catherine, Linstead, Jericho District, Old Harbour, Cypress Hall, Spanish Town, New York, Fort Lauderdale, Virginia, Miami
+5. **Birthday and Anniversary Greetings** (2026-01-02 13:50:36 - 2026-01-02 13:58:42)
+	* Topic details: The hosts give birthday and anniversary greetings to various individuals, including Sister Nancy, Ian, Aunt Patsy, and others.
+	* NERs mentioned: Sister Nancy, Ian, Aunt Patsy, Arnett Gardens, St. Anne, Connecticut, Waterbury, Canada, U.S.A., Free Town, St. Catherine, Linstead, Jericho District, Old Harbour, Cypress Hall, Spanish Town, New York, Fort Lauderdale, Virginia, Miami
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics with specific time ranges.

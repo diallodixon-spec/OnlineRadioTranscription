@@ -1,0 +1,22 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Midday News with Host discussion** (2025-12-16 12:00:03 - 2025-12-16 12:21:09)
+	* Details: The host, Jodian Beckford, discusses various news topics, including local news, regional news, international news, sports, and entertainment.
+	* NERs mentioned: Jamaica, Venezuela, Trinidad and Tobago, United States, BBC, Donald Trump, Jamaica Fire Brigade, Student Loan Bureau, Jamaica Customs Agency, KFC, JA Customs Connect, Sun City Radio.
+2. **Advertisement and Promotion with Host discussion** (2025-12-16 12:21:09 - 2025-12-16 12:25:14)
+	* Details: The host promotes various products and services, including the JA Customs Connect mobile app, Home Choice Ginger Extract, and the Sun City Radio website.
+	* NERs mentioned: Jamaica Customs Agency, Home Choice, Sun City Radio.
+3. **Music and Entertainment with Host discussion** (2025-12-16 12:25:14 - 2025-12-16 12:40:14)
+	* Details: The host discusses music and entertainment topics, including the artist Crazy Bones and his music.
+	* NERs mentioned: Crazy Bones, Sun City Radio, DJ Fry High.
+4. **Caller Interaction and Contest** (2025-12-16 12:40:14 - 2025-12-16 12:45:14)
+	* Details: The host interacts with callers and announces a contest where listeners can win a prize by submitting a video.
+	* NERs mentioned: Sun City Radio, Queen Jodie.
+5. **Music and Traffic Update with Host discussion** (2025-12-16 12:45:14 - 2025-12-16 12:50:14)
+	* Details: The host discusses music and provides a traffic update.
+	* NERs mentioned: Crazy Bones, Sun City Radio, Stone Love family, Waterford family.
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and time ranges.

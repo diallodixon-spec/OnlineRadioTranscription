@@ -1,0 +1,19 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Party** (2026-01-02 15:00:01 - 2026-01-02 15:14:10)
+	* Details: The host, Joy Kelly, introduces the show, and the conversation revolves around partying, music, and having a good time. The transcripts feature song lyrics and discussions about letting loose and enjoying life.
+	* NERs: Joy Kelly, Jamaica, Sleek Radio, 93 FM
+2. **Relationships and Love** (2026-01-02 15:15:11 - 2026-01-02 15:27:17)
+	* Details: The conversation shifts to relationships, love, and intimacy. The transcripts feature song lyrics and discussions about desire, attraction, and emotional connection.
+	* NERs: None
+3. **Safety and Security in Relationships** (2026-01-02 15:25:17 - 2026-01-02 15:27:17)
+	* Details: The conversation focuses on feeling safe and secure in relationships. The transcripts feature discussions about trust, vulnerability, and emotional support.
+	* NERs: None
+4. **Host discussion and Music** (2026-01-02 15:27:17 - 2026-01-02 15:28:18)
+	* Details: The host, Joy Kelly, returns to discussing music and the show. The transcripts feature mentions of the radio station and the host's interactions.
+	* NERs: Joy Kelly, Sleek Radio, 93 FM
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, partying, relationships, and love, with some discussions about safety and security in relationships.

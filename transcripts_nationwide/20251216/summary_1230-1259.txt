@@ -1,0 +1,34 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisement and Public Service Announcement (Host discussion)**: 
+   - Time range: 2025-12-16 12:30:30 - 2025-12-16 12:33:33
+   - Details: The host discussed various advertisements and public service announcements, including the Cannabis Licensing Authority, Delta Supply, and a Christmas safety tip.
+   - NERs: Cannabis Licensing Authority, Delta Supply
+
+2. **Electricity Bill Increase in Jamaica (Host discussion)**: 
+   - Time range: 2025-12-16 12:33:33 - 2025-12-16 12:43:43
+   - Details: The host discussed the planned 7% increase in electricity bills in Jamaica and the resistance from the business community and consumers.
+   - NERs: Jamaica, JPS (Jamaica Public Services), SBAJ (Small Business Association of Jamaica), Garnett Reed
+
+3. **Parenting Tips (Host discussion)**: 
+   - Time range: 2025-12-16 12:33:33 - 2025-12-16 12:34:34
+   - Details: The host mentioned that parenting tips would be discussed on the show "Nationwide This Morning" on Fridays at 6:53 a.m.
+   - NERs: None
+
+4. **Caller Interaction - Electricity Bill Increase**: 
+   - Time range: 2025-12-16 12:38:37 - 2025-12-16 12:44:44
+   - Details: A caller, Smith, discussed their issue with the Minister of Labor and Social Security, and the host also discussed the electricity bill increase with another caller.
+   - NERs: Minister of Labor and Social Security
+
+5. **Caller Interaction - KPH Issue**: 
+   - Time range: 2025-12-16 12:48:48 - 2025-12-16 12:55:52
+   - Details: A caller discussed their issue with the treatment of their mother at the Kingston Public Hospital (KPH).
+   - NERs: Kingston Public Hospital (KPH)
+
+6. **Oasis Christmas Edition (Host discussion)**: 
+   - Time range: 2025-12-16 12:55:52 - 2025-12-16 12:58:54
+   - Details: The host introduced the "Oasis Christmas Edition" show, which featured Christmas music.
+   - NERs: New Testament Church of God, Lloyd Gale, Joanne Richards-Gough, Sheldon Barnard

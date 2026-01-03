@@ -1,0 +1,23 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Sports News (Host discussion)**: The program starts with a discussion on sports news, including the performance of Montague Bay United, Spanish Town Police, and the West Indies batting coach Floyd Reefer. The time range for this topic is 2025-12-16 16:30:19 - 2025-12-16 16:32:00.
+	* NERs mentioned: Xavier Gilbert, Floyd Reefer, Montague Bay United, Spanish Town Police, West Indies, England, Anthony Spalding Sports Complex, Jamaica, Bahamas, FIBA U23-3M3 Caribbean Cup 2025.
+2. **Insurance and Hurricane Relief (Host discussion)**: The program discusses insurance and hurricane relief, including a message from Scotia General Insurance Agency and information on hurricane relief loans from the National Housing Trust. The time range for this topic is 2025-12-16 16:32:20 - 2025-12-16 16:42:00.
+	* NERs mentioned: Scotia General Insurance Agency, Scotiabank, Jamaica Customs Agency, National Housing Trust, Hurricane Melissa.
+3. **Music and Entertainment (Host discussion)**: The program features music and entertainment, including song clips and discussions on music. The time range for this topic is 2025-12-16 16:35:21 - 2025-12-16 16:55:33.
+	* NERs mentioned: None
+4. **Financial Empowerment (Host discussion)**: The program discusses financial empowerment, including a weekly feature called "Your Money, Your Future" and information on the VM Group. The time range for this topic is 2025-12-16 16:34:20 - 2025-12-16 16:42:00.
+	* NERs mentioned: VM Group, Your Money, Your Future, Radio Jamaica.
+5. **Jamaica's Poverty Rate and Economic Growth (Host discussion)**: The program discusses Jamaica's poverty rate and economic growth, including a message on the country's progress. The time range for this topic is 2025-12-16 16:44:25 - 2025-12-16 16:45:00.
+	* NERs mentioned: Jamaica
+6. **Pre-Christmas Farmers Market (Host discussion)**: The program announces a pre-Christmas farmers market, including information on the event and its location. The time range for this topic is 2025-12-16 16:45:25 - 2025-12-16 16:46:27.
+	* NERs mentioned: Power 106 FM, 32 Lindhurst Road, Jamaica
+7. **Christmas Music and Messages (Host discussion)**: The program features Christmas music and messages, including song clips and discussions on Christmas. The time range for this topic is 2025-12-16 16:48:27 - 2025-12-16 17:05:33.
+	* NERs mentioned: None
+8. **Interview with Jeffrey Burke and Trudy Greenland (Interview)**: The program features an interview with Jeffrey Burke, founder and owner of Jeffrey's Flower Supplies, and Trudy Greenland, co-founder and natural hair stylist at Just Natural Hair Studio. The time range for this topic is 2025-12-16 16:56:33 - 2025-12-16 16:58:34.
+	* NERs mentioned: Jeffrey Burke, Trudy Greenland, Jeffrey's Flower Supplies, Just Natural Hair Studio
+9. **Fact of the Day and Closing (Host discussion)**: The program ends with a fact of the day on keratin and a closing message. The time range for this topic is 2025-12-16 16:58:34 - 2025-12-16 17:00:00.
+	* NERs mentioned: Keratin

@@ -1,0 +1,41 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Crime and Security in Jamaica (Host discussion)**: 
+   - Time range: 2026-01-02 17:03:00 - 2026-01-02 17:17:00
+   - Details: Discussion on the 41% decline in murders in Jamaica, successes of the Counter-Terrorism and Organized Crime Investigation Branch (CTOC), and the call for an independent probe into a fatal investigation by Indicom.
+   - NERs: Jamaica, CTOC, Indicom, Ricardo Brooks
+
+2. **Jamaican Economy (Host discussion)**: 
+   - Time range: 2026-01-02 17:17:00 - 2026-01-02 17:22:00
+   - Details: Prime Minister Dr. Andrew Holness discussing the Jamaican economy's resilience and its 5% growth.
+   - NERs: Jamaica, Dr. Andrew Holness, Statistical Institute of Jamaica (Statin)
+
+3. **Transport Minister on Cashless System for Rural School Bus Program (Host discussion)**: 
+   - Time range: 2026-01-02 17:19:00 - 2026-01-02 17:22:00
+   - Details: Transport Minister Daryl Vaz urging parents to register their children for the cashless system of the rural school bus program.
+   - NERs: Daryl Vaz, Jamaica
+
+4. **Venezuela's President on US Investment and Drug Trafficking (Host discussion)**: 
+   - Time range: 2026-01-02 17:22:00 - 2026-01-02 17:25:00
+   - Details: Venezuela's President Nicolas Maduro expressing willingness to receive US investment in the oil sector and to talk to the US about drug trafficking.
+   - NERs: Venezuela, Nicolas Maduro, United States
+
+5. **Swiss Bar Fire (Host discussion)**: 
+   - Time range: 2026-01-02 17:25:00 - 2026-01-02 17:28:00
+   - Details: Discussion on a deadly fire at a Swiss ski resort that killed 40 people and injured 119.
+   - NERs: Switzerland
+
+6. **Jamaica Football Federation (Host discussion)**: 
+   - Time range: 2026-01-02 17:25:00 - 2026-01-02 17:28:00
+   - Details: Appointment of Gregory Daley as the new General Secretary of the Jamaica Football Federation.
+   - NERs: Jamaica, Gregory Daley, Jamaica Football Federation
+
+7. **Sports News (Host discussion)**: 
+   - Time range: 2026-01-02 17:28:00 - 2026-01-02 17:30:00
+   - Details: Discussion on the All Manning and Older Custard teams, and the Australian cricketer Usman Qawaja's decision to retire from international cricket.
+   - NERs: Usman Qawaja, Australia
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are based on the host's discussions and news reports.

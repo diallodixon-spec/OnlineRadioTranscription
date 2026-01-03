@@ -1,0 +1,28 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Holiday Greetings (Host discussion)**: The host, Xavier Dixon, introduces the holiday segment and sends greetings to listeners and their families.
+	* Time range: 2026-01-02 11:30:31 - 11:31:31
+	* NERs: Xavier Dixon, NCU Media Group, Fraser Watson, Farsta Demar Watson, Delian Watson, Dermoy Watson
+2. **Music and Inspirational Messages (Host discussion)**: The host plays music and shares inspirational messages, including a narrative about changing habits.
+	* Time range: 2026-01-02 11:31:31 - 11:39:35
+	* NERs: Xavier Dixon, American Heart Association
+3. **Changing Habits and Behavior (Host discussion)**: The host discusses the topic of changing habits and behavior, using a narrative about a person named Mike and his dog Rex.
+	* Time range: 2026-01-02 11:39:35 - 11:47:39
+	* NERs: Mike, Rex, American Heart Association
+4. **Wellness and Self-Improvement (Host discussion)**: The host continues to discuss wellness and self-improvement, providing tips on how to change habits and behavior.
+	* Time range: 2026-01-02 11:47:39 - 11:57:39
+	* NERs: None
+5. **Prayer and Reflection (Host discussion)**: The host leads a prayer and reflection segment, giving thanks for the past year and seeking guidance for the new year.
+	* Time range: 2026-01-02 11:57:39 - 12:05:43
+	* NERs: God, Jesus, Holy Spirit
+6. **Music and Praise (Host discussion)**: The host plays music and leads a praise segment, worshiping and adoring God.
+	* Time range: 2026-01-02 12:05:43 - 12:15:44
+	* NERs: God
+7. **Station Identification and Closing (Host discussion)**: The host identifies the radio station and its locations, and closes the program.
+	* Time range: 2026-01-02 12:15:44 - 12:15:45
+	* NERs: NCUFM, Northern Caribbean University, Mandeville, Jamaica, Huntley, Manchester, Peter's Rock, St. Andrew, Bonnie Gate, St. Mary, Cooper's Hill, Portland, Flower Hill, St. James, Westmoreland, Lilyfield, St. Anne, Cabbage Hill, St. Thomas
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily discussed by the host, Xavier Dixon, in a solo format.

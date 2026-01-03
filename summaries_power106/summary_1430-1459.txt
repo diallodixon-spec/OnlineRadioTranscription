@@ -1,0 +1,32 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Hurricane Melissa and Road Safety** (2026-01-02 14:30:28 - 2026-01-02 14:31:28)
+	* Details: The host discusses the devastation caused by Hurricane Melissa and reminds listeners to stay alert and drive safely.
+	* NERs: Hurricane Melissa
+2. **Jamaican Sports** (2026-01-02 14:31:28 - 2026-01-02 14:33:31)
+	* Details: The host talks about Jamaican athletes' performances in the 100m Men's and Women's Finals at the World Championships, as well as the Men's 110m hurdles and 4x100m relay.
+	* NERs: Oblique Seville, Tina Clayton, Orlando Bennett, Tyler Mason, Jean Whisper Richards, Ronaldo Cifas, Trinidad and Tobago
+3. **Horse Racing** (2026-01-02 14:33:31 - 2026-01-02 14:34:31)
+	* Details: The host mentions the Jamaica Derby and the winner, I Dream Again.
+	* NERs: I Dream Again, Caymanas Park
+4. **From the Archives: New Year's Eve in Jamaica (1972)** (2026-01-02 14:34:31 - 2026-01-02 14:43:33)
+	* Details: The host discusses a story from the archives about how Jamaicans ushered in the new year in 1972, including worship services and parties.
+	* NERs: Jamaica, Reverend J.A. Leo Riney, Reverend TB Rose, East Queen Street Baptist Church, Koch Methodist Church
+5. **From the Archives: Education in Jamaica (1973)** (2026-01-02 14:43:33 - 2026-01-02 14:44:34)
+	* Details: The host talks about a story from the archives about the Minister of Education, Florizel Glasspole, and his plans for education in Jamaica for 1973-1977.
+	* NERs: Florizel Glasspole, Jamaica, Michael College, Jamaica Teachers Association
+6. **From the Archives: La Covia, St. Elizabeth (1975)** (2026-01-02 14:44:34 - 2026-01-02 14:46:42)
+	* Details: The host discusses a story from the archives about the town of La Covia in St. Elizabeth, including its history and layout.
+	* NERs: La Covia, St. Elizabeth, Alex D. Hawkes, Black River
+7. **Caller Interaction: Hurricane Relief and Government Response** (2026-01-02 14:47:42 - 2026-01-02 15:05:45)
+	* Details: The host takes calls from listeners discussing the government's response to Hurricane Melissa, including the distribution of aid and the restoration of electricity.
+	* NERs: Hurricane Melissa, Jamaica, Prime Minister, JPS, Mark Goldin, Daryl Vaz
+8. **Host discussion: Book Recommendation** (2026-01-02 15:05:45 - 2026-01-02 15:08:46)
+	* Details: The host recommends a book called "Jamaica Survey" and discusses its author, B.W. Higman.
+	* NERs: B.W. Higman, University of the West Indies, Jamaica
+9. **Host discussion: Lacovia's History** (2026-01-02 15:08:46 - 2026-01-02 15:08:46)
+	* Details: The host discusses the history of Lacovia, including its layout and ownership by the father of British Prime Minister John Gladstone.
+	* NERs: Lacovia, John Gladstone, Panama Canal, Panama Railway

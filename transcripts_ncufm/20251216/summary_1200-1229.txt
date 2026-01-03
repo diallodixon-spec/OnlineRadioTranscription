@@ -1,0 +1,31 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **News Update** (2025-12-16 12:00:03 - 2025-12-16 12:07:07)
+	* Details: The government of Venezuela terminated contracts with Trinidad and Tobago, Jamaica Council for Persons with Disabilities urged for accessible rebuilding, and the Jamaica Fire Brigade advised on fire safety.
+	* NERs: Venezuela, Trinidad and Tobago, Jamaica, Jamaica Council for Persons with Disabilities, Jamaica Fire Brigade
+2. **Weather Update** (2025-12-16 12:03:04 - 2025-12-16 12:04:04)
+	* Details: A trough is expected to remain across Jamaica, with a bridge building on Wednesday, and partly cloudy days with isolated showers.
+	* NERs: Jamaica, Meteorological Service of Jamaica
+3. **JIS Midday News** (2025-12-16 12:04:04 - 2025-12-16 12:09:07)
+	* Details: Jamaica welcomed 300,000 visitors after Hurricane Melissa, the government is examining state-owned lands for structured communities, and the Ministry of Labor is combating child labor.
+	* NERs: Jamaica, Hurricane Melissa, Trinidad and Tobago, Kamla Persad-Bissessar, Venezuela, Edmund Bartlett, Andrew Holness, Pernol Charles Jr., Ministry of Labour and Social Security
+4. **Ministry of Health Update** (2025-12-16 12:07:07 - 2025-12-16 12:09:07)
+	* Details: Damage to medical equipment in Western Jamaica amounts to $1.1 million, and repair work is expected to be completed by February.
+	* NERs: Jamaica, Ministry of Health and Wellness, Christopher Tufton, Elon Thompson
+5. **Host Discussion/Gospel Music** (2025-12-16 12:09:07 - 2025-12-16 12:22:12)
+	* Details: The host played gospel music and discussed the awesomeness of God.
+	* NERs: None
+6. **Wellness Bite** (2025-12-16 12:14:09 - 2025-12-16 12:15:09)
+	* Details: Oats are a good source of complex carbohydrates.
+	* NERs: None
+7. **Comic Strip** (2025-12-16 12:22:14 - 2025-12-16 12:25:14)
+	* Details: A humorous skit about being late and making excuses.
+	* NERs: None
+8. **Music** (2025-12-16 12:25:14 - 2025-12-16 12:28:16)
+	* Details: The host played music about being homesick for a country they've never been to.
+	* NERs: None
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are mostly news updates, weather updates, and host discussions, with some music and comic strips in between.

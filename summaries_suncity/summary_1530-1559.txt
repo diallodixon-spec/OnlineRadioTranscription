@@ -1,0 +1,34 @@
+Summary for time range 15:30 - 15:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and Music** (2026-01-02 15:30:13 - 2026-01-02 15:41:14)
+	* Host discussion: Introduction to the show, music, and advertisements.
+	* NERs: None
+2. **Rebuilding Jamaica** (2026-01-02 15:41:14 - 2026-01-02 15:43:14)
+	* Host discussion: Discussion on rebuilding Jamaica, with a focus on stopping violence and corruption.
+	* NERs: Jamaica
+3. **Fatherhood** (2026-01-02 15:43:14 - 2026-01-02 15:46:15)
+	* Host discussion: Discussion on the importance of fatherhood, including physical, mental, and spiritual aspects.
+	* NERs: None
+4. **Music and Entertainment** (2026-01-02 15:46:15 - 2026-01-02 15:55:22)
+	* Host discussion: Music and entertainment, including various songs and artists.
+	* NERs: None
+5. **Relationships and Heartbreak** (2026-01-02 15:55:22 - 2026-01-02 15:58:24)
+	* Host discussion: Discussion on relationships and heartbreak, with a focus on personal experiences and emotions.
+	* NERs: None
+6. **Introduction of Guests** (2026-01-02 15:58:24 - 2026-01-02 15:59:24)
+	* Interview: Introduction of guests, including Mr. Lex, QQ, and others.
+	* NERs: Mr. Lex, QQ
+7. **Music and Radio Promotion** (2026-01-02 15:59:24 - 2026-01-02 16:00:00)
+	* Host discussion: Promotion of Sun City Radio and its programming.
+	* NERs: Sun City Radio
+8. **Heartbreak and Regret** (2026-01-02 16:00:00 - 2026-01-02 16:05:24)
+	* Host discussion: Discussion on heartbreak and regret, with a focus on personal experiences and emotions.
+	* NERs: None
+9. **Motivation and Support** (2026-01-02 16:05:24 - 2026-01-02 16:08:24)
+	* Host discussion: Discussion on motivation and support, with a focus on uplifting and encouraging listeners.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to interpretation and may not be exhaustive.

@@ -1,0 +1,41 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisement for Distinction College** (2026-01-02 19:00:04 - 2026-01-02 19:01:04)
+	* Topic: Education, Career Development
+	* NERs: Distinction College, City & Gills, AVE Indoor Certification
+	* Details: The advertisement promotes Distinction College's courses in hospitality and tourism, highlighting the demand for workers in the industry globally.
+2. **Rebuilding Jamaica Vision 2030** (2026-01-02 19:01:04 - 2026-01-02 19:02:04)
+	* Topic: National Development, Host discussion
+	* NERs: Jamaica, Vision 2030
+	* Details: The host introduces the concept of Rebuilding Jamaica Vision 2030, emphasizing the importance of collective effort to achieve the vision.
+3. **JIS Evening News** (2026-01-02 19:02:04 - 2026-01-02 19:07:07)
+	* Topic: News, Host discussion
+	* NERs: JIS, Jamaica, Vaughn Davis, Daryl Vaz, Republic of Korea, Kamila Johnson-Smith
+	* Details: The news segment covers various topics, including equipment arrival for electricity restoration, National Housing Trust's refund period, and Jamaica's receipt of funds from the Republic of Korea for hurricane recovery efforts.
+4. **National Housing Trust Refund Period** (2026-01-02 19:03:05 - 2026-01-02 19:04:05)
+	* Topic: Finance, Host discussion
+	* NERs: National Housing Trust, Jamaica
+	* Details: The segment explains the refund period for qualified contributors, highlighting the importance of accurate information and caution against fraudulent activities.
+5. **Fraudulent Customs Brokers** (2026-01-02 19:04:05 - 2026-01-02 19:05:06)
+	* Topic: Crime, Host discussion
+	* NERs: Newport West Police Formation, Superintendent Rochelle McGibbon-Scott, Jamaica
+	* Details: The segment warns the public about fraudulent customs brokers, particularly those targeting individuals overseas.
+6. **Hurricane Recovery Efforts** (2026-01-02 19:05:06 - 2026-01-02 19:06:06)
+	* Topic: Disaster Relief, Host discussion
+	* NERs: Republic of Korea, Kamila Johnson-Smith, Jamaica
+	* Details: The segment reports on the donation from the Republic of Korea to support Jamaica's hurricane recovery efforts.
+7. **Music and Inspirational Messages** (2026-01-02 19:07:07 - 2026-01-02 19:28:15)
+	* Topic: Entertainment, Host discussion
+	* NERs: None
+	* Details: The segments feature various musical performances and inspirational messages, including a moment of grace with the Grace Thrillers and a song by Denise Marson.
+8. **Sun City Radio Promotions** (2026-01-02 19:08:07 - 2026-01-02 19:09:07)
+	* Topic: Radio Promotion, Host discussion
+	* NERs: Sun City Radio, British Airways, Kalia
+	* Details: The segment promotes Sun City Radio, highlighting its availability online and through mobile apps.
+9. **Inspirational Music** (2026-01-02 19:09:07 - 2026-01-02 19:28:15)
+	* Topic: Entertainment, Host discussion
+	* NERs: None
+	* Details: The segments feature various inspirational musical performances, including songs about faith, hope, and perseverance.

@@ -1,0 +1,30 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Sports Discussion (Host discussion)**: The time range for this topic is 2026-01-02 19:00:04 - 2026-01-02 19:01:04. The host discusses Manchester City and Chelsea, and their potential performance in an upcoming game. 
+   - NERs mentioned: Manchester City, Chelsea
+
+2. **Friends of Region 6 Awards (Host discussion)**: The time range for this topic is 2026-01-02 19:01:04 - 2026-01-02 19:03:06. The host talks about the Friends of Region 6 awards, which recognize excellence in schools in St. Catherine, Jamaica.
+   - NERs mentioned: Friends of Region 6, St. Catherine, Jamaica, Ministry of Education
+
+3. **Awards and Recognition (Host discussion)**: The time range for this topic is 2026-01-02 19:03:06 - 2026-01-02 19:04:06. The host mentions the awardees, including Teacher of the Year, Support Staff Member of the Year, and Principal of the Year.
+   - NERs mentioned: Enid Bennett High School, Old Arbor High School, Greater Portmore High School
+
+4. **Jamaican Heritage and Tourism (Host discussion)**: The time range for this topic is 2026-01-02 19:04:06 - 2026-01-02 19:07:10. The host discusses Sam Sharp, a national hero of Jamaica, and the Kata Gupa Heritage and Eco Tour.
+   - NERs mentioned: Sam Sharp, Jamaica, Kata Gupa, St. James
+
+5. **Community Recognition (Host discussion)**: The time range for this topic is 2026-01-02 19:07:10 - 2026-01-02 19:09:12. The host talks about recognizing and honoring community members for their contributions.
+   - NERs mentioned: Kingston, Trench Town, Bob Marley
+
+6. **Music and Tribute (Host discussion)**: The time range for this topic is 2026-01-02 19:11:16 - 2026-01-02 19:12:18. The host pays tribute to Jimmy Cliff and plays his music.
+   - NERs mentioned: Jimmy Cliff
+
+7. **Sports Update and History (Host discussion)**: The time range for this topic is 2026-01-02 19:12:18 - 2026-01-02 19:17:21. The host discusses Sir Clive Lloyd, a West Indian cricketer, and his achievements.
+   - NERs mentioned: Sir Clive Lloyd, West Indies
+
+8. **Horse Racing and Industry Issues (Host discussion)**: The time range for this topic is 2026-01-02 19:17:21 - 2026-01-02 19:28:28. The host talks about horse racing, the claiming system, and issues affecting the industry in Jamaica.
+   - NERs mentioned: Jamaica, Caymanas Park, Supreme Ventures
+
+Note: The topics are not mutually exclusive, and some may overlap. The time ranges are approximate and based on the provided transcripts.

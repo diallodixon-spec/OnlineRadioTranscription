@@ -1,0 +1,28 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Christmas Music (Host discussion)**: The host introduces the show and plays Christmas music, specifically Celine Dion's rendition of "O Come, All Ye Faithful". 
+   - Time range: 2025-12-16 18:00:02 - 2025-12-16 18:10:10
+   - NERs: Celine Dion
+
+2. **Financial Literacy Tip (Host discussion)**: The host provides a financial literacy tip, discussing the importance of having a positive relationship with money and how it can evolve over time.
+   - Time range: 2025-12-16 18:11:11 - 2025-12-16 18:12:13
+   - NERs: None
+
+3. **Interview with Mrs. Faith Crooks (Interview)**: The host interviews Mrs. Faith Crooks, president of the Cayman Islands Netball Association, about the association's recent tour to Jamaica and their goals for improving the team's ranking.
+   - Time range: 2025-12-16 18:12:13 - 2025-12-16 18:28:25
+   - NERs: Mrs. Faith Crooks, Cayman Islands, Jamaica, Jean Pierre, Martin Bay High School, University of Tennessee, Jordan, Julian, Mr. Dalton, Nadia Adams-Richards
+
+4. **Promotion of Other Radio Shows (Host discussion)**: The host promotes other radio shows, including "Power Talk" and "The Bottom Line with Rod Sten Hyman".
+   - Time range: 2025-12-16 18:15:16 - 2025-12-16 18:16:16
+   - NERs: Dr. Herbert Gayle, Simon Crosskill, Rod Sten Hyman
+
+5. **Discussion on Netball and Elite Parenting (Interview)**: The host continues the interview with Mrs. Faith Crooks, discussing her experience as an elite parent and the challenges of raising children who are involved in sports.
+   - Time range: 2025-12-16 18:16:16 - 2025-12-16 18:28:25
+   - NERs: Mrs. Faith Crooks, Jordan, Julian, Cayman Islands, Jamaica
+
+6. **Funding and Development of Netball in the Cayman Islands (Interview)**: The host and Mrs. Faith Crooks discuss the funding and development of netball in the Cayman Islands, including the challenges of recruiting coaches and players.
+   - Time range: 2025-12-16 18:22:22 - 2025-12-16 18:28:25
+   - NERs: Mrs. Faith Crooks, Cayman Islands, Nadia Adams-Richards, ECCB, Grenada

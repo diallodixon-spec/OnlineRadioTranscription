@@ -1,0 +1,26 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **News and Current Events in Jamaica** (2025-12-16 13:00:01 - 2025-12-16 13:02:01)
+	* Topics: Electricity rate increase, Hurricane Melissa, National Energy Recertification Program, Student Loan Bureau's Debt Reset Program
+	* NERs: Jamaica, Small Business Association of Jamaica (SBAJ), Office of Utilities Regulation (OUR), Jamaica Public Service Company, Garnett Reed, National Energy Poverty Reduction Project, Ministry of Energy, Jamaica Social Investment Fund (JSIF), Omar Sweeney
+2. **Music and Entertainment** (2025-12-16 13:06:03 - 2025-12-16 13:14:07)
+	* Topics: Music playback, song requests
+	* NERs: None
+3. **Marketplace and Advertising** (2025-12-16 13:15:07 - 2025-12-16 13:17:08)
+	* Topics: NWC MSME amnesty, People's Leather Supplies sale, Chords' Christmas sale
+	* NERs: NWC, People's Leather Supplies, Chords
+4. **Host Discussion** (2025-12-16 13:20:10 - 2025-12-16 13:26:14)
+	* Topics: Road conditions, potholes, traffic, road works
+	* NERs: Kingston, St. Andrews, Portmore
+5. **Host Discussion and Caller Interaction** (2025-12-16 13:27:15 - 2025-12-16 13:28:16)
+	* Topics: WhatsApp family, listener interaction
+	* NERs: None
+6. **Interview** (2025-12-16 13:29:17 - 2025-12-16 13:30:18)
+	* Not a traditional interview, but rather a conversation between the hosts and a listener/caller
+	* Topics: Television show, camera work
+	* NERs: None
+
+Note that some of these topics may overlap or be related to each other, but I have tried to break them down into distinct categories based on the content of the transcripts.

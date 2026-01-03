@@ -1,0 +1,25 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Moral Absolutes and Biblical Standards** (2026-01-02 18:00:01 - 18:02:01)
+	* Details: The host, Donald Blake, discusses the rejection of moral standards and the importance of biblical standards in today's society.
+	* NERs: Donald Blake, Reverend Mark Dawes
+2. **Host discussion: Introduction to the Show** (2026-01-02 18:02:01 - 18:03:03)
+	* Details: The host introduces the show and its format, which includes discussions on sports, entertainment, and other topics.
+	* NERs: Donald Blake
+3. **Host discussion: Sports and Entertainment** (2026-01-02 18:03:03 - 18:06:04)
+	* Details: The host discusses various sports and entertainment topics, including the passing of Jimmy Cliff and the upcoming horse racing event at Caymanas Park.
+	* NERs: Jimmy Cliff, Donald Blake
+4. **Interview: Tim Vickery on South American Football** (2026-01-02 18:19:13 - 18:28:18)
+	* Details: The host interviews Tim Vickery, a British sports correspondent, about South American football, including the rise of Ecuadorian football and the upcoming Intercontinental Cup final between Flamengo and Paris Saint-Germain.
+	* NERs: Tim Vickery, Donald Blake
+5. **Host discussion: Power Picks and Caller Interaction** (2026-01-02 18:12:09 - 18:13:09)
+	* Details: The host invites listeners to participate in the "Power Picks" segment, where they can predict the outcomes of English Premier League matches.
+	* NERs: Donald Blake
+6. **Host discussion: Jamaican Sports and Culture** (2026-01-02 18:16:12 - 18:17:12)
+	* Details: The host discusses various Jamaican sports and cultural topics, including the performance of Jamaican athletes in international competitions.
+	* NERs: Donald Blake, Tina Clayton, Orlando Bennett, Tyler Mason, Dejaune Whisper-Richards, Ronaldo Cifas
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

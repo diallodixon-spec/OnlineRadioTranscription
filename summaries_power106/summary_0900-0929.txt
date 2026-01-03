@@ -1,0 +1,31 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Music** (2026-01-02 09:00:03 - 09:03:03): The host, Kemoe McEachron, introduces the show and plays music.
+	* Details: The host thanks the producers and technical operator, and introduces the next segment.
+	* NERs: Kemoe McEachron, Jesse Blake, Kareem Bradford, Davin Thomas
+2. **Host Discussion - Business News** (2026-01-02 09:04:03 - 09:07:07): The hosts, Andrea Sutherland and Ms. Raulston Hyman, discuss business news, including net remittance flows to Jamaica and the US government's tax on these flows.
+	* Details: The hosts discuss the impact of the tax on remittance flows and the minister of finance's statement on the matter.
+	* NERs: Andrea Sutherland, Ms. Raulston Hyman, Jamaica, US
+3. **Host Discussion - Global Markets** (2026-01-02 09:07:07 - 09:09:07): The hosts discuss global market trends, including the Dow Jones Industrial Average, Standard & Poor's 500, and NASDAQ.
+	* Details: The hosts discuss the performance of these indices and the factors affecting them.
+	* NERs: Dow Jones Industrial Average, Standard & Poor's 500, NASDAQ, US
+4. **Host Discussion - Economics** (2026-01-02 09:09:07 - 09:11:07): The hosts discuss economic topics, including inflation, interest rates, and trade wars.
+	* Details: The hosts discuss the impact of trade wars on the economy and the role of central banks in setting interest rates.
+	* NERs: US, China, Donald Trump, Xi Jinping, Federal Reserve
+5. **Host Discussion - Jamaica's Economy** (2026-01-02 09:11:07 - 09:15:15): The hosts discuss Jamaica's economy, including the country's agreement with the International Monetary Fund and its economic performance.
+	* Details: The hosts discuss Jamaica's economic growth, inflation, and trade deficit.
+	* NERs: Jamaica, International Monetary Fund, Michael Manley
+6. **Interview - Vincent Morris** (2026-01-02 09:28:17 - unknown): The host interviews Vincent Morris, the President of the UK, about policy and implementation expectations from the government.
+	* Details: The host discusses the interview with Vincent Morris, but the actual interview is not transcribed.
+	* NERs: Vincent Morris, UK
+7. **Interview - Christopher Thomas** (2026-01-02 09:28:17 - unknown): The host interviews Christopher Thomas, Senior Investment Advisor at Mayberry Investment Group Limited, about developments in the local equities and bond markets.
+	* Details: The host discusses the interview with Christopher Thomas, but the actual interview is not transcribed.
+	* NERs: Christopher Thomas, Mayberry Investment Group Limited
+8. **Host Discussion - Agriculture** (2026-01-02 09:28:17 - unknown): The host discusses agriculture, including the impact of Hurricane Melissa on the sector.
+	* Details: The host discusses the recovery of the agricultural sector after the hurricane.
+	* NERs: Hurricane Melissa, Jamaica
+
+Note: The time ranges for the topics are approximate and based on the provided transcripts. The actual time ranges may vary depending on the audio recording.

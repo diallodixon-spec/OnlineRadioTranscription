@@ -1,0 +1,26 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Host discussion** (2026-01-02 10:00:00 - 2026-01-02 10:05:06)
+	* Details: The host, filling in for Tyrone Reed, introduces the program and discusses the new year, birthday wishes for Cliff Hughes, and the program's schedule.
+	* NERs: Cliff Hughes, Tyrone Reed, Jamaica
+2. **Crime reduction in Jamaica and Host discussion** (2026-01-02 10:07:07 - 2026-01-02 10:13:12)
+	* Details: The host discusses the reduction in murders in Jamaica in 2025 and attributes it to the vision and policy determination of the Andrew Holness administration.
+	* NERs: Andrew Holness, Jamaica, Horace Chang
+3. **Daring to dream for Jamaica's future and Host discussion** (2026-01-02 10:13:12 - 2026-01-02 10:17:15)
+	* Details: The host encourages listeners to dare to dream for a better future for Jamaica, ignoring cynics and focusing on the country's potential.
+	* NERs: Jamaica
+4. **Economic resilience and Host discussion** (2026-01-02 10:17:15 - 2026-01-02 10:20:20)
+	* Details: The host discusses Jamaica's economic resilience, citing the country's ability to weather the COVID-19 pandemic and its current status as a poster child for resilience.
+	* NERs: Jamaica, COVID-19
+5. **Caller interaction: St. William's Grand Park closure** (2026-01-02 10:19:16 - 2026-01-02 10:23:20)
+	* Details: A caller inquires about the closure of St. William's Grand Park in downtown Kingston, and the host discusses the issue with the caller.
+	* NERs: St. William's Grand Park, Kingston, KSAMC (Kinston and St. Andrew Municipal Corporation)
+6. **Caller interaction: Government accountability and leadership** (2026-01-02 10:23:20 - 2026-01-02 10:27:21)
+	* Details: A caller discusses the need for government accountability and leadership, citing issues with bus fares and the distribution of funds.
+	* NERs: Jamaica, Government
+7. **Caller interaction: Church funding and government grants** (2026-01-02 10:27:21 - 2026-01-02 10:30:20)
+	* Details: A caller inquires about the government's funding of churches and the host discusses the issue with the caller.
+	* NERs: Jamaica, Government, Church

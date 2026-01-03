@@ -1,0 +1,6 @@
+WAV File Transcription
+Source: NCUFM_recording_20251210_163428_seg034.wav
+Date: 2025-12-10 16:40:41
+============================================================
+
+I hope you remember when we were doing decimal places earlier, especially at the primary level. Now we're at CSE to 9. You see, you'll notice that if you move the decimal place from where it is and go past 3, the number will become 32, so that would be wrong. So you would have to move the decimal place in between the 3 and the 2, which would have made that become 3 3.2 you're going to count how many spaces you move so based on this is 1 2 3 4 places that's going to be times 10 raised to the 4 so this

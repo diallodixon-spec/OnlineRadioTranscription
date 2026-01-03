@@ -1,0 +1,22 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **News Update** (2025-12-16 09:00:02 - 09:03:03)
+	* Topics: U.S. President Donald Trump considering rescheduling ganja, Jamaicans for Justice lamenting limited use of Child Diversion Act, police search for robbery suspects in St. James, Jamaica deploying security forces to Haiti
+	* NERs: Donald Trump, Jamaicans for Justice, Jamaica, Haiti, St. James
+2. **Host Discussion** (2025-12-16 09:06:04 - 09:09:07)
+	* Topics: Christmas celebrations, budgeting, economic rescheduling, employee motivation
+	* NERs: None
+3. **Caller Interaction** (2025-12-16 09:16:13 - 09:20:14)
+	* Topics: Increased light bills, JPS, Water Commission, Flow, government assistance
+	* NERs: JPS, Water Commission, Flow, Jamaica
+4. **Interview** (2025-12-16 09:27:18 - 09:28:18)
+	* Topics: Trans Jam Highway's hurricane relief effort, support for affected communities
+	* NERs: Trans Jam Highway, Ivan Anderson, TransDram, Black River
+5. **Advertisements and Promotions** (2025-12-16 09:04:04 - 09:22:14, 09:25:17 - 09:26:18)
+	* Topics: NHD, BPM Financial, Flow, Chords, AXIS Financial, Consumer Affairs Commission, Tenron Engineering Services Limited
+	* NERs: NHD, BPM Financial, Flow, Chords, AXIS Financial, Consumer Affairs Commission, Tenron Engineering Services Limited
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context of the discussion.

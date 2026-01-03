@@ -1,0 +1,34 @@
+Summary for time range 17:30 - 17:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Positivity** (2026-01-02 17:30:20 - 2026-01-02 17:36:23)
+	* Details: The host is discussing the power of music and positivity, encouraging listeners to let go of negative vibes and focus on good vibes.
+	* NERs: None
+2. **Inspirational Music** (2026-01-02 17:36:23 - 2026-01-02 17:44:28)
+	* Details: The host is playing and discussing inspirational music, with lyrics that promote faith, hope, and perseverance.
+	* NERs: God, Lord
+3. **Love and Relationships** (2026-01-02 17:44:28 - 2026-01-02 17:54:29)
+	* Details: The host is playing and discussing music about love and relationships, with lyrics that express longing, devotion, and heartbreak.
+	* NERs: None
+4. **Petrojam Advertisement** (2026-01-02 17:54:29 - 2026-01-02 17:55:30)
+	* Details: A commercial advertisement for Petrojam, a Jamaican energy company, is being played.
+	* NERs: Petrojam, Jamaica
+5. **Poetry and Music** (2026-01-02 17:55:30 - 2026-01-02 18:03:32)
+	* Details: The host is discussing and playing music that incorporates poetry and lyrical themes of love, relationships, and social commentary.
+	* NERs: None
+6. **Social Commentary and Relationships** (2026-01-02 18:03:32 - 2026-01-02 18:08:34)
+	* Details: The host is discussing and playing music that addresses social issues and relationships, with lyrics that promote self-reflection and personal growth.
+	* NERs: None
+7. **Host Discussion** (2026-01-02 18:08:34 - 2026-01-02 18:12:35)
+	* Details: The host is engaging in a discussion about the importance of good radio stations and the role of Roots FM 96.1 in promoting positive music and messages.
+	* NERs: Roots FM 96.1
+8. **Love and Relationships** (2026-01-02 18:12:35 - 2026-01-02 18:17:36)
+	* Details: The host is playing and discussing music about love and relationships, with lyrics that express devotion, longing, and heartbreak.
+	* NERs: None
+9. **Social Commentary** (2026-01-02 18:17:36 - 2026-01-02 18:23:37)
+	* Details: The host is discussing and playing music that addresses social issues, with lyrics that promote unity, selflessness, and personal growth.
+	* NERs: None
+
+Note that some of these topics may overlap or be intertwined, and the time ranges are approximate. Additionally, there are no interviews or caller interactions in the provided transcripts.

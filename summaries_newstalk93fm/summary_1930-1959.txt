@@ -1,0 +1,31 @@
+Summary for time range 19:30 - 19:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Singing** (2026-01-02 19:30:22 - 2026-01-02 19:58:37)
+	* Details: The host(s) are playing and discussing various songs, with lyrics about love, relationships, and emotions.
+	* NERs: None
+2. **Relationships and Love** (2026-01-02 19:30:22 - 2026-01-02 19:58:37)
+	* Details: The host(s) are discussing and singing about relationships, love, and emotions, with a focus on romantic partnerships and personal connections.
+	* NERs: None
+3. **Host Discussion** (2026-01-02 19:30:22 - 2026-01-02 19:58:37)
+	* Details: The host(s) are discussing various topics, including music, relationships, and emotions, in a conversational format.
+	* NERs: None
+4. **Music Introduction and Station ID** (2026-01-02 19:58:26 - 2026-01-02 19:58:37)
+	* Details: The host introduces a new song and announces the radio station's name, "Sleek Radio 93 FM".
+	* NERs: Sleek Radio 93 FM
+5. **Song Lyrics and Music** (2026-01-02 19:58:37 - 2026-01-02 20:05:34)
+	* Details: The host(s) are playing and discussing various songs, with lyrics about love, relationships, and emotions.
+	* NERs: None
+6. **Barbie and Ex-Relationship** (2026-01-02 20:05:34 - 2026-01-02 20:05:37)
+	* Details: The host(s) are discussing a song about an ex-relationship and someone named Barbie.
+	* NERs: Barbie
+7. **Romantic Obsession** (2026-01-02 20:05:37 - 2026-01-02 20:05:58)
+	* Details: The host(s) are discussing a song about someone who is obsessed with an ex-partner and continues to send them messages and gifts.
+	* NERs: None
+8. **Personal Growth and Self-Discovery** (2026-01-02 20:05:58 - 2026-01-02 20:05:83)
+	* Details: The host(s) are discussing a song about someone who is finding their place and identity, and learning to believe in themselves.
+	* NERs: None
+
+Note that the time ranges are approximate and based on the provided transcripts. The topics and details may not be exhaustive, as the transcripts may not provide a complete picture of the discussion.

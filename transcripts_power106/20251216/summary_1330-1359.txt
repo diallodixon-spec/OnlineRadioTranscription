@@ -1,0 +1,22 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **JPS and Electricity Bill Increase, Host discussion, Caller interaction** (2025-12-16 13:30:22 - 2025-12-16 13:57:42)
+	* Details: The host and callers discuss the recent increase in electricity bills by JPS, the government's role in the increase, and the impact on the people of Jamaica.
+	* NERs: JPS, Jamaica, Government of Jamaica, Dr. Andrew Holness, Trinidad, Venezuela, United States, CARICOM
+2. **US Influence in the Caribbean, Host discussion, Caller interaction** (2025-12-16 13:37:27 - 2025-12-16 13:56:40)
+	* Details: The host and callers discuss the US influence in the Caribbean, the concept of the "American Lake," and the impact of US foreign policy on the region.
+	* NERs: United States, Caribbean, Trinidad, Venezuela, Jamaica, CARICOM
+3. **Money Transfer Issues, Caller interaction** (2025-12-16 13:40:27 - 2025-12-16 13:43:31)
+	* Details: A caller shares their experience with a money transfer issue and the host discusses the problem of cashless transactions and the impact on individuals.
+	* NERs: None
+4. **JPS Contract and Government Responsibility, Host discussion, Caller interaction** (2025-12-16 13:51:37 - 2025-12-16 13:57:42)
+	* Details: The host and callers discuss the JPS contract, the government's responsibility in the increase, and the need for transparency and accountability.
+	* NERs: JPS, Government of Jamaica, Dr. Andrew Holness
+5. **US-Trinidad Relations and Oil Assets, Host discussion, Caller interaction** (2025-12-16 13:56:40 - 2025-12-16 13:57:42)
+	* Details: The host and callers discuss the US-Trinidad relations, the freezing of Trinidad's oil assets, and the impact on the region.
+	* NERs: United States, Trinidad, Venezuela, Norway
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics may overlap or continue across multiple segments.

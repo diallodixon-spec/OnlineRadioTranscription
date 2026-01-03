@@ -1,0 +1,19 @@
+Summary for time range 15:30 - 15:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed are:
+
+1. **Host discussion and Introduction to upcoming segments** (2026-01-02 15:30:18 - 2026-01-02 15:31:19)
+	* Details: The host introduces the upcoming segments, including the 2025 Year in Review and an interview with Britton Wright, a poet and co-founder of Jaiku.
+	* NERs: None
+2. **Interview with Britton Wright** (2026-01-02 15:32:00 - 2026-01-02 15:58:38)
+	* Details: The host interviews Britton Wright, discussing his interest in poetry, his writing process, and his experiences as a poet. They also talk about the world of poetry, the diaspora, and the importance of mental health.
+	* NERs: Britton Wright, Jaiku, Jamaica, Barbados, Caribbean, Canada, UK, US, National Library of Jamaica, Mbala, Fabian Thomas, Tanisha Bent, Silo, St. Elizabeth
+3. **Britton Wright's poetry performance** (2026-01-02 15:53:32 - 2026-01-02 15:57:37)
+	* Details: Britton Wright performs two poems, one on mental health and another on Jamaican culture.
+	* NERs: None
+4. **Conclusion and upcoming events** (2026-01-02 15:57:38 - 2026-01-02 15:58:38)
+	* Details: The host thanks Britton Wright for his performance and discusses upcoming events, including potential collaborations with the poetic society.
+	* NERs: Jaiku, Poetic Society, Britain Wright
+
+Note: The time ranges are approximate and based on the provided transcripts.

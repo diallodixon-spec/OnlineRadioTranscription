@@ -1,0 +1,28 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisement and Promotions** (2025-12-16 16:00:02 - 2025-12-16 16:02:03)
+	* Details: The host discusses various promotions and advertisements, including a chance to win $500,000 with Frigidaire, a mattress sale, and a competition called "Jackie."
+	* NERs: Jamaica Customs Agency, Frigidaire, Singer, Ministry of Health and Wellness
+2. **Host discussion - Rebuilding Jamaica** (2025-12-16 16:06:05 - 2025-12-16 16:07:05)
+	* Details: The host, Shireen, discusses the topic of rebuilding Jamaica, referencing Vision 2030.
+	* NERs: Jamaica, Vision 2030
+3. **Sports discussion - Football game** (2025-12-16 16:07:05 - 2025-12-16 16:09:06)
+	* Details: The host engages in a fictional football game commentary, mentioning various team members and their actions.
+	* NERs: None
+4. **Music and Entertainment** (2025-12-16 16:09:06 - 2025-12-16 16:19:10)
+	* Details: The host plays and discusses various songs, including "Focus" by Badda Bling.
+	* NERs: Badda Bling, Sun City, DJ Sanjay, Guyana
+5. **Host interaction - Shoutouts** (2025-12-16 16:14:08 - 2025-12-16 16:16:09)
+	* Details: The host gives shoutouts to various individuals, including Massica, Weedseed, Johnny Mega, and DJ Sanjay.
+	* NERs: Massica, Weedseed, Johnny Mega, DJ Sanjay, Guyana
+6. **Music discussion - Song analysis** (2025-12-16 16:19:10 - 2025-12-16 16:28:14)
+	* Details: The host analyzes and discusses various songs, including their lyrics and meanings.
+	* NERs: None
+7. **Host discussion - Relationships and Love** (2025-12-16 16:28:14 - 2025-12-16 16:30:00)
+	* Details: The host discusses relationships and love, referencing various songs and their lyrics.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context.

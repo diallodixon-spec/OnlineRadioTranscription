@@ -1,0 +1,28 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Music and Entertainment (Host discussion)**: The host discusses various music tracks, artists, and upcoming events, including a Christmas party on Boxing Day (December 26) and a Soca event (although the latter is delayed until next year). 
+   - Time range: 2025-12-16 18:00:02 - 2025-12-16 18:28:14
+   - NERs mentioned: Aksa, DJ Marvin, DJ Liquid, DJ Nico, DJ Mark Chin, Michael Phillips, Bounty Killer, Sizzler
+
+2. **Business and Industry (Host discussion)**: The host talks about the history of the West Indies Synthetics Company Limited (Wysinko) and its evolution over the years, including the formation of the Wessinka Group Limited. 
+   - Time range: 2025-12-16 18:02:03 - 2025-12-16 18:03:03
+   - NERs mentioned: Ferdinand, Sam Jr., Joe, Robin, Andrew Mahfood, William Mahfood
+
+3. **Advertisement (Host discussion)**: The host advertises Jamaica Aggregates, a construction aggregate supplier, and promotes their services and locations. 
+   - Time range: 2025-12-16 18:04:04 - 2025-12-16 18:04:04
+   - NERs mentioned: Jamaica Aggregates
+
+4. **Caller Interaction**: The host interacts with callers, including those wishing to send birthday greetings or simply enjoying the music. 
+   - Time range: 2025-12-16 18:10:06 - 2025-12-16 18:28:14
+   - NERs mentioned: Marcia, Nikki, Kevin, Teddy, Sunflower, Millie, Maxine, Raven, Shan, Aksah, Tony T, Sophia, Angie, Sir, DJ Fire Dean, Antoinette, Mini J, Shadi, Ten, Mikey, Mickey, Heinz, Marshal, Chris, Money Mike
+
+5. **Dancehall Music (Host discussion)**: The host discusses the state of dancehall music, emphasizing the need for more artists who primarily sing on dancehall beats. 
+   - Time range: 2025-12-16 18:14:08 - 2025-12-16 18:15:08
+   - NERs mentioned: No Lies, Bounty Killer, Sizzler
+
+6. **Soca Events (Host discussion)**: The host mentions the delay of Soca events due to burial and prioritizing relief aid but looks forward to next year's events. 
+   - Time range: 2025-12-16 18:26:13 - 2025-12-16 18:26:13
+   - NERs mentioned: Soka Junkies

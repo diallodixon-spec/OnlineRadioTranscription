@@ -1,0 +1,35 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction to the Jamaican Dads Podcast and Nationwide 90 FM** (2026-01-02 13:00:02 - 13:01:02)
+	* Topic: Introduction to the hosts and the podcast
+	* NERs: Dennis Brooks, Alan Campbell, Floyd Green, Garth Williams, Jamaica, Nationwide 90 FM
+	* Details: The hosts introduce themselves and the Jamaican Dads podcast, which aims to provide a safe space for men to discuss taboo topics related to masculinity.
+2. **Earthquake and Radio Station Introduction** (2026-01-02 13:01:02 - 13:02:03)
+	* Topic: Host discussion, introduction to the radio station
+	* NERs: Nationwide 90 FM, Budapest, Hungary
+	* Details: The hosts mention an earthquake and introduce the radio station, Nationwide 90 FM, and its various programs.
+3. **Entertainment Block Introduction** (2026-01-02 13:03:03 - 13:07:07)
+	* Topic: Host discussion, introduction to the entertainment block
+	* NERs: Nationwide 90 FM, E-Zone Entertainment Block
+	* Details: The host introduces the entertainment block and welcomes listeners to the program.
+4. **Music and Reggae** (2026-01-02 13:07:07 - 13:16:12)
+	* Topic: Music, reggae
+	* NERs: DJ Jeroz, Iron Lion, Jamaica
+	* Details: The host plays reggae music and discusses the genre.
+5. **Spirituality and Faith** (2026-01-02 13:16:12 - 13:23:17)
+	* Topic: Spirituality, faith
+	* NERs: Jah, God
+	* Details: The host discusses spirituality and faith, playing music that reflects these themes.
+6. **Artist Introduction and Music** (2026-01-02 13:23:17 - 13:27:22)
+	* Topic: Music, artist introduction
+	* NERs: Spanish Town, Ensam City, De La Vagan
+	* Details: The host introduces an artist from Spanish Town and plays their music.
+7. **Family and Relationships** (2026-01-02 13:27:22 - 13:28:23)
+	* Topic: Family, relationships
+	* NERs: None
+	* Details: The host discusses the importance of family and relationships, playing music that reflects these themes.
+
+Note that some of these topics may overlap or be discussed in multiple segments, but I have tried to break them down into distinct topics based on the content of the transcripts.

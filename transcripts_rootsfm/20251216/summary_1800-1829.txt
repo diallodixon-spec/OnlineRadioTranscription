@@ -1,0 +1,22 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Christmas Music and Host Discussion** (2025-12-16 18:00:02 - 2025-12-16 18:26:15)
+	* Details: The host plays and discusses various Christmas songs, including "O Holy Night", "Santa Claus is Coming to Town", "Driving Home for Christmas", and "I'll Be Home for Christmas".
+	* NERs: Jesus, Santa Claus
+2. **Hawaiian Christmas and Host Discussion** (2025-12-16 18:28:11 - 2025-12-16 18:21:11)
+	* Details: The host plays and discusses the song "Mele Kalikimaka", a Hawaiian Christmas song.
+	* NERs: Hawaii, Mele Kalikimaka
+3. **Winter Love and Host Discussion** (2025-12-16 18:21:13 - 2025-12-16 18:23:13)
+	* Details: The host plays and discusses the song "Winter World of Love", a romantic winter-themed song.
+	* NERs: None
+4. **Christmas Reflections and Host Discussion** (2025-12-16 18:24:14 - 2025-12-16 18:26:15)
+	* Details: The host plays and discusses songs that reflect on the true meaning of Christmas, including "Winter World of Love" and "I Believe in Father Christmas".
+	* NERs: Israelite, Father Christmas
+5. **Holiday Wishes and Host Discussion** (2025-12-16 18:26:15 - 2025-12-16 18:28:16)
+	* Details: The host wishes listeners a hopeful Christmas and a brave new year, and plays songs that fit the theme, including "I Wish You a Merry Christmas" and "Baby, It's Cold Outside".
+	* NERs: None
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on Christmas music and host discussions.

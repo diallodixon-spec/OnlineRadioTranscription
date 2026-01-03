@@ -1,0 +1,28 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisement and Introduction** (2025-12-16 15:00:02 - 2025-12-16 15:01:02)
+	* Topic: Introduction to the radio show and advertisement for LG products and Singer.
+	* NERs: LG, Singer
+2. **Rebuilding Jamaica and Stop Violence** (2025-12-16 15:02:02 - 2025-12-16 15:07:05)
+	* Topic: Host discussion on rebuilding Jamaica, stopping violence, and promoting positive change.
+	* NERs: Jamaica, Sun City Radio, Shireen
+3. **Hurricane Melissa and Rebuilding Efforts** (2025-12-16 15:07:05 - 2025-12-16 15:14:07)
+	* Topic: Host discussion on Hurricane Melissa's impact on Jamaica and rebuilding efforts.
+	* NERs: Hurricane Melissa, Jamaica, Sagicor Sigma Run, National Baking Company, Sagicor Foundations, Reggae Marathon, Whistling Park, Sun City
+4. **Music and Conscious Vibes** (2025-12-16 15:14:07 - 2025-12-16 15:19:10)
+	* Topic: Host discussion on music and promoting conscious vibes.
+	* NERs: Bizzy Signal, Conscious Vibes
+5. **Song Premieres and Music Discussion** (2025-12-16 15:19:10 - 2025-12-16 15:25:12)
+	* Topic: Host discussion on song premieres and music.
+	* NERs: Sun Jack, Ali Patch, Mansa Marley, Busy Signal, Eagle, Suga, Sean Kingston
+6. **Jamaican Culture and Pride** (2025-12-16 15:25:12 - 2025-12-16 15:27:13)
+	* Topic: Host discussion on Jamaican culture and pride.
+	* NERs: Jamaica, Miss Lou
+7. **Music and Unity** (2025-12-16 15:27:13 - 2025-12-16 15:28:13)
+	* Topic: Host discussion on music and unity.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to interpretation and may not be exhaustive.

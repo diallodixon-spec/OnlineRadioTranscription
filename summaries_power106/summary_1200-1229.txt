@@ -1,0 +1,38 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Crime Reduction in Jamaica, Host discussion** (2026-01-02 12:01:03 - 2026-01-02 12:03:03)
+	* Details: Discussion on the reduction of murders in Jamaica, with a 41% decrease in 2025 compared to 2024, and the efforts of the government to achieve sustainable crime reduction.
+	* NERs: Dr. Horace Chang, Jamaica, Caribbean
+2. **Fatal Shootings and Gun Salutes in Jamaica, Host discussion** (2026-01-02 12:04:04 - 2026-01-02 12:05:04)
+	* Details: Discussion on the incidents of fatal shootings and gun salutes in Jamaica, including the injury of two teenage girls and the death of a woman.
+	* NERs: Jamaica, St. James, St. Andrew, St. Catherine
+3. **Search for Missing Policeman and Boy in Jamaica, Host discussion** (2026-01-02 12:06:06 - 2026-01-02 12:07:06)
+	* Details: Discussion on the search for a missing policeman and a 13-year-old boy who are feared to have drowned at a beach in Jamaica.
+	* NERs: Jamaica, St. Catherine, Helsha Beach
+4. **Restoration of Electricity in Western Parishes of Jamaica, Host discussion** (2026-01-02 12:07:06 - 2026-01-02 12:08:06)
+	* Details: Discussion on the efforts to restore electricity in the western parishes of Jamaica, with the arrival of additional linesmen and equipment.
+	* NERs: Jamaica, Western parishes, Jamaica Public Service Company
+5. **Economic Growth in Jamaica, Host discussion** (2026-01-02 12:09:07 - 2026-01-02 12:10:08)
+	* Details: Discussion on the economic growth in Jamaica, with a 5.1% increase in the July to September quarter of 2025.
+	* NERs: Jamaica, Dr. Andrew Holness, Statistical Institute
+6. **Sports News, Host discussion** (2026-01-02 12:12:10 - 2026-01-02 12:17:13)
+	* Details: Discussion on various sports news, including the performance of the Miami Heat, the Houston Rockets, and British boxer Anthony Joshua.
+	* NERs: Miami Heat, Houston Rockets, Anthony Joshua, England, Australia
+7. **Weather Report, Host discussion** (2026-01-02 12:19:15 - 2026-01-02 12:20:16)
+	* Details: Discussion on the weather forecast for Jamaica, with partly cloudy skies and isolated showers expected.
+	* NERs: Jamaica, National Meteorological Service
+8. **Government Relief Program for Imported Items, Host discussion** (2026-01-02 12:20:16 - 2026-01-02 12:21:18)
+	* Details: Discussion on the government's relief program for imported items, with an extension of the deadline for import duty and general consumption tax relief.
+	* NERs: Jamaica, Ministry of Finance and the Public Service
+9. **Reconstruction Grants for Householders, Host discussion** (2026-01-02 12:22:18 - 2026-01-02 12:23:18)
+	* Details: Discussion on the distribution of reconstruction grants to householders impacted by Hurricane Melissa, with Cabinet set to finalize the plans.
+	* NERs: Jamaica, Dr. Andrew Holness, Cabinet
+10. **Tribute to Veteran Broadcaster Alma Mockien, Host discussion** (2026-01-02 12:23:18 - 2026-01-02 12:24:19)
+	* Details: Discussion on the passing of veteran broadcaster Alma Mockien, with tributes from the Culture Minister.
+	* NERs: Alma Mockien, Jamaica, Culture Minister Olivia Grange
+11. **Support for Fishers and Farmers in Jamaica, Host discussion** (2026-01-02 12:26:21 - 2026-01-02 12:28:22)
+	* Details: Discussion on the support provided to fishers and farmers in Jamaica, with the distribution of supplies and equipment worth over $7 million.
+	* NERs: Jamaica, National Commercial Bank Foundation, Ministry of Agriculture, Fisheries and Mining, Treasure Beach, St. Elizabeth

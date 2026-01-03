@@ -1,0 +1,79 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion: Evening Sports Report**
+   - Details: The hosts discuss the latest sports news, specifically the Carabao Cup semi-finals and the ILT20 season.
+   - Time range: 180002-180304
+   - NERs: Manchester City, Brentford, Ryan Cherokee, Abdelkader Koussanov, Nico O'Reilly, Mark Flecken, James Trafford, Savino, PSG, Kavica Kovaratshkelia, Georgino, Real Madrid, Desert Vipers, Abu Dhabi Knight Riders, Fakhar Zaman, Max Holden, Andre Russell, Sunil Narain, Hassan Nawaz, Kozima Tanver, A.J. Kumar, Lord Sebastian Coe, Michael Johnson, World Athletics, Grand Slam Track, Kingston, Miami, Chapter 11 bankruptcy laws, United States
+
+2. **Host discussion: Music Segment**
+   - Details: The hosts play a song and discuss its lyrics.
+   - Time range: 180505-180706
+   - NERs: God, Saints, Jesus, Lord
+
+3. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 180706-181007
+   - NERs: God, Saints, Jesus, Lord
+
+4. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 181007-181207
+   - NERs: God, Saints, Jesus, Lord
+
+5. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 181207-181308
+   - NERs: God, Saints, Jesus, Lord
+
+6. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 181308-181508
+   - NERs: God, Saints, Jesus, Lord
+
+7. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 181508-181710
+   - NERs: God, Saints, Jesus, Lord
+
+8. **Host discussion: Music Segment**
+   - Details: The hosts continue playing a song and discussing its lyrics.
+   - Time range: 181710-181911
+   - NERs: God, Saints, Jesus, Lord
+
+9. **Host discussion: Wellness Bite**
+   - Details: The hosts discuss a wellness-related topic.
+   - Time range: 181911-182012
+   - NERs: Regular strength training, muscle mass, customs duties, taxes, customs goods declaration, IM4, IMS4
+
+10. **Host discussion: Institute and Camp Meeting**
+    - Details: The hosts discuss an upcoming event.
+    - Time range: 182012-182214
+    - NERs: Institute and Camp Meeting, Camp Verley, Spring Gardens, Dr. Ron Smith, Southern Union, General Conference, Pastor Robert Gamboa, Pastor J. Paul Sundararaj, CentralJA.org
+
+11. **Host discussion: Music Segment**
+    - Details: The hosts play a song and discuss its lyrics.
+    - Time range: 182214-182315
+    - NERs: God, Lord, Savior, Jesus
+
+12. **Host discussion: Music Segment**
+    - Details: The hosts continue playing a song and discussing its lyrics.
+    - Time range: 182315-182416
+    - NERs: God, Lord, Savior, Jesus
+
+13. **Host discussion: Music Segment**
+    - Details: The hosts continue playing a song and discussing its lyrics.
+    - Time range: 182416-182517
+    - NERs: God, Lord, Savior, Jesus
+
+14. **Host discussion: Drive Time**
+    - Details: The hosts discuss a topic related to driving.
+    - Time range: 182517-182618
+    - NERs: Drive Time, Matthew Jay Wright, Abigail Williams, NCU 91 FM
+
+15. **Host discussion: Drive Time**
+    - Details: The hosts continue discussing a topic related to driving.
+    - Time range: 182618-182819
+    - NERs: Drive Time, Matthew Jay Wright, Abigail Williams, NCU 91 FM

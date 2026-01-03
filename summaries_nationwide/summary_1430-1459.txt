@@ -1,0 +1,31 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction to the show and entertainment news** (2026-01-02 14:30:26 - 2026-01-02 14:31:26)
+	* Topic details: The host introduces the show, mentions entertainment news, and invites listeners to participate in various segments such as brain busters, crazy giveaways, and blind dates.
+	* NERs mentioned: None
+2. **Music and DJ introduction** (2026-01-02 14:32:27 - 2026-01-02 14:33:27)
+	* Topic details: The host introduces the DJ, Kareem Boya, and mentions the show's format, which includes playing a variety of music genres.
+	* NERs mentioned: Kareem Boya
+3. **Music playback and discussion** (2026-01-02 14:33:27 - 2026-01-02 14:45:45)
+	* Topic details: The host plays various songs and discusses music-related topics, including new releases and the artist Olivia Dean.
+	* NERs mentioned: Olivia Dean
+4. **Song lyrics and music discussion** (2026-01-02 14:45:45 - 2026-01-02 14:58:45)
+	* Topic details: The host continues to play songs and discusses the lyrics and meaning behind them.
+	* NERs mentioned: None
+5. **Music and relationship discussion** (2026-01-02 14:58:45 - 2026-01-02 15:05:42)
+	* Topic details: The host plays songs and discusses relationships, love, and heartbreak.
+	* NERs mentioned: None
+6. **Host discussion and music introduction** (2026-01-02 15:05:42 - 2026-01-02 15:07:43)
+	* Topic details: The host introduces new music and discusses various topics, including love and relationships.
+	* NERs mentioned: None
+7. **Music and Jamaican Patois discussion** (2026-01-02 15:07:43 - 2026-01-02 15:08:45)
+	* Topic details: The host plays a song with Jamaican Patois lyrics and discusses the language and culture.
+	* NERs mentioned: None
+8. **Music and entertainment discussion** (2026-01-02 15:08:45 - 2026-01-02 15:14:37)
+	* Topic details: The host discusses various entertainment-related topics, including music, relationships, and love.
+	* NERs mentioned: None
+
+Note that the topics are not strictly separated and may overlap or blend together throughout the transcripts. The time ranges provided are approximate and based on the transcript timestamps.

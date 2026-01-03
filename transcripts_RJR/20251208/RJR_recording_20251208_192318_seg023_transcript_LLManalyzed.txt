@@ -1,0 +1,6 @@
+WAV File Transcription
+Source: RJR_recording_20251208_192318_seg023.wav
+Date: 2025-12-08 20:39:45
+============================================================
+
+technical, you know, using a VPN, for example. In the lead up to the implementation of these new restrictions, the government has run tests using tech to see if its aim can be achieved. The published findings confirm it is technologically possible to assess a user's age to a reasonable degree of confidence in a variety of ways, but that every way included risks and shortcomings. The trials really looked at over, you know, 60 different technologies, a number of different kind of companies, as well as different types of technology. The one that really kind of made most of the headlines is facial scanning technology. We expect tech companies will likely use that type of technology for this type of legislation. What facial scanning technology does is it actually tries to scan the person's face and they look across, you know, an entire data set of people of similar ages to look for markers of, oh, is this person approximately 10 or 12 or 24?

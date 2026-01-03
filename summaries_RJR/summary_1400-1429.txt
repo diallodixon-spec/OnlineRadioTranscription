@@ -1,0 +1,22 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Birthday and Anniversary Greetings** (2026-01-02 14:00:02 - 14:01:02)
+	* Details: The host is giving birthday greetings to various individuals, including Chate Thompson, Carla Brown, and Anthony Smith, as well as a 50th anniversary greeting to Lester and Melba Lloyd.
+	* NERs: Chate Thompson, Carla Brown, Anthony Smith, Lester Lloyd, Melba Lloyd, Mrs. and Mr. Mack, Derek, Henrietta Brown, Michaela
+2. **News and Current Events** (2026-01-02 14:01:02 - 14:04:04)
+	* Details: The host discusses various news stories, including the acquisition of Sportsmax infrastructure by Supreme Ventures Racing and Entertainment, the end of Caribbean Airlines' Caribbean Cafe buy-on-board service, and the economic uncertainty in Trinidad and Tobago.
+	* NERs: Supreme Ventures Racing and Entertainment, Sportsmax, Caribbean Airlines, Trinidad and Tobago, U.S., Venezuela, China, BYD, Tesla, Elon Musk
+3. **Music and Entertainment** (2026-01-02 14:04:04 - 14:14:12)
+	* Details: The host plays and discusses various songs, including ones with themes of Rastafarianism, social commentary, and Jamaican culture.
+	* NERs: Jezebel, Haile Selassie, Jamaica
+4. **Social Commentary and Politics** (2026-01-02 14:14:12 - 14:28:22)
+	* Details: The host and possibly guests discuss social issues, such as violence, poverty, and government corruption, as well as the need for social change and empowerment.
+	* NERs: Jamaica, Haile Selassie
+5. **Host Discussion** (2026-01-02 14:28:22 - 14:28:22)
+	* Details: The host reflects on the importance of staying true to one's values and principles, and encourages listeners to do the same.
+	* NERs: None
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on news, music, and social commentary, with a strong emphasis on Jamaican culture and society.

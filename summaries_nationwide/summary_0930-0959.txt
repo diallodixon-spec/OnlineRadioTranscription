@@ -1,0 +1,26 @@
+Summary for time range 09:30 - 09:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and New Year Greetings (Host discussion)**: The host, Norigae Banton, introduces the show and greets listeners, wishing them a happy new year. (2026-01-02 09:30:25 - 09:31:25)
+2. **Caller Interaction - Richie (Caller interaction)**: Richie calls in to discuss his wishes for the new year, including becoming wealthy. (2026-01-02 09:31:25 - 09:32:26)
+3. **Starlink Discussion (Host discussion)**: The host discusses the pros and cons of using Starlink, a satellite internet service, including its reliability and challenges. (2026-01-02 09:32:26 - 09:37:30)
+4. **Caller Interaction - William (Caller interaction)**: William calls in to discuss the need for a formal office to handle complaints against utility companies and the challenges faced by people with disabilities in accessing services. (2026-01-02 09:40:32 - 09:46:36)
+5. **Jamaica Council for Persons with Disabilities (Host discussion)**: The host discusses the need for improvements to the Jamaica Council for Persons with Disabilities and the challenges faced by people with disabilities in accessing services. (2026-01-02 09:46:36 - 09:47:36)
+6. **Caller Interaction - Dwayne (Caller interaction)**: Dwayne calls in to discuss his issues with Flow, a telecommunications company, and the challenges he faced in getting assistance. (2026-01-02 09:49:38 - 09:57:45)
+7. **Digicel and Flow Issues (Host discussion)**: The host discusses the issues faced by Dwayne and other callers with Digicel and Flow, including poor service and technical problems. (2026-01-02 09:57:45 - 09:58:45)
+
+Named Entities Recognized (NERs):
+
+* Norigae Banton (host)
+* Richie (caller)
+* William (caller)
+* Dwayne (caller)
+* Starlink (satellite internet service)
+* Flow (telecommunications company)
+* Digicel (telecommunications company)
+* Jamaica Council for Persons with Disabilities (organization)
+* OUR (Office of Utilities Regulation, Jamaica)
+* Mike Henry (politician)
+* Cliff (likely a reference to a politician or public figure, but not explicitly stated)

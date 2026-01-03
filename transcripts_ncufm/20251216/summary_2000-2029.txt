@@ -1,0 +1,22 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Worship and Praise** (2025-12-16 20:00:00 - 2025-12-16 20:17:00, 2025-12-16 20:40:00 - 2025-12-16 20:55:00, 2025-12-16 20:59:00 - 2025-12-16 20:28:18)
+	* Details: The host(s) and possibly guests are engaging in worship and praise, singing hymns and declaring God's goodness and power.
+	* NERs: God, Jesus, Lord
+2. **Testimony and Personal Story** (2025-12-16 20:04:00 - 2025-12-16 20:06:00)
+	* Details: A person shares their personal story of struggle with addiction and how God helped them overcome it.
+	* NERs: None
+3. **Wellness and Health** (2025-12-16 20:15:00 - 2025-12-16 20:18:00, 2025-12-16 20:57:00 - 2025-12-16 20:59:00)
+	* Details: The host(s) discuss the importance of cleaning hands to prevent illness and promote a wellness program called "Healthy Alternatives" on the station.
+	* NERs: NCU-FM, Healthy Alternatives
+4. **Humor and Entertainment** (2025-12-16 20:19:00 - 2025-12-16 20:22:00)
+	* Details: A comedic sketch is played, where a person is negotiating with God to get out of a difficult situation.
+	* NERs: God, Lifeline Productions
+5. **Inspirational and Uplifting Messages** (2025-12-16 20:23:00 - 2025-12-16 20:28:00, 2025-12-16 20:55:00 - 2025-12-16 20:59:00)
+	* Details: The host(s) share inspirational and uplifting messages, encouraging listeners to trust in God's power and goodness.
+	* NERs: God, Dr. Murray
+
+Note that some of these topics may overlap or be intertwined, but I have attempted to categorize them based on the primary focus of each segment.

@@ -1,0 +1,27 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Economic Discussion, Host discussion** (2025-12-16 11:30:19 - 11:43:23): The host, Conor O'Brien, discusses the economy, specifically the Bank of Jamaica's (BOJ) decision to release $25 billion into the money supply, and its potential impact on the Christmas season. He also mentions the foreign exchange market and the pressure on the Jamaican dollar.
+2. **Crime and Violence, Host discussion** (2025-12-16 11:43:23 - 11:52:59): The host discusses a story about two friends who had an altercation in Portland, resulting in one of them being stabbed. He urges people to resolve conflicts peacefully and mentions an ad by the Ministry of Justice promoting talking out issues instead of fighting.
+3. **Goat Farming, Host discussion** (2025-12-16 11:52:59 - 11:59:29): The host talks about the demand for goat meat, particularly during the Christmas season, and mentions that it can fetch a high price. He also discusses the potential for goat farming as a business venture and mentions Damien Crawford, a politician who had encouraged people to get into the business.
+4. **Caller Interaction, Caller interaction** (2025-12-16 11:59:29 - 12:04:32): The host interacts with callers, including Dujon, who comments on the road network, and Howard, who sends a video about the chevron truck at the National Stadium.
+5. **Christmas and Consumerism, Host discussion** (2025-12-16 12:04:32 - 12:11:37): The host plays a Jamaican Christmas song and discusses the importance of spreading love and kindness during the holiday season. He also warns people to be cautious of scams and bargains that seem too good to be true.
+6. **Child Safety, Host discussion** (2025-12-16 12:11:37 - 12:15:38): The host expresses concern about the safety of children, particularly in light of recent incidents of abduction and motor vehicle accidents. He urges people to take care of children and treat them as if they were their own.
+
+Named Entities Recognized (NERs):
+
+* Conor O'Brien (host)
+* Bank of Jamaica (BOJ)
+* Damien Crawford (politician)
+* Delroy Chuck (Minister of Justice)
+* Roger Clarke (late politician)
+* Andrew Holness (Prime Minister)
+* Councillor Ferguson (guest)
+* Tanya Richards (producer)
+* Dujon (caller)
+* Howard (caller)
+* Councillor Barnes (mentioned in context of a missing person case)
+* JD (mentioned in context of a missing person case)
+* Manchester High School (mentioned in context of a missing person case)

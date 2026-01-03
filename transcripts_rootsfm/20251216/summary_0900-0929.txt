@@ -1,0 +1,25 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Radio Promotion** (2025-12-16 09:00:02 - 2025-12-16 09:26:34, 2025-12-16 09:43:02 - 2025-12-16 09:27:34)
+	* Details: The host(s) are promoting their radio station, Roots FM 96.1, and playing music.
+	* NERs: Roots FM 96.1, Kingston
+2. **Host Discussion** (2025-12-16 09:02:03 - 2025-12-16 09:09:23, 2025-12-16 09:18:22 - 2025-12-16 09:22:30)
+	* Details: The host(s) are discussing their personal thoughts and feelings.
+	* NERs: None
+3. **Advertisement** (2025-12-16 09:00:02 - 2025-12-16 09:01:02, 2025-12-16 09:15:28 - 2025-12-16 09:16:29)
+	* Details: The host(s) are advertising various products and services, including E&R Hardware and Langer's cranberry juice.
+	* NERs: E&R Hardware, Langer's cranberry juice, Portmore Town Centre, St. Catherine
+4. **Education and Career Development** (2025-12-16 09:14:27 - 2025-12-16 09:15:28)
+	* Details: The host(s) are promoting educational programs and career development opportunities at IIRQ.
+	* NERs: IIRQ
+5. **Legal Issues** (2025-12-16 09:16:29 - 2025-12-16 09:17:29)
+	* Details: The host(s) are introducing a program called "At The Bar with Benise Brown" which aims to provide empowerment regarding rights and justice.
+	* NERs: Benise Brown, Roots 96.1 FM, Zino.com
+6. **Dance and Music Instructions** (2025-12-16 09:26:34 - 2025-12-16 09:27:34)
+	* Details: The host(s) are providing instructions on how to perform a dance move.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and details are subject to interpretation and may not be exhaustive.

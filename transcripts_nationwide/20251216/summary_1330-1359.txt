@@ -1,0 +1,40 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Life Certificates and Road Safety (Host discussion)**: The topic is discussed from 2025-12-16 13:30:23 to 2025-12-16 13:32:27. The host talks about the collection of Life Certificates and road safety in Jamaica, mentioning the Island Traffic Authority and the importance of slowing down on the road.
+
+NERs mentioned: 
+- Location: Jamaica, St. James, Hanover, Westmoreland, Portland, Manchester
+- Organization: Island Traffic Authority, AGD (Accountant General's Department)
+- Date: December 20, December 21, October, December 2025
+
+2. **LASCO JCF Police of the Year Awards (Host discussion)**: The topic is discussed from 2025-12-16 13:32:27 to 2025-12-16 13:33:28. The host announces the Super 6 finalists for the 2025 LASCO JCF Police of the Year Awards and invites listeners to tune in to the show on Wednesday, December 17.
+
+NERs mentioned: 
+- Organization: LASCO, Jamaica Constabulary Force
+- Event: LASCO JCF Police of the Year Awards
+- Date: December 17, 2025
+- Person: Constable Madik Bartley, Corporal Stephen Smith, Corporal Rajen Holt, Detective Corporal Chadwick Williams, Constable Shantel Powell, Detective Corporal Livy Evans
+
+3. **From Loss to Recovery Lecture (Host discussion)**: The topic is discussed from 2025-12-16 13:33:28 to 2025-12-16 13:34:28. The host invites listeners to tune in to a live outside broadcast of a public lecture on climate change, "From Loss to Recovery", led by FRLD executive director Ibrahim Adiyan.
+
+NERs mentioned: 
+- Person: Ibrahim Adiyan
+- Organization: FRLD
+- Location: UWE undercroft
+- Event: From Loss to Recovery lecture
+- Date: December 17, 2025
+
+4. **Music and Caller Interaction**: The topic is discussed from 2025-12-16 13:34:28 to 2025-12-16 13:55:49. The host plays music and interacts with callers, greeting them and playing their requested songs.
+
+NERs mentioned: 
+- None
+
+5. **Love and Relationships (Host discussion)**: The topic is discussed from 2025-12-16 13:55:49 to 2025-12-16 13:58:52. The host plays songs about love and relationships, with lyrics that express devotion, appreciation, and longing.
+
+NERs mentioned: 
+- None
+
+Note: The time ranges for the topics are approximate and based on the provided transcripts. The NERs mentioned are specific to each topic and may not be exhaustive.

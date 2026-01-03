@@ -1,0 +1,27 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Hurricane Melissa aftermath in Jamaica** (2025-12-16 11:00:01 - 2025-12-16 11:04:04)
+	* Host discussion: Daniel Thompson
+	* NERs: Jamaica, Hurricane Melissa, Brownstone-Sintan, Kim Brown-Lawrence, Jamaica Public Service, St. Anne, Leroy Scott, Sintan Municipal Corporation, St. Elizabeth, Silo police station, Balaclava police station, Louisville High School, New Market, Ministry of National Security, Police High Command, Ministry of Education
+	* Details: Discussion on the aftermath of Hurricane Melissa in Jamaica, including communities still without electricity, damage to infrastructure, and efforts to restore services.
+2. **Trans Jam Highway Hurricane Relief program** (2025-12-16 11:07:05 - 2025-12-16 11:11:08)
+	* Host discussion: Dr. Orville Taylor
+	* Interview: June Parrott
+	* NERs: Trans Jam, Hurricane Melissa, Jamaica, Ministry of Labour and Social Security, NIS office
+	* Details: Discussion on the Trans Jam Highway Hurricane Relief program, including an interview with June Parrott, a beneficiary of the program, who shared her experience during the hurricane and the assistance she received.
+3. **Caller interaction - termite infestation** (2025-12-16 11:12:13 - 2025-12-16 11:28:18)
+	* Host discussion: Dr. Orville Taylor
+	* Caller interaction: A caller asked about termite infestation in their apartment and the safety of returning to the apartment after treatment.
+	* NERs: None
+	* Details: Dr. Taylor discussed the caller's concern about termite infestation and the safety of returning to the apartment after treatment, but noted that he is not an expert in the area and would try to follow up with experts.
+4. **Tribute to Gifford Lloyd Watson** (2025-12-16 11:03:04 - 2025-12-16 11:03:04)
+	* Host discussion: Daniel Thompson
+	* NERs: Gifford Lloyd Watson
+	* Details: A brief announcement about the death of Gifford Lloyd Watson and the upcoming funeral service.
+5. **Advertisement and announcements** (2025-12-16 11:04:04 - 2025-12-16 11:11:09)
+	* Host discussion: Various
+	* NERs: Jamaica Plumbing Supplies, Scotia Bank, The Supercenter, Bank of Jamaica, Inflation Watch, Bangkok Jamaica, Flow, Villexpress, Grace Kennedy Financial Group, JA Customs Connect, Ministry of Health and Wellness, Sagico Sigma Run
+	* Details: Various advertisements and announcements, including promotions for Jamaica Plumbing Supplies, Scotia Bank, and The Supercenter, as well as announcements about the Bank of Jamaica's Inflation Watch and the Ministry of Health and Wellness's programs.

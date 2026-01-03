@@ -1,0 +1,23 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Jamaica's Energy Management and Billing** (Host discussion) - Time range: 2025-12-16 15:00:02 - 2025-12-16 15:11:10
+	* Details: The host discusses the Jamaica Public Service (JPS) company's announcement of a 7% increase in electricity bills due to the use of more expensive fuel after Hurricane Melissa. The host questions the transparency of the JPS and the Office of Utilities Regulation (OUR) in explaining the reason for the increase.
+	* NERs mentioned: Jamaica, JPS, OUR, Hurricane Melissa
+2. **Caller Interaction - JPS and OUR** (Caller interaction) - Time range: 2025-12-16 15:11:12 - 2025-12-16 15:14:12
+	* Details: A caller, David, shares his thoughts on the JPS and OUR, stating that the OUR is not doing enough to regulate the JPS and that the JPS should provide more information to justify the increase in electricity bills.
+	* NERs mentioned: JPS, OUR, David
+3. **Westmoreland and Hurricane Recovery** (Host discussion) - Time range: 2025-12-16 15:14:12 - 2025-12-16 15:26:21
+	* Details: The host discusses the impact of Hurricane Melissa on Westmoreland and the need for a unified approach to rebuilding the parish. The host also mentions the historical significance of Westmoreland and its contributions to Jamaica's development.
+	* NERs mentioned: Westmoreland, Hurricane Melissa, Jamaica
+4. **British Council and Jamaica's History** (Host discussion) - Time range: 2025-12-16 15:21:18 - 2025-12-16 15:26:21
+	* Details: The host discusses the British Council's contribution to Jamaica's recovery efforts and mentions the historical ties between Jamaica and the UK. The host also mentions the visit of Queen Elizabeth II to Jamaica in 1966.
+	* NERs mentioned: British Council, Jamaica, Queen Elizabeth II
+5. **Upcoming Interview with Vanna Taylor** (Host discussion) - Time range: 2025-12-16 15:27:22 - 2025-12-16 15:28:22
+	* Details: The host announces an upcoming interview with Vanna Taylor, the chairperson of the Jamaica Hotel and Tourist Association in St. Anne, to discuss the impact of Hurricane Melissa on the tourism industry.
+	* NERs mentioned: Vanna Taylor, Jamaica Hotel and Tourist Association, St. Anne
+6. **Caller Interaction - JPS Increase** (Caller interaction) - Time range: 2025-12-16 15:28:22 - 2025-12-16 15:30:00
+	* Details: A caller, Kenneth, shares his thoughts on the JPS increase, stating that he agrees with the increase and that the JPS had announced before the storm that they would have to use more expensive fuel.
+	* NERs mentioned: JPS, Kenneth

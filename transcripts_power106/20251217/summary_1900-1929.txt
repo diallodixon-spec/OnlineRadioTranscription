@@ -1,0 +1,77 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 19:00:02 - 2025-12-17 19:00:07
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+2. **Host discussion** 
+   - Time range: 2025-12-17 19:00:08 - 2025-12-17 19:00:15
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+3. **Host discussion** 
+   - Time range: 2025-12-17 19:00:16 - 2025-12-17 19:00:23
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+4. **Host discussion** 
+   - Time range: 2025-12-17 19:00:24 - 2025-12-17 19:00:31
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+5. **Host discussion** 
+   - Time range: 2025-12-17 19:00:32 - 2025-12-17 19:00:39
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+6. **Host discussion** 
+   - Time range: 2025-12-17 19:00:40 - 2025-12-17 19:00:47
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+7. **Host discussion** 
+   - Time range: 2025-12-17 19:00:48 - 2025-12-17 19:00:55
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+8. **Host discussion** 
+   - Time range: 2025-12-17 19:00:56 - 2025-12-17 19:01:03
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+9. **Host discussion** 
+   - Time range: 2025-12-17 19:01:04 - 2025-12-17 19:01:11
+   - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+   - NERs: None
+
+10. **Host discussion** 
+    - Time range: 2025-12-17 19:01:12 - 2025-12-17 19:01:19
+    - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+    - NERs: None
+
+11. **Host discussion** 
+    - Time range: 2025-12-17 19:01:20 - 2025-12-17 19:01:27
+    - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+    - NERs: None
+
+12. **Host discussion** 
+    - Time range: 2025-12-17 19:01:28 - 2025-12-17 19:01:35
+    - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+    - NERs: None
+
+13. **Host discussion** 
+    - Time range: 2025-12-17 19:01:36 - 2025-12-17 19:01:43
+    - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+    - NERs: None
+
+14. **Host discussion** 
+    - Time range: 2025-12-17 19:01:44 - 2025-12-17 19:01:51
+    - Details: The hosts were discussing a song or hymn, but the specific topic is unclear.
+    - NERs: None
+
+15. **Host discussion** 
+    - Time range: 2025-12-17 19:

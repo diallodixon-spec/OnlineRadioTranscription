@@ -1,0 +1,70 @@
+Summary for time range 19:30 - 19:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 19:30:20 - 2025-12-17 19:30:20
+   - Details: Introduction to the program NC Disabilities, produced by the Jamaica Information Service.
+   - NERs: None
+
+2. **Host discussion** 
+   - Time range: 2025-12-17 19:31:21 - 2025-12-17 19:31:21
+   - Details: Introduction to the news segment.
+   - NERs: None
+
+3. **Hurricane Melissa relief efforts** 
+   - Time range: 2025-12-17 19:31:21 - 2025-12-17 19:32:22
+   - Details: The National Irrigation Commission (NIC) is offering a three-month moratorium to customers in Western Jamaica for outstanding balances up to October 31. The move is part of efforts by the Commission to provide financial ease to farmers who are negatively affected by the passage of Hurricane Melissa.
+   - NERs: 
+     - National Irrigation Commission (NIC)
+     - Wayne Barrett (NIC Director of Commercial Operations)
+     - Hurricane Melissa
+
+4. **National broiler recovery program** 
+   - Time range: 2025-12-17 19:32:22 - 2025-12-17 19:33:22
+   - Details: The Ministry of Agriculture, Fisheries and Mining has launched a national broiler recovery program as part of efforts to provide support to poultry farmers. The program will begin with the distribution of 100,000 broiler chickens starting in Holland Village, St. Elizabeth.
+   - NERs: 
+     - Ministry of Agriculture, Fisheries and Mining
+     - Floyd Green (Portfolio Minister)
+     - Holland Village
+     - St. Elizabeth
+
+5. **Support for micro, small and medium-sized enterprises (MSMEs)** 
+   - Time range: 2025-12-17 19:33:22 - 2025-12-17 19:34:22
+   - Details: The Ministry of Industry, Investment and Commerce is providing coordinated support to MSMEs as part of the government's ongoing economic recovery efforts following the impact of Hurricane Melissa.
+   - NERs: 
+     - Ministry of Industry, Investment and Commerce
+     - Delano Sibbright (State Minister)
+     - Hurricane Melissa
+
+6. **Margaret Moody Scholarships** 
+   - Time range: 2025-12-17 19:34:22 - 2025-12-17 19:43:23
+   - Details: The JCPD's Margaret Moody Scholarships are valued at $350,000 each. The funds were handed over at a ceremony at the JCPD head office in Kingston yesterday. The scholarships aim to provide support to two disabled persons, allowing them to pursue tertiary education.
+   - NERs: 
+     - JCPD
+     - Margaret Moody Scholarships
+     - Pernal Charles Jr. (Labour and Social Security Minister)
+     - Kingston
+
+7. **Managing mental state during Christmas** 
+   - Time range: 2025-12-17 19:36:23 - 2025-12-17 19:43:24
+   - Details: Psychotherapist Adélie Fraser suggests that taking a moment to check in with yourself is an important first step in managing your mental state during Christmas. Appreciating that Christmas this year will not be as you're accustomed to is also crucial and may require adjusting traditions.
+   - NERs: 
+     - Adélie Fraser (Psychotherapist)
+
+8. **Breastfeeding support** 
+   - Time range: 2025-12-17 19:43:24 - 2025-12-17 19:44:25
+   - Details: A message from the Minister of Health and Wellness and UNICEF. Breastfeeding supports your baby's health even during tough times.
+   - NERs: 
+     - Minister of Health and Wellness
+     - UNICEF
+
+9. **Worship and praise** 
+   - Time range: 2025-12-17 19:44:25 - 2025-12-17 19:57:35
+   - Details: A series of worship and praise songs were sung, with various individuals participating.
+   - NERs: None
+
+10. **Host discussion** 
+    - Time range: 2025-12-17 19:57:35 - 2025-12-17 19:57:35
+    - Details: A message from Lifeline Productions, with a

@@ -1,0 +1,6 @@
+WAV File Transcription
+Source: Power106_recording_20251204_172421_seg024.wav
+Date: 2025-12-05 01:19:37
+============================================================
+
+are aware of, you know, where the risk points are when it comes down to, you know, what can leave you on the road. And most times they try not to ensure that you are left on the road. So most cars, even though they're very complex to know, lots of electronics and components that can fail, and, you know, either one can fail and leave on the road. but most of the manufacturers have built into their system failure management mode, what they call FMEM, failure manage effects mode, where the car would go into what they call a limp home strategy, right? Most persons with European cars, you see the dreaded warning, the gong sound, and then you see the message comes up, please see your dealer, or take the car to the nearest dealer, or driving is still possible. So for the most part, modern cars are very resistant to breakdowns, but they do happen from time to time.

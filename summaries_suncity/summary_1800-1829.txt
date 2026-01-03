@@ -1,0 +1,22 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion and music promotion** (2026-01-02 18:00:01 - 2026-01-02 18:02:02)
+	* Details: The host discusses the radio station, Sun City Radio Jamaica, and promotes various events and music.
+	* NERs: Sun City Radio Jamaica, City Flames Restaurant, Spanish Town, Crazy Chris, DJ Delano, Renaissance, Hennessy, Spironi, Desmond Campbell, Clared.
+2. **Music and song lyrics** (2026-01-02 18:05:03 - 2026-01-02 18:21:07)
+	* Details: The host plays various songs and the transcripts include song lyrics.
+	* NERs: None
+3. **Interview with Drip Rick** (2026-01-02 18:11:06 - 2026-01-02 18:19:09)
+	* Details: The host interviews Drip Rick, a British-born Jamaican artist, about his music and upcoming single "Pretty Like You".
+	* NERs: Drip Rick, Paper Power Music, Valentine's Day, UK, Jamaica.
+4. **Music and song lyrics (continued)** (2026-01-02 18:21:10 - 2026-01-02 18:28:13)
+	* Details: The host continues to play various songs and the transcripts include song lyrics.
+	* NERs: None
+5. **Host discussion and music promotion (continued)** (2026-01-02 18:28:14 - 2026-01-02 18:30:00)
+	* Details: The host discusses the radio station and promotes various events and music.
+	* NERs: Sun City Radio, Chris Sonic.
+
+Note that some of the transcripts include song lyrics, but the topics are focused on the host discussion, music promotion, and the interview with Drip Rick. The time ranges are approximate and based on the provided transcripts.

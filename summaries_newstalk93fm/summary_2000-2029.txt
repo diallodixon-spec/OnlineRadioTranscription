@@ -1,0 +1,23 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Party** (2026-01-02 20:00:02 - 2026-01-02 20:09:09)
+	* Details: The host is playing music and discussing partying, having a good time, and enjoying life.
+	* NERs: None
+	* Topic involves Host discussion
+2. **Relationships and Love** (2026-01-02 20:10:10 - 2026-01-02 20:28:28)
+	* Details: The host is playing songs and discussing relationships, love, and feelings.
+	* NERs: Cardi, Kehlani, Florida
+	* Topic involves Host discussion
+3. **Music and Intimacy** (2026-01-02 20:22:23 - 2026-01-02 20:28:28)
+	* Details: The host is playing songs with explicit lyrics, discussing intimacy and physical relationships.
+	* NERs: None
+	* Topic involves Host discussion
+4. **Romance and Marriage** (2026-01-02 20:28:28 - 2026-01-02 20:28:28)
+	* Details: The host is playing a song about realizing one's feelings and wanting to make someone their wife.
+	* NERs: None
+	* Topic involves Host discussion
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, partying, relationships, and love, with the host discussing and playing songs related to these themes.

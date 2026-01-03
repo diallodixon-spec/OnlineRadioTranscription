@@ -1,0 +1,25 @@
+Summary for time range 15:30 - 15:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Fixing a wilting plant** (2025-12-16 15:32:01 - 2025-12-16 15:37:23)
+	* Details: The host discusses how to fix a wilting plant, including checking watering habits, improving soil drainage, and adjusting sunlight exposure.
+	* NERs: None
+2. **Host discussion: Spiritual music and devotionals** (2025-12-16 15:42:26 - 2025-12-16 15:43:27)
+	* Details: The host plays spiritual music and mentions the daily devotional readings on NCUFM.
+	* NERs: NCUFM, Jamaica Customs Agency
+3. **Public service announcement: Jamaica Customs Agency** (2025-12-16 15:43:27 - 2025-12-16 15:44:28)
+	* Details: The host announces the importance of protecting personal data and using the Jamaica Customs Agency's official platforms.
+	* NERs: Jamaica Customs Agency
+4. **Host discussion: Mental health and wellness** (2025-12-16 15:44:28 - 2025-12-16 15:45:28)
+	* Details: The host mentions the Mental Health and Suicide Prevention Health Line and the importance of seeking help.
+	* NERs: None
+5. **Music and spiritual discussion** (2025-12-16 15:45:28 - 2025-12-16 15:55:37)
+	* Details: The host plays music and discusses spiritual topics, including the power of Jesus and the importance of faith.
+	* NERs: Jesus
+6. **Host discussion: Gossip and negativity** (2025-12-16 15:55:37 - 2025-12-16 15:58:37)
+	* Details: The host discusses the negative effects of gossip and the importance of focusing on positive news.
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but they have been separated based on the dominant theme and discussion in each segment.

@@ -1,0 +1,25 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Christmas Music and Host Discussion** (2025-12-16 18:30:17 - 2025-12-16 18:46:28)
+	* Details: The host is playing and discussing Christmas music, singing along to various songs, and setting a festive atmosphere.
+	* NERs: None
+2. **St. Andrew South Police and Host Discussion** (2025-12-16 18:36:21 - 2025-12-16 18:37:22)
+	* Details: The host announces the St. Andrew South Beats program, which will discuss police activities and answer listener questions.
+	* NERs: St. Andrew South, Roots 96.1 FM
+3. **Christmas Music and Host Discussion** (2025-12-16 18:37:22 - 2025-12-16 18:47:27)
+	* Details: The host continues playing and discussing Christmas music, singing along to various songs.
+	* NERs: None
+4. **Gospel Music and Host Discussion** (2025-12-16 18:48:29 - 2025-12-16 18:53:32)
+	* Details: The host plays gospel music, expressing gratitude and praise.
+	* NERs: Kingston, Jamaica
+5. **African Culture and Music** (2025-12-16 18:53:32 - 2025-12-16 18:56:34)
+	* Details: The host plays music that celebrates African culture and beauty, using lyrics that reference African heritage and features.
+	* NERs: Africa, Egypt, King Pharaoh, Nile River, Nubia
+6. **Reggae Music and Interview** (2025-12-16 18:56:34 - 2025-12-16 18:58:36)
+	* Details: The host introduces John Watson from Japan and discusses reggae music, its impact, and its ability to bring people together.
+	* NERs: Japan, Jamaica, Ali, King Jameez, Stone Love
+
+Note that some of these topics may overlap or blend together, but I have tried to break them down into distinct categories based on the content and tone of the transcripts.

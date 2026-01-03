@@ -1,0 +1,38 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Music and Host discussion** (2026-01-02 11:00:03 - 2026-01-02 11:07:00)
+Details: The host is playing and discussing various songs, with no specific topic or guest.
+NERs: None
+
+2. **Rebuilding Jamaica and Host discussion** (2026-01-02 11:05:05 - 2026-01-02 11:05:05)
+Details: The host mentions "Rebuilding Jamaica" and encourages listeners to teach their children to come unto Jesus.
+NERs: Jamaica, Jesus
+
+3. **Talk on Diabetes and Host discussion** (2026-01-02 11:04:05 - 2026-01-02 11:04:05)
+Details: The host mentions a feature called "Talk in Diabetes" which is brought to the listeners by the Ministry of Health and Wellness.
+NERs: Ministry of Health and Wellness
+
+4. **Shoutouts and Host discussion** (2026-01-02 11:16:10 - 2026-01-02 11:17:10)
+Details: The host gives shoutouts to various individuals, including Jojo, David Bin Laden, and Boba Upsetter.
+NERs: Jojo, David Bin Laden, Boba Upsetter
+
+5. **Music and Host discussion** (2026-01-02 11:07:00 - 2026-01-02 11:28:15)
+Details: The host continues to play and discuss various songs, with no specific topic or guest.
+NERs: None
+
+6. **Interview** (2026-01-02 11:21:12 - 2026-01-02 11:21:12)
+Details: The host introduces a guest, John, and they have a brief conversation.
+NERs: John
+
+7. **Shoutouts and Host discussion** (2026-01-02 11:22:12 - 2026-01-02 11:22:12)
+Details: The host gives a shoutout to Leon.
+NERs: Leon
+
+8. **Music and Host discussion** (2026-01-02 11:23:13 - 2026-01-02 11:28:15)
+Details: The host continues to play and discuss various songs, with no specific topic or guest.
+NERs: None
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

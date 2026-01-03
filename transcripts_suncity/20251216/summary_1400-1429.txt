@@ -1,0 +1,31 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Introduction and Music** (2025-12-16 14:00:01 - 2025-12-16 14:08:04)
+	* Details: The host introduces the show and plays music.
+	* NERs: None
+2. **Jamaican History and Business** (2025-12-16 14:01:01 - 2025-12-16 14:03:02)
+	* Details: The host discusses the history of Jamaica, specifically the arrival of Salim Mahfoud in 1921 and the establishment of the West Indies Synthetics Company Limited.
+	* NERs: Salim Mahfoud, Jamaica, West Indies Synthetics Company Limited
+3. **Advertisement and Promotion** (2025-12-16 14:04:03 - 2025-12-16 14:07:04)
+	* Details: The host promotes Print Big Priority Deal Reggae Wednesday and the Sun City 104.9 FM youth forum.
+	* NERs: Print Big, Sun City 104.9 FM
+4. **Host discussion: Upcoming Events** (2025-12-16 14:07:04 - 2025-12-16 14:09:05)
+	* Details: The host discusses upcoming events, including the Jackie competition and the Sun City youth forum.
+	* NERs: Jackie, Sun City
+5. **Caller interaction: Birthday Wishes** (2025-12-16 14:09:05 - 2025-12-16 14:14:07)
+	* Details: The host takes calls from listeners to wish happy birthday to Raven and other December born individuals.
+	* NERs: Raven, Andrea, Frost Dash, Sun Millie, Stone Love Crowe, Alda, Ava, Tannis, Felicia, Gigi Garcia
+6. **Host discussion: Charity and Community Support** (2025-12-16 14:11:06 - 2025-12-16 14:13:07)
+	* Details: The host discusses a charity initiative to support families in need, particularly those with children.
+	* NERs: None
+7. **Host discussion: Birthday Celebration** (2025-12-16 14:14:07 - 2025-12-16 14:28:13)
+	* Details: The host continues to celebrate Raven's birthday, playing music and taking calls from listeners.
+	* NERs: Raven, Sunhouse Raven, Sunhouse Stacius, Cooper's Hill, Cameron, Mr. Nottage JD
+8. **Music and Celebration** (2025-12-16 14:27:12 - 2025-12-16 14:28:13)
+	* Details: The host plays music to celebrate Raven's birthday.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts.

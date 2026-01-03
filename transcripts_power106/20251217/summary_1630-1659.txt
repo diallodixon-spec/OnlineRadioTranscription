@@ -1,0 +1,88 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Interview: Understanding Momentum in Physics**
+   - Time range: 2025-12-17 16:30:19 - 2025-12-17 16:48:27
+   - Details: This topic involves an interview with Miss Tiana Jones, a certified tutor in various subjects including physics. The host and Miss Jones discussed the concept of momentum, its definition, and how it can be calculated. They also explored real-life examples of momentum, such as airbags in vehicles, and the law of conservation of momentum.
+   - NERs: 
+     - Miss Tiana Jones (Person)
+     - Momentum (Concept)
+     - Physics (Subject)
+     - Mass (Concept)
+     - Velocity (Concept)
+     - Kilogram (Unit)
+     - Meter per second (Unit)
+     - SI (System of units)
+     - Closed system (Concept)
+     - Law of conservation of momentum (Concept)
+     - Airbags (Real-life example)
+     - Vehicles (Real-life example)
+
+2. **Host discussion: Upcoming Events and Programs**
+   - Time range: 2025-12-17 16:48:27 - 2025-12-17 16:49:23
+   - Details: The host discussed upcoming events and programs, including a musical segment and a praise and worship event in Jamaica.
+   - NERs: 
+     - Jamaica (Country)
+     - Praise and worship (Event)
+     - Musical segment (Program)
+
+3. **Host discussion: Call to Action and Prayer**
+   - Time range: 2025-12-17 16:49:23 - 2025-12-17 17:05:28
+   - Details: The host discussed a call to action and prayer, with listeners sharing their personal struggles and seeking guidance.
+   - NERs: 
+     - Prayer (Concept)
+     - Guidance (Concept)
+     - Struggles (Concept)
+
+4. **Host discussion: Customs and Importation**
+   - Time range: 2025-12-17 17:05:28 - 2025-12-17 17:06:25
+   - Details: The host discussed customs and importation, providing information on how to clear goods and pay duties.
+   - NERs: 
+     - Customs (Concept)
+     - Importation (Concept)
+     - Duties (Concept)
+     - Goods (Concept)
+
+5. **Host discussion: Upcoming Event in Jamaica**
+   - Time range: 2025-12-17 17:06:25 - 2025-12-17 17:07:26
+   - Details: The host discussed an upcoming event in Jamaica, a praise and worship event to raise funds for those affected by Hurricane Melissa.
+   - NERs: 
+     - Jamaica (Country)
+     - Praise and worship (Event)
+     - Hurricane Melissa (Event)
+
+6. **Host discussion: Personal Testimony and Prayer**
+   - Time range: 2025-12-17 17:07:26 - 2025-12-17 17:10:28
+   - Details: The host shared a personal testimony and led a prayer, with listeners sharing their own struggles and seeking guidance.
+   - NERs: 
+     - Prayer (Concept)
+     - Guidance (Concept)
+     - Struggles (Concept)
+     - Testimony (Concept)
+
+7. **Host discussion: Surrender and Redemption**
+   - Time range: 2025-12-17 17:10:28 - 2025-12-17 17:14:29
+   - Details: The host discussed surrender and redemption, with listeners sharing their own struggles and seeking guidance.
+   - NERs: 
+     - Surrender (Concept)
+     - Redemption (Concept)
+     - Guidance (Concept)
+     - Struggles (Concept)
+
+8. **Host discussion: Worship and Praise**
+   - Time range: 2025-12-17 17:14:29 - 2025-12-17 17:16:31
+   - Details: The host led a worship and praise segment, with listeners singing and sharing their gratitude.
+   - NERs: 
+     - Worship (Concept)
+     - Praise (Concept)
+     - Gratitude (Concept)
+
+9. **Host discussion: Reflection and Sabbath**
+   - Time range: 2025-12-17 17:16:31 - 2025-12-17 17:17:31
+   - Details: The host led a reflection and Sabbath segment, encouraging listeners to take time for rest and reflection.
+   - NERs: 
+     - Reflection (Concept)
+     - Sabbath (Concept)
+     -

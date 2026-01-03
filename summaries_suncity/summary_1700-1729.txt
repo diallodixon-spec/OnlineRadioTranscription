@@ -1,0 +1,25 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Music** (2026-01-02 17:00:03 - 2026-01-02 17:02:12)
+	* Topic details: The host introduces the show, plays music, and engages in casual conversation.
+	* NERs mentioned: None
+2. **Host discussion** (2026-01-02 17:02:12 - 2026-01-02 17:04:05)
+	* Topic details: The host discusses various topics, including the show's schedule and upcoming events.
+	* NERs mentioned: Leon, Lockheed, Claudette Spangy, Mr. Lex
+3. **News** (2026-01-02 17:04:05 - 2026-01-02 17:17:10)
+	* Topic details: The host presents news from various categories, including local, regional, international, sports, and entertainment.
+	* NERs mentioned: Andrew Holness, National Solid Waste Management Authority, National Council on Drug Abuse, Jamaica, Guyana, Venezuela, Nicolas Maduro, Donald Trump, Dwight Smith, Spanish town police FC, Jerry, Jamaica Reggae Industry Association, Ewan Simpson, Dennis Brown, Jimmy Cliff, Edna Manley College
+4. **Weather report** (2026-01-02 17:17:10 - 2026-01-02 17:17:10)
+	* Topic details: The host presents the weather forecast for the upcoming days.
+	* NERs mentioned: None
+5. **Advertisement** (2026-01-02 17:17:10 - 2026-01-02 17:18:11)
+	* Topic details: The host advertises for Jamaica Aggregates, a construction aggregate supplier.
+	* NERs mentioned: Jamaica Aggregates, Jodi-Ann Beckford
+6. **Music and Entertainment** (2026-01-02 17:18:11 - 2026-01-02 17:27:14)
+	* Topic details: The host plays music and engages in conversation about various topics, including relationships and social issues.
+	* NERs mentioned: Brooklyn, Flatbush, Matty G, Christine
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct categories based on the content and context of the transcripts.

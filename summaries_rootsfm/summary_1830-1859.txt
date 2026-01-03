@@ -1,0 +1,37 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics and time ranges are as follows:
+
+1. **Music: Center of Attraction** (2026-01-02 18:30:19 - 18:43:27)
+	* Details: The topic appears to be a song about being attracted to someone and trying to be discreet about it.
+	* NERs: None
+2. **Music: Missing You** (2026-01-02 18:43:27 - 18:53:27)
+	* Details: The topic appears to be a song about missing someone and trying to understand why they left.
+	* NERs: None
+3. **Music: Empowerment** (2026-01-02 18:53:27 - 18:59:29)
+	* Details: The topic appears to be a song about a person who was previously overlooked but is now being admired and sought after.
+	* NERs: None
+4. **Music: Regret** (2026-01-02 18:59:29 - 19:04:03)
+	* Details: The topic appears to be a song about regretting not spending enough time with a loved one and potentially losing them.
+	* NERs: None
+5. **Radio Show Introduction** (2026-01-02 19:04:03 - 19:04:33)
+	* Details: The topic appears to be an introduction to a radio show called "The Saturday Night Alternative" hosted by Roy Black.
+	* NERs: Roy Black, Roost 96.1 FM
+6. **Music: She Loves Me Now** (2026-01-02 19:04:33 - 19:08:35)
+	* Details: The topic appears to be a song about a person who is grateful that someone loves them now.
+	* NERs: None
+7. **Music: Relationship** (2026-01-02 19:08:35 - 19:18:39)
+	* Details: The topic appears to be a song about a relationship and the feelings of love and connection between two people.
+	* NERs: None
+8. **Music: Love and Devotion** (2026-01-02 19:18:39 - 19:25:38)
+	* Details: The topic appears to be a song about devotion and love for someone.
+	* NERs: None
+9. **Music: Heartbreak** (2026-01-02 19:25:38 - 19:33:38)
+	* Details: The topic appears to be a song about heartbreak and longing for someone.
+	* NERs: None
+10. **Music: Love and Admiration** (2026-01-02 19:33:38 - 19:41:39)
+	* Details: The topic appears to be a song about admiring and loving someone.
+	* NERs: None
+
+Note that the topics are mostly related to music and relationships, and there are no mentions of Jamaica or any other specific countries. The NERs (Named Entities) mentioned are limited to the radio host Roy Black and the radio station Roost 96.1 FM.

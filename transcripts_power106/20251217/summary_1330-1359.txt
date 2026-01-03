@@ -1,0 +1,69 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 13:30:21 - 2025-12-17 13:30:21
+   - Details: The host is singing a song about Jesus and the hope and dreams that come with looking at his face.
+   - NERs: Jesus, face, heart, soul, sunshine, time, place
+
+2. **Host discussion** 
+   - Time range: 2025-12-17 13:32:22 - 2025-12-17 13:32:22
+   - Details: The host is speaking about healing and God's power to mend and heal.
+   - NERs: God, master, robe, healing, mind, body, soul, hallelujah
+
+3. **Host discussion** 
+   - Time range: 2025-12-17 13:34:23 - 2025-12-17 13:34:23
+   - Details: The host is speaking about God's ability to supply everyone's needs and provide revelation.
+   - NERs: God, supply, everyone, revelation
+
+4. **Host discussion** 
+   - Time range: 2025-12-17 13:34:26 - 2025-12-17 13:34:26
+   - Details: The host is speaking about God's power to heal and set people free.
+   - NERs: God, heal, free, brokenness
+
+5. **Host discussion** 
+   - Time range: 2025-12-17 13:35:26 - 2025-12-17 13:35:26
+   - Details: The host is speaking about Jesus' knowledge of his impending death and the reason for it.
+   - NERs: Jesus, death, Calvary, reason
+
+6. **Host discussion** 
+   - Time range: 2025-12-17 13:36:27 - 2025-12-17 13:36:27
+   - Details: The host is speaking about the creation of humans and the walls and lines that have been built between people.
+   - NERs: humans, creation, walls, lines, people
+
+7. **Host discussion** 
+   - Time range: 2025-12-17 13:37:27 - 2025-12-17 13:37:27
+   - Details: The host is speaking about seeing through God's eyes and understanding his love and understanding.
+   - NERs: God, eyes, love, understanding
+
+8. **Host discussion** 
+   - Time range: 2025-12-17 13:38:28 - 2025-12-17 13:38:28
+   - Details: The host is speaking about God's desire for a higher plan and a perfect heart.
+   - NERs: God, plan, heart
+
+9. **Host discussion** 
+   - Time range: 2025-12-17 13:39:28 - 2025-12-17 13:39:28
+   - Details: The host is speaking about seeing through God's eyes and understanding his love and understanding.
+   - NERs: God, eyes, love, understanding
+
+10. **Host discussion** 
+    - Time range: 2025-12-17 13:40:28 - 2025-12-17 13:40:28
+    - Details: The host is speaking about God's power to see through the surface and down to the knees.
+    - NERs: God, surface, knees
+
+11. **Host discussion** 
+    - Time range: 2025-12-17 13:40:29 - 2025-12-17 13:40:29
+    - Details: The host is speaking about God's power to see through the surface and down to the knees.
+    - NERs: God, surface, knees
+
+12. **Host discussion** 
+    - Time range: 2025-12-17 13:41:28 - 2025-12-17 13:41:28
+    - Details: The host is speaking about God's power to see through the surface and down to the knees.
+    - NERs: God, surface, knees
+
+13. **Host discussion** 
+    - Time range: 2025-12-17 13:42:29 - 2025-12-17 13:42:29
+    - Details: The host is speaking about God's power to see through the surface and down to the knees.
+   

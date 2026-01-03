@@ -1,0 +1,42 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Search Operation for Missing Police Constable and 13-year-old Boy** (Host discussion) - Time range: 2026-01-02 17:00:03 - 2026-01-02 17:03:07
+   - Details: A major search operation was conducted for a police constable and a 13-year-old boy who were feared to have drowned at Sand Hill Beach in Helsha, St. Catherine.
+   - NERs: Sand Hill Beach, Helsha, St. Catherine, Senior Superintendent Leighton Gray, St. Catherine's South Division
+
+2. **Government's Restoration Efforts after Hurricane Melissa** (Host discussion) - Time range: 2026-01-02 17:04:07 - 2026-01-02 17:06:09
+   - Details: The government handed over 175 additional specialized vehicles to the Jamaica Public Service Company to help accelerate the restoration program after Hurricane Melissa.
+   - NERs: Jamaica Public Service Company, Prime Minister Dr. Andrew Holness, Hurricane Melissa
+
+3. **Fatal Shooting of Four-year-old Boy during Police Operation** (Host discussion) - Time range: 2026-01-02 17:07:11 - 2026-01-02 17:08:12
+   - Details: The parliamentary opposition called for an independent investigation into the fatal shooting of a four-year-old boy during a police military operation in St. James.
+   - NERs: St. James, Fitz Jackson, Romaine Bowman, Granville
+
+4. **Illegal Gun Salutes and Injuries** (Host discussion) - Time range: 2026-01-02 17:08:12 - 2026-01-02 17:11:15
+   - Details: Several people were wounded in illegal gun salutes on New Year's Day, including a 13-year-old Canadian national and a 14-year-old girl.
+   - NERs: St. Catharines South, Kingston Western, Dreamland Drive, Portmose, Catherine, Bond Street, Kingston
+
+5. **Jamaica Teachers Association's Outstanding Issues** (Host discussion) - Time range: 2026-01-02 17:11:15 - 2026-01-02 17:13:18
+   - Details: The President of the Jamaica Teachers Association, Mark Malavo, is addressing outstanding issues affecting clerical staff at the union.
+   - NERs: Jamaica Teachers Association, Mark Malavo, Montego Bay, St. James
+
+6. **Flooding and Road Closures** (Host discussion) - Time range: 2026-01-02 17:13:18 - 2026-01-02 17:14:18
+   - Details: The National Works Agency (NWA) reported flooding and road closures in several areas, including Ocho Rios, St. Anne, and Port Antonio.
+   - NERs: National Works Agency, NWA, Ocho Rios, St. Anne, Port Antonio, Rio Nuevo, Stuart Town, Port Maria, Anota Bay
+
+7. **False Health Information on Google** (Host discussion) - Time range: 2026-01-02 17:14:18 - 2026-01-02 17:15:19
+   - Details: An investigation found that Google's artificial intelligence summaries provided false and misleading health information, putting people at risk of harm.
+   - NERs: Google
+
+8. **Business News: Supreme Ventures Racing and Entertainment** (Host discussion) - Time range: 2026-01-02 17:15:19 - 2026-01-02 17:17:20
+   - Details: Supreme Ventures Racing and Entertainment acquired the infrastructure of Sportsmax at Caymanas Park.
+   - NERs: Supreme Ventures Racing and Entertainment, Sportsmax, Caymanas Park, Solomon Sharpe
+
+9. **Year in Review: Hurricane Melissa and its Aftermath** (Host discussion) - Time range: 2026-01-02 17:17:20 - 2026-01-02 17:26:25
+   - Details: The program reviewed the events of 2025, including Hurricane Melissa's impact on Jamaica and the government's response to the disaster.
+   - NERs: Hurricane Melissa, Jamaica, Prime Minister Dr. Andrew Holness, Office of Disaster Preparedness and Emergency Management, ODPEM, Commander Alvin Gale, Richard Thompson, Office of the Prime Minister, Rowan Brown, Meteorological Service of Jamaica, Evan Thompson, Clarendon, Mark Goding, Opposition Leader, Information Minister
+
+10. **Year in Review:

@@ -1,0 +1,24 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Sports News (2026-01-02 19:00:04 - 19:01:05)**
+	* Topic: Sports news, including the death of Joshua's personal trainer and strength coach, and the performance of Jamaican athletes in the 100m men's and women's finals at the World Championships.
+	* NERs: Joshua, Latif Ayodele, Sina Game, Oblique Seville, Tina Clayton, Orlando Bennett, Tyler Mason, Ronaldo Cifas
+2. **Jamaican News and Current Events (2026-01-02 19:01:05 - 19:07:07)**
+	* Topic: Discussion of current events in Jamaica, including the reduction in unemployment rate, the impact of Hurricane Melissa, and the general election results.
+	* NERs: Jamaica, Garfield Jones, Dionne Jax-Millot, Milton Walker, Janet Silveiro, George Davis, Dr. Horace Chang, Mark Golding
+3. **Host Discussion (2026-01-02 19:07:07 - 19:28:22)**
+	* Topic: In-depth discussion among hosts and guests about the top stories of 2025, including Hurricane Melissa, the general election, and the reduction in homicides.
+	* NERs: Dionne Jax-Millot, Milton Walker, Janet Silveiro, George Davis, Dr. Horace Chang, Mark Golding, Jeremy Corbyn, Theresa May
+4. **Interview (2026-01-02 19:07:07 - 19:28:22)**
+	* Topic: Interview with guests Janet Silveiro and George Davis, as well as host Dionne Jax-Millot and Milton Walker, discussing the top stories of 2025.
+	* NERs: Janet Silveiro, George Davis, Dionne Jax-Millot, Milton Walker, Dr. Horace Chang, Mark Golding
+5. **Caller Interaction (None)**
+	* No caller interaction was observed in the provided transcripts.
+6. **Politics and Election (2026-01-02 19:26:20 - 19:28:22)**
+	* Topic: Discussion about the general election results, the performance of the PNP, and whether Mark Golding should step down as leader.
+	* NERs: Mark Golding, Jeremy Corbyn, Theresa May, Dr. Horace Chang
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and NERs mentioned.

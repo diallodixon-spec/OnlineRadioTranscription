@@ -1,0 +1,31 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Christmas Music and Introduction** (2025-12-16 15:00:02 - 2025-12-16 15:04:04)
+	* Topic: Host discussion
+	* Details: The host introduces Christmas music and sets the tone for the program.
+	* NERs: None
+2. **Caller Interaction - Janelle** (2025-12-16 15:04:04 - 2025-12-16 15:09:08)
+	* Topic: Caller interaction, Host discussion
+	* Details: The host interacts with a caller, Janelle, discussing her plans for Christmas and a party she's attending.
+	* NERs: Janelle, Love Divine, Kingston, Renaissance, Turbulence, I'm Maru, Shay, Wiki Wacky Festival, Springville
+3. **Upcoming Events and Announcements** (2025-12-16 15:09:08 - 2025-12-16 15:14:09)
+	* Topic: Host discussion
+	* Details: The host announces upcoming events, including the Kingston Crater Festival and the Wiki Wacky Festival.
+	* NERs: Kingston Crater Festival, Wiki Wacky Festival, Jamaica Tourist Board, Tourism Enhancement Fund, Kingston and St. Andrew Municipal Corporation, Catherine's Peak, Great Wall Motors, Stewart's Automotive Group, Maine Events
+4. **Christmas Plans and Financial Advice** (2025-12-16 15:14:09 - 2025-12-16 15:18:11)
+	* Topic: Host discussion
+	* Details: The host discusses Christmas plans and offers financial advice, encouraging listeners to be mindful of their spending.
+	* NERs: None
+5. **Caller Interaction - Carlton** (2025-12-16 15:25:13 - 2025-12-16 15:28:16)
+	* Topic: Caller interaction, Host discussion
+	* Details: The host interacts with a caller, Carlton, discussing his plans for Christmas and his favorite dish.
+	* NERs: Carlton, St. Catherine's, Spanish Town, River Road
+6. **Music and Conversation** (2025-12-16 15:21:09 - 2025-12-16 15:24:12, 2025-12-16 15:28:16 - 2025-12-16 15:31:09)
+	* Topic: Host discussion
+	* Details: The host plays music and engages in conversation, discussing various topics.
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but I have tried to break them down into distinct categories based on the content and context of the transcripts.

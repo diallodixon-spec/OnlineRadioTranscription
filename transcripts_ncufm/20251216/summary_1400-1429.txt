@@ -1,0 +1,26 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Sports Update** (2025-12-16 14:00:01 - 2025-12-16 14:04:05)
+	* Details: The host, Dawson Hossain, discusses news on football, including a court ruling that Paris Saint-Germain must pay former star forward Kylian Mbappe 60 million euros in unpaid salary and bonuses. Other sports news includes the introduction of an extreme heat rule in the ATP and a record-breaking performance by Dallas Mavericks rookie Cooper Flagg in the NBA.
+	* NERs: Kylian Mbappe, Paris Saint-Germain, Real Madrid, ATP, Cooper Flagg, Dallas Mavericks, Utah Jazz, Lewis Hamilton, Formula One
+2. **Host discussion** (2025-12-16 14:08:07 - 2025-12-16 14:12:09)
+	* Details: The host, Matthew J. Wright, discusses the holiday season, traffic, and end-of-year responsibilities. He also introduces the drive-time segment, which includes uplifting music, meaningful segments, and positive vibes.
+	* NERs: Matthew J. Wright, Jamaica
+3. **Caller interaction** (2025-12-16 14:10:08 - 2025-12-16 14:11:08)
+	* Details: The host, Matthew J. Wright, interacts with callers, including Auntie Maxine, Auntie Sharon, and Claudette Peart, who have checked in to the show. He also gives shoutouts to listeners, including Sasha Sheleyan and Payless in Mandeville.
+	* NERs: Matthew J. Wright, Auntie Maxine, Auntie Sharon, Claudette Peart, Sasha Sheleyan, Payless, Mandeville
+4. **Music and worship** (2025-12-16 14:12:09 - 2025-12-16 14:21:12)
+	* Details: The host plays music and leads worship, including a song by Humble and Adele Thomas. He also shares a Wellness Bite about staying active to prevent chronic diseases.
+	* NERs: Humble, Adele Thomas, NCU-FM
+5. **Inspirational messages** (2025-12-16 14:21:12 - 2025-12-16 14:27:15)
+	* Details: The host shares inspirational messages, including a song about Jesus and a message from Lifeline Productions about trusting God in times of trouble.
+	* NERs: Jesus, Lifeline Productions
+6. **Advertisements** (2025-12-16 14:27:15 - 2025-12-16 14:28:15)
+	* Details: The host plays advertisements, including one for the JA Customs Connect mobile app and another for the Benjamins Flavor the Holidays promotion.
+	* NERs: JA Customs, Benjamins, Jamaica
+7. **Community events** (2025-12-16 14:28:15 - 2025-12-16 14:30:00)
+	* Details: The host invites listeners to join the 7 Day Adventist Search in East Jamaica Conference for Camp Meeting 2025.
+	* NERs: 7 Day Adventist, East Jamaica Conference, Jamaica

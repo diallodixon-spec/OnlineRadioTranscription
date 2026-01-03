@@ -1,0 +1,71 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program can be categorized as follows:
+
+1. **Host discussion** (2025-12-25 12:30:17 - 12:34:20)
+   - Topic: Inspirational and motivational messages
+   - Details: The hosts discuss various inspirational and motivational messages, including the importance of perseverance, gratitude, and self-empowerment.
+   - NERs: None
+
+2. **Host discussion** (2025-12-25 12:34:20 - 12:40:24)
+   - Topic: Importance of history and self-awareness
+   - Details: The hosts discuss the importance of knowing one's history and being self-aware in order to lead a fulfilling life.
+   - NERs: None
+
+3. **Host discussion** (2025-12-25 12:40:24 - 12:44:28)
+   - Topic: Emancipation from mental slavery
+   - Details: The hosts discuss the need to emancipate oneself from mental slavery and to focus on self-love and self-empowerment.
+   - NERs: None
+
+4. **Host discussion** (2025-12-25 12:44:28 - 12:48:32)
+   - Topic: Importance of love and unity
+   - Details: The hosts discuss the importance of love and unity in achieving a better world.
+   - NERs: None
+
+5. **Host discussion** (2025-12-25 12:48:32 - 12:52:36)
+   - Topic: Reggae music and its positive impact
+   - Details: The hosts discuss the positive impact of reggae music on people's lives and the importance of promoting unity and love through music.
+   - NERs: Reggae, Jamaica
+
+6. **Host discussion** (2025-12-25 12:52:36 - 12:56:40)
+   - Topic: Importance of self-empowerment and self-love
+   - Details: The hosts discuss the importance of self-empowerment and self-love in achieving personal growth and happiness.
+   - NERs: None
+
+7. **Host discussion** (2025-12-25 12:56:40 - 13:00:44)
+   - Topic: Reggae music and its impact on society
+   - Details: The hosts discuss the impact of reggae music on society and the importance of promoting unity and love through music.
+   - NERs: Reggae, Jamaica
+
+8. **Host discussion** (2025-12-25 13:00:44 - 13:04:48)
+   - Topic: Importance of self-awareness and self-love
+   - Details: The hosts discuss the importance of self-awareness and self-love in achieving personal growth and happiness.
+   - NERs: None
+
+9. **Host discussion** (2025-12-25 13:04:48 - 13:08:52)
+   - Topic: Reggae music and its positive impact
+   - Details: The hosts discuss the positive impact of reggae music on people's lives and the importance of promoting unity and love through music.
+   - NERs: Reggae, Jamaica
+
+10. **Host discussion** (2025-12-25 13:08:52 - 13:12:56)
+    - Topic: Importance of self-empowerment and self-love
+    - Details: The hosts discuss the importance of self-empowerment and self-love in achieving personal growth and happiness.
+    - NERs: None
+
+11. **Host discussion** (2025-12-25 13:12:56 - 13:17:00)
+    - Topic: Reggae music and its impact on society
+    - Details: The hosts discuss the impact of reggae music on society and the importance of promoting unity and love through music.
+    - NERs: Reggae, Jamaica
+
+12. **Host discussion** (2025-12-25 13:17:00 - 13:21:04)
+    - Topic: Importance of self-awareness and self-love
+    - Details: The hosts discuss the importance of self-awareness and self-love in achieving personal growth and happiness.
+    - NERs: None
+
+13. **Host discussion** (2025-12-25 13:21:04 - 13:25:08)
+    - Topic: Reggae music and its positive impact
+    - Details: The hosts discuss the positive impact of reggae music on people's lives and the importance of promoting unity and love through music.
+    - NERs: Reggae, Jamaica
+
+14. **

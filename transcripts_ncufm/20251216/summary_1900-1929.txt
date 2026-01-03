@@ -1,0 +1,25 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Christian Worship and Praise** (Host discussion) - 2025-12-16 19:00:03 - 2025-12-16 19:07:08
+	* Details: The host is singing and praising God, expressing gratitude and trust in Him.
+	* NERs: God, Lord, Jesus
+2. **Inspirational Message** (Host discussion) - 2025-12-16 19:07:08 - 2025-12-16 19:14:12
+	* Details: The host is encouraging listeners to believe in themselves and their abilities, and to trust in God.
+	* NERs: God
+3. **NCU Radio Promotion** (Host discussion) - 2025-12-16 19:12:10 - 2025-12-16 19:12:10
+	* Details: The host is promoting NCU Radio FM 91.1 in Jamaica.
+	* NERs: NCU Radio, Jamaica
+4. **Christian Music and Worship** (Host discussion) - 2025-12-16 19:14:12 - 2025-12-16 19:21:07
+	* Details: The host is playing and singing Christian music, worshiping God and expressing trust in Him.
+	* NERs: God, Lord, Jesus
+5. **Inspirational Message and Prayer** (Host discussion) - 2025-12-16 19:21:07 - 2025-12-16 19:28:21
+	* Details: The host is encouraging listeners to trust in God and to pray for guidance and strength.
+	* NERs: God, Lord, Jesus
+6. **Music Introduction** (Host discussion) - 2025-12-16 19:21:16 - 2025-12-16 19:21:16
+	* Details: The host is introducing a song by Byron Cage.
+	* NERs: Byron Cage
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on Christian worship, praise, and inspirational messages.

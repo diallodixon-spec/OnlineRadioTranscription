@@ -1,0 +1,31 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Love Songs** (2026-01-02 09:00:03 - 2026-01-02 09:26:17)
+	* Details: The host is playing love songs, with lyrics discussing themes of love, relationships, and heartbreak.
+	* NERs: None
+2. **Water Conservation Tips** (2026-01-02 09:12:08 - 2026-01-02 09:12:08)
+	* Details: A public service announcement about water conservation tips.
+	* NERs: Roots 96.1 FM
+3. **Pregnancy and Health** (2026-01-02 09:12:08 - 2026-01-02 09:13:10)
+	* Details: A discussion about pregnancy, health, and the importance of clinic check-ups.
+	* NERs: None
+4. **The Spotlight Hour** (2026-01-02 09:13:10 - 2026-01-02 09:13:10)
+	* Details: A promotion for the radio show "The Spotlight Hour" hosted by Roy Black.
+	* NERs: Roy Black, Roots 96.1 FM
+5. **Distinction College** (2026-01-02 09:14:10 - 2026-01-02 09:14:10)
+	* Details: An advertisement for Distinction College, offering certification courses.
+	* NERs: Distinction College, Kingston, Spanish Town
+6. **Love Songs (continued)** (2026-01-02 09:15:11 - 2026-01-02 09:28:18)
+	* Details: The host continues playing love songs, with lyrics discussing themes of love and relationships.
+	* NERs: None
+7. **Host Introduction** (2026-01-02 09:26:17 - 2026-01-02 09:26:17)
+	* Details: The host introduces the next segment, possibly an interview or guest appearance.
+	* NERs: None
+8. **Interview/ Guest Appearance** (2026-01-02 09:26:17 - 2026-01-02 09:28:18)
+	* Details: The host introduces a guest, and they discuss love and relationships.
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but they have been categorized based on the dominant theme or discussion in each segment.

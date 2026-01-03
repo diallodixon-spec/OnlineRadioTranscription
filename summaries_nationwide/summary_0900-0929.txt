@@ -1,0 +1,25 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Introduction to the new year and response to critics** (2026-01-02 09:00:03 - 09:01:05)
+	* Details: The host discusses the start of a new year, thanks contributors and listeners, and responds to critics who claim that only 4% of people in Jamaica listen to Nationwide.
+	* NERs: Chris Mullings, Jamaica, Nationwide
+2. **Tax Tip: Procedure for replacing a lost vehicle license plate** (2026-01-02 09:02:05 - 09:03:06)
+	* Details: The host provides a step-by-step guide on how to replace a lost vehicle license plate in Jamaica.
+	* NERs: Jamaica, police station, tax office
+3. **Get the facts: Coping with the loss of a loved one during the holidays** (2026-01-02 09:03:06 - 09:06:07)
+	* Details: The host discusses the challenges of coping with the loss of a loved one during the holidays and provides guidance on how to identify the stages of grief.
+	* NERs: Dr. Walcott, Mental Health Helpline
+4. **Host discussion: Introduction to the Consumer Hour** (2026-01-02 09:07:08 - 09:11:10)
+	* Details: The host introduces the Consumer Hour segment, wishes listeners a happy new year, and invites them to call in with consumer-related issues.
+	* NERs: Norege Banton, Nationwide 90 FM
+5. **Caller interaction: Birthday wishes and consumer issues** (2026-01-02 09:11:11 - 09:26:21)
+	* Details: Listeners call in to wish the host a happy birthday, discuss consumer-related issues, and share their experiences with various companies and organizations.
+	* NERs: Cliff Hughes, Antonio Sr., Lisa Andrade Thompson, JCPD (Jamaica Council for Persons with Disabilities), Flow
+6. **Caller interaction: Issues with Flow internet service** (2026-01-02 09:26:21 - 09:28:23)
+	* Details: A listener calls in to report issues with their Flow internet service, including lack of internet access and billing problems.
+	* NERs: Flow, Alibi-Atlanti route
+
+Note that some of these topics may overlap or be related to each other, but I have tried to break them down into distinct categories based on the content of the transcripts.

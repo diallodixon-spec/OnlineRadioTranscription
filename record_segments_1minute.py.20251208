@@ -1,0 +1,286 @@
+#!/usr/bin/env python3
+import os
+import sys
+import subprocess
+import wave
+import time
+import threading
+from pathlib import Path
+from datetime import datetime, timedelta
+
+# Configuration - Two Radio Stations
+RJR_RADIO_URL = "https://stream-148.zeno.fm/ebqnzkvyv9duv"
+POWER106_RADIO_URL = "https://stream.zeno.fm/kke12ee08wquv"
+
+# Output directories
+RJR_OUTPUT_DIR = "/root/speech2text/stream_onlineradio/transcribewave/recordings_RJR"
+POWER106_OUTPUT_DIR = "/root/speech2text/stream_onlineradio/transcribewave/recordings_power106"
+LOG_DIR = "logs"
+
+# Audio parameters
+SAMPLE_RATE = 16000
+CHANNELS = 1
+SAMPWIDTH = 2  # 16-bit
+BYTES_PER_SAMPLE = 2
+BYTES_PER_SECOND = SAMPLE_RATE * BYTES_PER_SAMPLE * CHANNELS
+
+# Recording parameters - 1 MINUTE SEGMENTS
+SEGMENT_DURATION_SECONDS = 60  # 1 minute per segment
+TOTAL_RECORDING_SECONDS = 59 * 60 + 55  # 59 minutes 55 seconds (3595 seconds)
+
+# Time offset for filename timestamps (negative = in the past)
+#FILENAME_TIME_OFFSET_HOURS = -5  # 5 hours in the past
+FILENAME_TIME_OFFSET_HOURS = 0  # 5 hours in the past
+
+class RadioRecorder:
+    """Records online radio stream to 1-minute WAV file segments"""
+    
+    def __init__(self, station_name, radio_url, output_dir, log_file=None):
+        self.station_name = station_name
+        self.radio_url = radio_url
+        self.output_dir = output_dir
+        self.log_file = log_file
+        self.proc = None
+        self.is_recording = False
+        
+        # Create output directory
+        os.makedirs(output_dir, exist_ok=True)
+    
+    def log(self, message):
+        """Log message to file and stdout"""
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        log_message = f"[{timestamp}] [{self.station_name}] {message}"
+        
+        #print(log_message)
+        
+        if self.log_file:
+            try:
+                with open(self.log_file, 'a') as f:
+                    f.write(log_message + "\n")
+            except Exception as e:
+                print(f"Warning: Could not write to log file: {e}")
+    
+    def start_ffmpeg(self):
+        """Start FFmpeg process to capture radio stream"""
+        ffmpeg_cmd = [
+            "ffmpeg", "-nostdin", "-hide_banner", "-loglevel", "error",
+            "-reconnect", "1",
+            "-reconnect_streamed", "1",
+            "-reconnect_delay_max", "5",
+            "-i", self.radio_url,
+            "-f", "s16le", "-acodec", "pcm_s16le",
+            "-ar", str(SAMPLE_RATE), "-ac", str(CHANNELS),
+            "pipe:1"
+        ]
+        return subprocess.Popen(
+            ffmpeg_cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            bufsize=10**7
+        )
+    
+    def create_filename(self, segment_num):
+        """Create output filename with timestamp (adjusted by offset)"""
+        # Apply time offset for filename
+        adjusted_time = datetime.now() + timedelta(hours=FILENAME_TIME_OFFSET_HOURS)
+        timestamp = adjusted_time.strftime("%Y%m%d_%H%M%S")
+        filename = f"{self.station_name}_recording_{timestamp}_seg{segment_num:03d}.wav"
+        return os.path.join(self.output_dir, filename)
+    
+    def create_temp_filename(self, final_filename):
+        """Create temporary filename by appending .tmp"""
+        return final_filename + ".tmp"
+    
+    def write_wav_header(self, wf):
+        """Write WAV file header"""
+        wf.setnchannels(CHANNELS)
+        wf.setsampwidth(SAMPWIDTH)
+        wf.setframerate(SAMPLE_RATE)
+    
+    def record_segmented(self):
+        """Record to multiple 1-minute WAV files for 59m55s"""
+        self.log("=" * 60)
+        self.log("📻 Starting 1-Minute Segmented Radio Recording")
+        self.log(f"🔗 Radio URL: {self.radio_url}")
+        self.log(f"📂 Output directory: {self.output_dir}")
+        self.log(f"⏱️  Segment duration: 1 minute")
+        self.log(f"⏱️  Total duration: 59 minutes 55 seconds")
+        self.log("=" * 60)
+        
+        # Start FFmpeg
+        self.log("🔌 Connecting to radio stream...")
+        try:
+            self.proc = self.start_ffmpeg()
+            self.is_recording = True
+            self.log("✅ Connected successfully")
+        except Exception as e:
+            self.log(f"❌ Failed to connect: {e}")
+            return 1
+        
+        segment_num = 0
+        start_time = time.time()
+        successful_segments = 0
+        failed_segments = 0
+        
+        try:
+            while self.is_recording:
+                # Check if total recording time has elapsed
+                total_elapsed = time.time() - start_time
+                if total_elapsed >= TOTAL_RECORDING_SECONDS:
+                    self.log("⏱️  Total duration reached (59m55s)")
+                    break
+                
+                # Create new segment file
+                output_file = self.create_filename(segment_num)
+                temp_file = self.create_temp_filename(output_file)
+                self.log(f"🎙️  Recording segment {segment_num + 1}: {Path(output_file).name}")
+                
+                segment_start = time.time()
+                bytes_written = 0
+                
+                try:
+                    # Write to temporary file
+                    with wave.open(temp_file, 'wb') as wf:
+                        self.write_wav_header(wf)
+                        
+                        while self.is_recording:
+                            # Check segment duration
+                            segment_elapsed = time.time() - segment_start
+                            if segment_elapsed >= SEGMENT_DURATION_SECONDS:
+                                break
+                            
+                            # Check total duration
+                            total_elapsed = time.time() - start_time
+                            if total_elapsed >= TOTAL_RECORDING_SECONDS:
+                                self.log("⏱️  Total duration reached during segment")
+                                self.is_recording = False
+                                break
+                            
+                            # Read audio data
+                            chunk = self.proc.stdout.read(32768)
+                            
+                            if not chunk:
+                                self.log("⚠️  Stream ended unexpectedly")
+                                self.is_recording = False
+                                break
+                            
+                            # Write to WAV file
+                            wf.writeframes(chunk)
+                            bytes_written += len(chunk)
+                    
+                    # Rename temporary file to final filename
+                    os.rename(temp_file, output_file)
+                    
+                    # Segment complete
+                    duration_recorded = bytes_written / BYTES_PER_SECOND
+                    file_size_mb = os.path.getsize(output_file) / (1024 * 1024)
+                    self.log(f"   ✅ Segment saved: {duration_recorded:.1f}s, {file_size_mb:.2f} MB")
+                    successful_segments += 1
+                    
+                except Exception as e:
+                    self.log(f"   ❌ Error recording segment: {e}")
+                    failed_segments += 1
+                    # Clean up temp file if it exists
+                    if os.path.exists(temp_file):
+                        try:
+                            os.remove(temp_file)
+                        except:
+                            pass
+                
+                segment_num += 1
+        
+        except Exception as e:
+            self.log(f"❌ Critical error during recording: {e}")
+            return 1
+        finally:
+            self.cleanup()
+            total_elapsed = (time.time() - start_time) / 60
+            
+            self.log("=" * 60)
+            self.log("✅ Recording session complete")
+            self.log(f"📊 Successful segments: {successful_segments}")
+            if failed_segments > 0:
+                self.log(f"⚠️  Failed segments: {failed_segments}")
+            self.log(f"⏱️  Total time: {total_elapsed:.2f} minutes")
+            self.log(f"📁 Files saved to: {self.output_dir}/")
+            self.log("=" * 60)
+        
+        return 0
+    
+    def cleanup(self):
+        """Clean up FFmpeg process"""
+        self.is_recording = False
+        if self.proc and self.proc.poll() is None:
+            self.proc.terminate()
+            try:
+                self.proc.wait(timeout=3)
+            except:
+                self.proc.kill()
+
+def record_station(station_name, radio_url, output_dir, log_file):
+    """Record a single station - designed to run in a thread"""
+    recorder = RadioRecorder(station_name, radio_url, output_dir, log_file)
+    return recorder.record_segmented()
+
+def main():
+    # Set up logging
+    os.makedirs(LOG_DIR, exist_ok=True)
+    log_file = os.path.join(LOG_DIR, f"recording_{datetime.now().strftime('%Y%m%d')}.log")
+    
+    # Check FFmpeg
+    try:
+        subprocess.run(["ffmpeg", "-version"], capture_output=True, check=True)
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        error_msg = "❌ FFmpeg not found. Install with: sudo apt install ffmpeg"
+        print(error_msg)
+        with open(log_file, 'a') as f:
+            f.write(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {error_msg}\n")
+        return 1
+    ''' 
+    print("=" * 60)
+    print("📻 Dual-Station Radio Recorder")
+    print("=" * 60)
+    print("Recording from:")
+    print(f"  1. RJR → {RJR_OUTPUT_DIR}/")
+    print(f"  2. Power106 → {POWER106_OUTPUT_DIR}/")
+    print("=" * 60)
+    '''
+    
+    try:
+        # Create threads for simultaneous recording
+        rjr_thread = threading.Thread(
+            target=record_station,
+            args=("RJR", RJR_RADIO_URL, RJR_OUTPUT_DIR, log_file),
+            name="RJR-Recorder"
+        )
+        
+        power106_thread = threading.Thread(
+            target=record_station,
+            args=("Power106", POWER106_RADIO_URL, POWER106_OUTPUT_DIR, log_file),
+            name="Power106-Recorder"
+        )
+        
+        # Start both recordings simultaneously
+        rjr_thread.start()
+        power106_thread.start()
+        
+        # Wait for both to complete
+        rjr_thread.join()
+        power106_thread.join()
+        ''' 
+        print("\n" + "=" * 60)
+        print("✅ Both recording sessions complete")
+        print("=" * 60)
+        '''
+        
+        return 0
+    
+    except Exception as e:
+        error_msg = f"❌ Fatal error: {e}"
+        print(error_msg)
+        with open(log_file, 'a') as f:
+            f.write(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {error_msg}\n")
+        return 1
+
+if __name__ == "__main__":
+    sys.exit(main())

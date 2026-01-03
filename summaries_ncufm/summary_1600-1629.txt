@@ -1,0 +1,31 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program can be summarized as follows:
+
+1. **Host discussion and Introduction to the Show** (2026-01-02 16:00:03 - 2026-01-02 16:01:04)
+	* Details: The host introduces the show, wishes listeners a happy new year, and starts playing music.
+	* NERs: None
+2. **Music and Listener Engagement** (2026-01-02 16:01:04 - 2026-01-02 16:09:09)
+	* Details: The host plays music and engages with listeners who are sending messages and greetings.
+	* NERs: None
+3. **Birthday and Anniversary Greetings** (2026-01-02 16:04:05 - 2026-01-02 16:11:09)
+	* Details: The host reads out birthday and anniversary greetings from listeners, including greetings for Linval Roy Williams, Marcia Dare, and Charmaine and Theo Lennon.
+	* NERs: Linval Roy Williams, Marcia Dare, Charmaine Lennon, Theo Lennon
+4. **Caller Interaction** (2026-01-02 16:11:09 - 2026-01-02 16:17:14)
+	* Details: Listeners call in or send messages to greet the host and other listeners, including Tasha Lynn, Anzard, and Somia.
+	* NERs: Tasha Lynn, Anzard, Somia
+5. **Music and Listener Engagement** (2026-01-02 16:17:14 - 2026-01-02 16:22:18)
+	* Details: The host continues to play music and engage with listeners, including Marcia Sims and Hilary Davis.
+	* NERs: Marcia Sims, Hilary Davis
+6. **Bus List Segment** (2026-01-02 16:22:18 - 2026-01-02 16:28:22)
+	* Details: The host introduces the "bus list" segment, where listeners can get their names checked off and send greetings to others.
+	* NERs: Denise Alexander, Andrea Tennant, Brother Pinnock, Sister Pinnock
+7. **Listener Greetings and Congratulations** (2026-01-02 16:28:22 - 2026-01-02 16:34:20)
+	* Details: Listeners send greetings and congratulations, including birthday greetings for Amy Blake and congratulations to Ariana Waugh on her baptism.
+	* NERs: Amy Blake, Ariana Waugh, Bobby McKitty
+8. **Final Segment and Closing** (2026-01-02 16:34:20 - 2026-01-02 16:40:00)
+	* Details: The host wraps up the show, thanks listeners for tuning in, and wishes them a happy Sabbath.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context of the transcripts.

@@ -1,0 +1,32 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion** (110003 - 112815)
+   - Details: The hosts are discussing a song and its lyrics, as well as a message of love and worship.
+   - NERs: Lord, Northern Caribbean University, NCU, Jamaica, NCUFM, Pastor Shion O'Connor, Ebenezer Seventh-day Adventist Church, Cayman Islands Conference, VH Percy Center, East Jamaica Conference Camp Meeting, International Contemporary Wednesday, Kate Anthony Fowler, Maxine Anderson, Monika, Winsome, Andrea Samwells, Orgot, Shellyann, Megan, Don Dobson, Brayton SDA church, Lacey Anderson, Carmen, Robert Lourdes, Dave and Annette McNeish, Lowell and Ethlyn Thomas, Sherwood SDA Church, Randy's shop Hibernia, Cross, Roxanne Fuseybrooks, Owen and Merlene Brown, Newland SDA Church, Kayson Combs, Bev, Bevan, Melissa, Ricardo Campbell, Joan Ferguson.
+
+2. **Host discussion** (110404 - 110908)
+   - Details: The hosts are discussing a song and its lyrics, focusing on the theme of love and worship.
+   - NERs: Lord, Northern Caribbean University, NCU, Jamaica, NCUFM.
+
+3. **Host discussion** (111008 - 111310)
+   - Details: The hosts are discussing a song and its lyrics, focusing on the theme of getting back up after falling.
+   - NERs: Lord, Northern Caribbean University, NCU, Jamaica, NCUFM.
+
+4. **Host discussion** (111410 - 111510)
+   - Details: The hosts are discussing a Wellness Bite from NCU-FM, focusing on the benefits of ginger.
+   - NERs: NCU-FM, ginger, Jamaica Customs Agency, Customs Assessment Notice, Customs Receipt, IM-4, IMS-4, CNumber.
+
+5. **Host discussion** (111611 - 111912)
+   - Details: The hosts are discussing a program for girls, focusing on the theme of worship and celebration.
+   - NERs: Northern Caribbean University, NCU, Jamaica, NCUFM, East Jamaica Conference Camp Meeting, VH Percy Center, Pastor Shion O'Connor, Ebenezer Seventh-day Adventist Church, Cayman Islands Conference.
+
+6. **Host discussion** (112013 - 112214)
+   - Details: The hosts are discussing a song and its lyrics, focusing on the theme of worship and celebration.
+   - NERs: Lord, Northern Caribbean University, NCU, Jamaica, NCUFM.
+
+7. **Caller interaction** (112214 - 112815)
+   - Details: The hosts are interacting with callers, wishing them happy birthdays, anniversaries, and expressing support and love.
+   - NERs: Kate Anthony Fowler, Maxine Anderson, Monika, Winsome, Andrea Samwells, Orgot, Shellyann, Megan, Don Dobson, Brayton SDA church, Lacey Anderson, Carmen, Robert Lourdes, Dave and Annette McNeish, Lowell and Ethlyn Thomas, Sherwood SDA Church, Randy's shop Hibernia, Cross, Roxanne Fuseybrooks, Owen and Merlene Brown, Newland SDA Church, Kayson Combs, Bev, Bevan, Melissa, Ricardo Campbell, Joan Ferguson.

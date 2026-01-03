@@ -1,0 +1,282 @@
+[2025-11-23 00:03:11] ============================================================
+[2025-11-23 00:03:11] 📻 Batch WAV Transcription Service
+[2025-11-23 00:03:11] 🤗 HF Space: https://dmajor007-audiotranscription.hf.space
+[2025-11-23 00:03:11] ============================================================
+[2025-11-23 00:03:11] 🤗 Connecting to Hugging Face Space...
+[2025-11-23 00:03:11] ✅ Connected successfully
+[2025-11-23 00:03:11] ============================================================
+[2025-11-23 00:03:11] 📻 Processing RJR
+[2025-11-23 00:03:11] 📂 Recordings: recordings_RJR/
+[2025-11-23 00:03:11] 📄 Transcripts: transcripts_RJR/
+[2025-11-23 00:03:11] 📦 Completed: transcription_completed_RJR/
+[2025-11-23 00:03:11] ------------------------------------------------------------
+[2025-11-23 00:03:11] 📋 Found 24 WAV file(s)
+[2025-11-23 00:03:11] 📝 Files to transcribe: 24
+[2025-11-23 00:03:11] ------------------------------------------------------------
+[2025-11-23 00:03:11] [1/24] Processing...
+[2025-11-23 00:03:11] 🎤 Transcribing: RJR_recording_20251122_183647_seg002.wav
+[2025-11-23 00:08:54]    ✅ Saved to: RJR_recording_20251122_183647_seg002_transcript.txt
+[2025-11-23 00:08:54]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_183647_seg002.wav
+[2025-11-23 00:08:54] [2/24] Processing...
+[2025-11-23 00:08:54] 🎤 Transcribing: RJR_recording_20251122_183941_seg000.wav
+[2025-11-23 00:13:38]    ✅ Saved to: RJR_recording_20251122_183941_seg000_transcript.txt
+[2025-11-23 00:13:38]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_183941_seg000.wav
+[2025-11-23 00:13:38] [3/24] Processing...
+[2025-11-23 00:13:38] 🎤 Transcribing: RJR_recording_20251122_184042_seg001.wav
+[2025-11-23 00:16:25]    ✅ Saved to: RJR_recording_20251122_184042_seg001_transcript.txt
+[2025-11-23 00:16:25]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184042_seg001.wav
+[2025-11-23 00:16:25] [4/24] Processing...
+[2025-11-23 00:16:25] 🎤 Transcribing: RJR_recording_20251122_184142_seg002.wav
+[2025-11-23 00:19:25]    ✅ Saved to: RJR_recording_20251122_184142_seg002_transcript.txt
+[2025-11-23 00:19:25]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184142_seg002.wav
+[2025-11-23 00:19:25] [5/24] Processing...
+[2025-11-23 00:19:25] 🎤 Transcribing: RJR_recording_20251122_184242_seg003.wav
+[2025-11-23 00:21:48]    ✅ Saved to: RJR_recording_20251122_184242_seg003_transcript.txt
+[2025-11-23 00:21:48]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184242_seg003.wav
+[2025-11-23 00:21:48] [6/24] Processing...
+[2025-11-23 00:21:48] 🎤 Transcribing: RJR_recording_20251122_184343_seg004.wav
+[2025-11-23 00:24:30]    ✅ Saved to: RJR_recording_20251122_184343_seg004_transcript.txt
+[2025-11-23 00:24:30]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184343_seg004.wav
+[2025-11-23 00:24:30] [7/24] Processing...
+[2025-11-23 00:24:30] 🎤 Transcribing: RJR_recording_20251122_184443_seg005.wav
+[2025-11-23 00:28:12]    ✅ Saved to: RJR_recording_20251122_184443_seg005_transcript.txt
+[2025-11-23 00:28:12]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184443_seg005.wav
+[2025-11-23 00:28:12] [8/24] Processing...
+[2025-11-23 00:28:12] 🎤 Transcribing: RJR_recording_20251122_184544_seg006.wav
+[2025-11-23 00:33:42]    ✅ Saved to: RJR_recording_20251122_184544_seg006_transcript.txt
+[2025-11-23 00:33:42]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184544_seg006.wav
+[2025-11-23 00:33:42] [9/24] Processing...
+[2025-11-23 00:33:42] 🎤 Transcribing: RJR_recording_20251122_184644_seg007.wav
+[2025-11-23 00:38:30]    ✅ Saved to: RJR_recording_20251122_184644_seg007_transcript.txt
+[2025-11-23 00:38:30]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184644_seg007.wav
+[2025-11-23 00:38:30] [10/24] Processing...
+[2025-11-23 00:38:30] 🎤 Transcribing: RJR_recording_20251122_184745_seg008.wav
+[2025-11-23 00:42:43]    ✅ Saved to: RJR_recording_20251122_184745_seg008_transcript.txt
+[2025-11-23 00:42:43]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184745_seg008.wav
+[2025-11-23 00:42:43] [11/24] Processing...
+[2025-11-23 00:42:43] 🎤 Transcribing: RJR_recording_20251122_184845_seg009.wav
+[2025-11-23 00:49:20]    ✅ Saved to: RJR_recording_20251122_184845_seg009_transcript.txt
+[2025-11-23 00:49:20]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184845_seg009.wav
+[2025-11-23 00:49:20] [12/24] Processing...
+[2025-11-23 00:49:20] 🎤 Transcribing: RJR_recording_20251122_184946_seg010.wav
+[2025-11-23 00:53:58]    ✅ Saved to: RJR_recording_20251122_184946_seg010_transcript.txt
+[2025-11-23 00:53:58]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_184946_seg010.wav
+[2025-11-23 00:53:58] [13/24] Processing...
+[2025-11-23 00:53:58] 🎤 Transcribing: RJR_recording_20251122_185046_seg011.wav
+[2025-11-23 00:57:11]    ✅ Saved to: RJR_recording_20251122_185046_seg011_transcript.txt
+[2025-11-23 00:57:11]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185046_seg011.wav
+[2025-11-23 00:57:11] [14/24] Processing...
+[2025-11-23 00:57:11] 🎤 Transcribing: RJR_recording_20251122_185147_seg012.wav
+[2025-11-23 01:01:01]    ✅ Saved to: RJR_recording_20251122_185147_seg012_transcript.txt
+[2025-11-23 01:01:01]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185147_seg012.wav
+[2025-11-23 01:01:01] [15/24] Processing...
+[2025-11-23 01:01:01] 🎤 Transcribing: RJR_recording_20251122_185247_seg013.wav
+[2025-11-23 01:04:41]    ✅ Saved to: RJR_recording_20251122_185247_seg013_transcript.txt
+[2025-11-23 01:04:41]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185247_seg013.wav
+[2025-11-23 01:04:41] [16/24] Processing...
+[2025-11-23 01:04:41] 🎤 Transcribing: RJR_recording_20251122_185348_seg014.wav
+[2025-11-23 01:09:03]    ✅ Saved to: RJR_recording_20251122_185348_seg014_transcript.txt
+[2025-11-23 01:09:03]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185348_seg014.wav
+[2025-11-23 01:09:03] [17/24] Processing...
+[2025-11-23 01:09:03] 🎤 Transcribing: RJR_recording_20251122_185449_seg015.wav
+[2025-11-23 01:13:46]    ✅ Saved to: RJR_recording_20251122_185449_seg015_transcript.txt
+[2025-11-23 01:13:46]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185449_seg015.wav
+[2025-11-23 01:13:46] [18/24] Processing...
+[2025-11-23 01:13:46] 🎤 Transcribing: RJR_recording_20251122_185549_seg016.wav
+[2025-11-23 01:18:40]    ✅ Saved to: RJR_recording_20251122_185549_seg016_transcript.txt
+[2025-11-23 01:18:40]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185549_seg016.wav
+[2025-11-23 01:18:40] [19/24] Processing...
+[2025-11-23 01:18:40] 🎤 Transcribing: RJR_recording_20251122_185650_seg017.wav
+[2025-11-23 01:21:29]    ✅ Saved to: RJR_recording_20251122_185650_seg017_transcript.txt
+[2025-11-23 01:21:29]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185650_seg017.wav
+[2025-11-23 01:21:29] [20/24] Processing...
+[2025-11-23 01:21:29] 🎤 Transcribing: RJR_recording_20251122_185751_seg018.wav
+[2025-11-23 01:25:47]    ✅ Saved to: RJR_recording_20251122_185751_seg018_transcript.txt
+[2025-11-23 01:25:47]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185751_seg018.wav
+[2025-11-23 01:25:47] [21/24] Processing...
+[2025-11-23 01:25:47] 🎤 Transcribing: RJR_recording_20251122_185851_seg019.wav
+[2025-11-23 01:29:03]    ✅ Saved to: RJR_recording_20251122_185851_seg019_transcript.txt
+[2025-11-23 01:29:03]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185851_seg019.wav
+[2025-11-23 01:29:03] [22/24] Processing...
+[2025-11-23 01:29:03] 🎤 Transcribing: RJR_recording_20251122_185951_seg020.wav
+[2025-11-23 01:33:32]    ✅ Saved to: RJR_recording_20251122_185951_seg020_transcript.txt
+[2025-11-23 01:33:32]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_185951_seg020.wav
+[2025-11-23 01:33:32] [23/24] Processing...
+[2025-11-23 01:33:32] 🎤 Transcribing: RJR_recording_20251122_190052_seg021.wav
+[2025-11-23 01:36:13]    ✅ Saved to: RJR_recording_20251122_190052_seg021_transcript.txt
+[2025-11-23 01:36:13]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_190052_seg021.wav
+[2025-11-23 01:36:13] [24/24] Processing...
+[2025-11-23 01:36:13] 🎤 Transcribing: RJR_recording_20251122_190152_seg022.wav
+[2025-11-23 01:39:33]    ✅ Saved to: RJR_recording_20251122_190152_seg022_transcript.txt
+[2025-11-23 01:39:33]    📦 Moved to: transcription_completed_RJR/RJR_recording_20251122_190152_seg022.wav
+[2025-11-23 01:39:33] ------------------------------------------------------------
+[2025-11-23 01:39:33] 📊 RJR Results: 24 successful, 0 failed
+[2025-11-23 01:39:33] ============================================================
+[2025-11-23 01:39:33] ============================================================
+[2025-11-23 01:39:33] 📻 Processing Power106
+[2025-11-23 01:39:33] 📂 Recordings: recordings_power106/
+[2025-11-23 01:39:33] 📄 Transcripts: transcripts_power106/
+[2025-11-23 01:39:33] 📦 Completed: transcription_completed_power106/
+[2025-11-23 01:39:33] ------------------------------------------------------------
+[2025-11-23 01:39:33] 📋 Found 38 WAV file(s)
+[2025-11-23 01:39:33] 📝 Files to transcribe: 38
+[2025-11-23 01:39:33] ------------------------------------------------------------
+[2025-11-23 01:39:33] [1/38] Processing...
+[2025-11-23 01:39:33] 🎤 Transcribing: Power106_recording_20251122_183444_seg000.wav
+[2025-11-23 01:42:22]    ✅ Saved to: Power106_recording_20251122_183444_seg000_transcript.txt
+[2025-11-23 01:42:22]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_183444_seg000.wav
+[2025-11-23 01:42:22] [2/38] Processing...
+[2025-11-23 01:42:22] 🎤 Transcribing: Power106_recording_20251122_183544_seg001.wav
+[2025-11-23 01:43:36]    ✅ Saved to: Power106_recording_20251122_183544_seg001_transcript.txt
+[2025-11-23 01:43:36]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_183544_seg001.wav
+[2025-11-23 01:43:36] [3/38] Processing...
+[2025-11-23 01:43:36] 🎤 Transcribing: Power106_recording_20251122_183644_seg002.wav
+[2025-11-23 01:46:07]    ✅ Saved to: Power106_recording_20251122_183644_seg002_transcript.txt
+[2025-11-23 01:46:07]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_183644_seg002.wav
+[2025-11-23 01:46:07] [4/38] Processing...
+[2025-11-23 01:46:07] 🎤 Transcribing: Power106_recording_20251122_183941_seg000.wav
+[2025-11-23 01:48:44]    ✅ Saved to: Power106_recording_20251122_183941_seg000_transcript.txt
+[2025-11-23 01:48:44]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_183941_seg000.wav
+[2025-11-23 01:48:44] [5/38] Processing...
+[2025-11-23 01:48:44] 🎤 Transcribing: Power106_recording_20251122_184041_seg001.wav
+[2025-11-23 01:50:33]    ✅ Saved to: Power106_recording_20251122_184041_seg001_transcript.txt
+[2025-11-23 01:50:33]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184041_seg001.wav
+[2025-11-23 01:50:33] [6/38] Processing...
+[2025-11-23 01:50:33] 🎤 Transcribing: Power106_recording_20251122_184141_seg002.wav
+[2025-11-23 01:51:48]    ✅ Saved to: Power106_recording_20251122_184141_seg002_transcript.txt
+[2025-11-23 01:51:48]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184141_seg002.wav
+[2025-11-23 01:51:48] [7/38] Processing...
+[2025-11-23 01:51:48] 🎤 Transcribing: Power106_recording_20251122_184241_seg003.wav
+[2025-11-23 01:53:57]    ✅ Saved to: Power106_recording_20251122_184241_seg003_transcript.txt
+[2025-11-23 01:53:57]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184241_seg003.wav
+[2025-11-23 01:53:57] [8/38] Processing...
+[2025-11-23 01:53:57] 🎤 Transcribing: Power106_recording_20251122_184343_seg004.wav
+[2025-11-23 01:56:16]    ✅ Saved to: Power106_recording_20251122_184343_seg004_transcript.txt
+[2025-11-23 01:56:16]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184343_seg004.wav
+[2025-11-23 01:56:16] [9/38] Processing...
+[2025-11-23 01:56:16] 🎤 Transcribing: Power106_recording_20251122_184443_seg005.wav
+[2025-11-23 01:57:49]    ✅ Saved to: Power106_recording_20251122_184443_seg005_transcript.txt
+[2025-11-23 01:57:49]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184443_seg005.wav
+[2025-11-23 01:57:49] [10/38] Processing...
+[2025-11-23 01:57:49] 🎤 Transcribing: Power106_recording_20251122_184544_seg006.wav
+[2025-11-23 01:59:36]    ✅ Saved to: Power106_recording_20251122_184544_seg006_transcript.txt
+[2025-11-23 01:59:36]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184544_seg006.wav
+[2025-11-23 01:59:36] [11/38] Processing...
+[2025-11-23 01:59:36] 🎤 Transcribing: Power106_recording_20251122_184644_seg007.wav
+[2025-11-23 02:00:40]    ✅ Saved to: Power106_recording_20251122_184644_seg007_transcript.txt
+[2025-11-23 02:00:40]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184644_seg007.wav
+[2025-11-23 02:00:40] [12/38] Processing...
+[2025-11-23 02:00:40] 🎤 Transcribing: Power106_recording_20251122_184745_seg008.wav
+[2025-11-23 02:01:13]    ✅ Saved to: Power106_recording_20251122_184745_seg008_transcript.txt
+[2025-11-23 02:01:13]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184745_seg008.wav
+[2025-11-23 02:01:13] [13/38] Processing...
+[2025-11-23 02:01:13] 🎤 Transcribing: Power106_recording_20251122_184845_seg009.wav
+[2025-11-23 02:02:34]    ✅ Saved to: Power106_recording_20251122_184845_seg009_transcript.txt
+[2025-11-23 02:02:34]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184845_seg009.wav
+[2025-11-23 02:02:34] [14/38] Processing...
+[2025-11-23 02:02:34] 🎤 Transcribing: Power106_recording_20251122_184945_seg010.wav
+[2025-11-23 02:04:16]    ✅ Saved to: Power106_recording_20251122_184945_seg010_transcript.txt
+[2025-11-23 02:04:16]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_184945_seg010.wav
+[2025-11-23 02:04:16] [15/38] Processing...
+[2025-11-23 02:04:16] 🎤 Transcribing: Power106_recording_20251122_185046_seg011.wav
+[2025-11-23 02:06:21]    ✅ Saved to: Power106_recording_20251122_185046_seg011_transcript.txt
+[2025-11-23 02:06:21]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185046_seg011.wav
+[2025-11-23 02:06:21] [16/38] Processing...
+[2025-11-23 02:06:21] 🎤 Transcribing: Power106_recording_20251122_185146_seg012.wav
+[2025-11-23 02:08:43]    ✅ Saved to: Power106_recording_20251122_185146_seg012_transcript.txt
+[2025-11-23 02:08:43]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185146_seg012.wav
+[2025-11-23 02:08:43] [17/38] Processing...
+[2025-11-23 02:08:43] 🎤 Transcribing: Power106_recording_20251122_185246_seg013.wav
+[2025-11-23 02:10:24]    ✅ Saved to: Power106_recording_20251122_185246_seg013_transcript.txt
+[2025-11-23 02:10:24]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185246_seg013.wav
+[2025-11-23 02:10:24] [18/38] Processing...
+[2025-11-23 02:10:24] 🎤 Transcribing: Power106_recording_20251122_185348_seg014.wav
+[2025-11-23 02:12:44]    ✅ Saved to: Power106_recording_20251122_185348_seg014_transcript.txt
+[2025-11-23 02:12:44]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185348_seg014.wav
+[2025-11-23 02:12:44] [19/38] Processing...
+[2025-11-23 02:12:44] 🎤 Transcribing: Power106_recording_20251122_185448_seg015.wav
+[2025-11-23 02:13:54]    ✅ Saved to: Power106_recording_20251122_185448_seg015_transcript.txt
+[2025-11-23 02:13:54]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185448_seg015.wav
+[2025-11-23 02:13:54] [20/38] Processing...
+[2025-11-23 02:13:54] 🎤 Transcribing: Power106_recording_20251122_185548_seg016.wav
+[2025-11-23 02:15:39]    ✅ Saved to: Power106_recording_20251122_185548_seg016_transcript.txt
+[2025-11-23 02:15:39]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185548_seg016.wav
+[2025-11-23 02:15:39] [21/38] Processing...
+[2025-11-23 02:15:39] 🎤 Transcribing: Power106_recording_20251122_185649_seg017.wav
+[2025-11-23 02:17:23]    ✅ Saved to: Power106_recording_20251122_185649_seg017_transcript.txt
+[2025-11-23 02:17:23]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185649_seg017.wav
+[2025-11-23 02:17:23] [22/38] Processing...
+[2025-11-23 02:17:23] 🎤 Transcribing: Power106_recording_20251122_185749_seg018.wav
+[2025-11-23 02:19:36]    ✅ Saved to: Power106_recording_20251122_185749_seg018_transcript.txt
+[2025-11-23 02:19:36]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185749_seg018.wav
+[2025-11-23 02:19:36] [23/38] Processing...
+[2025-11-23 02:19:36] 🎤 Transcribing: Power106_recording_20251122_185850_seg019.wav
+[2025-11-23 02:20:39]    ✅ Saved to: Power106_recording_20251122_185850_seg019_transcript.txt
+[2025-11-23 02:20:39]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185850_seg019.wav
+[2025-11-23 02:20:39] [24/38] Processing...
+[2025-11-23 02:20:39] 🎤 Transcribing: Power106_recording_20251122_185950_seg020.wav
+[2025-11-23 02:23:25]    ✅ Saved to: Power106_recording_20251122_185950_seg020_transcript.txt
+[2025-11-23 02:23:25]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_185950_seg020.wav
+[2025-11-23 02:23:25] [25/38] Processing...
+[2025-11-23 02:23:25] 🎤 Transcribing: Power106_recording_20251122_190051_seg021.wav
+[2025-11-23 02:24:40]    ✅ Saved to: Power106_recording_20251122_190051_seg021_transcript.txt
+[2025-11-23 02:24:40]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190051_seg021.wav
+[2025-11-23 02:24:40] [26/38] Processing...
+[2025-11-23 02:24:40] 🎤 Transcribing: Power106_recording_20251122_190158_seg022.wav
+[2025-11-23 02:27:13]    ✅ Saved to: Power106_recording_20251122_190158_seg022_transcript.txt
+[2025-11-23 02:27:13]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190158_seg022.wav
+[2025-11-23 02:27:13] [27/38] Processing...
+[2025-11-23 02:27:13] 🎤 Transcribing: Power106_recording_20251122_190312_seg023.wav
+[2025-11-23 02:27:48]    ✅ Saved to: Power106_recording_20251122_190312_seg023_transcript.txt
+[2025-11-23 02:27:48]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190312_seg023.wav
+[2025-11-23 02:27:48] [28/38] Processing...
+[2025-11-23 02:27:48] 🎤 Transcribing: Power106_recording_20251122_190412_seg024.wav
+[2025-11-23 02:31:01]    ✅ Saved to: Power106_recording_20251122_190412_seg024_transcript.txt
+[2025-11-23 02:31:01]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190412_seg024.wav
+[2025-11-23 02:31:01] [29/38] Processing...
+[2025-11-23 02:31:01] 🎤 Transcribing: Power106_recording_20251122_190513_seg025.wav
+[2025-11-23 02:34:41]    ✅ Saved to: Power106_recording_20251122_190513_seg025_transcript.txt
+[2025-11-23 02:34:41]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190513_seg025.wav
+[2025-11-23 02:34:41] [30/38] Processing...
+[2025-11-23 02:34:41] 🎤 Transcribing: Power106_recording_20251122_190614_seg026.wav
+[2025-11-23 02:36:14]    ✅ Saved to: Power106_recording_20251122_190614_seg026_transcript.txt
+[2025-11-23 02:36:14]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190614_seg026.wav
+[2025-11-23 02:36:14] [31/38] Processing...
+[2025-11-23 02:36:14] 🎤 Transcribing: Power106_recording_20251122_190715_seg027.wav
+[2025-11-23 02:37:58]    ✅ Saved to: Power106_recording_20251122_190715_seg027_transcript.txt
+[2025-11-23 02:37:58]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190715_seg027.wav
+[2025-11-23 02:37:58] [32/38] Processing...
+[2025-11-23 02:37:58] 🎤 Transcribing: Power106_recording_20251122_190818_seg028.wav
+[2025-11-23 02:39:27]    ✅ Saved to: Power106_recording_20251122_190818_seg028_transcript.txt
+[2025-11-23 02:39:27]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190818_seg028.wav
+[2025-11-23 02:39:27] [33/38] Processing...
+[2025-11-23 02:39:27] 🎤 Transcribing: Power106_recording_20251122_190918_seg029.wav
+[2025-11-23 02:41:17]    ✅ Saved to: Power106_recording_20251122_190918_seg029_transcript.txt
+[2025-11-23 02:41:17]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_190918_seg029.wav
+[2025-11-23 02:41:17] [34/38] Processing...
+[2025-11-23 02:41:17] 🎤 Transcribing: Power106_recording_20251122_191020_seg030.wav
+[2025-11-23 02:42:59]    ✅ Saved to: Power106_recording_20251122_191020_seg030_transcript.txt
+[2025-11-23 02:42:59]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_191020_seg030.wav
+[2025-11-23 02:42:59] [35/38] Processing...
+[2025-11-23 02:42:59] 🎤 Transcribing: Power106_recording_20251122_191120_seg031.wav
+[2025-11-23 02:44:57]    ✅ Saved to: Power106_recording_20251122_191120_seg031_transcript.txt
+[2025-11-23 02:44:57]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_191120_seg031.wav
+[2025-11-23 02:44:57] [36/38] Processing...
+[2025-11-23 02:44:57] 🎤 Transcribing: Power106_recording_20251122_191221_seg032.wav
+[2025-11-23 02:46:51]    ✅ Saved to: Power106_recording_20251122_191221_seg032_transcript.txt
+[2025-11-23 02:46:51]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_191221_seg032.wav
+[2025-11-23 02:46:51] [37/38] Processing...
+[2025-11-23 02:46:51] 🎤 Transcribing: Power106_recording_20251122_191323_seg033.wav
+[2025-11-23 02:48:27]    ✅ Saved to: Power106_recording_20251122_191323_seg033_transcript.txt
+[2025-11-23 02:48:27]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_191323_seg033.wav
+[2025-11-23 02:48:27] [38/38] Processing...
+[2025-11-23 02:48:27] 🎤 Transcribing: Power106_recording_20251122_191423_seg034.wav
+[2025-11-23 02:50:18]    ✅ Saved to: Power106_recording_20251122_191423_seg034_transcript.txt
+[2025-11-23 02:50:18]    📦 Moved to: transcription_completed_power106/Power106_recording_20251122_191423_seg034.wav
+[2025-11-23 02:50:18] ------------------------------------------------------------
+[2025-11-23 02:50:18] 📊 Power106 Results: 38 successful, 0 failed
+[2025-11-23 02:50:18] ============================================================
+[2025-11-23 02:50:18] ============================================================
+[2025-11-23 02:50:18] ✅ Batch transcription complete
+[2025-11-23 02:50:18] 📊 Total successful: 62
+[2025-11-23 02:50:18] ============================================================

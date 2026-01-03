@@ -1,0 +1,37 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Host Discussion** (2026-01-02 10:00:00 - 2026-01-02 10:05:00)
+	* Details: The host introduces the program, gives thanks and praise, and discusses the idea of creativity and the elements of life.
+	* NERs: None
+2. **Fire Friday and New Year's Celebrations** (2026-01-02 10:05:00 - 2026-01-02 10:11:00)
+	* Details: The host discusses the Fire Friday event and the New Year's celebrations, including the fireworks on the waterfront.
+	* NERs: None
+3. **Kwanzaa and I-Frequency Event** (2026-01-02 10:11:00 - 2026-01-02 10:14:00)
+	* Details: The host mentions the Kwanzaa celebration and the I-Frequency event hosted by Mr. Carice on Barbican Road.
+	* NERs: Mr. Carice, Barbican Road
+4. **News and Current Events** (2026-01-02 10:14:00 - 2026-01-02 10:17:00)
+	* Details: The host discusses the front page of the Daily Observer, including a story about a four-year-old boy who was allegedly shot by members of the security forces.
+	* NERs: Daily Observer
+5. **Health and Wellness** (2026-01-02 10:17:00 - 2026-01-02 10:19:00)
+	* Details: The host mentions a message from the Ministry of Health and Wellness about the importance of clinic visits for pregnant women.
+	* NERs: Ministry of Health and Wellness
+6. **News in Brief** (2026-01-02 10:19:00 - 2026-01-02 10:22:00)
+	* Details: The host presents a news brief, including stories about incidents in St. James, gun salute injuries, and road and water-related emergencies.
+	* NERs: Cornwall Regional Hospital, St. James, National Housing Trust
+7. **Sports** (2026-01-02 10:22:00 - 2026-01-02 10:23:00)
+	* Details: The host mentions the Chapulton Maroons' first win of the Jamaica Premier League season.
+	* NERs: Chapulton Maroons, Jamaica Premier League
+8. **Advertising Promotion** (2026-01-02 10:23:00 - 2026-01-02 10:25:00)
+	* Details: The host announces the Roots FM 10 for 5 advertising promotion for small businesses.
+	* NERs: Roots FM
+9. **Host Discussion and Music** (2026-01-02 10:25:00 - 2026-01-02 10:30:00)
+	* Details: The host discusses the beauty of the day, despite some negative events, and plays music.
+	* NERs: None
+10. **Gratitude and Reflection** (2026-01-02 10:30:00 - 2026-01-02 10:35:00)
+	* Details: The host reflects on the importance of gratitude, despite challenges and difficulties.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context.

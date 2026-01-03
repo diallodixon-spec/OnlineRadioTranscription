@@ -1,0 +1,50 @@
+Interviews for time range 12:00 - 12:29
+======================================================================
+
+We need to identify all interviews in the transcript. The transcripts are segmented, each about a minute. The question: "The provided texts are transcripts of a radio program. The transcriptions were done in 1 minute segments. Your task is to identify ALL interviews in the transcript. An interview is typically indicated by introduction of a guest(s) by the host and dialogue between host and guest(s) in a Q&A format. Callers that call in to a radio program to discuss topics should not be identified as interviews, and should be excluded from this analysis. Multiple interviews found with the same host and guest should be treated as one single interview."
+
+We have to examine the transcript content: It appears to be a mixture of adverts, messages, prayers, and maybe a segment called "Sanctuary with Father Joseph Lucas". That could be an interview? However, it's more like a program segment with a host introducing Father Joseph Lucas. Is there dialogue? Let's see.
+
+Segment 121509: "Roots 96.1 FM now presents Sanctuary with Father Joseph Lucas, a 10-minute escape from the challenges of life and the cares of the world. There is a sweet anointing in this ancient land. There is a stillness in the atmosphere. Come and lay down, the brightest you have can be, for in the same you can."
+
+Segment 121610: "while some people were speaking about how the temple was adorned with costly stones and votive offerings jesus said all that you see here the day will come the day will come when there will not be left a stone upon another stone that will not be be thrown down. The Gospel we do come face to face with"
+
+Segment 121710: ... etc. These seem like part of the same segment.
+
+But is there a host? Possibly "Sanctuary with Father Joseph Lucas" could be a pre-recorded sermon. Is there an interview? Possibly not.
+
+Later segments: 121208, 121308, 121409: These appear to be a caller or a person praying for a friend. Not an interview.
+
+Segments 122515, 122616, etc appear to be random speech.
+
+Thus there might be no interview. But we need to verify thoroughly.
+
+We need to identify any segment where a guest is introduced, with Q&A. "Sanctuary with Father Joseph Lucas" is introduced as a segment; maybe the host is speaking, and then Father Joseph Lucas might speak. But the transcript does not show direct Q&A. It shows a monologue about "Sanctuary". Could be a talk segment.
+
+Also maybe segment "Alright". Let's parse each segment.
+
+Segment 0 (seg000): "20251217 120002 FM, owned and operated by the Mustard Se what to do. A message from the Ministry of Health and Wellness. When life gives you ordinary juice, you reach for extraordinary flavor. Langer's cranberry juice..." This is an advertisement.
+
+Segment 001: "20251217 120102 make an impact on your career earn real money get three to four local and international certification..." This is advertisement.
+
+Segment 002: "20251217 120202 while making a difference. Water conservation tips ..." This is a promo.
+
+Segment 003: "20251217 120303 We thank you for this special moment..." This is a prayer.
+
+Segment 004: "20251217 120404 on behalf of any person or situation..." Prayer.
+
+Segment 005: "20251217 120504 and authorities..." Prayer.
+
+Segment 006: "20251217 120605 There are so many people..." Prayer.
+
+Segment 007: "20251217 120705 ..." Prayer.
+
+Segment 008: "20251217 120806 ..." Prayer.
+
+Segment 009: "20251217 120906 ..." Prayer.
+
+Segment 010: "20251217 121007 ..." Prayer.
+
+Segment 011: "20251217 121107 ..." Prayer.
+
+Segment 012: "2025

@@ -1,0 +1,19 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Relationships** (2026-01-02 13:30:19 - 2026-01-02 13:58:36)
+	* Details: The topic revolves around music, relationships, love, and heartbreak. The songs played seem to focus on themes of love, desire, and the ups and downs of relationships.
+	* NERs: None mentioned
+2. **Host discussion and Music Introduction** (2026-01-02 13:42:28 - 2026-01-02 13:43:28)
+	* Details: The host introduces the radio station, Sleek Radio, 93 FM, and transitions between songs.
+	* NERs: Sleek Radio, 93 FM
+3. **Relationship Struggles and Heartbreak** (2026-01-02 13:48:32 - 2026-01-02 13:55:35)
+	* Details: The songs played during this time period focus on themes of heartbreak, relationship struggles, and the pain of love.
+	* NERs: None mentioned
+4. **Love and Perfect Match** (2026-01-02 13:55:35 - 2026-01-02 13:57:35)
+	* Details: The songs played during this time period focus on finding love and being in a perfect relationship.
+	* NERs: None mentioned
+
+Note that the topics are not strictly separated and may overlap, as the songs played during the radio program seem to follow a theme of love and relationships. There are no interviews, caller interactions, or discussions about Jamaica or other countries in the provided transcripts.

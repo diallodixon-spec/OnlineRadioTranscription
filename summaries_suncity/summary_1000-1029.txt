@@ -1,0 +1,28 @@
+Summary for time range 10:00 - 10:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Welcome to the Hello Jamaica Show (Host discussion)**: The host, Jojo, introduces the show and welcomes listeners, discussing the start of a new year (2026) and the show's plans for the upcoming year. 
+   - Time range: 2026-01-02 10:00:00 - 2026-01-02 10:01:00
+   - NERs: Jojo, Jamaica
+
+2. **Mother in Crisis and Rebuilding Jamaica (Host discussion)**: The host discusses Mother in Crisis, an organization calling on Jamaicans to support the rebuilding of the nation, and invites corporate Jamaica and small business entrepreneurs to sponsor and advertise on the station.
+   - Time range: 2026-01-02 10:02:01 - 2026-01-02 10:03:00
+   - NERs: Mother in Crisis, Jamaica
+
+3. **Listener Interaction and Feedback (Caller interaction)**: The host engages with listeners, responding to comments and messages, including discussions about past shows, favorite features, and suggestions for new content.
+   - Time range: 2026-01-02 10:05:03 - 2026-01-02 10:17:08
+   - NERs: Jojo, Crazy Dean, Nikki, Georgia, Duane Park, Canada, Tony T, Mama Bee, Puppety Elba, Claudette, Bobo Upsetter, Happy Ends
+
+4. **Upcoming Events and Changes at Sun City Radio (Host discussion)**: The host discusses upcoming events, including the high school district competition, and mentions changes at Sun City Radio, emphasizing the importance of listener interaction and feedback.
+   - Time range: 2026-01-02 10:17:09 - 2026-01-02 10:26:12
+   - NERs: Sun City Radio, Jojo, Jamaica
+
+5. **Music and Inspirational Messages (Host discussion)**: The host plays music and shares inspirational messages, focusing on positivity, good energy, and the power of God.
+   - Time range: 2026-01-02 10:26:13 - 2026-01-02 10:28:12
+   - NERs: Taurus Riley, Agent Sasco
+
+6. **Reflections on the New Year and Gratitude (Host discussion)**: The host reflects on the start of the new year, expressing gratitude for life, health, and the opportunity to work at Sun City Radio, and encourages listeners to do the same.
+   - Time range: 2026-01-02 10:28:13 - 2026-01-02 10:30:00
+   - NERs: Jojo, Sun City Radio

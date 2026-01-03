@@ -1,0 +1,26 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Health and Wellness, Host discussion** (2026-01-02 10:30:17 - 2026-01-02 10:31:18)
+Details: The host discusses the importance of health checkups, especially for pregnant women, to prevent high blood pressure, sugar, and other health issues.
+NERs: None
+
+2. **Roots FM Advertising Promotion, Host discussion** (2026-01-02 10:31:18 - 2026-01-02 10:32:18)
+Details: The host announces the Roots FM 10 for 5 advertising promotion, where businesses can buy 5 commercials and get 5 free.
+NERs: Roots FM, Niagara Pond Southern Moran Global Government
+
+3. **Kingston Homeless Event, Host discussion** (2026-01-02 10:32:18 - 2026-01-02 10:33:18)
+Details: The host discusses a recent event in Kingston where partnerships were formed to provide food and gifts to the homeless.
+NERs: Kingston, Andrew Sweeby, KSAMC, Hummingbird Charities
+
+4. **Magical City, Host discussion** (2026-01-02 10:33:18 - 2026-01-02 10:37:18)
+Details: The host talks about the "Magical City" and the importance of faith, determination, and optimism.
+NERs: None
+
+5. **New Year's Greetings, Host discussion** (2026-01-02 10:37:18 - 2026-01-02 10:38:18)
+Details: The host wishes happy new year to colleagues, management, and caregivers at the Mustard Seed community.
+NERs: Mustard Seed, Jamaica, 12 Apostles
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily host discussions, with some announcements and greetings.

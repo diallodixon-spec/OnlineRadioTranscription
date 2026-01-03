@@ -1,0 +1,16 @@
+Summary for time range 13:30 - 13:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Christian Music and Worship** (2025-12-16 13:30:21 - 2025-12-16 13:54:47)
+	* Details: The topic involves Christian music and worship, with various songs and hymns being played and sung.
+	* NERs: Jesus, Lord, God
+2. **Sabbath School Nugget with Pastor Robert Wright** (2025-12-16 13:44:47 - 2025-12-16 13:59:49)
+	* Details: Pastor Robert Wright discusses clear boundaries, using the book of Joshua as a reference. He warns against compromising with idolatry and emphasizes the importance of maintaining spiritual purity.
+	* NERs: Pastor Robert Wright, Joshua, God, Lord, Jesus
+3. **Chinese Hospital Ship in Jamaica** (2025-12-16 13:55:52 - 2025-12-16 13:58:54)
+	* Details: The topic involves the Chinese hospital ship, Silk Road Ark, which was deployed to Jamaica to support Hurricane Melissa recovery efforts. The ship provided medical care to residents in the corporate area, Montego Bay, and Falmouth.
+	* NERs: Jamaica, China, Hurricane Melissa, Dr. Jacqueline Bissessa-Mackenzie, Dr. Christopher Tufton, Senator Kamina Johnson-Smith, Mark Golding, Andrew Swaby, Dr. Alfred Dawes
+
+Note that there are no instances of "Host discussion", "Interview", or "Caller interaction" in the provided transcripts, as the content appears to be a mix of music, worship, and informative programs.

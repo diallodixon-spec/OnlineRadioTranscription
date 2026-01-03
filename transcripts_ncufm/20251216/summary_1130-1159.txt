@@ -1,0 +1,37 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion and Shoutouts** (2025-12-16 11:30:19 - 11:32:21)
+	* Details: The host is giving shoutouts to listeners, including Omar Hines from St. Thomas and Claire Dean Henry.
+	* NERs: Omar Hines, Claire Dean Henry, St. Thomas
+2. **Birthday Greetings** (2025-12-16 11:32:21 - 11:33:21)
+	* Details: The host is giving birthday greetings to their son, Ordain Smith, in the UK, and to Mother Joy.
+	* NERs: Ordain Smith, Mother Joy, UK
+3. **Homemade Spa Introduction** (2025-12-16 11:33:21 - 11:34:21)
+	* Details: The host is introducing the Homemade Spa segment.
+	* NERs: None
+4. **Skin Care Treatment** (2025-12-16 11:34:21 - 11:37:25)
+	* Details: The host is discussing a skin care treatment using coconut oil and creamer, and providing instructions on how to make it.
+	* NERs: None
+5. **Music and Worship** (2025-12-16 11:39:26 - 11:45:36)
+	* Details: The host is playing music and leading worship, with songs and prayers about getting close to God.
+	* NERs: None
+6. **Educational Moment** (2025-12-16 11:44:28 - 11:45:29)
+	* Details: The host is sharing an educational moment about the Magna Carta.
+	* NERs: Magna Carta
+7. **Jamaica Customs Announcement** (2025-12-16 11:45:29 - 11:46:30)
+	* Details: The host is announcing information about Jamaica Customs, including contact information.
+	* NERs: Jamaica Customs, Jamaica
+8. **Religious Event Invitation** (2025-12-16 11:46:30 - 11:47:31)
+	* Details: The host is inviting listeners to a religious event, including a conference with speakers such as Dr. Ron Smith and Pastor Robert Gamboa.
+	* NERs: Dr. Ron Smith, Pastor Robert Gamboa, General Conference, Southern Union
+9. **Prayer and Worship** (2025-12-16 11:47:31 - 11:55:36)
+	* Details: The host is leading prayer and worship, with songs and prayers about forgiveness and mercy.
+	* NERs: None
+10. **Music and Praise** (2025-12-16 11:55:36 - 11:58:36)
+	* Details: The host is playing music and leading praise, with songs about God's love and healing.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts.

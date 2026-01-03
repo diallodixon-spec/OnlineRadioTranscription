@@ -1,0 +1,26 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **JPS Bill Increase - Host discussion, Caller interaction** (2025-12-16 18:30:25 - 2025-12-16 18:43:28)
+	* Details: The hosts and callers discussed the 7% increase in JPS bills, with some callers expressing frustration and disappointment.
+	* NERs: JPS (Jamaica Public Service), People's National Party (PNP)
+2. **Business Report - Host discussion** (2025-12-16 18:35:29 - 2025-12-16 18:43:28)
+	* Details: The host discussed the latest business news, including the increase in inflation rate and the impact of Hurricane Melissa on businesses.
+	* NERs: Statistical Institute of Jamaica, Hurricane Melissa
+3. **Customs and Shipping - Host discussion** (2025-12-16 18:38:32 - 2025-12-16 18:49:33)
+	* Details: The host discussed the process of customs and shipping, and how to navigate the system.
+	* NERs: Jamaica Customs Agency
+4. **Upcoming Events - Host discussion** (2025-12-16 18:40:33 - 2025-12-16 18:51:34)
+	* Details: The host announced upcoming events, including a live outside broadcast and a lecture on climate change.
+	* NERs: FRLD (Foundation for Renewable Energy and Livelihood Development), Ibrahima Deong
+5. **Lasco Police of the Year Awards - Host discussion** (2025-12-16 18:42:34 - 2025-12-16 18:53:35)
+	* Details: The host announced the finalists for the Lasco Police of the Year Awards.
+	* NERs: Lasco, Jamaica Constabulary Force
+6. **Wage Negotiations - Interview** (2025-12-16 18:45:38 - 2025-12-16 19:05:48)
+	* Details: The host interviewed Mark Malava, President of the Jamaica Teachers Association, about wage negotiations with the government.
+	* NERs: Mark Malava, Jamaica Teachers Association, Ministry of Finance, Ministry of Education, Hurricane Melissa
+7. **Education and Productivity - Interview** (2025-12-16 18:54:46 - 2025-12-16 19:05:48)
+	* Details: The host and Mark Malava discussed the importance of education and productivity in Jamaica.
+	* NERs: Mark Malava, Jamaica Teachers Association, Ministry of Education, CAPRA (Caribbean Policy Research Association)

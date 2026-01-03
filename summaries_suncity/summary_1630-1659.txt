@@ -1,0 +1,17 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Scam Alert and Host discussion** (2026-01-02 16:30:16 - 16:31:17): The host, Desmond Campbell, discusses a scam where a person is asked to pay $10,000 for a uniform and ID, and introduces his segment "Scam Alert" to educate listeners on how to spot scams and protect their digital identity.
+	* NERs: Desmond Campbell, Clared, Jamaica
+2. **Rebuilding Jamaica and Host discussion** (2026-01-02 16:31:17 - 16:32:17): The host discusses the importance of rebuilding Jamaica and introduces the concept of "Police in the Home" to keep families safe.
+	* NERs: Jamaica, Shireen
+3. **Music and Entertainment** (2026-01-02 16:32:17 - 16:40:20): The program plays various songs and the host interacts with listeners, discussing music and entertainment.
+	* NERs: None
+4. **Relationships and Love** (2026-01-02 16:40:20 - 16:55:26): The program plays songs and the host discusses relationships, love, and intimacy.
+	* NERs: None
+5. **Dance and Music** (2026-01-02 16:55:26 - 16:58:27): The program plays upbeat music and the host encourages listeners to dance and enjoy themselves.
+	* NERs: None
+
+Note that the topics are not strictly separated and may overlap or blend together throughout the program. Additionally, the NERs (Named Entities Recognized) mentioned are limited to those explicitly mentioned in the transcripts.

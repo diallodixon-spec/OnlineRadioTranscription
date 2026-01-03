@@ -1,0 +1,76 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion**
+   - Topic: Personal struggles and God's love
+   - Time range: 2025-12-17 12:20:20 - 12:21:21
+   - Details: The host discusses personal struggles and God's love, mentioning that God is a healer and a peace giver.
+   - NERs: God, healer, peace giver
+
+2. **Host discussion**
+   - Topic: Financial struggles and God's provision
+   - Time range: 2025-12-17 12:23:22 - 12:24:22
+   - Details: The host discusses financial struggles and God's provision, mentioning that God will supply needs and provide shelter.
+   - NERs: God, provision, shelter
+
+3. **Host discussion**
+   - Topic: Breakthrough and healing
+   - Time range: 2025-12-17 12:24:22 - 12:25:23
+   - Details: The host discusses breakthrough and healing, mentioning that God can heal anything that's broken in life.
+   - NERs: God, breakthrough, healing
+
+4. **Interview**
+   - Topic: Pastor Timothy Wright's message
+   - Time range: 2025-12-17 12:25:23 - 12:26:23
+   - Details: The host interviews Pastor Timothy Wright, who shares a message about holding on to God's peace and restoration.
+   - NERs: Pastor Timothy Wright, God, peace, restoration
+
+5. **Host discussion**
+   - Topic: Jamaica's challenges and rebuilding
+   - Time range: 2025-12-17 12:37:23 - 12:38:24
+   - Details: The host discusses Jamaica's challenges and rebuilding, mentioning the need for support and assistance from government agencies, churches, and civic organizations.
+   - NERs: Jamaica, government agencies, churches, civic organizations
+
+6. **Host discussion**
+   - Topic: East Jamaica Conference Camp Meeting
+   - Time range: 2025-12-17 12:39:24 - 12:40:25
+   - Details: The host discusses the East Jamaica Conference Camp Meeting, mentioning the theme "Mission First, Living According to Prophecy" and the speakers.
+   - NERs: East Jamaica Conference Camp Meeting, Mission First, Living According to Prophecy
+
+7. **Host discussion**
+   - Topic: Worship and praise
+   - Time range: 2025-12-17 12:40:25 - 12:41:26
+   - Details: The host leads a worship and praise session, mentioning God's love and the need to lift hands and sing.
+   - NERs: God, worship, praise
+
+8. **Host discussion**
+   - Topic: Learning moment from NCUFM
+   - Time range: 2025-12-17 12:45:29 - 12:46:30
+   - Details: The host shares a learning moment from NCUFM, mentioning that dolphins have names for each other and can recognize their own whistles.
+   - NERs: NCUFM, dolphins, whistles
+
+9. **Host discussion**
+   - Topic: Bible verse and God's Word
+   - Time range: 2025-12-17 12:46:30 - 12:47:31
+   - Details: The host discusses a Bible verse, mentioning that God's Word remains the one unshakeable foundation.
+   - NERs: Bible, God's Word, foundation
+
+10. **Host discussion**
+    - Topic: Jesus' love and redemption
+    - Time range: 2025-12-17 12:47:31 - 12:48:32
+    - Details: The host discusses Jesus' love and redemption, mentioning that Jesus paid for sins and erased wrongs.
+    - NERs: Jesus, love, redemption, sins, wrongs
+
+11. **Host discussion**
+    - Topic: God's purpose and healing
+    - Time range: 2025-12-17 12:48:32 - 12:49:33
+    - Details: The host discusses God's purpose and healing, mentioning that God's purpose will soon be understood and that scars will heal.
+    - NERs: God, purpose, healing, scars
+
+12. **Host discussion**
+    - Topic: Request Day and customs duties
+    - Time range: 2025-12-17 12:51:36 - 12:52:37
+    - Details: The host discusses Request Day and customs duties, mentioning the need to clear customs duties and taxes.
+    - N

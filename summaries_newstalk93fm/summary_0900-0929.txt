@@ -1,0 +1,28 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music and Party** (2026-01-02 09:00:03 - 2026-01-02 09:16:10)
+	* Details: The host is playing and discussing music, with a focus on party and carnival vibes.
+	* NERs: None
+2. **Relationship and Apology** (2026-01-02 09:09:08 - 2026-01-02 09:11:09)
+	* Details: The host is discussing a personal relationship and apologizing to someone.
+	* NERs: None
+3. **Carnival and Party** (2026-01-02 09:14:10 - 2026-01-02 09:15:10)
+	* Details: The host is discussing carnival and party activities, with a focus on having a good time.
+	* NERs: None
+4. **Geographic Locations** (2026-01-02 09:16:10)
+	* Details: The host mentions various locations, including Sando, Karanac, Arima, and Malaba.
+	* NERs: Sando, Karanac, Arima, Malaba (locations in Trinidad and Tobago)
+5. **Emotional and Personal Struggles** (2026-01-02 09:17:10 - 2026-01-02 09:19:12)
+	* Details: The host is discussing emotional and personal struggles, including relationships and heartbreak.
+	* NERs: None
+6. **Music and Relationships** (2026-01-02 09:20:13 - 2026-01-02 09:25:17)
+	* Details: The host is discussing music and relationships, with a focus on personal struggles and emotions.
+	* NERs: None
+7. **Host Discussion** (2026-01-02 09:26:18 - 2026-01-02 09:28:19)
+	* Details: The host is discussing personal topics, including relationships and emotions.
+	* NERs: None
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily focused on music, party, relationships, and personal struggles, with some mentions of geographic locations.

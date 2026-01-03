@@ -1,0 +1,29 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Breast Cancer Screening** (2025-12-16 15:00:02 - 2025-12-16 15:02:04)
+	* Details: The hosts discussed a new study that suggests tailoring breast cancer screening to a woman's individual cancer risk might be more effective than annual mammograms.
+	* NERs: None
+2. **Host discussion: AI Chatbot for Dementia Care** (2025-12-16 15:02:04 - 2025-12-16 15:05:06)
+	* Details: The hosts discussed a research project that aims to develop an AI chatbot to improve care for people with dementia.
+	* NERs: None
+3. **Host discussion: Patois as a Subject in School** (2025-12-16 15:05:06 - 2025-12-16 15:07:07)
+	* Details: The hosts discussed the idea of teaching Patois as a subject in school, with one of the hosts mentioning that they would like to see it happen.
+	* NERs: Auntie Maxine, University of the West Indies
+4. **Music and Worship** (2025-12-16 15:07:07 - 2025-12-16 15:11:08)
+	* Details: The hosts played music and led a worship session, with songs and prayers.
+	* NERs: None
+5. **Upcoming Event: Still Here Benefit Concert** (2025-12-16 15:11:08 - 2025-12-16 15:14:09)
+	* Details: The hosts announced an upcoming benefit concert, "Still Here," to be held on December 20, with proceeds going to those affected by Hurricane Melissa.
+	* NERs: East Jamaica Conference of Seventh-day Adventists, VH Percy Center, Kingston
+6. **Ministry of Health and Wellness** (2025-12-16 15:14:09 - 2025-12-16 15:16:10)
+	* Details: The hosts mentioned the Ministry of Health and Wellness and its efforts to promote healthy lifestyles and environmental practices.
+	* NERs: Ministry of Health and Wellness, Jamaica
+7. **Music and Worship (continued)** (2025-12-16 15:16:10 - 2025-12-16 15:22:17)
+	* Details: The hosts continued playing music and leading a worship session, with songs and prayers.
+	* NERs: None
+8. **Living According to Prophecy Event** (2025-12-16 15:22:17 - 2025-12-16 15:24:19)
+	* Details: The hosts announced an upcoming event, "Living According to Prophecy," to be held from December 17 to 20, with renowned speaker Pastor Shion O'Connor.
+	* NERs: Pastor Shion O'Connor, Ebenezer Seventh Adventist Church, Cayman Islands Conference, V.H. Percy Center, Kingston

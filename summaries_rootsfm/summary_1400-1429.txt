@@ -1,0 +1,27 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Music and Love Songs** (2026-01-02 14:00:02 - 2026-01-02 14:28:10)
+	* Details: The host is playing and discussing various love songs, with lyrics about relationships, love, and heartbreak.
+	* NERs: None
+	* Topic involves: Host discussion
+2. **Appreciation for Roots FM 96.1** (2026-01-02 14:15:08 - 2026-01-02 14:16:09)
+	* Details: The host expresses gratitude to the listeners and mentions the radio station, Roots FM 96.1.
+	* NERs: Roots FM 96.1
+	* Topic involves: Host discussion
+3. **Romantic Relationships** (2026-01-02 14:16:09 - 2026-01-02 14:22:09)
+	* Details: The host discusses romantic relationships, love, and passion, with lyrics from various songs.
+	* NERs: None
+	* Topic involves: Host discussion
+4. **Admiration for a Woman** (2026-01-02 14:22:09 - 2026-01-02 14:27:09)
+	* Details: The host talks about a woman, describing her as "poetry in motion" and "a beautiful sight to see."
+	* NERs: None
+	* Topic involves: Host discussion
+5. **Introduction to a Song** (2026-01-02 14:27:09 - 2026-01-02 14:28:10)
+	* Details: The host introduces a new song, "Good Times" and starts playing it.
+	* NERs: None
+	* Topic involves: Host discussion
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are primarily host discussions and music-related content.

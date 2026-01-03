@@ -1,0 +1,26 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and Host discussion** (2025-12-16 16:30:25 - 2025-12-16 16:33:28)
+	* Details: The hosts introduce themselves and discuss the show's format, encouraging listeners to tune in and participate.
+	* NERs: None
+2. **Upcoming events and announcements** (2025-12-16 16:32:27 - 2025-12-16 16:33:28)
+	* Details: The hosts announce upcoming events, including the Lasco JCF Saluting Our Heroes Police of the Year Awards and a live outside broadcast from a public lecture on climate change.
+	* NERs: Lasco, Jamaica Constabulary Force, FRLD Executive Director Ibrahima Deong
+3. **Music and entertainment** (2025-12-16 16:36:30 - 2025-12-16 16:47:47)
+	* Details: The hosts discuss music, play songs, and engage in conversations about relationships and love.
+	* NERs: None
+4. **Interview with Giselle** (2025-12-16 16:41:34 - 2025-12-16 16:44:37)
+	* Details: The hosts interview Giselle, who discusses her side of a story and her plans to take legal action.
+	* NERs: Giselle, Chad, Jeffrey, Nick
+5. **Caller interaction** (2025-12-16 16:50:40 - 2025-12-16 16:55:47)
+	* Details: The hosts interact with callers, playing their requested songs and engaging in conversations.
+	* NERs: Richie, Shaggy, Usher, Dennis Brown, Wayne Wade
+6. **Closing and final thoughts** (2025-12-16 16:56:48 - 2025-12-16 16:58:49)
+	* Details: The hosts reflect on the importance of protecting one's peace and announce the next show.
+	* NERs: None
+7. **Upcoming events and announcements (Jamaica)** (2025-12-16 16:58:49 - 2025-12-16 16:59:49)
+	* Details: The hosts announce an upcoming event, the Transforming Our Police Service (TOPS) program, which aims to ensure police officers adhere to Jamaica Constabulary Force policies.
+	* NERs: Police Civilian Oversight Authority, Cliff Hughes, Jamaica Constabulary Force

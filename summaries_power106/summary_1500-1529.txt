@@ -1,0 +1,28 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: History of Slavery and Sir John Gladstone** (2026-01-02 15:00:01 - 2026-01-02 15:09:07)
+	* Details: The host discusses the history of slavery, specifically the riots in Guyana in 1823, and the life of Sir John Gladstone, a Scottish merchant and slave owner who owned 2,508 enslaved Africans in Jamaica and Guyana.
+	* NERs: Sir John Gladstone, Guyana, Jamaica, William Ewart Gladstone, Winston Churchill, Lady Diane Spencer
+2. **Host discussion: Lacovia Estate and Tombstone** (2026-01-02 15:10:04 - 2026-01-02 15:15:13)
+	* Details: The host discusses the Lacovia Estate in Jamaica and the Tombstone, where relatives of Lady Diane Spencer and Sir Winston Churchill are interred.
+	* NERs: Lacovia Estate, Tombstone, Lady Diane Spencer, Sir Winston Churchill
+3. **Caller interaction: Human Trafficking and Slavery** (2026-01-02 15:10:09 - 2026-01-02 15:21:10)
+	* Details: A caller discusses human trafficking and slavery, and the host responds with thoughts on the topic.
+	* NERs: None
+4. **Host discussion: Smart Cities and Black River** (2026-01-02 15:16:13 - 2026-01-02 15:28:21)
+	* Details: The host discusses the concept of smart cities and the Prime Minister's plans to build back Black River in Jamaica.
+	* NERs: Black River, Jamaica, Prime Minister
+5. **Caller interaction: Police and Extrajudicial Killings** (2026-01-02 15:19:15 - 2026-01-02 15:32:18)
+	* Details: A caller discusses police and extrajudicial killings, and the host responds with thoughts on the topic.
+	* NERs: None
+6. **Caller interaction: Financial Literacy and Ego** (2026-01-02 15:25:18 - 2026-01-02 15:37:19)
+	* Details: A caller discusses financial literacy and the importance of considering the ego in personal relationships.
+	* NERs: None
+7. **Host discussion: Health and Wellness in Jamaica** (2026-01-02 15:27:19 - 2026-01-02 15:38:21)
+	* Details: The host discusses the top killers of Jamaican people, including heart disease, stroke, and cancer, and suggests ways to reduce stress in households.
+	* NERs: Jamaica
+
+Note: The time ranges are approximate and based on the provided transcripts.

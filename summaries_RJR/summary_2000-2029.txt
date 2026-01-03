@@ -1,0 +1,31 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction to Radio Jamaica and Upcoming Programs** (2026-01-02 20:00:02 - 2026-01-02 20:02:04)
+	* Details: Introduction to Radio Jamaica, announcement of upcoming programs such as "Round Robin" and "That's a Wrap".
+	* NERs: Joy Kelly, Joel Samuels, Donovan Dakers, Earl Moxham
+2. **Music and Entertainment** (2026-01-02 20:02:04 - 2026-01-02 20:40:57)
+	* Details: Music and entertainment segments, including songs and DJ interactions.
+	* NERs: None
+3. **Host Discussion and Introduction to the E-Factor Show** (2026-01-02 20:17:12 - 2026-01-02 20:19:15)
+	* Details: Introduction to the E-Factor show, discussion about the new year and opportunities.
+	* NERs: None
+4. **Caller Interaction** (2026-01-02 20:19:15 - 2026-01-02 20:26:16)
+	* Details: Callers from various locations, including Toronto, Runaway Bay, and New York City, interacting with the host.
+	* NERs: Maxine, Narissa, Courtney, Mr. G, Pat, Doreen, Robert Green, Janet Gordon, Kinesha Rumel, Delroy Mitchell, Marie Haunton, Joel
+5. **Music and Entertainment** (2026-01-02 20:26:16 - 2026-01-02 20:55:17)
+	* Details: Music and entertainment segments, including songs and DJ interactions.
+	* NERs: None
+6. **Host Discussion and Music** (2026-01-02 20:55:17 - 2026-01-02 20:57:18)
+	* Details: Host discussion and music segments.
+	* NERs: None
+7. **Music and Dance** (2026-01-02 20:57:18 - 2026-01-02 20:59:19)
+	* Details: Music and dance segments, including songs and DJ interactions.
+	* NERs: None
+8. **Conclusion and Final Music Segment** (2026-01-02 20:59:19 - 2026-01-02 20:59:59)
+	* Details: Conclusion of the show and final music segment.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and details are subject to interpretation and may not be exhaustive.

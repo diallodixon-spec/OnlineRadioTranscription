@@ -1,0 +1,25 @@
+Summary for time range 19:00 - 19:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Tottenham Football Discussion - Host discussion** (2025-12-16 19:00:03 - 19:00:50)
+	* Details: The host is discussing Tottenham football, expressing disappointment and frustration with the team's performance.
+	* NERs: Tottenham
+2. **Chinese Hospital Ship in Jamaica - Host discussion** (2025-12-16 19:00:50 - 19:05:07)
+	* Details: The host is discussing the Chinese hospital ship, Silk Road Ark, which was deployed to Jamaica to support hurricane Melissa recovery efforts.
+	* NERs: Jamaica, China, Silk Road Ark, Dr. Jacqueline Becesa-Mackenzie, Dr. Christopher Tofton, Jingfeng Wang
+3. **Jerson Lewis, Agricultural Science Student - Interview** (2025-12-16 19:06:07 - 19:10:10)
+	* Details: The host is interviewing Jerson Lewis, an Agricultural Science student who performed well in the 2025 CSEC exams.
+	* NERs: Jerson Lewis, Guy's Hill High School
+4. **Music and Holiday Greetings - Host discussion** (2025-12-16 19:11:11 - 19:14:13)
+	* Details: The host is playing music and discussing holiday greetings.
+	* NERs: Andy Williams
+5. **Jamaica Women's National Football Team - Host discussion** (2025-12-16 19:14:13 - 19:16:14)
+	* Details: The host is discussing the Jamaica women's national football team, which will end the 2025 ranked 39th in the world.
+	* NERs: Jamaica, Mexico, United States, England, Dominica
+6. **Ellis Hammer-Bickford, National Men's Surfing Champion - Interview** (2025-12-16 19:16:14 - 19:28:25)
+	* Details: The host is interviewing Ellis Hammer-Bickford, the newly crowned national men's surfing champion.
+	* NERs: Ellis Hammer-Bickford, Clint Williams, Aika Wilmot, Ivo Wilmot, Garen Price, Ronald Hastings, Jamaica, Bull Bay, El Salvador, Florida, California, Hawaii
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

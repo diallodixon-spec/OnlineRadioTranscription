@@ -1,0 +1,28 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Ministry of Health and Wellness Announcement** (2025-12-16 18:30:19 - 18:31:19)
+	* Topic: Announcement from the Ministry of Health and Wellness about their priority programs, helpful tips, and health advice.
+	* NERs: Ministry of Health and Wellness, Jamaica
+2. **Religious Program Introduction** (2025-12-16 18:31:19 - 18:32:20)
+	* Topic: Introduction to a religious program on NCUFM, hosted by Liseth Martin, where they read the Holy Bible.
+	* NERs: Liseth Martin, NCUFM
+3. **Christian Music and Worship** (2025-12-16 18:32:20 - 18:46:27)
+	* Topic: Christian music and worship, with songs and prayers praising God.
+	* NERs: God, Jesus
+4. **Learning Moment and Educational Segment** (2025-12-16 18:46:27 - 18:47:27)
+	* Topic: A learning moment from NCU FM about the invention of the telephone by Alexander Graham Bell.
+	* NERs: Alexander Graham Bell, NCU FM
+5. **Let's Talk Health Program Announcement** (2025-12-16 18:47:27 - 18:48:27)
+	* Topic: Announcement about the evolution of the "Let's Talk Health" program, which will now be available on YouTube and FloTV channels.
+	* NERs: Doctor Dale, Ministry of Health and Wellness, NCU TV Jamaica, FloTV
+6. **Inspirational and Uplifting Music** (2025-12-16 18:48:27 - 18:57:32)
+	* Topic: Inspirational and uplifting music, with songs about overcoming struggles and finding hope.
+	* NERs: None
+7. **Christian Music and Worship (continued)** (2025-12-16 18:57:32 - 18:58:33)
+	* Topic: Continued Christian music and worship, with songs about the power of Jesus' name and breaking free from chains.
+	* NERs: Jesus
+
+Note that some of these topics may overlap or continue across multiple segments, but I have tried to break them down into distinct categories based on the content and themes presented.

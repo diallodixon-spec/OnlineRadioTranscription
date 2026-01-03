@@ -1,0 +1,22 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed are:
+
+1. **Host discussion: Introduction and closing remarks** (2025-12-16 20:00:00 - 2025-12-16 20:01:00)
+	* Details: The host, Ricardo Brooks, introduces the program and thanks his colleagues and listeners. He also announces the Super Six finalists for the 2025 Saluting Our Heroes Police of the Year Awards.
+	* NERs: Ricardo Brooks, Jamaica Constabulary Force
+2. **Host discussion: Introduction to Prescription for Life** (2025-12-16 20:04:03 - 2025-12-16 20:06:04)
+	* Details: The host introduces the program "Prescription for Life" and discusses the topic of knee pain with Dr. Andre McDonald.
+	* NERs: Dr. Andre McDonald
+3. **Interview: Knee pain discussion** (2025-12-16 20:06:04 - 2025-12-16 20:26:17)
+	* Details: Dr. Andre McDonald discusses knee pain, its causes, and its effects on the body. He also shares a personal experience with a patient who had knee pain caused by a sexually transmitted infection.
+	* NERs: Dr. Andre McDonald, Owen Hargreaves, Manchester United
+4. **Host discussion: Knee pain causes and structure** (2025-12-16 20:26:17 - 2025-12-16 20:43:15)
+	* Details: The host and Dr. Andre McDonald discuss the causes of knee pain, including gonorrhea, and the structure of the knee joint.
+	* NERs: Dr. Andre McDonald
+5. **Host discussion: Knee pain diagnosis and treatment** (2025-12-16 20:43:15 - 2025-12-16 20:57:19)
+	* Details: The host and Dr. Andre McDonald discuss the challenges of diagnosing knee pain and the importance of taking a thorough history.
+	* NERs: Dr. Andre McDonald
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to change as more transcripts are analyzed.

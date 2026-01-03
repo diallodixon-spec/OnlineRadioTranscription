@@ -1,0 +1,68 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 17:00:01 - 2025-12-17 17:00:50
+   - Details: The hosts discussed the upcoming news segment and the time by Northern Caribbean University (NCU).
+   - NERs: None
+
+2. **Host discussion** 
+   - Time range: 2025-12-17 17:01:02 - 2025-12-17 17:02:02
+   - Details: The hosts discussed the upcoming segment of "Even a Child" and the time for the show.
+   - NERs: None
+
+3. **News** 
+   - Time range: 2025-12-17 17:02:03 - 2025-12-17 17:03:03
+   - Details: The hosts discussed the news about additional line workers from Canada expected to arrive in Jamaica tonight to help with electricity restoration after Hurricane Melissa.
+   - NERs: Jamaica, Canada, Hurricane Melissa, Northern Caribbean University (NCU)
+
+4. **News** 
+   - Time range: 2025-12-17 17:03:04 - 2025-12-17 17:04:04
+   - Details: The hosts discussed the news about the opposition PNP expressing concern over the reported sexual assault of a female student near the College of Agriculture, Science and Education.
+   - NERs: Jamaica, PNP, College of Agriculture, Science and Education
+
+5. **Interview** 
+   - Time range: 2025-12-17 17:04:05 - 2025-12-17 17:06:04
+   - Details: The hosts interviewed a guest, Sat Buchanan, on the Jamaica Constabulary updates on investigations into the reported sexual assault.
+   - NERs: Jamaica, Sat Buchanan, Jamaica Constabulary
+
+6. **News** 
+   - Time range: 2025-12-17 17:06:05 - 2025-12-17 17:07:05
+   - Details: The hosts discussed the news about the Newport West Police urging Jamaicans to be vigilant against scams involving the sale of motor vehicles around the Wharf area during the busy Christmas season.
+   - NERs: Jamaica, Newport West Police, Wharf area
+
+7. **News** 
+   - Time range: 2025-12-17 17:07:06 - 2025-12-17 17:08:06
+   - Details: The hosts discussed the news about Jamaica honoring the life and legacy of cultural icon Jimmy Cliff.
+   - NERs: Jamaica, Jimmy Cliff
+
+8. **News** 
+   - Time range: 2025-12-17 17:08:07 - 2025-12-17 17:09:07
+   - Details: The hosts discussed the news about the recovery, resilience, and hope in St. James as residents continue to rebuild following the devastation caused by Hurricane Melissa.
+   - NERs: St. James, Hurricane Melissa
+
+9. **News** 
+   - Time range: 2025-12-17 17:09:08 - 2025-12-17 17:10:08
+   - Details: The hosts discussed the news about public sector workers and pensioners in St. Kitts and Nevis receiving a double salary ahead of the Christmas season.
+   - NERs: St. Kitts and Nevis, Christmas season
+
+10. **News** 
+    - Time range: 2025-12-17 17:10:09 - 2025-12-17 17:11:09
+    - Details: The hosts discussed the news about Ghanaian students in the UK facing deportation over unpaid fees.
+    - NERs: Ghana, UK
+
+11. **Host discussion** 
+    - Time range: 2025-12-17 17:11:10 - 2025-12-17 17:12:10
+    - Details: The hosts discussed the weather forecast for Jamaica.
+    - NERs: Jamaica
+
+12. **Host discussion** 
+    - Time range: 2025-12-17 17:12:11 - 2025-12-17 17:13:11
+    - Details: The hosts discussed the upcoming segment of "Kids Zone".
+    - NERs: None
+
+13. **Host discussion** 
+    - Time range: 2025-12-17 17:13:12 - 2025-12-17 17:14:12
+    - Details: The

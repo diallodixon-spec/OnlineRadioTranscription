@@ -1,0 +1,28 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Host discussion: Football Analysis** (2026-01-02 18:30:19 - 2026-01-02 18:43:19)
+	* Details: The hosts discuss the current state of football, including the impact of extreme heat on the World Cup, the balance of attacking talent, and the evolution of the game.
+	* NERs: None
+2. **Today in Sports History: Melville and Malcolm Spence** (2026-01-02 18:31:19 - 2026-01-02 18:32:19)
+	* Details: The host talks about the twin brothers Melville and Malcolm Spence, who represented Jamaica in the 400 meters event at the Olympic Games.
+	* NERs: Melville Spence, Malcolm Spence, Jamaica, Arizona State University, Baldeco Steele
+3. **Host discussion: Premier League Analysis** (2026-01-02 18:35:21 - 2026-01-02 18:44:27)
+	* Details: The hosts discuss the current state of the Premier League, including the performance of teams like Arsenal, Manchester City, and Aston Villa.
+	* NERs: Premier League, Arsenal, Manchester City, Aston Villa, Tottenham, England
+4. **Host discussion: South American Football** (2026-01-02 18:37:22 - 2026-01-02 18:42:27)
+	* Details: The hosts discuss the impact of South American players in European football, particularly in the Premier League.
+	* NERs: South America, Europe, Premier League, Brazil, Argentina, Manchester United, Chelsea
+5. **Host discussion: Pan-American Competition** (2026-01-02 18:41:25 - 2026-01-02 18:44:27)
+	* Details: The hosts discuss the possibility of a pan-American competition involving teams from Brazil, Mexico, and the United States.
+	* NERs: Pan-American, Brazil, Mexico, United States, Jamaica
+6. **Caller interaction: Football Discussion** (2026-01-02 18:49:31 - 2026-01-02 18:58:37)
+	* Details: A caller, Dwayne, discusses the current state of football with the host, including the performance of teams like Manchester United and Leeds.
+	* NERs: Manchester United, Leeds, Liverpool, Arsenal, Tottenham, Everton, Brentford
+7. **Host discussion: EPL Match Predictions** (2026-01-02 18:51:33 - 2026-01-02 18:58:37)
+	* Details: The hosts predict the outcomes of upcoming EPL matches, including Arsenal vs. Bournemouth and Manchester City vs. Chelsea.
+	* NERs: EPL, Arsenal, Bournemouth, Manchester City, Chelsea, Sunderland, Tottenham, Everton, Newcastle, Palace
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to categorize them based on the primary topic of discussion.

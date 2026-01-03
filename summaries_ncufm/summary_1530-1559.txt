@@ -1,0 +1,28 @@
+Summary for time range 15:30 - 15:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: English Language - Articles** (2026-01-02 15:30:18 - 2026-01-02 15:38:22)
+	* Details: The host discusses the use of articles in the English language, specifically the indefinite articles "a" and "an", and the definite article "the". The host explains the rules for using these articles and provides examples.
+	* NERs: None
+2. **Host discussion: Introduction to new song** (2026-01-02 15:41:23 - 2026-01-02 15:42:23)
+	* Details: The host introduces a new song called "Redeemed" by Sir Andrew Donaldson and plays the song.
+	* NERs: Sir Andrew Donaldson, Endless Faith Ministries
+3. **Caller interaction: Feedback on song and discussion on apostrophe use** (2026-01-02 15:45:25 - 2026-01-02 15:49:27)
+	* Details: A caller provides feedback on the song and discusses the use of apostrophes in writing. The host and caller also discuss the importance of learning and using correct grammar.
+	* NERs: Anne-Marie (caller from Toronto, Canada), Joni (mentioned as someone who helped the host with a research project)
+4. **Host discussion: Playing another song** (2026-01-02 15:49:27 - 2026-01-02 15:53:30)
+	* Details: The host plays another song called "Jesus is all I need today" and then introduces a new segment.
+	* NERs: None
+5. **Host discussion: Learning moment and introduction to new segment** (2026-01-02 15:53:30 - 2026-01-02 15:55:33)
+	* Details: The host shares a learning moment about a group of jellyfish being called a "smac" and introduces a new segment.
+	* NERs: None
+6. **Caller interaction: Sharing personal experience and gratitude** (2026-01-02 15:55:33 - 2026-01-02 15:57:38)
+	* Details: A caller shares a personal experience of losing family members and expresses gratitude for the song "Quarantine with Jesus" which brought them comfort.
+	* NERs: None
+7. **Host discussion: Introduction to bus list segment** (2026-01-02 15:57:38 - 2026-01-02 15:58:39)
+	* Details: The host introduces a new segment called the "bus list" and invites listeners to share their experiences or give shoutouts to others.
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but I have tried to break them down into distinct topics based on the content and context of the transcripts.

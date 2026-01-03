@@ -1,0 +1,77 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion** 
+   - Time range: 2025-12-17 20:00:03 - 2025-12-17 20:00:19
+   - Details: The host is speaking to themselves, mentioning Shakespeare and a love message.
+   - NERs: Shakespeare
+
+2. **Host discussion** 
+   - Time range: 2025-12-17 20:00:04 - 2025-12-17 20:01:04
+   - Details: The host is singing a hymn, "It is well with my soul."
+   - NERs: None
+
+3. **Host discussion** 
+   - Time range: 2025-12-17 20:01:05 - 2025-12-17 20:02:05
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+4. **Host discussion** 
+   - Time range: 2025-12-17 20:02:06 - 2025-12-17 20:03:06
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+5. **Host discussion** 
+   - Time range: 2025-12-17 20:03:07 - 2025-12-17 20:04:07
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+6. **Host discussion** 
+   - Time range: 2025-12-17 20:04:08 - 2025-12-17 20:05:08
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+7. **Host discussion** 
+   - Time range: 2025-12-17 20:05:09 - 2025-12-17 20:06:09
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+8. **Host discussion** 
+   - Time range: 2025-12-17 20:06:10 - 2025-12-17 20:07:10
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+9. **Host discussion** 
+   - Time range: 2025-12-17 20:07:11 - 2025-12-17 20:08:11
+   - Details: The host continues singing the hymn, "It is well with my soul."
+   - NERs: None
+
+10. **Host discussion** 
+    - Time range: 2025-12-17 20:08:12 - 2025-12-17 20:09:12
+    - Details: The host continues singing the hymn, "It is well with my soul."
+    - NERs: None
+
+11. **Host discussion** 
+    - Time range: 2025-12-17 20:09:13 - 2025-12-17 20:10:13
+    - Details: The host continues singing the hymn, "It is well with my soul."
+    - NERs: None
+
+12. **Host discussion** 
+    - Time range: 2025-12-17 20:10:14 - 2025-12-17 20:11:14
+    - Details: The host continues singing the hymn, "It is well with my soul."
+    - NERs: None
+
+13. **Host discussion** 
+    - Time range: 2025-12-17 20:11:15 - 2025-12-17 20:12:15
+    - Details: The host continues singing the hymn, "It is well with my soul."
+    - NERs: None
+
+14. **Host discussion** 
+    - Time range: 2025-12-17 20:12:16 - 2025-12-17 20:13:16
+    - Details: The host continues singing the hymn, "It is well with my soul."
+    - NERs: None
+
+15. **Host discussion** 
+    - Time range: 2025-12-17 20:13:17 - 2025-12-17 20:14:

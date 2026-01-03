@@ -1,0 +1,47 @@
+Summary for time range 09:30 - 09:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Interview with Kimona - Travel Agency (2026-01-02 09:30:16 - 09:31:16)**
+	* Topic: Interview with Kimona, owner of Travel With Kimi Limited, a travel agency.
+	* Details: Kimona discusses her travel agency, the services they offer, and how they can assist clients with travel arrangements.
+	* NERs: Kimona, Travel With Kimi Limited
+2. **Host Discussion - Health Tips (2026-01-02 09:31:17 - 09:32:17)**
+	* Topic: Host discussion on health tips.
+	* Details: The host discusses the importance of managing stress, blood pressure, and other health-related issues.
+	* NERs: None
+3. **Host Discussion - Rebuilding Jamaica (2026-01-02 09:34:17 - 09:35:17)**
+	* Topic: Host discussion on rebuilding Jamaica.
+	* Details: The host discusses the need for Jamaicans to come together and rebuild their communities.
+	* NERs: Jamaica
+4. **Caller Interaction - New Year's Greetings (2026-01-02 09:36:18 - 09:37:19)**
+	* Topic: Caller interaction - New Year's greetings.
+	* Details: Listeners call in to wish the host and others a happy new year.
+	* NERs: None
+5. **Host Discussion - Hurricane Reconstruction (2026-01-02 09:37:20 - 09:42:21)**
+	* Topic: Host discussion on hurricane reconstruction.
+	* Details: The host discusses the government's plan to provide financial assistance to households affected by Hurricane Melissa.
+	* NERs: Hurricane Melissa, Prime Minister Dr. Andrew Holness, Jamaica
+6. **Host Discussion - Petersfield School (2026-01-02 09:42:22 - 09:44:22)**
+	* Topic: Host discussion on Petersfield school.
+	* Details: The host discusses the issue of Petersfield school being used as a shelter and the need for alternative arrangements.
+	* NERs: Petersfield school, Jamaica
+7. **Caller Interaction - Concerns about Hurricane Relief (2026-01-02 09:44:23 - 09:47:23)**
+	* Topic: Caller interaction - concerns about hurricane relief.
+	* Details: Listeners call in to express their concerns about the distribution of hurricane relief funds.
+	* NERs: None
+8. **Host Discussion - Mental Health (2026-01-02 09:47:24 - 09:50:25)**
+	* Topic: Host discussion on mental health.
+	* Details: The host discusses the importance of mental health and the need for counseling services for those affected by the hurricane.
+	* NERs: Bellevue Hospital
+9. **Host Discussion - Restoration of Electricity (2026-01-02 09:50:26 - 09:52:26)**
+	* Topic: Host discussion on restoration of electricity.
+	* Details: The host discusses the efforts to restore electricity to areas affected by the hurricane.
+	* NERs: None
+10. **Caller Interaction - Looking Forward to 2026 (2026-01-02 09:52:27 - 09:58:27)**
+	* Topic: Caller interaction - looking forward to 2026.
+	* Details: Listeners call in to share their hopes and expectations for 2026.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts.

@@ -1,0 +1,37 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Music and Entertainment** (2026-01-02 16:00:03 - 2026-01-02 16:08:08): The host played music and discussed various songs.
+2. **Advertisement and Promotion** (2026-01-02 16:02:05 - 2026-01-02 16:02:05): Pizza Hut's Amazing Four Plus deal was advertised.
+3. **Global News** (2026-01-02 16:03:05 - 2026-01-02 16:04:06): The host discussed global news, including statements from Washington, Iran's supreme leader, and Venezuelan President Nicola Maduro.
+4. **Education and Youth Development** (2026-01-02 16:04:06 - 2026-01-02 16:06:07): The host talked about the A-Team, a program to help students with exams, and the Talk of Youth Radio Show.
+5. **Host Discussion** (2026-01-02 16:11:10 - 2026-01-02 16:13:11): The hosts discussed their words for the year 2026, including "momentum," "abundance," and "resilient."
+6. **Caller Interaction** (2026-01-02 16:11:11 - 2026-01-02 16:16:12): The hosts interacted with callers and read out their words for the year 2026.
+7. **Spice's Rebranding** (2026-01-02 16:17:13 - 2026-01-02 16:18:13): The host discussed Spice's visual rebranding and her being named performer of the year.
+8. **TikTok Controversy** (2026-01-02 16:18:13 - 2026-01-02 16:27:21): The host discussed a controversy on TikTok regarding women's behavior during marriage proposals and whether it's male-centered.
+9. **Social Commentary** (2026-01-02 16:24:18 - 2026-01-02 16:27:21): The host provided social commentary on the TikTok controversy and the concept of being male-centered.
+10. **Music** (2026-01-02 16:28:21 - 2026-01-02 16:28:21): The host played music to end the segment.
+
+Named Entities Recognized (NERs):
+
+* Pizza Hut
+* Washington
+* Iran
+* Venezuela
+* Nicola Maduro
+* Norah Gaye
+* Dennis Brooks
+* Nationwide 90FM
+* Jerome
+* Spice
+* Vibes Cartel
+* Jamaica
+* TikTok
+* Amazon
+* KFC
+* QFC
+* Yama Yama G
+
+Note: The time ranges are approximate and based on the provided transcripts.

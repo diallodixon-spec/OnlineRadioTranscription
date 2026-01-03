@@ -1,0 +1,40 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Music and Introduction** (2026-01-02 13:00:02 - 2026-01-02 13:03:03)
+	* Details: The host introduces the program, "Mondays with Dr. Stephanie Mullings" and "Rootsology", and plays music.
+	* NERs: Dr. Stephanie Mullings, Roots 96.1 FM
+2. **Music and Poetry** (2026-01-02 13:03:03 - 2026-01-02 13:07:04)
+	* Details: The host plays music and recites poetry, discussing themes of nature, philosophy, and social issues.
+	* NERs: None
+3. **Music and Social Commentary** (2026-01-02 13:07:04 - 2026-01-02 13:11:05)
+	* Details: The host plays music and discusses social issues, including poverty, inequality, and the struggle for freedom.
+	* NERs: None
+4. **Interview with Crab Walking, Jam Rock** (2026-01-02 13:11:05 - 2026-01-02 13:14:06)
+	* Details: The host interviews Crab Walking, Jam Rock, discussing their music and the "Scramble for Africa" project.
+	* NERs: Crab Walking, Jam Rock
+5. **Music and African Empowerment** (2026-01-02 13:14:06 - 2026-01-02 13:18:07)
+	* Details: The host plays music and discusses African empowerment, including the struggle for freedom and self-determination.
+	* NERs: Africa
+6. **Music and Inspiration** (2026-01-02 13:18:07 - 2026-01-02 13:22:08)
+	* Details: The host plays music and discusses themes of inspiration, gratitude, and personal growth.
+	* NERs: None
+7. **Advertisement and Promotion** (2026-01-02 13:22:08 - 2026-01-02 13:25:09)
+	* Details: The host promotes the "10 for 5" advertising promotion and discusses various products and services.
+	* NERs: Roots FM, Distinction College, Langer's cranberry juice
+8. **Music and Host Discussion** (2026-01-02 13:25:09 - 2026-01-02 13:30:10)
+	* Details: The host discusses music and plays songs, including a song by DJ Stryker.
+	* NERs: DJ Stryker
+9. **Music and Social Commentary** (2026-01-02 13:30:10 - 2026-01-02 13:35:11)
+	* Details: The host plays music and discusses social issues, including war, violence, and social justice.
+	* NERs: None
+10. **Music and Spiritual Reflection** (2026-01-02 13:35:11 - 2026-01-02 13:40:12)
+	* Details: The host plays music and discusses spiritual themes, including prayer, faith, and personal growth.
+	* NERs: Rastafari, Jaja
+11. **Music and Caller Interaction** (2026-01-02 13:40:12 - 2026-01-02 13:45:13)
+	* Details: The host interacts with callers and discusses various topics, including music and social issues.
+	* NERs: Freddie McGregor
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and details are subject to interpretation and may not be exhaustive.

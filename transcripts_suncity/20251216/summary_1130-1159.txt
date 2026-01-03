@@ -1,0 +1,29 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion and Caller interaction: Sun City 104.9 FM Promotion** (2025-12-16 11:30:13 - 2025-12-16 11:52:20)
+	* Details: The host is promoting Sun City 104.9 FM and encouraging listeners to participate in a contest to win a $1,000 call credit. Listeners need to send a video clipping and a voice note confirming they are listening to Sun City 104.9 FM with a group of people.
+	* NERs: Sun City 104.9 FM, DigiCell
+2. **Advertisement: KFC Festive Feasting** (2025-12-16 11:33:15 - 2025-12-16 11:34:19)
+	* Details: The host is advertising KFC's festive feasting promotion, which includes a $4,500 bundle with 9 pieces of chicken, family fries, and a 2-liter Pepsi.
+	* NERs: KFC
+3. **Public Service Announcement: Jamaica Customs Agency** (2025-12-16 11:34:15 - 2025-12-16 11:35:15)
+	* Details: The host is announcing reminders from the Jamaica Customs Agency to assist with clearance, including ensuring valid documentation and contacting the agency for queries.
+	* NERs: Jamaica Customs Agency
+4. **Advertisement: AquaTech Reverse Osmosis Water Purification System** (2025-12-16 11:35:15 - 2025-12-16 11:36:16)
+	* Details: The host is advertising AquaTech's reverse osmosis water purification system, which is affordable and easy to install.
+	* NERs: AquaTech
+5. **Music and Entertainment: Reggae Music and World Football Championship** (2025-12-16 11:36:16 - 2025-12-16 11:41:20)
+	* Details: The host is playing reggae music and discussing the World Football Championship, with a fictional matchup between World Radio United and Sun City 104.9 FM's Dream Team.
+	* NERs: None
+6. **Host discussion: Sun City 104.9 FM and Christmas Promotion** (2025-12-16 11:41:20 - 2025-12-16 11:52:20)
+	* Details: The host is discussing Sun City 104.9 FM and promoting a Christmas contest, with a $1,000 call credit prize.
+	* NERs: Sun City 104.9 FM
+7. **Interview: None**
+8. **Host discussion and Music: Sun City 104.9 FM and Quiet Time with the Lord** (2025-12-16 11:52:20 - 2025-12-16 11:58:25)
+	* Details: The host is discussing Sun City 104.9 FM and introducing a segment called "Quiet Time with the Lord", which features a prayer and a song.
+	* NERs: Sun City 104.9 FM
+
+Note: The topics and time ranges are approximate and based on the provided transcripts. The NERs mentioned are limited to the ones explicitly mentioned in the transcripts.

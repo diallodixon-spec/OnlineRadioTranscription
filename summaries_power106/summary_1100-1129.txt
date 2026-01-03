@@ -1,0 +1,31 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Moral Absolutes and Biblical Standards** (2026-01-02 11:00:03 - 11:02:06)
+	* Details: The hosts discuss the rejection of moral standards and the importance of biblical standards in today's society.
+	* NERs: None
+2. **Host discussion: New Year's Celebrations and Gun Violence in Jamaica** (2026-01-02 11:04:06 - 11:07:08)
+	* Details: The hosts discuss their New Year's Eve celebrations and the incidents of gun violence in Jamaica, including the shooting of two teen girls.
+	* NERs: Jamaica, St. Catherine, Kingsland, Mountain View
+3. **Host discussion: Crime and Police Accountability in Jamaica** (2026-01-02 11:07:08 - 11:09:10)
+	* Details: The hosts discuss the issue of crime in Jamaica, including the police shooting of a four-year-old, and the need for police accountability.
+	* NERs: Jamaica, Westmoreland, Manningville Road
+4. **Host discussion: Economic Growth and Recovery in Jamaica** (2026-01-02 11:10:10 - 11:11:12)
+	* Details: The hosts discuss the economic growth and recovery in Jamaica, including the impact of Hurricane Melissa and the need for the government to move quickly to rebuild.
+	* NERs: Jamaica, Hurricane Melissa
+5. **Host discussion: Remittances and Foreign Exchange in Jamaica** (2026-01-02 11:11:12 - 11:12:22)
+	* Details: The hosts discuss the importance of remittances to Jamaica's economy and the impact of the 8.3% drop in remittances in October.
+	* NERs: Jamaica
+6. **Host discussion: Education and School Fees in Jamaica** (2026-01-02 11:11:18 - 11:11:58)
+	* Details: The hosts discuss the issue of school fees in Jamaica and the need for the government to monitor and control price gouging.
+	* NERs: Jamaica
+7. **Host discussion: Government Response to Hurricane Melissa and Economic Recovery** (2026-01-02 11:12:19 - 11:12:53)
+	* Details: The hosts discuss the government's response to Hurricane Melissa and the need for swift action to rebuild and recover.
+	* NERs: Jamaica, Hurricane Melissa
+8. **Host discussion: Agriculture and Economic Growth in Jamaica** (2026-01-02 11:12:53 - 11:14:15)
+	* Details: The hosts discuss the importance of agriculture to Jamaica's economy and the need for the government to support the sector.
+	* NERs: Jamaica
+
+Note: There are no interviews or caller interactions in the provided transcripts. The topics are all host discussions.

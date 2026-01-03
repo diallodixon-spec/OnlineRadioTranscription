@@ -1,0 +1,22 @@
+Summary for time range 09:30 - 09:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Music/Songs** (2026-01-02 09:30:19 - 09:58:38)
+	* Details: The majority of the transcripts appear to be song lyrics, with various themes of love, relationships, and emotions.
+	* NERs: None
+2. **Host discussion** (2026-01-02 09:58:38 - 09:58:38)
+	* Details: The host introduces the radio station, Sleek Radio, 93 FM.
+	* NERs: Sleek Radio, 93 FM
+3. **Music/Songs** (2026-01-02 09:58:38 - 10:00:00)
+	* Details: The transcripts continue with song lyrics, with themes of love, relationships, and emotions.
+	* NERs: None
+4. **Relationship/Emotional Growth** (2026-01-02 10:00:00 - 10:05:38)
+	* Details: The conversation shifts to a personal and emotional tone, with the speaker discussing relationships, growth, and emotional development.
+	* NERs: None
+5. **Breakup/Personal Growth** (2026-01-02 10:05:38 - 10:05:38)
+	* Details: The speaker mentions taking a break to grow emotionally, indicating a potential breakup or personal growth moment.
+	* NERs: None
+
+Note that the topics are not strictly separated and may overlap or blend together throughout the transcripts. Additionally, there are no mentions of specific countries, including Jamaica, in the provided transcripts.

@@ -1,0 +1,39 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program "Back to Health" with Dr. Neil Gardner are:
+
+1. **Introduction and Commercial Break** (2025-12-16 20:30:19 - 2025-12-16 20:40:24): The host introduces the program and discusses various commercial breaks, including an advertisement for Apex Radiology and a message from the Government of Jamaica about Hurricane Melissa relief efforts.
+2. **Host Discussion and Caller Interaction - Pyomyositis** (2025-12-16 20:40:24 - 2025-12-16 20:57:38): Dr. Neil Gardner discusses pyomyositis, a type of infection, and takes calls from listeners, including Neil from Trelawny, who shares his experience with foot cramps.
+3. **Interview - Treatment Options for Pyomyositis** (2025-12-16 20:57:38 - 2025-12-16 21:05:32): Dr. Gardner discusses treatment options for pyomyositis, including antibiotic therapy and natural remedies like black salve.
+4. **Caller Interaction and Host Discussion - Natural Remedies** (2025-12-16 21:05:32 - 2025-12-16 21:17:29): Dr. Gardner takes calls from listeners and discusses natural remedies, including cayenne pepper, for various health issues.
+5. **Commercial Break and Introduction** (2025-12-16 21:17:29 - 2025-12-16 21:24:28): The host introduces another segment of the program and discusses commercial breaks, including an advertisement for Flow Jamaica.
+6. **Host Discussion and Caller Interaction - Blood Test Results** (2025-12-16 21:24:28 - 2025-12-16 21:38:38): Dr. Gardner discusses blood test results with a listener and provides advice on addressing mildly elevated numbers through nutritional changes.
+7. **Conclusion and Final Thoughts** (2025-12-16 21:38:38 - 2025-12-16 21:58:38): Dr. Gardner concludes the program, providing final thoughts on pyomyositis, natural remedies, and the importance of consulting a physician before trying new treatments.
+
+Named Entities Recognized (NERs):
+
+* Dr. Neil Gardner (host)
+* Mrs. G (co-host)
+* Neil (caller from Trelawny)
+* Sir Miller (listener who sent a message via WhatsApp)
+* Lady Sinfield (listener who joined via Facebook)
+* Lady Dolores (listener who joined via Facebook)
+* Lady Jennifer (listener who joined via Facebook)
+* Lady Y (listener who sent a thank-you message)
+* Lady Andrea (listener who sent a message about her roses)
+* Apostle Jeffrey Johnson (mentioned in a commercial break)
+* Andre Earle (mentioned in a commercial break for "Balancing Justice")
+* Stephen Price (VP and General Manager of Flow Jamaica)
+* Jamaica (country)
+* USA (country)
+* Winchester MRI Limited (company)
+* Apex Radiology (company)
+* Flow Jamaica (company)
+* Kingston Wharves Limited (company)
+* The Big 94 (radio station)
+* SupportJamaica.gov.jm (website)
+* WhatsApp (messaging platform)
+* Facebook (social media platform)
+* Google (search engine)
+* Yellow Pages (directory)

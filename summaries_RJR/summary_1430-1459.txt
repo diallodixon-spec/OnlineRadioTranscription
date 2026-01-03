@@ -1,0 +1,19 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed are:
+
+1. **Interview with Josie**: The host interviews Josie, a gospel singer, about her music, background, and connection to Jamaica. The discussion includes her experiences, inspirations, and the message she wants to convey through her music.
+	* Time range: 2026-01-02 14:32:25 - 2026-01-02 14:58:37
+	* NERs mentioned: Josie, Jamaica, Jesus, Quincy Jones, Andre Crouch, Prodigal Son, Danny Brownie
+2. **Jamaican News and Updates**: The host mentions the Rated Jamaica News Center's 2025 Year in Review and the impact of Hurricane Melissa on Western Jamaica.
+	* Time range: 2026-01-02 14:31:25 - 2026-01-02 14:32:25
+	* NERs mentioned: Jamaica, Hurricane Melissa, Rated Jamaica News Center
+3. **Host discussion**: The host discusses various topics, including the importance of recycling, the impact of Hurricane Melissa, and the need for change in Jamaica.
+	* Time range: 2026-01-02 14:45:31 - 2026-01-02 14:46:31
+	* NERs mentioned: Jamaica, Hurricane Melissa, Recycling Partners of Jamaica
+4. **Music and Entertainment**: The host plays Josie's music and discusses her songs, including "Jesus is the Answer" and "Everything about your name is power".
+	* Time range: 2026-01-02 14:40:28 - 2026-01-02 14:58:37
+	* NERs mentioned: Josie, Jesus, Andre Crouch
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct categories.

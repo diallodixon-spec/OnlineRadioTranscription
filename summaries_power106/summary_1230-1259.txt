@@ -1,0 +1,35 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Sports Update** (2026-01-02 12:30:22 - 2026-01-02 12:31:24)
+	* Details: Update on recent sports events, including the World Championships, World Cup Football Qualifier, and horse racing.
+	* NERs: Tina Clayton, Orlando Bennett, Tyler Mason, Dejaune Whisper-Richards, Ronaldo Cifas, I Dream Again
+2. **Host discussion** (2026-01-02 12:32:24 - 2026-01-02 12:33:25)
+	* Details: The host discusses various topics, including the Prayer Line on Power 106 FM and the digital sound of the radio station.
+	* NERs: None
+3. **Financial Literacy** (2026-01-02 12:34:25 - 2026-01-02 12:35:25)
+	* Details: A financial literacy tip is shared, discussing the importance of having a positive relationship with money.
+	* NERs: None
+4. **Music** (2026-01-02 12:35:25 - 2026-01-02 12:38:27)
+	* Details: A song is played, with lyrics discussing the power of time and its effects on relationships.
+	* NERs: None
+5. **Caller interaction** (2026-01-02 12:39:28 - 2026-01-02 12:43:31)
+	* Details: The host interacts with callers, discussing various topics, including community development and politics.
+	* NERs: Scott, Aluna Samba
+6. **Politics and Government** (2026-01-02 12:43:31 - 2026-01-02 12:47:37)
+	* Details: The host and callers discuss politics and government, including the distribution of resources and the role of local government.
+	* NERs: Andrew Horne, Mark Gowland
+7. **Interview** (None)
+8. **Power 106 FM Programming** (2026-01-02 12:44:31 - 2026-01-02 12:45:33)
+	* Details: The host announces upcoming programs on Power 106 FM, including Farm Talk with Althea Mackenzie and Both Sides of the Story with Markland Action Edwards.
+	* NERs: Althea Mackenzie, Markland Action Edwards
+9. **Caller interaction** (2026-01-02 12:46:33 - 2026-01-02 12:53:37)
+	* Details: The host interacts with callers, discussing various topics, including the restoration of electricity and the government's response to natural disasters.
+	* NERs: John, Simon
+10. **Social Issues** (2026-01-02 12:53:37 - 2026-01-02 12:58:43)
+	* Details: The host and callers discuss social issues, including crime and police brutality.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are subject to interpretation and may not be exhaustive.

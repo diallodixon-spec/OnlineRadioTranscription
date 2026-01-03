@@ -1,0 +1,22 @@
+Summary for time range 17:30 - 17:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed are:
+
+1. **Sports Update, Host discussion** (2025-12-16 17:30:25 - 2025-12-16 17:31:25)
+	* Details: The host, Alex Ruby, provides a sports update, mentioning Pat Cummins and Australia.
+	* NERs: Pat Cummins, Australia, Alex Ruby
+2. **Advertisement, Host discussion** (2025-12-16 17:31:25 - 2025-12-16 17:32:27)
+	* Details: The host advertises Frame Art Jamaica Limited and mentions other companies.
+	* NERs: Frame Art Jamaica Limited, Kingston Worms, Eclipse Enterprise, Jamaica Customs Agency
+3. **Security Issues at College of Agriculture, Science and Education, Interview** (2025-12-16 17:32:28 - 2025-12-16 17:58:48)
+	* Details: The host, Cliff Hughes, discusses security issues at the College of Agriculture, Science and Education in Portland, Jamaica, with guests Dr. Derek Deslandes and Cameron James.
+	* NERs: Cliff Hughes, Dr. Derek Deslandes, Cameron James, College of Agriculture, Science and Education, Portland, Jamaica
+4. **Advertisement, Host discussion** (2025-12-16 17:45:36 - 2025-12-16 17:47:38)
+	* Details: The host advertises Sherwin-Williams, TransJam highways, and Speed Queen washers and dryers.
+	* NERs: Sherwin-Williams, TransJam highways, Speed Queen, Singer
+5. **Security Issues at College of Agriculture, Science and Education, Interview** (2025-12-16 17:47:38 - 2025-12-16 17:58:48)
+	* Details: The host, Cliff Hughes, continues discussing security issues at the College of Agriculture, Science and Education in Portland, Jamaica, with guests Dr. Derek Deslandes and Cameron James.
+	* NERs: Cliff Hughes, Dr. Derek Deslandes, Cameron James, College of Agriculture, Science and Education, Portland, Jamaica
+
+Note that the time ranges for the topics are approximate and may overlap. The NERs mentioned are individuals, organizations, and locations relevant to the topics discussed.

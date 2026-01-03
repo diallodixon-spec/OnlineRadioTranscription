@@ -1,0 +1,19 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Music**: The topic of music was discussed from 2025-12-16 16:30:25 to 2025-12-16 16:54:02. The details of the topic include various song lyrics and melodies. There are no specific NERs (Named Entities) mentioned in this topic.
+
+2. **Relationships and Heartbreak**: The topic of relationships and heartbreak was discussed from 2025-12-16 16:43:33 to 2025-12-16 16:54:02. The details of the topic include song lyrics about love, heartbreak, and relationships. There are no specific NERs mentioned in this topic.
+
+3. **Host discussion - Jamaica's Recovery from a Storm**: The topic of Jamaica's recovery from a storm was discussed from 2025-12-16 16:54:40 to 2025-12-16 16:58:42. The details of the topic include discussions about the support provided by the DBJ (Development Bank of Jamaica) to help businesses recover from the storm. The NERs mentioned in this topic include:
+   - **DBJ (Development Bank of Jamaica)**: A financial institution in Jamaica.
+   - **David Low**: The Managing Director of the DBJ.
+   - **Melissa**: Possibly a reference to a storm or a person, but the context is unclear.
+   - **Warren Bertram**: The host of the radio program "Going for Growth".
+   - **Jamaica**: A country in the Caribbean.
+   - **AFIs (Approved Financial Institutions)**: Financial institutions approved by the DBJ to provide support to businesses.
+   - **MFIs (Microfinance Institutions)**: Institutions that provide financial services to small businesses and individuals. 
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics may have started or ended at slightly different times, but the provided time ranges give a general idea of when each topic was discussed.

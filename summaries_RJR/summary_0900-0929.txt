@@ -1,0 +1,28 @@
+Summary for time range 09:00 - 09:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **News Update and Host Discussion** (2026-01-02 09:00:03 - 09:02:06)
+	* Topics: Hurricane Melissa, National Housing Trust, Jamaica Public Service Company, murder rate in Jamaica
+	* NERs: Constable Shemar Grant, Mr. Warmington, Jeremy Taylor, Paula Llewellyn, Claudette Thompson
+2. **Host Discussion on Crime and Police** (2026-01-02 09:05:07 - 09:11:11)
+	* Topics: Murder rate in Jamaica, police killings, body-worn cameras
+	* NERs: Dr. Kevin Blake, Andre Earl
+3. **Host Discussion on JPS and Hurricane Relief** (2026-01-02 09:11:12 - 09:14:12)
+	* Topics: JPS, Hurricane Melissa, Maggotty Hydroelectric Power Plant
+	* NERs: None
+4. **Host Discussion on Shipping Container and Volunteer Efforts** (2026-01-02 09:14:12 - 09:17:12)
+	* Topics: Stolen shipping container, volunteer efforts, hurricane relief
+	* NERs: Mr. Isaac Laird
+5. ** Tribute to Alma Mock-Yen and Host Discussion** (2026-01-02 09:17:12 - 09:23:16)
+	* Topics: Alma Mock-Yen, Jamaican broadcasting, education
+	* NERs: Alma Mock-Yen, Karen Madden, Mrs. Miriam Speed
+6. **Host Discussion on Appointments and Education** (2026-01-02 09:23:16 - 09:27:17)
+	* Topics: Jeremy Taylor, Director of Public Prosecutions, Turks and Caicos, Camar Sam Wells, New York City education system
+	* NERs: Jeremy Taylor, Camar Sam Wells, Zoran Mamdani
+7. **Caller Interaction and Host Discussion** (2026-01-02 09:27:17 - 09:28:19)
+	* Topics: Resolutions for 2026, feedback question
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but I have tried to break them down into distinct categories based on the content and time ranges.

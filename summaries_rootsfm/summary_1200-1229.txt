@@ -1,0 +1,8 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcript, there is no topic or discussion to analyze as the transcript contains an error message indicating that the soundfile is either not in the correct format or is malformed. 
+
+Therefore, there are no topics, details, or NERs (Named Entities) to report. The time range is also not applicable in this case.
+
+If you provide the actual transcript content, I can assist with identifying the topics, details, and NERs mentioned, along with the corresponding time ranges.

@@ -1,0 +1,37 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction to Sun City Radio and Promotion of Events** (2026-01-02 16:00:03 - 2026-01-02 16:04:04)
+	* Details: The host introduces the radio program, Sun City Radio, and promotes an event at City Flames Restaurant in Spanish Town, Jamaica.
+	* NERs: City Flames Restaurant, Spanish Town, Jamaica
+2. **Host Discussion and Promotion of Mother in Crisis** (2026-01-02 16:04:04 - 2026-01-02 16:07:07)
+	* Details: The host discusses the importance of rebuilding Jamaica and promotes Mother in Crisis, an organization that supports the rebuilding process.
+	* NERs: Mother in Crisis, Jamaica
+3. **Interview with Diesel JA** (2026-01-02 16:06:06 - 2026-01-02 16:23:13)
+	* Details: The host interviews Diesel JA, a musician who has been making waves in Jamaica and internationally. They discuss his new track, "Prayer," and his experiences in the music industry.
+	* NERs: Diesel JA, Jamaica, Finland, Morocco, Africa, England
+4. **Music Playback and Discussion** (2026-01-02 16:16:10 - 2026-01-02 16:23:13)
+	* Details: The host plays Diesel JA's new track, "Prayer," and discusses the song's meaning and production.
+	* NERs: Diesel JA, Prayer
+5. **Upcoming Projects and Tours** (2026-01-02 16:17:10 - 2026-01-02 16:21:12)
+	* Details: Diesel JA discusses his upcoming projects, including a North American tour with his band, the Slap Kings Band.
+	* NERs: Diesel JA, Slap Kings Band, North America
+6. **Music and Movie Industry Experiences** (2026-01-02 16:18:11 - 2026-01-02 16:19:12)
+	* Details: Diesel JA discusses his experiences in the music and movie industries, including his roles in films and soundtracks.
+	* NERs: Diesel JA, The States, Shark
+7. **Creativity and Inspiration** (2026-01-02 16:19:12 - 2026-01-02 16:20:13)
+	* Details: Diesel JA discusses how he keeps his creativity fresh and finds inspiration for his music.
+	* NERs: Diesel JA
+8. **Fan Base and Future Plans** (2026-01-02 16:20:13 - 2026-01-02 16:22:13)
+	* Details: Diesel JA discusses his growing fan base and future plans, including dropping new music and visuals.
+	* NERs: Diesel JA
+9. **Closing and Shoutouts** (2026-01-02 16:22:13 - 2026-01-02 16:23:13)
+	* Details: The host thanks Diesel JA for the interview and gives shoutouts to his fans and team.
+	* NERs: Diesel JA, Sun City Radio
+10. **Music Playback and Host Discussion** (2026-01-02 16:23:13 - 2026-01-02 16:28:15)
+	* Details: The host plays music and discusses various topics, including his personal life and experiences.
+	* NERs: None
+
+Note: The time ranges for each topic are approximate and may overlap.

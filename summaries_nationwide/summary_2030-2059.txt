@@ -1,0 +1,23 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed are:
+
+1. **CSEC Information Technology Syllabus - Host discussion** (2026-01-02 20:30:26 - 2026-01-02 20:53:40)
+	* Details: The host discusses the CSEC Information Technology syllabus, covering topics such as problem-solving, data structures, and web page design.
+	* NERs: None
+2. **Interview with Mrs. Janelle Millet-Jones about CSEC Information Technology** (2026-01-02 20:39:31 - 2026-01-02 20:53:40)
+	* Details: The host interviews Mrs. Janelle Millet-Jones about the CSEC Information Technology syllabus, discussing topics such as web page design, programming languages, and the importance of IT in today's world.
+	* NERs: Mrs. Janelle Millet-Jones, CXC, CSEC, Jamaica
+3. **News - Equipment arrives to boost electricity restoration in Jamaica** (2026-01-02 20:54:41 - 2026-01-02 20:56:43)
+	* Details: A news segment reports on the arrival of equipment to aid in the restoration of electricity in Jamaica following Hurricane Melissa.
+	* NERs: Jamaica, Hurricane Melissa, Daryl Vaas, JPS, National Housing Trust
+4. **News - National Housing Trust accepting applications for 2026 refund period** (2026-01-02 20:56:43 - 2026-01-02 20:59:44)
+	* Details: A news segment reports on the National Housing Trust's acceptance of applications for the 2026 refund period.
+	* NERs: National Housing Trust, Jamaica
+5. **News - Warning about fraudulent customs brokers** (2026-01-02 20:59:44 - 2026-01-02 21:01:45)
+	* Details: A news segment reports on a warning from the Newport West Police Formation about fraudulent customs brokers.
+	* NERs: Newport West Police Formation, Superintendent Rochelle McGibbon-Scott
+6. **News - Donation from the Republic of Korea to Jamaica** (2026-01-02 21:01:45 - 2026-01-02 21:03:46)
+	* Details: A news segment reports on a donation from the Republic of Korea to Jamaica.
+	* NERs: Republic of Korea, Jamaica, Jinmook Kim

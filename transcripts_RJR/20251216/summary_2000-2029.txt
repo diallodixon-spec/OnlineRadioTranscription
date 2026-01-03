@@ -1,0 +1,59 @@
+Summary for time range 20:00 - 20:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program "Back to Health" with Dr. Neil Gardner are:
+
+1. **Introduction to the program and upcoming topics** (2025-12-16 20:00:00 - 2025-12-16 20:01:02) 
+   - Topic: Host discussion
+   - Details: Introduction to the program, announcement of the upcoming topic "Back to Health" and the hosts Dr. Neil Gardner and Mrs. G.
+   - NERs: Dr. Neil Gardner, Mrs. G, Radio Jamaica 94 FM
+
+2. **Advertisement and introduction to Back to Health** (2025-12-16 20:01:03 - 2025-12-16 20:02:03) 
+   - Topic: Host discussion
+   - Details: Advertisement for Gardner Chiropractic and Neurology, Winchester MRI Limited, and Apex Radiology, introduction to the program "Back to Health".
+   - NERs: Dr. Neil Gardner, Mrs. G, Gardner Chiropractic and Neurology, Winchester MRI Limited, Apex Radiology
+
+3. **Advertisement for Winchester MRI Limited and Apex Radiology** (2025-12-16 20:02:04 - 2025-12-16 20:03:03) 
+   - Topic: Host discussion
+   - Details: Advertisement for Winchester MRI Limited and Apex Radiology, highlighting their services and locations.
+   - NERs: Winchester MRI Limited, Apex Radiology, Hope Road, Kingston
+
+4. **Introduction to the topic of pyomyositis** (2025-12-16 20:03:04 - 2025-12-16 20:04:04) 
+   - Topic: Host discussion
+   - Details: Introduction to the topic of pyomyositis, a bacterial infection of the muscles.
+   - NERs: Dr. Neil Gardner, Mrs. G
+
+5. **Discussion of pyomyositis** (2025-12-16 20:04:05 - 2025-12-16 20:07:07) 
+   - Topic: Host discussion
+   - Details: Discussion of pyomyositis, its causes, symptoms, and effects on the body.
+   - NERs: Dr. Neil Gardner, Mrs. G
+
+6. **Break and advertisement** (2025-12-16 20:07:08 - 2025-12-16 20:16:09) 
+   - Topic: Host discussion
+   - Details: Break and advertisement for various products and services.
+   - NERs: Electroworld, SLB Family, Dr. Neil Gardner
+
+7. **Continuation of discussion on pyomyositis** (2025-12-16 20:16:10 - 2025-12-16 20:20:13) 
+   - Topic: Host discussion
+   - Details: Continuation of discussion on pyomyositis, its symptoms, and effects on the body.
+   - NERs: Dr. Neil Gardner, Mrs. G
+
+8. **Caller interaction - Winston from Kingston** (2025-12-16 20:20:14 - 2025-12-16 20:25:14) 
+   - Topic: Caller interaction, Interview
+   - Details: Caller Winston from Kingston shares his experience with colon cancer and seeks advice on a persistent pain.
+   - NERs: Winston, Kingston, Dr. Neil Gardner, UI, Hope Institute
+
+9. **Discussion of caller's issue and possible solutions** (2025-12-16 20:25:15 - 2025-12-16 20:30:17) 
+   - Topic: Host discussion, Caller interaction
+   - Details: Discussion of caller Winston's issue and possible solutions, including a potential visit to Dr. Gardner's office.
+   - NERs: Dr. Neil Gardner, Winston, Kingston
+
+10. **Discussion of a painless swelling on the back of the head** (2025-12-16 20:30:18 - 2025-12-16 20:35:18) 
+    - Topic: Host discussion
+    - Details: Discussion of a painless swelling on the back of the head, its potential causes and concerns.
+    - NERs: Dr. Neil Gardner, Jay
+
+11. **Causes of pyomyositis** (2025-12-16 20:35:19 - 2025-12-16 20:40:19) 
+    - Topic: Host discussion
+    - Details: Discussion of the causes of pyomyositis, including staph infections and group A strep infections.
+    - NERs: Dr

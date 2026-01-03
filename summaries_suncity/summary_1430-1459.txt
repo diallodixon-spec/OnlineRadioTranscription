@@ -1,0 +1,18 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Music** (2026-01-02 14:30:15 - 2026-01-02 14:31:16): The host introduces the show and plays music. No specific NERs (Named Entities) are mentioned.
+2. **Host Discussion - Jamaican Culture and Cuisine** (2026-01-02 14:32:16 - 2026-01-02 14:33:16): The host discusses Jamaican culture and cuisine, mentioning "Eat Smart" and "Hello Jamaica" show. NERs: Jamaica.
+3. **Jamaican National Pride and Vision 2030** (2026-01-02 14:33:16 - 2026-01-02 14:34:17): The host talks about Jamaican national pride and Vision 2030, a development plan for Jamaica. NERs: Jamaica, Vision 2030.
+4. **Religious Discussion and Music** (2026-01-02 14:34:17 - 2026-01-02 14:44:22): The host discusses religious topics and plays gospel music. NERs: Jesus, God.
+5. **Birthday Shoutout and Gospel Music** (2026-01-02 14:44:22 - 2026-01-02 14:45:25): The host gives a birthday shoutout to "Baby girl Malia" and plays gospel music. NERs: Malia.
+6. **Caller Interaction - Shoutouts and Well-wishes** (2026-01-02 14:45:25 - 2026-01-02 14:47:22): The host interacts with callers, giving shoutouts and well-wishes. NERs: Alipatch, Queen Jojo, Claudette, Steve Dillons, Zaza, Denton.
+7. **Religious Discussion and Prayer** (2026-01-02 14:47:22 - 2026-01-02 14:55:26): The host discusses religious topics and leads a prayer. NERs: God, Jesus.
+8. **Music and Inspiration** (2026-01-02 14:55:26 - 2026-01-02 14:58:26): The host plays music and provides inspirational messages. NERs: Jesus, God.
+9. **Christian Life and Struggles** (2026-01-02 14:58:26 - 2026-01-02 15:05:26): The host discusses the challenges of living a Christian life. NERs: Jesus, God.
+10. **Music and Worship** (2026-01-02 15:05:26 - 2026-01-02 15:08:26): The host plays music and leads worship. NERs: Jesus, God.
+11. **DJ Khaled and Sun City Radio** (2026-01-02 15:08:26 - 2026-01-02 15:09:26): The host mentions DJ Khaled and Sun City Radio Jamaica. NERs: DJ Khaled, Sun City Radio Jamaica.
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content of the transcripts.

@@ -1,0 +1,43 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Introduction and Host Discussion** (2025-12-16 13:00:01 - 13:02:03)
+	* Details: The host introduces the show and discusses the importance of protecting children.
+	* NERs: None
+2. **Upcoming Festival and Host Discussion** (2025-12-16 13:03:03 - 13:04:04)
+	* Details: The host discusses the upcoming Kingston Creative Festival and invites listeners to attend.
+	* NERs: Jamaica, Kingston, Jamaica Tourist Board, Tourism Enhancement, Kingston and St. Andrew Municipal Corporation, Catherine's Peak, Great Wall Motors, Stuart's Automotive Group
+3. **Music and Host Discussion** (2025-12-16 13:05:05 - 13:07:07)
+	* Details: The host plays music and discusses the artists, including Sango and Luciano.
+	* NERs: Sango, Luciano, Westmoreland, Jamaica
+4. **Music and Social Commentary** (2025-12-16 13:07:07 - 13:11:08)
+	* Details: The host plays music with social commentary, including songs about Africa and liberation.
+	* NERs: Africa, Jamaica
+5. **Music and Artist Introduction** (2025-12-16 13:11:08 - 13:13:09)
+	* Details: The host introduces the artist Luciano and plays his music.
+	* NERs: Luciano, Jamaica
+6. **Music and Host Discussion** (2025-12-16 13:13:09 - 13:17:11)
+	* Details: The host plays music and discusses the importance of giving thanks and praising.
+	* NERs: None
+7. **Music and Artist Introduction** (2025-12-16 13:17:11 - 13:18:12)
+	* Details: The host introduces the artist Madeleine Adams and plays her music.
+	* NERs: Madeleine Adams, Jamaica
+8. **Host Discussion and Music** (2025-12-16 13:18:12 - 13:22:14)
+	* Details: The host discusses the importance of love and plays music.
+	* NERs: None
+9. **Music and Social Commentary** (2025-12-16 13:22:14 - 13:26:16)
+	* Details: The host plays music with social commentary, including songs about liberation and sovereignty.
+	* NERs: Rastafari, Africa, Jamaica
+10. **Music and Host Discussion** (2025-12-16 13:26:16 - 13:30:25)
+	* Details: The host plays music and discusses the importance of trust and faith.
+	* NERs: None
+11. **Music and Social Commentary** (2025-12-16 13:30:25 - 13:32:17)
+	* Details: The host plays music with social commentary, including songs about morality and ethics.
+	* NERs: None
+12. **Host Discussion and Music** (2025-12-16 13:32:17 - 13:32:51)
+	* Details: The host discusses the importance of listening to Roots FM and plays music.
+	* NERs: Roots FM, Jamaica
+
+Note: There are no interviews or caller interactions in the provided transcripts.

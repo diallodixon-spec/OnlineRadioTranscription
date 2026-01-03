@@ -1,0 +1,25 @@
+Summary for time range 17:30 - 17:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Sports: Tennis** (2026-01-02 17:30:25 - 2026-01-02 17:31:27)
+	* Details: Discussion about Serena Williams receiving a wild card for the Australian Open and her past performances.
+	* NERs: Serena Williams, Australian Open, Melbourne Park, Italy, Isara Irani, Japan, Kimiko Date, Britain, Emma Aradukanu, US Open, Flushing Meadows, Karolina Musova.
+2. **Host discussion: Introduction to Nationwide at Five** (2026-01-02 17:32:27 - 2026-01-02 17:33:28)
+	* Details: Introduction to the show, Nationwide at Five, and its hosts.
+	* NERs: Ricardo Brooks, Nationwide at Five.
+3. **Host discussion: Upcoming segments** (2026-01-02 17:33:28 - 2026-01-02 17:34:28)
+	* Details: Discussion about upcoming segments on the show, including "The A Team" and "Urban Paradise".
+	* NERs: Dennis Brooks, The A Team, Urban Paradise.
+4. **Interview: Crime reduction in Jamaica** (2026-01-02 17:36:30 - 2026-01-02 17:58:45)
+	* Details: Interview with Professor Anthony Clayton and Wayne Chen about the reduction in murders in Jamaica and the strategies employed by the government and security forces.
+	* NERs: Professor Anthony Clayton, Wayne Chen, Dr. Horace Chang, Dr. Kevin Blake, Tony Anderson, Jamaica, Jamaica Employers Federation, University of the West Indies.
+5. **Interview: Police killings and social factors** (2026-01-02 17:47:38 - 2026-01-02 17:58:45)
+	* Details: Discussion about the increase in police killings and the social factors contributing to crime in Jamaica.
+	* NERs: Professor Anthony Clayton, Wayne Chen, Jamaica, Trinidad.
+6. **Interview: Re-socialization and education** (2026-01-02 17:55:43 - 2026-01-02 17:58:45)
+	* Details: Discussion about the need for re-socialization and education to address the root causes of crime in Jamaica.
+	* NERs: Professor Anthony Clayton, Wayne Chen, Jamaica.
+
+Note: The time ranges for each topic are approximate and based on the provided transcripts.

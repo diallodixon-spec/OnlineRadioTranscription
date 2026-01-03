@@ -1,0 +1,22 @@
+Summary for time range 19:30 - 19:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Interview with Eddie Sharma Bedford, National Surfing Champion** (2025-12-16 19:30:25 - 2025-12-16 19:31:26)
+	* Topic: Surfing in Jamaica, international competitions, and personal experiences.
+	* NERs: Eddie Sharma Bedford, Jamaica, California.
+2. **Host discussion and introduction to the next topic** (2025-12-16 19:31:26 - 2025-12-16 19:32:28)
+	* Topic: Introduction to the Jamaica Drops Association National Championship.
+	* NERs: None.
+3. **Interview with Oren Thompson, Treasurer of the Jamaica Drops Association** (2025-12-16 19:32:29 - 2025-12-16 19:46:38)
+	* Topic: Jamaica Drops Association National Championship, draft centers, player participation, and sponsorship.
+	* NERs: Oren Thompson, Jamaica Drops Association, McCoyan Robinson, Cliff Williams, Bucsci Company, Sport Road Sports Club, Crystal Lee.
+4. **Sports update** (2025-12-16 19:46:38 - 2025-12-16 19:57:44)
+	* Topic: Football league standings, results, and news from Jamaica and international sports.
+	* NERs: Arnegart, Mets, Mubei United, Portmore United, Mount Pleasant, Junglies, Spanish Town Police Football Club, Waterhouse, Diamond Clark, Colorado Murray, Jordan Ellison, Trapperton Maroons, Jamaica, Trinidad and Tobago, Paris Saint-Germain, Kylian Mbappe, Real Madrid, West Indies, New Zealand, Darren Sammy, Anderson Phillips, Okima Jones.
+5. **Quote of the day and closing remarks** (2025-12-16 19:57:44 - 2025-12-16 19:58:46)
+	* Topic: Inspirational quote from Ralph Walder Emerson and closing remarks.
+	* NERs: Ralph Walder Emerson, Keith Williams, Floyd Wright, David Thomas, Celine Dion, Whitney Houston, Kenny G.
+
+Note that some of these topics may overlap or be related to each other, but I have tried to break them down into distinct categories based on the content and context of the transcripts.

@@ -1,0 +1,43 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Sports: Football and Boxing** (2026-01-02 12:30:18 - 2026-01-02 12:32:20)
+	* Details: Discussion about Manchester City, Callum McFarlane, and the Jamaica Boxing Association (JBA) with President Stephen Bummer Jones.
+	* NERs: Callum McFarlane, Stephen Bummer Jones, Manchester City, Jamaica Boxing Association (JBA)
+2. **Host Discussion: Jamaican Politics and Society** (2026-01-02 12:33:20 - 2026-01-02 12:34:21)
+	* Details: Discussion about Jamaican politics, the JLP and PNP, and the need for unity and empathy among Jamaicans.
+	* NERs: JLP, PNP, Jamaica
+3. **News Update** (2026-01-02 12:34:21 - 2026-01-02 12:35:21)
+	* Details: Update on the post-hurricane restoration, Prime Minister Dr. Andrew Holness, and the reduction in murders in 2025.
+	* NERs: Dr. Andrew Holness, Jamaica
+4. **Entertainment: E-Zone** (2026-01-02 12:35:21 - 2026-01-02 12:37:22)
+	* Details: Introduction to the E-Zone show, discussing entertainment news, and inviting listeners to participate.
+	* NERs: None
+5. **Caller Interaction: Mango Sales** (2026-01-02 12:42:26 - 2026-01-02 12:46:27)
+	* Details: Caller interaction about selling mangoes, discussing the types of mangoes, and the potential for sales.
+	* NERs: None
+6. **Host Discussion: Productivity and Empathy** (2026-01-02 12:42:25 - 2026-01-02 12:43:26)
+	* Details: Discussion about having a productive year, being conscious of actions, and showing empathy towards others.
+	* NERs: None
+7. **Advertisement: JN Group Race for Hope** (2026-01-02 12:47:28 - 2026-01-02 12:48:28)
+	* Details: Advertisement for the JN Group Race for Hope 5K and Kids Fun Run.
+	* NERs: JN Group, Hope Gardens
+8. **Music and Entertainment** (2026-01-02 12:48:28 - 2026-01-02 12:53:32)
+	* Details: Playing music, discussing songs, and interacting with callers.
+	* NERs: None
+9. **Host Discussion: 4% Family** (2026-01-02 12:53:31 - 2026-01-02 12:59:32)
+	* Details: Discussion about the 4% family, creating shirts, and building a community.
+	* NERs: None
+10. **Religious Segment: Oasis** (2026-01-02 12:59:32 - 2026-01-02 13:05:35)
+	* Details: Religious segment discussing the Bible, specifically Exodus 9:8-12.
+	* NERs: Moses, Pharaoh, Egypt
+11. **Entertainment: E-Zone and Blind Dates** (2026-01-02 13:05:35 - 2026-01-02 13:08:35)
+	* Details: Introduction to the E-Zone show, discussing blind dates, and inviting listeners to participate.
+	* NERs: None
+12. **Lifestyle: Design Studio** (2026-01-02 13:08:35 - 2026-01-02 13:09:35)
+	* Details: Introduction to the Design Studio show, discussing interior design, personal growth, and wellness.
+	* NERs: None
+
+Note: The time ranges are approximate and based on the provided transcripts.

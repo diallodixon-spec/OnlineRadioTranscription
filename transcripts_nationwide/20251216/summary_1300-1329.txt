@@ -1,0 +1,31 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and Music** (2025-12-16 13:00:01 - 2025-12-16 13:10:09)
+	* Host discussion: Introduction to the program, music, and upcoming events.
+	* NERs: None
+2. **Sponsored Messages** (2025-12-16 13:01:02 - 2025-12-16 13:02:02)
+	* Host discussion: Sponsored messages from New Testament Church of God, Creative Building Finishes, and Lasco Chin Foundation.
+	* NERs: New Testament Church of God, Creative Building Finishes, Lasco Chin Foundation, Jamaica Constabulary Force
+3. **Saluting Our Heroes Police of the Year Awards** (2025-12-16 13:02:02 - 2025-12-16 13:03:03)
+	* Host discussion: Announcement of the Super Six finalists for the 2025 Saluting Our Heroes Police of the Year Awards.
+	* NERs: Jamaica Constabulary Force, Lasco, Constable Madik Bartley, Corporal Stephen Smith, Corporal Rajen Holt, Detective Corporal Chadwick Williams, Constable Shantel Powell, Detective Corporal Livy Evans
+4. **Transforming Our Police Service (TOPS) Program** (2025-12-16 13:03:03 - 2025-12-16 13:04:03)
+	* Host discussion: Introduction to the TOPS program and its objectives.
+	* NERs: Jamaica Constabulary Force, Police Civilian Oversight Authority
+5. **Customer Appreciation Celebration** (2025-12-16 13:04:03 - 2025-12-16 13:05:04)
+	* Host discussion: Announcement of a customer appreciation celebration at Megamart Waterloo.
+	* NERs: Megamart Waterloo, Pepita, Honeybee
+6. **Entertainment News and Interactive Segments** (2025-12-16 13:05:04 - 2025-12-16 13:14:14)
+	* Host discussion: Introduction to the entertainment block, interactive segments, and music.
+	* NERs: DJ Jaron Blunt, DJ Jerome
+7. **Music and Relationship Discussions** (2025-12-16 13:14:14 - 2025-12-16 13:28:20)
+	* Host discussion: Music and discussions about relationships.
+	* NERs: Keisha Cole
+8. **Love and Relationships** (2025-12-16 13:28:20 - 2025-12-16 13:32:20)
+	* Host discussion: Discussions about love, relationships, and heartbreak.
+	* NERs: None
+
+Note that some of these topics may overlap or be intertwined, but I have attempted to break them down into distinct categories based on the content of the transcripts.

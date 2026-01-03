@@ -1,0 +1,25 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Host discussion: Hurricane Melissa's impact on Jamaica and animal welfare** (2025-12-16 16:30:20 - 2025-12-16 16:32:20)
+	* Details: The host discusses the effects of Hurricane Melissa on Jamaica, particularly on the animals in Horton Grove, Hanover, and the need for better treatment and care of animals.
+	* NERs: Horton Grove, Hanover, Hurricane Melissa, Jamaica
+2. **Caller interaction: JPS and electricity rates** (2025-12-16 16:34:21 - 2025-12-16 16:41:28)
+	* Details: A caller, Sir P, discusses the increase in electricity rates by JPS and the use of IPP (Independent Power Producer) rates, which are higher than the normal JPS rates.
+	* NERs: JPS, Sir P, IPP, Jamaica
+3. **Host discussion: Economic development and rebuilding after the hurricane** (2025-12-16 16:42:28 - 2025-12-16 16:55:31)
+	* Details: The host, Steve, discusses the need for vision and planning in rebuilding Jamaica after the hurricane, particularly in Westmoreland and St. Elizabeth.
+	* NERs: Steve, Westmoreland, St. Elizabeth, Jamaica
+4. **Host discussion: Environmental management and sustainable development** (2025-12-16 16:55:31 - 2025-12-16 17:05:40)
+	* Details: The host discusses the importance of environmental management and sustainable development in Jamaica, particularly in the context of rebuilding after the hurricane.
+	* NERs: Jamaica, Dr. Theresa Rodriguez Moody, JET (Jamaica Environment Trust)
+5. **Caller interaction: Risk management and JPS** (2025-12-16 17:05:40 - 2025-12-16 17:07:41)
+	* Details: A caller asks about JPS's risk management procedures and why they need to increase rates despite having hedging strategies in place.
+	* NERs: JPS, Jamaica
+6. **Host discussion: YouTube and information sharing** (2025-12-16 17:07:41 - 2025-12-16 17:08:42)
+	* Details: The host discusses the potential use of YouTube and social media for information sharing and community engagement, particularly in the context of disaster response and recovery.
+	* NERs: YouTube, Jamaica
+
+Note: The time ranges are approximate and based on the provided transcripts.

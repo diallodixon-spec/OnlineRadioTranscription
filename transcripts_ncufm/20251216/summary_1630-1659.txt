@@ -1,0 +1,22 @@
+Summary for time range 16:30 - 16:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Nutrition and Healthy Eating** (2025-12-16 16:30:18 - 2025-12-16 16:36:20)
+	* Details: The host discussed the importance of nutrition and healthy eating, specifically focusing on the three categories of food: go-foods, grow-foods, and glow-foods.
+	* NERs: None
+2. **Host discussion: Music and Worship** (2025-12-16 16:38:22 - 2025-12-16 16:58:34)
+	* Details: The host played and discussed various Christian songs, including "Nobody Greater" and "You Are My All in All".
+	* NERs: Kurt Carr, Jesus, George Gordon
+3. **Host discussion: Birthday Greeting and Community Recognition** (2025-12-16 16:42:25 - 2025-12-16 16:44:26)
+	* Details: The host gave a birthday greeting to Mama Gloria and recognized Minister Inc's garden in Jeffery Town, St. Mary.
+	* NERs: Mama Gloria, Minister Inc, Jeffery Town, St. Mary
+4. **Host discussion: Educational Segment** (2025-12-16 16:44:26 - 2025-12-16 16:45:26)
+	* Details: The host shared a learning moment about Christopher Columbus' first voyage to the Americas in 1492.
+	* NERs: Christopher Columbus
+5. **Host discussion: Program Announcement and Charity Information** (2025-12-16 16:45:26 - 2025-12-16 16:46:26)
+	* Details: The host announced the season break for "Topical Today" and provided information about charity donations and customs regulations.
+	* NERs: Topical Today, Jamaica Customs, National Education Trust
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily host discussions, with some music and worship segments.

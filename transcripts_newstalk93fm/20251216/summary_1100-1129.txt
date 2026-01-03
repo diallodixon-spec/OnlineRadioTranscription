@@ -1,0 +1,35 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **US News and Economy (Host discussion)**: The discussion started at 2025-12-16 11:00:01 and ended at 2025-12-16 11:04:04. The host discussed the US economy, job market, and unemployment rate. The following NERs were mentioned:
+	* Korva Coleman (NPR News)
+	* Scott Horsley (NPR)
+	* Peter Nerona (Rhode Island Attorney General)
+	* Rob Reiner (Hollywood director)
+	* Michelle (Rob Reiner's wife)
+	* Nick Reiner (Rob Reiner's son)
+	* Gavin Newsom (California Governor)
+	* Susan Manares (former CDC director)
+	* Deb Harry (former top CDC official)
+2. **US Politics and Public Health (Host discussion)**: The discussion started at 2025-12-16 11:04:04 and ended at 2025-12-16 11:07:07. The host discussed the US public health system, the CDC, and California's new public health initiative. The following NERs were mentioned:
+	* Gavin Newsom (California Governor)
+	* Susan Manares (former CDC director)
+	* Deb Harry (former top CDC official)
+3. **UPS Lawsuit (Host discussion)**: The discussion started at 2025-12-16 11:07:07 and ended at 2025-12-16 11:10:07. The host discussed a lawsuit against UPS for allegedly stealing wages from seasonal workers. The following NERs were mentioned:
+	* Letitia James (New York Attorney General)
+	* Melissa Faito (reporter)
+4. **Jamaican Politics and Hurricane Relief (Host discussion, Caller interaction)**: The discussion started at 2025-12-16 11:10:07 and ended at 2025-12-16 11:28:17. The host discussed Jamaican politics, hurricane relief efforts, and the government's response to the crisis. The following NERs were mentioned:
+	* Conrad Obey (host)
+	* Biggs (caller)
+	* Miss Marjorie (caller)
+	* Christy Lee (MP)
+	* Doreen Campbell (interviewee)
+5. **International Shoutouts and WhatsApp Messages (Host discussion)**: The discussion started at 2025-12-16 11:28:17 and ended at 2025-12-16 11:40:01. The host read out WhatsApp messages and gave shoutouts to listeners in the UK, Japan, and other countries. The following NERs were mentioned:
+	* Conrad Obey (host)
+	* Winsome Briscoe (listener)
+	* Sonia Bradshaw (listener)
+	* Owen Brian (listener)
+	* Doreen Campbell (interviewee)
+	* Charles Gangasing (attorney)

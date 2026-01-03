@@ -1,0 +1,25 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program "Both Sides of the Story" on Power 106 FM are:
+
+1. **Introduction and New Year's Message (Host discussion)**: The host introduces the program and discusses the new year, encouraging listeners to set goals and achieve them. The time range for this topic is 2026-01-02 14:00:02 - 2026-01-02 14:04:06.
+	* No specific NERs (Named Entities) mentioned.
+2. **Imagining a Better World (Host discussion)**: The host plays a song and discusses the idea of imagining a better world, with themes of love, peace, and respect. The time range for this topic is 2026-01-02 14:05:07 - 2026-01-02 14:09:10.
+	* No specific NERs mentioned.
+3. **Celebrations and Observances (Host discussion)**: The host discusses various celebrations and observances, including the feast day of Saint Basil the Great and Ancestry Day in Haiti. The time range for this topic is 2026-01-02 14:10:12 - 2026-01-02 14:11:13.
+	* NERs mentioned: Saint Basil the Great, Haiti.
+4. **Introduction of Host Jesse Blake (Host discussion)**: The host, Jesse Blake, introduces himself and welcomes listeners to the program. The time range for this topic is 2026-01-02 14:13:15 - 2026-01-02 14:14:15.
+	* NER mentioned: Jesse Blake.
+5. **New Year's Goals and Objectives (Host discussion)**: The host discusses the importance of setting goals and objectives for the new year and encourages listeners to achieve their desires. The time range for this topic is 2026-01-02 14:14:15 - 2026-01-02 14:16:16.
+	* No specific NERs mentioned.
+6. **Upcoming Segments and Features (Host discussion)**: The host announces upcoming segments and features on the program, including the "From the Archives" feature and the "Auto World" segment. The time range for this topic is 2026-01-02 14:16:16 - 2026-01-02 14:17:16.
+	* NER mentioned: Auto World.
+7. **Insurance Coverage for Schools (Host discussion)**: The host discusses the issue of insurance coverage for schools in Jamaica, following the damage caused by Hurricane Melissa. The time range for this topic is 2026-01-02 14:20:19 - 2026-01-02 14:22:21.
+	* NERs mentioned: Jamaica, Hurricane Melissa.
+8. **Rebuilding and Recovery Efforts (Host discussion)**: The host discusses the rebuilding and recovery efforts in Jamaica, particularly in the aftermath of Hurricane Melissa. The time range for this topic is 2026-01-02 14:22:21 - 2026-01-02 14:26:25.
+	* NERs mentioned: Jamaica, Hurricane Melissa, Black River.
+9. **CARICOM and Regional Issues (Host discussion)**: The host discusses the importance of CARICOM (Caribbean Community) meeting to address regional issues, including geopolitical affairs and the situation in Venezuela. The time range for this topic is 2026-01-02 14:27:25 - 2026-01-02 14:28:27.
+	* NERs mentioned: CARICOM, Venezuela, Trinidad and Tobago, Antigua, United States.
+
+Note that there are no interviews or caller interactions in the provided transcripts. The topics are primarily discussed by the host, Jesse Blake, in a monologue or introductory format.

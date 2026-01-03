@@ -1,0 +1,23 @@
+Summary for time range 13:00 - 13:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Advertisements and Announcements** (2025-12-16 13:00:01 - 2025-12-16 13:01:02)
+	* Details: Advertisements for the UWI Regional Headquarters, Kenmore Shoe Manufacturing Company Limited, and an announcement for the GOJ Minute.
+	* NERs: UWI Regional Headquarters, Kenmore Shoe Manufacturing Company Limited, GOJ Minute
+2. **GOJ Minute** (2025-12-16 13:01:02 - 2025-12-16 13:02:02)
+	* Details: The Rural Agricultural Development Authority and the Agricultural Land Management Division are conducting soil tests for farmers in hurricane-affected areas. The Cabinet has approved the procurement of body-worn cameras for the Jamaica Constabulary Force. The Ministry of Health and Wellness is conducting an ecological feasibility study of hospitals in coastal areas.
+	* NERs: Rural Agricultural Development Authority, Agricultural Land Management Division, Jamaica Constabulary Force, Ministry of Health and Wellness
+3. **Music and Entertainment** (2025-12-16 13:02:02 - 2025-12-16 13:17:10)
+	* Details: Various songs and music snippets were played, with some mentions of artists and events.
+	* NERs: Skinny Fabulous, Naila Blackman, Rose Royce, Mo Salah, Joseph Yobo
+4. **Relationships and Apologies** (2025-12-16 13:13:09 - 2025-12-16 13:14:09)
+	* Details: A song or spoken word piece about apologizing and making amends in a relationship.
+	* NERs: None
+5. **Host discussion** (None)
+	* Details: There is no clear host discussion or interview in the provided transcripts.
+6. **Caller interaction** (None)
+	* Details: There is no clear caller interaction in the provided transcripts.
+
+Note that some of the transcripts appear to be song lyrics or music snippets, and may not be directly related to a specific topic or discussion. The topics and NERs listed above are based on the content of the transcripts and may not be exhaustive.

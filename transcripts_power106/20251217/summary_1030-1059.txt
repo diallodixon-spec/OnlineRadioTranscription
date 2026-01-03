@@ -1,0 +1,34 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Host discussion: Forgiveness**
+   - Time range: 2025-12-17 10:30:17 - 2025-12-17 10:31:17
+   - Details: The host discussed the topic of forgiveness and its importance in clearing bitterness and setting prisoners free.
+   - NERs: Forgiveness
+
+2. **Interview: Healthy Alternatives with Mr. Alton Scott**
+   - Time range: 2025-12-17 10:31:24 - 2025-12-17 10:43:30
+   - Details: The host interviewed Mr. Alton Scott, the managing director at Eden's Valley, about a healthy vegan recipe for the holiday season.
+   - NERs: Mr. Alton Scott, Eden's Valley, Healthy Alternatives, Vegan, Holiday Season
+
+3. **Host discussion: Jamaica Customs Connect Mobile App**
+   - Time range: 2025-12-17 10:43:31 - 2025-12-17 10:45:31
+   - Details: The host discussed the Jamaica Customs Connect Mobile App, which helps importers clear customs and track shipments.
+   - NERs: Jamaica Customs Connect Mobile App, Jamaica Customs Agency
+
+4. **Host discussion: Hope in Motion 2025 theme song competition**
+   - Time range: 2025-12-17 10:45:31 - 2025-12-17 10:46:32
+   - Details: The host announced the Hope in Motion 2025 theme song competition, where teams can submit their videos by December 22nd, 2025.
+   - NERs: Hope in Motion 2025, Theme Song Competition
+
+5. **Interview: Camp Meeting with Pastor Philip Castell**
+   - Time range: 2025-12-17 10:46:32 - 2025-12-17 10:58:38
+   - Details: The host interviewed Pastor Philip Castell about the upcoming camp meeting in East Jamaica Conference, which focuses on the theme "Mission First, Living According to Prophecy."
+   - NERs: Pastor Philip Castell, East Jamaica Conference, Camp Meeting, Mission First, Living According to Prophecy
+
+6. **Host discussion: More Hope Today TV**
+   - Time range: 2025-12-17 10:57:38 - 2025-12-17 10:59:39
+   - Details: The host announced that the current hour of cruising was sponsored by More Hope Today TV, which focuses on holistic health and wellness.
+   - NERs: More Hope Today TV

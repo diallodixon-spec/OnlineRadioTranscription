@@ -1,0 +1,37 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the topics and time ranges are as follows:
+
+1. **Music and Party** (2026-01-02 17:00:03 - 2026-01-02 17:07:09)
+	* Details: The host, Joy Kelly, is playing music and discussing partying, drinking, and having a good time.
+	* NERs: Joy Kelly
+2. **Relationship Issues** (2026-01-02 17:07:09 - 2026-01-02 17:11:11)
+	* Details: The host is discussing relationship issues, heartbreak, and longing for someone.
+	* NERs: None
+3. **Apology and Reconciliation** (2026-01-02 17:11:11 - 2026-01-02 17:13:11)
+	* Details: The host is apologizing and trying to reconcile with someone, expressing regret and promising to change.
+	* NERs: None
+4. **Carnival and Party** (2026-01-02 17:13:11 - 2026-01-02 17:17:13)
+	* Details: The host is discussing carnival, partying, and having a good time, mentioning different locations such as London, New York, and Atlanta.
+	* NERs: London, New York, Atlanta, Toronto
+5. **Romantic Interest** (2026-01-02 17:17:13 - 2026-01-02 17:21:14)
+	* Details: The host is expressing romantic interest in someone, describing their physical appearance and personality.
+	* NERs: None
+6. **Seduction and Intimacy** (2026-01-02 17:21:14 - 2026-01-02 17:25:22)
+	* Details: The host is discussing seduction, intimacy, and physical attraction, using explicit language.
+	* NERs: None
+7. **Breakup and Longing** (2026-01-02 17:25:22 - 2026-01-02 17:28:23)
+	* Details: The host is discussing a breakup, expressing longing and regret, and trying to reconnect with someone.
+	* NERs: None
+8. **Florida and Party** (2026-01-02 17:28:23 - 2026-01-02 17:30:22)
+	* Details: The host is discussing partying in Florida, mentioning the state's name and describing a person's physical appearance.
+	* NERs: Florida
+9. **Seduction and Intimacy (continued)** (2026-01-02 17:30:22 - 2026-01-02 17:32:22)
+	* Details: The host is continuing to discuss seduction, intimacy, and physical attraction, using explicit language.
+	* NERs: None
+10. **Relationship and Safety** (2026-01-02 17:32:22 - 2026-01-02 17:35:23)
+	* Details: The host is discussing the importance of feeling safe in a relationship, mentioning Cardi and Kehlani.
+	* NERs: Cardi, Kehlani
+
+Note that some of these topics may overlap or be connected, and the time ranges are approximate. Additionally, the host's name, Joy Kelly, is only mentioned at the beginning of the transcript, and it is unclear if the host changes or if there are multiple hosts throughout the recording.

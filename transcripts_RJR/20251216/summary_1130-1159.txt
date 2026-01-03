@@ -1,0 +1,31 @@
+Summary for time range 11:30 - 11:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Advertisement and Introduction** (2025-12-16 11:30:27 - 2025-12-16 11:32:28)
+	* Topic: Host discussion, Advertisement
+	* Details: Introduction to the show, advertisement for LuckyDollar and JPS
+	* NERs: LuckyDollar, JPS
+2. **Trans Jamaica Highway Hurricane Relief Program** (2025-12-16 11:32:29 - 2025-12-16 11:45:44)
+	* Topic: Interview, Host discussion
+	* Details: Discussion with Colin Murray, Chief Operating Officer of TransJam, about the hurricane relief program
+	* NERs: Trans Jamaica Highway, TransJam, Colin Murray, Ministry of Labour and Social Security, Jamaica Constabulary
+3. **Caller Interaction - Construction and Relief Efforts** (2025-12-16 11:45:45 - 2025-12-16 11:54:42)
+	* Topic: Caller interaction, Host discussion
+	* Details: Callers discuss their experiences and offer help with construction and relief efforts
+	* NERs: Neville, Dr. Tufton, Dr. Peter Phillips, Mr. Bowband, Dr. Hillary Brown Nixon
+4. **Gratitude and Appreciation** (2025-12-16 11:54:43 - 2025-12-16 11:57:44)
+	* Topic: Host discussion, Caller interaction
+	* Details: Callers express gratitude and appreciation for help received
+	* NERs: Dr. Tufton, Dr. Peter Phillips, Mr. Bowband, Dr. Hillary Brown Nixon
+5. **JPS and Recovery** (2025-12-16 11:57:45 - 2025-12-16 11:59:44)
+	* Topic: Host discussion
+	* Details: Discussion about JPS and recovery efforts
+	* NERs: JPS, Winsome Callum
+6. **Meditation and Reflection** (2025-12-16 11:59:45 - 2025-12-16 12:00:00)
+	* Topic: Host discussion
+	* Details: Meditation and reflection segment
+	* NERs: None
+
+Note that some of these topics may overlap or be connected, but I have tried to break them down into distinct categories based on the content of the transcripts.

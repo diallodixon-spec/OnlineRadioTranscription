@@ -1,0 +1,19 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be summarized as follows:
+
+1. **Christmas Music and Introduction** (2025-12-16 12:30:22 - 2025-12-16 12:45:37)
+	* Topic: Host discussion, Christmas music, and introduction to the show
+	* NERs: Joy Kelly, Joel Samuels, Jamaica
+2. **Advertisement and Introduction to Interview** (2025-12-16 12:45:37 - 2025-12-16 12:49:33)
+	* Topic: Host discussion, advertisement, and introduction to the interview with Garnet Reid
+	* NERs: Jamaica, Trinidad and Tobago, Venezuela, Caribbean, Garnet Reid
+3. **Interview with Garnet Reid** (2025-12-16 12:49:33 - 2025-12-16 13:05:40)
+	* Topic: Interview, small businesses in Jamaica, electricity increase, and Hurricane Melissa
+	* NERs: Garnet Reid, Jamaica, Jamaica Public Service, Japan, Korea, Dorrell Vaughn, Gail, BITU
+4. **Discussion on Jamaica Public Service and Electricity Increase** (2025-12-16 12:53:37 - 2025-12-16 13:05:40)
+	* Topic: Host discussion, Interview, Jamaica Public Service, electricity increase, and small businesses in Jamaica
+	* NERs: Jamaica, Jamaica Public Service, Garnet Reid, Dorrell Vaughn, Japan, Korea
+
+Note: The time ranges are approximate and based on the provided transcripts. The topics and NERs are summarized based on the content of the transcripts.

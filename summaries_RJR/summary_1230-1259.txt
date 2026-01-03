@@ -1,0 +1,28 @@
+Summary for time range 12:30 - 12:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program can be summarized as follows:
+
+1. **Host discussion, Caller interaction: Feedback on things Jamaicans must stop doing in 2026** (2026-01-02 12:32:01 - 2026-01-02 12:57:32)
+	* Details: The host, Andre Earl, asks listeners to share their thoughts on what Jamaicans must stop doing in 2026. Listeners call in and text their responses, which include stopping crime, reckless driving, littering, selfishness, and corruption.
+	* NERs mentioned: None
+2. **Host discussion, Caller interaction: Issues with JPS and electricity** (2026-01-02 12:42:22 - 2026-01-02 12:45:25)
+	* Details: A listener, Monique, calls in to report issues with her electricity and JPS. The host, Andre Earl, responds and offers to help.
+	* NERs mentioned: JPS (Jamaica Public Service), Monique
+3. **Host discussion, Caller interaction: Social issues and government assistance** (2026-01-02 12:45:25 - 2026-01-02 12:50:28)
+	* Details: Listeners call in to discuss social issues, such as poverty, hunger, and homelessness, and express concerns about government assistance.
+	* NERs mentioned: None
+4. **Host discussion, Caller interaction: Church and state** (2026-01-02 12:50:28 - 2026-01-02 12:55:31)
+	* Details: Listeners call in to discuss the relationship between the church and state, with some expressing concerns about the church's role in society.
+	* NERs mentioned: None
+5. **Host discussion, Interview: Upcoming program with Jamaica Teachers Association** (2026-01-02 12:55:31 - 2026-01-02 12:57:32)
+	* Details: The host, Andre Earl, announces an upcoming program with the Jamaica Teachers Association and invites the president, Mr. Mark Malava, to speak.
+	* NERs mentioned: Jamaica Teachers Association, Mr. Mark Malava
+6. **Host discussion, Caller interaction: Corruption and crime** (2026-01-02 12:57:32 - 2026-01-02 13:00:00)
+	* Details: Listeners call in to discuss corruption and crime in Jamaica, with some expressing concerns about the government's response.
+	* NERs mentioned: None
+7. **Host discussion: Closing remarks and New Year's message** (2026-01-02 13:00:00 - 2026-01-02 13:05:00)
+	* Details: The host, Andre Earl, shares a New Year's message and reflects on the importance of moving forward with confidence and purpose.
+	* NERs mentioned: None
+
+Note: The time ranges are approximate and based on the provided transcripts.

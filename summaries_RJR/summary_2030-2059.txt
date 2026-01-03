@@ -1,0 +1,28 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **New Year's Greetings and Host Discussion** (2026-01-02 20:30:20 - 2026-01-02 20:40:26)
+	* Details: The host discusses New Year's resolutions and greetings from listeners.
+	* NERs: Cam Cam, Devon, Miss Yvonne, Portland, Jamaica, Dawn, Johns Hall, Clarendon, Rated Jamaica, Michelle Burton, Portmore, Jennifer, Connecticut
+2. **Caller Interaction and Birthday Wishes** (2026-01-02 20:40:27 - 2026-01-02 20:52:29)
+	* Details: The host interacts with callers, including Christopher Anglin, who is celebrating his birthday.
+	* NERs: Christopher Anglin, Mandeville, Jamaica, Errol Gordon, Tony, Bronx, New York
+3. **Sports News and Awards** (2026-01-02 20:52:30 - 2026-01-02 20:64:27)
+	* Details: The host discusses sports news, including the People's Choice Award and Jamaican athletes' performances.
+	* NERs: Oblique Seville, Tina Clayton, Orlando Bennett, Tyler Mason, Jamaica, World Championships, Tokyo
+4. **Reggae Month and Entertainment News** (2026-01-02 20:64:28 - 2026-01-02 21:04:29)
+	* Details: The host discusses Reggae Month, the Jamaica Reggae Industry Association (JARIA), and upcoming events.
+	* NERs: JARIA, Ewan Simpson, Edna Manley College, Dennis Brown, Jamie Cliff, Coral Cliff, Montego Bay, Jamaica
+5. **Music and Caller Interaction** (2026-01-02 21:04:30 - 2026-01-02 21:29:29)
+	* Details: The host plays music and interacts with callers, including Marcia Livermore and Myla.
+	* NERs: Mikey Spice, Marcia Livermore, McIntire Villa, Myla, Cayman, Pauline, Montego Bay, Jamaica
+6. **Relationship Discussions and Host Interaction** (2026-01-02 21:29:30 - 2026-01-02 21:53:31)
+	* Details: The host discusses relationships and interacts with callers, including George and his family in Australia.
+	* NERs: George, Australia, Christopher
+7. **Music and Inspirational Messages** (2026-01-02 21:53:32 - 2026-01-02 21:58:32)
+	* Details: The host plays music and shares inspirational messages.
+	* NERs: Shaggy, Jamaica
+
+Note that some topics may overlap or be mentioned briefly in other segments, but the above breakdown provides a general outline of the main topics discussed during the radio program.

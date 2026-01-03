@@ -1,0 +1,22 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Crime and Social Issues in Jamaica** (2026-01-02 18:00:01 - 18:00:50)
+	* Details: The host discusses the cycle of crime and violence in Jamaica, and the need for a multi-generational plan to break it.
+	* NERs: None
+2. **News Headlines** (2026-01-02 18:02:02 - 18:08:07)
+	* Details: The host, Shalhoyce Michael, presents the news headlines, including the police's counterterrorism and organized crime investigations branch's productive 2025, the seizure of firearms and ammunition, and the Transport Minister's call for parents to register their students for the cashless system of the rural school bus program.
+	* NERs: Shalhoyce Michael, Dal Vaz, Mark Malava, Dr. Andrew Holness
+3. **Jamaica Teachers Association and Education** (2026-01-02 18:05:05 - 18:06:06)
+	* Details: The host discusses the Jamaica Teachers Association's (JTA) President, Mark Malava, working to address outstanding payment issues, and the government's plans to strengthen the electricity grid.
+	* NERs: Mark Malava, Dr. Andrew Holness
+4. **Sports** (2026-01-02 18:10:09 - 18:26:21)
+	* Details: The host discusses various sports news, including football, boxing, and tennis.
+	* NERs: Gregory Daley, Denny Strong, Stephen Bomber Jones, Venus Williams, Serena Williams, Emma Radicano, Carolina Butzova
+5. **Public Opinion and New Year's Resolutions** (2026-01-02 18:26:21 - 18:28:22)
+	* Details: The host, Dennis Brooks, invites listeners to share their New Year's resolutions and discusses comments from social media platforms.
+	* NERs: Dennis Brooks, Philip Jackson, Nicola Nicholson, Raymond, Antoinette Miller, Winston, Empress, Dee Barley, Marshall, Lady Hutchinson
+
+Note: The time ranges are approximate and based on the provided transcripts.

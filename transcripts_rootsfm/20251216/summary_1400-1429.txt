@@ -1,0 +1,22 @@
+Summary for time range 14:00 - 14:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Advertisement and Introduction** (2025-12-16 14:00:01 - 2025-12-16 14:01:02)
+	* Details: The host introduces the program and plays advertisements for Distinction College, Kingston Creative Art Walk Festival, and Providence Pharmacy.
+	* NERs: None
+2. **Host Discussion** (2025-12-16 14:01:02 - 2025-12-16 14:07:05)
+	* Details: The host discusses various topics, including birthday greetings, the importance of love, and the upcoming Christmas holiday.
+	* NERs: Portia Simpson Miller (Jamaica's first female prime minister), Mark Golding (leader of the opposition), Andrew Holness (Prime Minister of Jamaica)
+3. **Music** (2025-12-16 14:07:05 - 2025-12-16 14:17:12)
+	* Details: The host plays various songs, including love songs and Christmas music.
+	* NERs: None
+4. **Caller Interaction** (2025-12-16 14:17:12 - 2025-12-16 14:28:19)
+	* Details: The host attempts to take calls from listeners, including Aubrey, but experiences technical difficulties.
+	* NERs: Aubrey (caller)
+5. **Host Discussion and Introduction to Callers** (2025-12-16 14:25:17 - 2025-12-16 14:28:19)
+	* Details: The host introduces the idea of taking calls from listeners and discusses various topics, including Christmas plans and community events.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct categories based on the content and time ranges.

@@ -1,0 +1,24 @@
+Summary for time range 20:30 - 20:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Heroic Act by Cian Barnswell, Host discussion** (2025-12-16 20:30:22 - 2025-12-16 20:32:23)
+	* Details: The hosts, Vaughn and Twyla, discuss the heroic act of Cian Barnswell, a councillor who rescued a 6-year-old girl who was kidnapped from her school.
+	* NERs: Cian Barnswell, Vaughn, Twyla, Clarendon, Jamaica
+2. **Government Parties and Events, Host discussion** (2025-12-16 20:32:23 - 2025-12-16 20:33:23)
+	* Details: The hosts discuss the government's announcement that there would be no parties for government agencies, but clarify that this does not mean that people cannot have parties.
+	* NERs: Jamaica, Westmoreland, Prime Minister
+3. **Scam Alert, Host discussion** (2025-12-16 20:33:23 - 2025-12-16 20:34:26)
+	* Details: The hosts warn listeners about a scam targeting people who are searching for accommodations after their residences were destroyed during Hurricane Melissa.
+	* NERs: Jamaica, West, Hurricane Melissa
+4. **Fire Safety Tips, Host discussion** (2025-12-16 20:35:26 - 2025-12-16 20:39:29)
+	* Details: The hosts provide fire safety tips, including the importance of having smoke detectors and being careful with Christmas lights.
+	* NERs: Jamaica Fire Brigade, Medea Banks, Jamaica
+5. **Music and Entertainment, No discussion** (2025-12-16 20:40:31 - 2025-12-16 20:57:44)
+	* Details: The radio program plays music and does not have any discussion or host interaction.
+6. **Radio Station Promotion, Host discussion** (2025-12-16 20:57:44 - 2025-12-16 20:58:44)
+	* Details: The hosts promote the radio station, Power 106 FM, and provide information on how to listen to the station.
+	* NERs: Power 106 FM, Jamaica, US, UK, Google Play Store, Apple Store, onespotmedia.com
+
+Note: There are no interviews or caller interactions in the provided transcripts.

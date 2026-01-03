@@ -1,0 +1,34 @@
+Summary for time range 12:00 - 12:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Electricity Rate Increase in Jamaica, Host discussion** (2025-12-16 12:00:03 - 2025-12-16 12:02:04)
+	* Details: The Small Business Association of Jamaica (SBAJ) is calling for the Office of Utilities Regulation (OUR) to rescind its approval of a 7% electricity rate increase for the Jamaica Public Service (JPS) following disruptions caused by Hurricane Melissa.
+	* NERs: Jamaica, SBAJ, OUR, JPS, Hurricane Melissa
+2. **National Energy Recertification Program, Host discussion** (2025-12-16 12:03:04 - 2025-12-16 12:04:04)
+	* Details: The program aims to assist residents in St. Mary who were affected by Hurricane Melissa, with support being offered to reconnect homes to the electricity grid.
+	* NERs: Jamaica, St. Mary, Hurricane Melissa
+3. **Student's Loan Bureau Debt Reset Program, Host discussion** (2025-12-16 12:05:05 - 2025-12-16 12:06:05)
+	* Details: The Student's Loan Bureau is reporting encouraging participation in its Debt Reset Program, with approximately 3,600 clients having already applied.
+	* NERs: Jamaica, Student's Loan Bureau
+4. **US Military Strikes on Drug Trafficking Boats, Host discussion** (2025-12-16 12:09:07 - 2025-12-16 12:10:09)
+	* Details: The US military carried out strikes on three boats suspected of being used for drug trafficking in the Pacific Ocean, killing eight people.
+	* NERs: US, Pacific Ocean
+5. **Jamaican Citizen Sentenced for Wire Fraud, Host discussion** (2025-12-16 12:09:07 - 2025-12-16 12:10:09)
+	* Details: A 36-year-old Jamaican citizen, Dwayne Anderson, was sentenced to five years in a US prison for participating in a scheme to defraud an elderly California woman.
+	* NERs: Jamaica, US, Dwayne Anderson
+6. **Sports News, Host discussion** (2025-12-16 12:12:10 - 2025-12-16 12:18:13)
+	* Details: Various sports news, including football, basketball, and netball, were discussed.
+	* NERs: Jamaica, Montague Bay United, Tarnet Gardens, Arnett Gardens, Waterhouse, Spanish Town Police, Jamaica College, Excelsior High, Eltham High, Manning School, Christiana High, Manchester High, PSG, Kylian Mbappe, G.C. Foster College, University of the West Indies, Floyd Reifers, West Indies, New Zealand, Sasha Gay Henry, Jamaica's senior netball team, England, Australia
+7. **Obituaries, Host discussion** (2025-12-16 12:19:14 - 2025-12-16 12:24:19)
+	* Details: The deaths of several individuals were announced, including Beverly White, Carl Lloyd McMillan, Simeon Thomas Bennett, Joy DeLorenzo Bishop, Gloria Millicent Gooden, Rowan Alfonso Tullo, Rachel Adasa Douglas Campbell, and Cleveland Lloyd Logan.
+	* NERs: Jamaica, Beverly White, Carl Lloyd McMillan, Simeon Thomas Bennett, Joy DeLorenzo Bishop, Gloria Millicent Gooden, Rowan Alfonso Tullo, Rachel Adasa Douglas Campbell, Cleveland Lloyd Logan
+8. **Scotiabank Plan Loan, Host discussion** (2025-12-16 12:25:19 - 2025-12-16 12:26:20)
+	* Details: Scotiabank is offering a plan loan to help individuals with their holiday expenses.
+	* NERs: Scotiabank
+9. **Central Trading Company, Host discussion** (2025-12-16 12:26:20 - 2025-12-16 12:27:20)
+	* Details: Central Trading Company is offering condolences to those affected by Hurricane Melissa and is providing support for rebuilding efforts.
+	* NERs: Jamaica, Central Trading Company, Hurricane Melissa
+10. **Flow Jamaica, Host discussion** (2025-12-16 12:28:21 - 2025-12-16 12:28:21)
+	* Details: Flow Jamaica is restoring services in communities affected by Hurricane Melissa and is introducing new technology to improve connectivity

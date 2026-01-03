@@ -1,0 +1,29 @@
+Summary for time range 18:00 - 18:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Sports Report (Host discussion)**: The topic of sports was discussed from 2025-12-16 18:00:02 to 2025-12-16 18:04:06. The discussion included:
+	* Introduction of more affordable tickets for the 2026 World Cup by FIFA.
+	* Ousmane Dembele being named the Men's Player of the Year at the FIFA Best Awards.
+	* Herbert Morrison Technical High's victory in the Issa Rural Area Zone B under-19 basketball competition.
+	* National surfing championships, where Elisama Beckford and Aliyah Al-Khatib emerged as national champions.
+	NERs mentioned: FIFA, Canada, Mexico, United States, Paris Saint-Germain, France, Ousmane Dembele, Qatar, Luis Enrique, Barcelona, Lamin Yamal, Real Madrid, Kylian Mbappe, Aitana Bonmati, England, Serena Weigman, Herbert Morrison Technical High, Issa Rural Area Zone B, Ryan Jerdine, Joshua Ferguson, Fabian Oliphant, Ocho Rios High, York Castle High, Holland High, Elisama Beckford, Aliyah Al-Khatib, Ivo Wilmot, Elima Beckford, Viter, Ishak Wilmot.
+2. **Customs and Charity (Host discussion)**: The topic of customs and charity was discussed from 2025-12-16 18:05:06 to 2025-12-16 18:06:06. The discussion included:
+	* Information about customs compliance and charity donations in Jamaica.
+	NERs mentioned: Jamaica, Jamaica Customs, National Education Trust.
+3. **Religious Program (Host discussion)**: The topic of religion was discussed from 2025-12-16 18:06:06 to 2025-12-16 18:08:08. The discussion included:
+	* A reading from the Holy Bible and an invitation to listen to a religious program.
+	NERs mentioned: Jesus, Liseth Martin, NCUFM.
+4. **Christian Music and Testimony (Host discussion)**: The topic of Christian music and testimony was discussed from 2025-12-16 18:08:08 to 2025-12-16 18:17:13. The discussion included:
+	* Christian music and testimony, with a focus on trusting in God.
+	NERs mentioned: Jesus.
+5. **Wellness and Health (Host discussion)**: The topic of wellness and health was discussed from 2025-12-16 18:17:13 to 2025-12-16 18:19:14. The discussion included:
+	* Information about the importance of eating breakfast and a preview of a program about healing herbs.
+	NERs mentioned: NCU-FM, First Light.
+6. **Christian Music and Testimony (Host discussion)**: The topic of Christian music and testimony was discussed from 2025-12-16 18:19:14 to 2025-12-16 18:26:17. The discussion included:
+	* Christian music and testimony, with a focus on trusting in God.
+	NERs mentioned: Jesus, Lord.
+7. **Closing and Farewell (Host discussion)**: The topic of closing and farewell was discussed from 2025-12-16 18:26:17 to 2025-12-16 18:28:18. The discussion included:
+	* A closing message and farewell from the host.
+	NERs mentioned: God, Jesus.

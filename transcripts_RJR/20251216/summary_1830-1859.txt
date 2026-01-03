@@ -1,0 +1,20 @@
+Summary for time range 18:30 - 18:59
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Youth Justice and Court System - Host discussion** (2025-12-16 18:30:22 - 18:31:22)
+	* Details: The host discusses the issue of youth justice and the court system, highlighting the need for reform and the negative impact of the current system on children.
+	* NERs: None
+2. **Advertisements and Promotions** (2025-12-16 18:31:22 - 18:34:23)
+	* Details: Various advertisements and promotions are announced, including a mortgage loan offer, a sleep sale event, and a plan loan from Scotiabank.
+	* NERs: JPS and Partners, Ashley Furniture, Scotiabank, Flow, Courts Optical, Access Financial Services
+3. **Jamaican Music and Culture - Interview** (2025-12-16 18:36:25 - 18:45:40)
+	* Details: The host interviews Kerri-Ann Palmer and Herbie Miller about the National Chorale's upcoming concert, "Caroling", which aims to bring hope and unity to the community after Hurricane Melissa.
+	* NERs: Kerri-Ann Palmer, Herbie Miller, National Chorale, Institute of Jamaica, Jamaica Music Museum
+4. **Sports News - Host discussion** (2025-12-16 18:45:40 - 18:58:42)
+	* Details: The host discusses various sports news, including football, cricket, and basketball, and interviews coaches and players.
+	* NERs: Excelsior, Eltham High, Jamaica College, Stats, Montego Bay United, Arnett Gardens, Spanish Town Police, Waterhouse, West Indies, Tej Narang Channepall, Giovanni Bonito, UTech Knights, CMU, GC Foster College, Michael University College, UWI, FIBA, Sasha Gay Henry Wright, England Roses, Australia
+5. **Sports Updates and Results** (2025-12-16 18:58:42 - 19:05:42)
+	* Details: The host provides updates and results from various sports events, including football, cricket, and basketball.
+	* NERs: Manning Cup, Ben Francis Knockout, ESO World Cup Knockout, Glenmuir High, Kempston High, Montego Bay United, Arnett Gardens, Spanish Town Police, Waterhouse, West Indies, New Zealand, UTech Knights, CMU, GC Foster College, Michael University College, UWI, FIBA, Jamaica, Trinidad and Tobago, Cayman Islands, St Lucia, Bahamas, Haiti, England Roses, Australia

@@ -1,0 +1,64 @@
+Summary for time range 14:30 - 14:59
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion: Jamaica Customs Connect Mobile App**
+   - Time range: 2025-12-17 14:30:21 - 2025-12-17 14:31:21
+   - Details: The host discusses the Jamaica Customs Connect Mobile App, its features, and benefits.
+   - NERs: Jamaica Customs Connect Mobile App, Google Play, Apple app stores, jca.gov.jm, Jamaica Customs Agency
+
+2. **Host discussion: Integrity under pressure**
+   - Time range: 2025-12-17 14:31:21 - 2025-12-17 14:32:22
+   - Details: The host discusses the theme of integrity under pressure, referencing the Book of Daniel chapter 6 and verse 4.
+   - NERs: Book of Daniel, chapter 6, verse 4, Daniel
+
+3. **Host discussion: Integrity under pressure (continued)**
+   - Time range: 2025-12-17 14:32:22 - 2025-12-17 14:34:23
+   - Details: The host continues discussing the theme of integrity under pressure, referencing Daniel's life and character.
+   - NERs: Daniel
+
+4. **Host discussion: Responding to pressure**
+   - Time range: 2025-12-17 14:34:23 - 2025-12-17 14:35:24
+   - Details: The host discusses how to respond when values are tested or challenged, referencing the importance of trusting God.
+   - NERs: God
+
+5. **Host discussion: Daily devotion**
+   - Time range: 2025-12-17 14:35:24 - 2025-12-17 14:36:25
+   - Details: The host announces the daily devotion and invites listeners to tune in at 2:30.
+   - NERs: None
+
+6. **Host discussion: Salvation and eternal life**
+   - Time range: 2025-12-17 14:36:25 - 2025-12-17 14:38:27
+   - Details: The host discusses the theme of salvation and eternal life, referencing the importance of looking to Jesus.
+   - NERs: Jesus, salvation, eternal life
+
+7. **Host discussion: Salvation and eternal life (continued)**
+   - Time range: 2025-12-17 14:38:27 - 2025-12-17 14:40:30
+   - Details: The host continues discussing the theme of salvation and eternal life, referencing the importance of trusting in Jesus.
+   - NERs: Jesus, salvation, eternal life
+
+8. **Host discussion: Prayer and trust in God**
+   - Time range: 2025-12-17 14:40:30 - 2025-12-17 14:42:33
+   - Details: The host discusses the importance of prayer and trust in God, referencing the Bible and personal experiences.
+   - NERs: God, Bible, prayer
+
+9. **Host discussion: End times and the kingdom**
+   - Time range: 2025-12-17 14:42:33 - 2025-12-17 14:44:35
+   - Details: The host discusses the theme of end times and the kingdom, referencing the importance of being prepared.
+   - NERs: God, kingdom, end times
+
+10. **Host discussion: End times and the kingdom (continued)**
+    - Time range: 2025-12-17 14:44:35 - 2025-12-17 14:46:38
+    - Details: The host continues discussing the theme of end times and the kingdom, referencing the importance of being prepared and trusting in God.
+    - NERs: God, kingdom, end times
+
+11. **Host discussion: Worship and praise**
+    - Time range: 2025-12-17 14:46:38 - 2025-12-17 14:48:42
+    - Details: The host discusses the theme of worship and praise, referencing the importance of acknowledging God's power and presence.
+    - NERs: God, worship, praise
+
+12. **Host discussion: Way maker and miracle worker**
+    - Time range: 2025-12-17 14:48:42 - 2025-12-17 14:50:46
+    - Details: The host discusses the theme of being a way maker and miracle worker, referencing the importance of trusting in God's power and presence.
+    - NERs:

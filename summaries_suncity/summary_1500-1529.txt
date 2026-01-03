@@ -1,0 +1,47 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the topics discussed on the radio program are:
+
+1. **Introduction and greetings** (2026-01-02 15:00:01 - 2026-01-02 15:01:01)
+	* Topic: Host discussion
+	* Details: The host is introducing the show and greeting the audience.
+	* NERs: None
+2. **Upcoming show and promotions** (2026-01-02 15:02:01 - 2026-01-02 15:03:01)
+	* Topic: Host discussion
+	* Details: The host is promoting the upcoming show and mentioning the E to wave show.
+	* NERs: Geno, Aliparch, George, J-J-J-Jagadeh
+3. **Happy New Year and shoutouts** (2026-01-02 15:03:01 - 2026-01-02 15:04:02)
+	* Topic: Host discussion
+	* Details: The host is wishing the audience a Happy New Year and giving shoutouts to various people.
+	* NERs: Chris Sonic, Red Hills Road family, Claudie, Central Village
+4. **Event promotion and entrepreneurship** (2026-01-02 15:04:02 - 2026-01-02 15:05:02)
+	* Topic: Host discussion
+	* Details: The host is promoting an event and discussing entrepreneurship in western Jamaica.
+	* NERs: Hurricane Melissa, Crazy Chris, DJ Delano, Renaissance
+5. **Radio station introduction and mission** (2026-01-02 15:05:02 - 2026-01-02 15:06:03)
+	* Topic: Host discussion
+	* Details: The host is introducing the radio station and its mission.
+	* NERs: Sun City FM, Kevin Wanen, Jamaica
+6. **Music and entertainment** (2026-01-02 15:06:03 - 2026-01-02 15:10:04)
+	* Topic: Host discussion
+	* Details: The host is playing music and discussing entertainment-related topics.
+	* NERs: DJ Khaled, United States of America
+7. **Caller interaction and birthday wishes** (2026-01-02 15:15:06 - 2026-01-02 15:16:07)
+	* Topic: Caller interaction, Host discussion
+	* Details: The host is interacting with callers and wishing them a Happy New Year and birthday wishes.
+	* NERs: Carly Davis, Shireen, Don P, Sondra Knur, Nicky
+8. **Music and dancehall** (2026-01-02 15:17:07 - 2026-01-02 15:20:08)
+	* Topic: Host discussion
+	* Details: The host is playing music and discussing dancehall-related topics.
+	* NERs: None
+9. **Business and entrepreneurship** (2026-01-02 15:24:10 - 2026-01-02 15:25:11)
+	* Topic: Host discussion
+	* Details: The host is discussing business and entrepreneurship-related topics.
+	* NERs: None
+10. **Music and social issues** (2026-01-02 15:25:11 - 2026-01-02 15:28:12)
+	* Topic: Host discussion
+	* Details: The host is playing music and discussing social issues.
+	* NERs: None
+
+Note that some of these topics may overlap or be mentioned in multiple segments, but I have tried to break them down into distinct topics based on the content and context of the transcripts.

@@ -1,0 +1,41 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Economic Development in Jamaica, Host discussion** (2025-12-16 11:00:01 - 11:01:02)
+	* Details: The host discusses the need for economic development in Jamaica, particularly in areas that were previously dependent on the sugar industry. They suggest that organizations like the PSOJ should put pressure on the government to create opportunities for growth.
+	* NERs: PSOJ, Jamaica, Westmoreland
+2. **Christmas Music and Introduction, Host discussion** (2025-12-16 11:02:02 - 11:07:06)
+	* Details: The hosts play Christmas music and introduce themselves and their show, Real Business.
+	* NERs: None
+3. **First Christmas Story, Host discussion** (2025-12-16 11:07:06 - 11:08:08)
+	* Details: The hosts tell a story about the first Christmas and sing a song.
+	* NERs: None
+4. **Power Talk Introduction, Host discussion** (2025-12-16 11:08:08 - 11:09:08)
+	* Details: The host introduces the show Power Talk and provides contact information for listeners.
+	* NERs: Power 106 FM, Dr. Herbert Gale
+5. **Decriminalization of Consensual Sex between Minors, Host discussion** (2025-12-16 11:09:08 - 11:11:10)
+	* Details: The host discusses the issue of decriminalizing consensual sex between minors in Jamaica.
+	* NERs: Jamaica, Garnett Reed
+6. **Sex Education and Gender Equity, Host discussion** (2025-12-16 11:11:10 - 11:14:12)
+	* Details: The host discusses the need for sex education and gender equity in Jamaica, citing statistics on teenage pregnancy and sexual activity.
+	* NERs: Jamaica, Women's Centre of Jamaica Foundation, Barry Shevans, Pam McNeil, Beryl Weir
+7. **JPS Wage Increase and Hurricane Melissa, Host discussion** (2025-12-16 11:14:12 - 11:17:17)
+	* Details: The host discusses the issue of JPS requesting a deferral of a wage increase due to operational and financial disruptions caused by Hurricane Melissa.
+	* NERs: JPS, Jamaica, Hurricane Melissa, BITU
+8. **Coffee Industry in Jamaica, Host discussion** (2025-12-16 11:17:17 - 11:19:23)
+	* Details: The host discusses the coffee industry in Jamaica, including the demand for Jamaican coffee and the challenges faced by coffee farmers.
+	* NERs: Jamaica, Jamaica Coffee Growers Association, Donald Sammon
+9. **Alleged Robbery Syndicate and Police Confrontation, Host discussion** (2025-12-16 11:19:23 - 11:21:20)
+	* Details: The host discusses a reported confrontation between the police and an alleged robbery syndicate in St. James.
+	* NERs: St. James, Jamaica
+10. **Leptospirosis Outbreak and Tourism Housing Assistance, Host discussion** (2025-12-16 11:21:20 - 11:23:23)
+	* Details: The host discusses the outbreak of leptospirosis in Jamaica and the launch of the Tourism Housing Assistance Recovery Program.
+	* NERs: Jamaica, Hurricane Melissa
+11. **Security Forces Deployment to Haiti, Host discussion** (2025-12-16 11:23:23 - 11:26:21)
+	* Details: The host discusses the deployment of Jamaican security forces to Haiti to support the gang suppression force.
+	* NERs: Haiti, Jamaica, JSAFE
+12. **Venezuela-Trinidad and Tobago Relations, Host discussion** (2025-12-16 11:26:21 - 11:28:24)
+	* Details: The host discusses the termination of contracts between Venezuela and Trinidad and Tobago, as well as the installation of a radar system at the airport.
+	* NERs: Venezuela, Trinidad and Tobago, United States

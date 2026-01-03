@@ -1,0 +1,13 @@
+Summary for time range 11:00 - 11:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Caller interaction, Host discussion**: The host discusses a caller's comment about a person doing a good job and the caller's dislike for the "color thing" (2025-12-16 11:00:01 - 2025-12-16 11:01:02).
+2. **Host discussion**: The host talks about customs and the role of the Jamaica Customs Agency, providing information on their website and social media (2025-12-16 11:01:02 - 2025-12-16 11:03:03).
+3. **Interview, Jamaica Darts Association**: The host interviews Evan Faulkner, the communications officer of the Jamaica Darts Association, about the sport of darts in Jamaica, its history, and future plans (2025-12-16 11:04:04 - 2025-12-16 11:13:10).
+	* NERs mentioned: Evan Faulkner, Jamaica Darts Association, Sports Development Foundation, SDF, Government of Jamaica, Jennifer Reed, Hubert Tenge-Brown, Tony Satius, Ralph, Data Hedman, Luke Littler, PDC World Championship, Alexander Palace, London, Jonathan Heron, Latin America, Caribbean, Bahamas, Jamaica Olympic Association.
+4. **Host discussion, Advertisement**: The host discusses various topics, including a Christmas safety tip from the Firearm Licensing Authority and advertisements for Active Home Center and JUTC Rural Express (2025-12-16 11:13:10 - 2025-12-16 11:19:15).
+5. **Caller interaction**: The host takes a call from a listener, Boogsy, who discusses various topics, including the government of Jamaica and his personal beliefs (2025-12-16 11:20:15 - 2025-12-16 11:23:18).
+6. **Host discussion, News**: The host discusses a news story about the murder of Hollywood director and actor Rob Reiner and his wife, and the subsequent arrest of their son, as well as a post made by the President of the United States, Donald Trump, which the host finds despicable (2025-12-16 11:23:18 - 2025-12-16 11:28:22).
+	* NERs mentioned: Rob Reiner, Michelle Reiner, Donald Trump, United States, America, Hollywood, New York, Brentwood, Los Angeles.

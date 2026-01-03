@@ -1,0 +1,42 @@
+Summary for time range 15:00 - 15:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Jamaica News and Updates** (2025-12-16 15:01:03 - 2025-12-16 15:04:04)
+	* Topics: Electricity bill increase, tourism, murder rate in St. Elizabeth
+	* NERs: Garnett Reid, Edmund Bartlett, Coleridge Minto, Jamaica Public Service Company, Office of Utilities Regulation
+	* Details: The President of the Small Business Association of Jamaica is calling for a rollback of the 7% increase in electricity bills. The tourism minister reports that the overseas market is responding well to Jamaica's tourism offerings despite the damage from Hurricane Melissa. The murder rate in St. Elizabeth has decreased by 47%.
+2. **Kingston Wharves and Police Awards** (2025-12-16 15:03:04 - 2025-12-16 15:04:06)
+	* Topics: Kingston Wharves, Police of the Year Awards
+	* NERs: Kingston Wharves Limited, Jamaica Constabulary Force
+	* Details: Kingston Wharves is requesting customers to clear their shipments promptly. The Jamaica Constabulary Force has announced the finalists for the 2025 Saluting Our Heroes Police of the Year Awards.
+3. **E-Zone Entertainment Block** (2025-12-16 15:06:07 - 2025-12-16 15:14:13)
+	* Topics: Entertainment, music, relationships
+	* NERs: Honeybee, Kareem Boya-Tings, DJ Jerome, N.G.B.
+	* Details: The E-Zone entertainment block features music, discussions on relationships, and interactions with listeners.
+4. **Star YouTuber Challenge** (2025-12-16 15:11:10 - 2025-12-16 15:13:12)
+	* Topics: Star YouTuber challenge, social media interaction
+	* NERs: Rick Jam NYC, Annie Smith, Bernardine Bowen, Majestic Gabby V
+	* Details: The show features a Star YouTuber challenge where listeners can participate and win prizes.
+5. **Relationship Discussions** (2025-12-16 15:14:13 - 2025-12-16 15:17:14)
+	* Topics: Relationships, social media
+	* NERs: Dwayne Woody, Devin the Doctor
+	* Details: The show features discussions on relationships and social media interactions with listeners.
+6. **Music and Tributes** (2025-12-16 15:22:17 - 2025-12-16 15:26:20)
+	* Topics: Music, tributes to Hopeton James
+	* NERs: Hopeton James, Freddie McGregor, Sean Paul, Stephen Marley, Protégé, Lila I.K.
+	* Details: The show features tributes to the late Hopeton James and discussions on music, including the postponement of Freddie McGregor's concert and the New Orleans Jazz Fest lineup.
+7. **New Orleans Jazz Fest** (2025-12-16 15:27:20 - 2025-12-16 15:28:22)
+	* Topics: New Orleans Jazz Fest, Jamaican music and culture
+	* NERs: Sean Paul, Steven Marley, Protégé, Lila I.K., Luciano, Jesse Royal, Burning Spear
+	* Details: The show discusses the New Orleans Jazz Fest lineup, which features a tribute to Jamaican music and culture, including performances by Sean Paul, Steven Marley, and others.
+
+The topics can be grouped into the following categories:
+
+* **Jamaica News and Updates**: Discussions on current events and updates in Jamaica, including electricity bill increases, tourism, and murder rates.
+* **Entertainment**: The E-Zone entertainment block, Star YouTuber challenge, and music discussions.
+* **Relationships**: Discussions on relationships and social media interactions with listeners.
+* **Music and Tributes**: Tributes to Hopeton James, music discussions, and the New Orleans Jazz Fest lineup.
+
+The time ranges for each topic are approximate and based on the provided transcripts.

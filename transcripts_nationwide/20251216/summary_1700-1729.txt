@@ -1,0 +1,37 @@
+Summary for time range 17:00 - 17:29
+======================================================================
+
+Based on the provided transcripts, the following topics were discussed:
+
+1. **Jamaica Energy Crisis - Host discussion** (2025-12-16 17:00:02 - 2025-12-16 17:07:08)
+	* Details: Energy Minister Darrell Vaz's concerns about the JPS license, 7% increase in electricity bills, and the government's plan to negotiate a new license.
+	* NERs: Darrell Vaz, JPS, Jamaica
+2. **Hurricane Melissa Aftermath - Host discussion** (2025-12-16 17:07:08 - 2025-12-16 17:11:10)
+	* Details: The impact of Hurricane Melissa on Jamaica, including a 30% reduction in sales and an increase in fuel and independent power producer rates.
+	* NERs: Hurricane Melissa, Jamaica
+3. **Inflation Rate - Host discussion** (2025-12-16 17:10:10 - 2025-12-16 17:13:12)
+	* Details: The increase in inflation rate in Jamaica, with a 2.4% monthly increase in November, driven by higher food prices.
+	* NERs: Jamaica, Statistical Institute of Jamaica (STATIN)
+4. **College of Agriculture, Science and Education Protest - Host discussion** (2025-12-16 17:13:12 - 2025-12-16 17:17:14)
+	* Details: Students protesting after a student was allegedly raped on campus, citing safety concerns and inadequate security.
+	* NERs: College of Agriculture, Science and Education, Jamaica
+5. **Crime Reduction in St. James - Host discussion** (2025-12-16 17:16:13 - 2025-12-16 17:18:14)
+	* Details: The significant reduction in murders in St. James, with 52 people killed in the parish, compared to 123 in the corresponding period last year.
+	* NERs: St. James, Jamaica, Dr. Delroy Frey
+6. **National Hurricane Cleanup Program - Host discussion** (2025-12-16 17:18:14 - 2025-12-16 17:22:17)
+	* Details: Prime Minister Andrew Holness's announcement of the program, which aims to remove debris, clear drainage networks, and address environmental hazards following Hurricane Melissa.
+	* NERs: Andrew Holness, Jamaica, National Hurricane Cleanup Program
+7. **Gordon Butch Stewart Estate Dispute - Host discussion** (2025-12-16 17:21:17 - 2025-12-16 17:24:19)
+	* Details: The dispute over Gordon Butch Stewart's estate, with his son Adam Stewart and daughter Jamie opposing their brother Bobby Stewart and the executors of the estate.
+	* NERs: Gordon Butch Stewart, Adam Stewart, Jamie Stewart, Bobby Stewart
+8. **Venezuela Cuts Energy Ties with Trinidad - Host discussion** (2025-12-16 17:23:19 - 2025-12-16 17:24:20)
+	* Details: Venezuela's decision to cut energy ties with Trinidad and Tobago, following the seizure of a Venezuelan oil tanker.
+	* NERs: Venezuela, Trinidad and Tobago
+9. **Canadian Citizenship Law Changes - Host discussion** (2025-12-16 17:23:19 - 2025-12-16 17:24:20)
+	* Details: Changes to Canadian citizenship laws, allowing for citizenship by descent for individuals born abroad to Canadian parents.
+	* NERs: Canada
+10. **Sports News - Host discussion** (2025-12-16 17:27:22 - 2025-12-16 17:28:23)
+	* Details: Excelsior's victory over Eltham High in the ISSA Manning Cup competition, and the West Indies' upcoming test match against New Zealand.
+	* NERs: Excelsior, Eltham High, West Indies, New Zealand
+
+Note: There are no interviews or caller interactions in the provided transcripts.

@@ -1,0 +1,25 @@
+Summary for time range 10:30 - 10:59
+======================================================================
+
+Based on the provided transcripts, the topics discussed can be categorized as follows:
+
+1. **Christian Music and Worship** (2025-12-16 10:30:18 - 2025-12-16 10:58:34)
+	* Details: The host is playing and singing Christian music, with lyrics that express gratitude, surrender, and worship to God.
+	* NERs: Jesus, God
+2. **Host Discussion - Introduction and Announcement** (2025-12-16 10:39:24 - 2025-12-16 10:40:27)
+	* Details: The host, Glacia, introduces herself and announces that she is hosting the show on NCU FM.
+	* NERs: Glacia, NCU FM
+3. **Advertisement - JA Customs Connect Mobile App** (2025-12-16 10:44:27 - 2025-12-16 10:44:27)
+	* Details: An advertisement for the JA Customs Connect mobile app, which allows users to calculate customs duties, search for tariff codes, and track shipments.
+	* NERs: JA Customs Connect, Jamaica Customs Agency, Google Play, Apple
+4. **Advertisement - Jamaica Electrical** (2025-12-16 10:45:27 - 2025-12-16 10:45:27)
+	* Details: An advertisement for Jamaica Electrical, which offers wiring devices, electric appliances, and other electrical products.
+	* NERs: Jamaica Electrical
+5. **Christian Music and Worship** (2025-12-16 10:46:28 - 2025-12-16 11:05:34)
+	* Details: The host continues to play and sing Christian music, with lyrics that express joy, gratitude, and worship to God.
+	* NERs: Jesus, God
+6. **Host Discussion - Christian Testimony** (2025-12-16 11:05:34 - 2025-12-16 11:05:58)
+	* Details: The host shares a personal testimony about the power of Jesus and how He can bring healing and comfort to those who are lost or hurting.
+	* NERs: Jesus
+
+Note that the time ranges for each topic are approximate and may overlap, as the transcripts are not always clearly delineated between topics. Additionally, some topics may be mentioned briefly or in passing, but are not fully developed or discussed in detail.

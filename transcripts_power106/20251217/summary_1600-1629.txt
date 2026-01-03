@@ -1,0 +1,49 @@
+Summary for time range 16:00 - 16:29
+======================================================================
+
+Based on the provided transcripts, the topics and their corresponding time ranges are as follows:
+
+1. **Host discussion**
+   - Time range: 2025-12-17 16:00:03 - 16:01:04
+   - Details: The host discusses the upcoming segment and invites listeners to apply to Northern Caribbean University.
+
+2. **Interview with Amanda Samuels, CEO of Boxes and Bites**
+   - Time range: 2025-12-17 16:01:04 - 16:10:08
+   - Details: The host interviews Amanda Samuels, the CEO of Boxes and Bites, about her business and how faith plays a role in it.
+   - NERs: 
+     - Amanda Samuels
+     - Boxes and Bites
+     - Northern Caribbean University
+     - Jamaica
+
+3. **Caller interaction**
+   - Time range: 2025-12-17 16:11:09 - 16:16:17
+   - Details: Listeners call in with various requests and prayers, including help with finals, finding an inexpensive car, and a successful date.
+
+4. **Host discussion**
+   - Time range: 2025-12-17 16:16:18 - 16:17:11
+   - Details: The host discusses the importance of prayer and faith.
+
+5. **Host discussion**
+   - Time range: 2025-12-17 16:17:12 - 16:21:14
+   - Details: The host discusses various topics, including the power of prayer and the importance of seeking God's guidance.
+
+6. **Host discussion**
+   - Time range: 2025-12-17 16:21:15 - 16:23:16
+   - Details: The host discusses the importance of seeking God's guidance and the power of prayer.
+
+7. **Host discussion**
+   - Time range: 2025-12-17 16:23:17 - 16:25:17
+   - Details: The host discusses the importance of seeking God's guidance and the power of prayer.
+
+8. **Public service announcement**
+   - Time range: 2025-12-17 16:25:18 - 16:27:17
+   - Details: The host discusses a public service announcement about registering charities and donating items during the holiday season.
+
+9. **Host discussion**
+   - Time range: 2025-12-17 16:27:18 - 16:30:17
+   - Details: The host discusses the importance of lifestyle and the promotion of Benjamin's Flavor the Holidays.
+
+10. **Host discussion**
+    - Time range: 2025-12-17 16:30:18 - 16:31:17
+    - Details: The host discusses the Choices Hotline and invites listeners to call in for information on growing closer to God.

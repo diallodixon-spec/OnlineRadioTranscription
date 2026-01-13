@@ -3,24 +3,30 @@ import re
 from datetime import datetime, time
 from pathlib import Path
 from together import Together
+from openai import OpenAI
 
 # Configuration
 DIRECTORIES_TO_CHECK = [
-    "RJR",
-    "rootsfm",
-    "suncity",
-    "newstalk93fm",
-    "ncufm",
-    "power106",
+    #"RJR",
+    #"rootsfm",
+    #"suncity",
+    #"newstalk93fm",
+    #"ncufm",
+    #"power106",
     "nationwide"
 ]
 SOURCE_DIRECTORY = "/path/to/source_directory"  # Where to get files for concatenation
 OUTPUT_DIRECTORY = "/root/speech2text/stream_onlineradio/transcribewave/summaries_"  # Where to save summaries
-TOGETHER_API_KEY = "47a4fdd6780ae5683282eda5863f2dee674ab6b1118e66c062011b836ea28fd0"  # Set your API key
+TOGETHER_API_KEY = os.environ.get("TOGETHER_API_KEY")
+together_client = Together(api_key=TOGETHER_API_KEY)
 
 # Initialize Anthropic client
 #client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-client = Together(api_key=TOGETHER_API_KEY)
+#client = Together(api_key=TOGETHER_API_KEY)
+client = OpenAI(
+    base_url="https://router.huggingface.co/v1",
+    api_key=os.environ["HF_TOKEN"],
+)
 
 def extract_time_from_filename(filename):
     """Extract time from filename. Format: RJR_recording_YYYYMMDD_HHMMSS_segXXX.wav"""
@@ -102,7 +108,10 @@ def summarize_with_llm(content):
     try:
         resp = client.chat.completions.create(
             #model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-            model = "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+            #model = "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+            #model = "swiss-ai/Apertus-70B-Instruct-2509:publicai",
+            #model = "allenai/Olmo-3.1-32B-Instruct:publicai",
+            model = "utter-project/EuroLLM-22B-Instruct-2512:publicai",
             max_tokens=1000,
             messages=[
                 {
@@ -145,8 +154,8 @@ def interviews_llm(content):
     """Send content to LLM to identify and extract interviews"""
     try:
         resp = client.chat.completions.create(
-            model = "meta-llama/Llama-3.3-70B-Instruct-Turbo",
-            #model = "togethercomputer/Refuel-Llm-V2",
+            #model = "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+            model = "utter-project/EuroLLM-22B-Instruct-2512:publicai",
             max_tokens=1000,
             messages=[
                 {
@@ -225,12 +234,12 @@ def process_directories():
                         save_summary(summary, OUTPUT_DIR, start_hour, start_min, end_hour, end_min)
                         
                         # Check for interviews
-                        #print(f"    Checking for interviews...")
-                        #interviews = interviews_llm(concatenated_content)
+                        print(f"    Checking for interviews...")
+                        interviews = interviews_llm(concatenated_content)
                         
                         # Save interviews if found
-                        #INTERVIEWS_DIR = "/root/speech2text/stream_onlineradio/transcribewave/interviews_" + directory
-                        #save_interviews(interviews, INTERVIEWS_DIR, start_hour, start_min, end_hour, end_min)
+                        INTERVIEWS_DIR = "/root/speech2text/stream_onlineradio/transcribewave/interviews_" + directory
+                        save_interviews(interviews, INTERVIEWS_DIR, start_hour, start_min, end_hour, end_min)
                     else:
                         print(f"    No content to summarize")
                 else:
